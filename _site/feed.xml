@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Hello my name is TheDiamondPicks. I am a software developer with experience in Java, HTML, PHP, VB.NET, CSS, Bootstrap and Bukkit. I enjoy programming and I currently work for fun and therefore I do work for free. Feel free to contact me if you wish to have work done (Within the realms of reason (e.g. No large MC minigames!)).</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jan 2016 14:21:49 +1300</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 14:21:49 +1300</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to My Website</title>
+        <description>
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello world!&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Hello World&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;n&quot;&gt;player&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;sendMessage&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ChatColor&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;RED&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Welcome to my personal website. I hope you find it helpful and informative. Some of you may remember the 1 page template horror that was my previous site so I have completely revamped it. 
+&lt;br /&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Specs&lt;/font&gt;
+&lt;br /&gt;I couldn’t resist posting specs of the website so here they are:
+&lt;br /&gt;-  Jekyll System that proceeses the header and footer and makes them appear on every page along with universal styling rules.
+&lt;br /&gt;-  Jekyll again which allows me to post blog posts in the amazing Markdown format and then automagically syncing them with my local site.
+&lt;br /&gt;-  Git enables me to quickly commit changes to the GitHub repo.
+&lt;br /&gt;-  GitHub pages which a) Gives me free hosting and a free .github.io domain but also b) allows me to commit changes quickly and effiently.
+&lt;br /&gt;Now on to the stuff you can see:
+&lt;br /&gt;-  TEMPLATED/Cloud Canon’s Linear design which I have based by website off of.
+&lt;br /&gt;-  Font Awesome which is a free to use font image tool (Like Windings) that works awesomely for things like the globe icons.
+&lt;br /&gt;-  Not to mention countless pieces of code that has been used in making this site.
+&lt;br /&gt;
+Nevertheless thanks for visiting and have a happy new year!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Dec 2015 19:00:00 +1300</pubDate>
+        <link>/site/2015/12/29/welcome-to-thediamondpicks.html</link>
+        <guid isPermaLink="true">/site/2015/12/29/welcome-to-thediamondpicks.html</guid>
+        
+        
+        <category>site</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to My Website</title>
+        <description>&lt;p&gt;Welcome to TheDiamondPicks’ personal website 2.0&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Dec 2015 19:00:00 +1300</pubDate>
+        <link>/site/2015/12/29/welcome-to-thediamondpicks.html</link>
+        <guid isPermaLink="true">/site/2015/12/29/welcome-to-thediamondpicks.html</guid>
+        
+        
+        <category>site</category>
+        
+      </item>
+    
+  </channel>
+</rss>

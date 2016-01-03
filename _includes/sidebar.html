@@ -1,0 +1,22 @@
+
+<!-- Sidebar -->
+<div id="sidebar">
+	
+		
+	<section>
+		<header>
+			<h2 style="font-size: 3.4em;"><br>Recent Blog Posts</h2>
+					<ul class="style">
+		{% for post in site.posts offset: 0 limit: 4 %}
+			<li>
+			<a href="{{ site.prefix }}{{ post.url }}" style="font-size: 1.7em;"> {{ post.title }}</a>
+				<p class="posted" style="font-size: 18px">{{ post.date | date_to_string }}</p>
+				<p><a href="{{ site.prefix }}{{ post.url }}"></a></p>
+			</li>
+		{% endfor %}
+		</ul>
+		</header>
+
+	</section>
+</div>
+

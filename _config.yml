@@ -1,42 +1,5 @@
-# Site wide configuration
-
-title: "TheDiamondPicks"
-description: "TheDiamondPicks' Personal Website"
-#if you modify locale please have a look at _data/messages.yml too
-locale: en
-#for meta name="author" :
-author: "TheDiamondPicks"
-
-#Target date in UTC / GMT
-countdown:
-  theme: red
-  year: 2016
-  month: 1
-  day: 1
-  hour: 12
-  minute: 0
-
-# Site owner
-owner:
-  name: TheDiamondPicks
-  email:
-  twitter:
-  google-plus:
-  instagramm:
-  #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
-  aboutlink:
-    url:
-    caption:
-
-
-# Jekyll configuration
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
+name: TheDiamondPicks
+description: Hello my name is TheDiamondPicks. I am a software developer with experience in Java, HTML, PHP, VB.NET, CSS, Bootstrap and Bukkit. I enjoy programming and I currently work for fun and therefore I do work for free. Feel free to contact me if you wish to have work done (Within the realms of reason (e.g. No large MC minigames!)).
+paginate: 10
 highlighter: rouge
-
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+markdown: kramdown
