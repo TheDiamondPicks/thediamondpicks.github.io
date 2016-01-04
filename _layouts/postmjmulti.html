@@ -1,0 +1,88 @@
+---
+layout: default
+---
+<!-- Main -->
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+
+      // Load the Visualization API and the piechart package.
+      google.load('visualization', '1.0', {'packages':['corechart']});
+
+      // Set a callback to run when the Google Visualization API is loaded.
+      google.setOnLoadCallback(drawChart);
+
+      // Callback that creates and populates a data table,
+      // instantiates the pie chart, passes in the data and
+      // draws it.
+      function drawChart() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Server Type');
+        data.addColumn('number', 'Amount');
+        data.addRows([
+          ['Craftbukkit', 19.17],
+          ['Spigot', 35.01],
+          ['Forge', 14.28],
+          ['Vanilla', 28.68],
+          ['Other', 2.86]
+        ]);
+
+        // Set chart options
+        var options = {'title':'Servers using what software: 18th of May and 24th of May, 8.15 million server starts',
+                       'width':400,
+                       'height':300};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+    <script type="text/javascript">
+
+      // Load the Visualization API and the piechart package.
+      google.load('visualization', '1.0', {'packages':['corechart']});
+
+      // Set a callback to run when the Google Visualization API is loaded.
+      google.setOnLoadCallback(drawChart);
+
+      // Callback that creates and populates a data table,
+      // instantiates the pie chart, passes in the data and
+      // draws it.
+      function drawChart() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Server Type');
+        data.addColumn('number', 'Amount');
+        data.addRows([
+          ['3rd Party', 71.32],
+          ['Vanilla', 28.68]
+        ]);
+
+        // Set chart options
+        var options = {'title':'Servers using what software: 18th of May and 24th of May, 8.15 million server starts',
+                       'width':400,
+                       'height':300};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div1'));
+        chart.draw(data, options);
+      }
+    </script>
+	<div id="main">
+		<div id="content" class="container">
+			<div class="row">
+				<section class="8u -2u">
+					
+					<header>
+						<h2>{{ page.title }}</h2>
+					</header>
+					<p style="font-size: 16px">By {{ page.author }}. <font class="posted" style="font-size: 16px;">{{ page.date | date_to_string }}.</font></p>
+					<p class="posted" style="font-size: 14px"></p>
+					{{ page.content }}
+				</section>
+			</div>
+		</div>
+	</div>
