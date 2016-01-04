@@ -6,9 +6,9 @@
 	<section>
 		<header>
 			<h2 style="font-size: 3.4em;"><br>Recent Blog Posts</h2>
-					<ul class="style">
+					<ul class="style" style="list-style: none;">
 		{% for post in site.posts offset: 0 limit: 4 %}
-			<li>
+			<li style="">
 			<a href="{{ site.prefix }}{{ post.url }}" style="font-size: 1.7em;"> {{ post.title }}</a>
 				<p class="posted" style="font-size: 18px">{{ post.date | date_to_string }}</p>
 				<p><a href="{{ site.prefix }}{{ post.url }}"></a></p>
