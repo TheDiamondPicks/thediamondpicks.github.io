@@ -4,6 +4,7 @@ title:  "Welcome to My Website"
 date:   2015-12-29 19:00:00 +1300
 categories: site
 author: TheDiamondPicks
+commentIssueId: 1
 ---
 {% highlight java %}
 System.out.println("Hello world!");

@@ -5,13 +5,13 @@
     <description>Hello my name is TheDiamondPicks. I am a software developer with experience in Java, HTML, PHP, VB.NET, CSS, Bootstrap and Bukkit. I enjoy programming and I currently work for fun and therefore I do work for free. Feel free to contact me if you wish to have work done (Within the realms of reason (e.g. No large MC minigames!)).</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jan 2016 07:39:52 +1300</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2016 07:39:52 +1300</lastBuildDate>
+    <pubDate>Tue, 05 Jan 2016 09:29:59 +1300</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 09:29:59 +1300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Mojang &amp; Multiplayer</title>
-        <description>&lt;p&gt;&lt;em&gt;Forewarning this is a rant. It may be long but I hope it gets my point across. I have absolutly nothing but respect for Mojang as they are a pretty awesome company with awesome people.&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Forewarning:&lt;/strong&gt; this is a rant. It may be long but I hope it gets my point across. I have absolutely nothing but respect for Mojang as they are a pretty awesome company with awesome people.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Multiplayer is a huge aspect of Minecraft. It is actually what makes many of “veteran” Minecrafter’s stay in the game.
 But Mojang barely supports it. All it does is provides a basic multiplayer infrastructure for the “Modded” servers to base themselves off&lt;/p&gt;
@@ -19,23 +19,23 @@ But Mojang barely supports it. All it does is provides a basic multiplayer infra
 &lt;p&gt;But it wasn’t always like this. Back in 2012 Mojang purchased CraftBukkit, the then most popular Minecraft server software. Mojang then
 hired the four primary developers (EvilSeph, Tahg, Dinnerbone and Grum). They specifically hired these developers to work on their
 new multiplayer plugin API (Application Program Interface) called &lt;a href=&quot;http://minecraft.gamepedia.com/Plugin_API&quot;&gt;Workbench&lt;/a&gt; (You can find the original post &lt;a href=&quot;https://mojang.com/2012/02/minecraft-team-strengthened/&quot;&gt;here&lt;/a&gt;).
-But unfortunatly these plans never really came to fruition and eventually EvilSeph and Tahg left mojang (Seph returned to Bukkit and Tahg quit Minecraft altogether).&lt;/p&gt;
+But unfortunately these plans never really came to fruition and eventually EvilSeph and Tahg left mojang (Seph returned to Bukkit and Tahg quit Minecraft altogether).&lt;/p&gt;
 
-&lt;p&gt;Fast foward to 2014 and most people had largely forgotton this. Workbench was still unfinished and the GitHub and dev.minecraft.net domain had been
+&lt;p&gt;Fast forward to 2014 and most people had largely forgotten this. Workbench was still unfinished and the GitHub and dev.minecraft.net domain had been
 taken down. Bukkit &lt;a href=&quot;https://bukkit.org/threads/bukkit-its-time-to-say.305106/&quot;&gt;had just been shut down by its lead dev&lt;/a&gt; but then it was &lt;a href=&quot;https://storify.com/lukegb/the-tale-of-bukkit-for-minecraft-1-8&quot;&gt;revived&lt;/a&gt; (Note this contains out of date information regarding Minecraft 1.8. However the ownership parts still apply).
 But then the Bukkit project was hit with a DMCA (You can view the original notice &lt;a href=&quot;http://web.archive.org/web/20141217165734/http://dl.bukkit.org/dmca/notification.txt&quot;&gt;here&lt;/a&gt;).
 Naturally this caused outrage that Mojang would apparently sanction a DMCA that took down the biggest Minecraft server software. 
 Then Mojang &lt;a href=&quot;https://bukkit.org/threads/mojang-and-the-bukkit-project.309715/&quot;&gt;responded&lt;/a&gt; saying it was misrepresented.
-The future of Minecraft Servers looked bleak. Aside from porjects liked &lt;a href=&quot;https://www.glowstone.net/&quot;&gt;Glowstone&lt;/a&gt; or &lt;a href=&quot;https://www.spongepowered.org/&quot;&gt;Sponge&lt;/a&gt; which were far from completion
+The future of Minecraft Servers looked bleak. Aside from projects liked &lt;a href=&quot;https://www.glowstone.net/&quot;&gt;Glowstone&lt;/a&gt; or &lt;a href=&quot;https://www.spongepowered.org/&quot;&gt;Sponge&lt;/a&gt; which were far from completion
 there was no full support for 1.8 and the only 1.8 compatible server software was also &lt;a href=&quot;https://www.spigotmc.org/threads/dmcad.28536/&quot;&gt;affected&lt;/a&gt;.
 But then Spigot decided &lt;a href=&quot;https://www.spigotmc.org/threads/1-8-progress-check.32792/&quot;&gt;to take on&lt;/a&gt; the huge task that was updating to Minecraft 1.8.&lt;/p&gt;
 
-&lt;p&gt;This may seem like it has absolutly nothing to do with Mojang but it has a great deal to do with it. Firstly Mojang has a sort of
+&lt;p&gt;This may seem like it has absolutely nothing to do with Mojang but it has a great deal to do with it. Firstly Mojang has a sort of
 obligation to server owners and server software developers as they are the ones who make Minecraft even more successful.
-For example Hypixel has approximatly 7 million unique players whereas Minecraft has around 20 million at the time of writing. This
+For example Hypixel has approximately 7 million unique players whereas Minecraft has around 20 million at the time of writing. This
 equates to 33% of the Minecraft community has logged on to Hypixel. This includes those “noobs” who can’t log on to a server.
 But many people may say that Mojang does support servers in the form of the Vanilla Server Software. But this is invalid in 2 ways.
-Firstly Vanilla Minecraft is laggy and is not extendable whatsoever (e.g. No plugins = Very little moderation tools and minigames).
+Firstly Vanilla Minecraft is laggy and is not extendible whatsoever (e.g. No plugins = Very little moderation tools and minigames).
 And all network larger than 100 players would be extremely laggy and basically suck. Therefore people use 3rd party software.&lt;/p&gt;
 
 &lt;div id=&quot;chart_div&quot;&gt;&lt;/div&gt;
@@ -43,12 +43,12 @@ And all network larger than 100 players would be extremely laggy and basically s
 
 &lt;p&gt;As you can see from the chart above Spigot is by far the most popular Minecraft server software. But this graph does not
 include servers that only restart and don’t stop and servers with snooper enabled. So in the real world it would be quite different.
-The other thing that could be deemed as sligtly unfair is that the server types are divided up into the different types so to get a
+The other thing that could be deemed as slightly unfair is that the server types are divided up into the different types so to get a
 better idea of what it is like see the chart bellow:&lt;/p&gt;
 &lt;div id=&quot;chart_div1&quot;&gt;&lt;/div&gt;
 &lt;p&gt;As you can see the vast majority of servers run something other than Vanilla. This shows Mojang should do something more. But
-unfortunatly that is unlikely due to a realatively new service called Minecraft Realms. By hosting it on there own servers
-Mojang gets a tidy profit from every Realms server that is not a trial so this means they are hesitant to provide a offical
+unfortunately that is unlikely due to a relatively new service called Minecraft Realms. By hosting it on there own servers
+Mojang gets a tidy profit from every Realms server that is not a trial so this means they are hesitant to provide a official
 solution as they are worried it will eat into their profits.&lt;/p&gt;
 
 &lt;p&gt;Which I believe is not true.&lt;/p&gt;
@@ -73,10 +73,10 @@ hire these people or even recruit them via Microsoft.&lt;/p&gt;
 
 &lt;p&gt;But not everything involves Mojang making an API.&lt;/p&gt;
 
-&lt;p&gt;Mojang could actually has the power to give Bukkit and Spigot &lt;em&gt;offical&lt;/em&gt; permission to use Minecraft server code or at least allow them to use it
+&lt;p&gt;Mojang could actually has the power to give Bukkit and Spigot &lt;em&gt;official&lt;/em&gt; permission to use Minecraft server code or at least allow them to use it
 but force users to also download vanilla so that they are not distributing it with the open source code. This would truly make
 Wolveress’ claims unfounded. The other solution is to provide all server software developers who request mappings to have them.
-Which is essentially what they did when they aquired Bukkit’s core team for a while.&lt;/p&gt;
+Which is essentially what they did when they acquired Bukkit’s core team for a while.&lt;/p&gt;
 
 &lt;p&gt;If at least one of the things in this blog post are done then Minecraft multiplayer will be truly awesome. Because what’s better than
 playing on a custom built server with complex minigames which add something substantial to Minecraft with friends?&lt;/p&gt;
