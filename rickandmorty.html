@@ -27,6 +27,8 @@ function replaceWords() {
 	$(".catchphrase").html(catchphrase)
 	creator = $('input[name="creator"]').val()
 	$(".creator").html(creator)
+	pronoun = $('input[name="pronoun"]').val()
+	$(".pronoun").html(pronoun)
 }
 </script>
 <style>
@@ -71,6 +73,9 @@ background-color: yellow;
   <br>
   Creator:<br>
   <input type="text" name="creator" value="Dan Harmon">
+  <br>
+	    Pronoun:<br>
+  <input type="text" name="pronoun" value="him">
   <br><br>
   <input type="submit" onclick="replaceWords()" value="Submit">
 </div>
@@ -79,8 +84,8 @@ background-color: yellow;
 <p>To be fair, you have to have a very high IQ to understand <span class="group">Rick and Morty</span>. 
 The <span class="humour">humour</span> is extremely subtle, and without a solid grasp of <span class="skill">theoretical physics</span> 
 most of the <span class="jokes">jokes</span> will go over a typical <span class="viewer">viewer</span>'s head. 
-There's also <span class="character">Rick</span>'s nihilistic outlook, which is deftly woven into his characterisation - 
-his personal philosophy draws heavily from Narodnaya Volya literature, for instance. The <span class="fans">fans</span>
+There's also <span class="character">Rick</span>'s nihilistic outlook, which is deftly woven into <span class="pronoun">his</span> characterisation - 
+	<span class="pronoun">his</span> personal philosophy draws heavily from Narodnaya Volya literature, for instance. The <span class="fans">fans</span>
  understand this stuff; they have the intellectual capacity to truly appreciate the depths of these <span class="jokes">jokes</span>, 
  to realize that they're not just <span class="funny">funny</span>- they say something deep about LIFE. As a consequence people who dislike 
  <span class="group">Rick and Morty</span> truly ARE idiots- of course they wouldn't appreciate, for instance, the <span class="humour2">humour</span> 
