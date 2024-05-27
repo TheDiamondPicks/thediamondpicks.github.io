@@ -1,0 +1,389 @@
+<head>
+    <style>
+        @font-face {
+            font-family: 'Minecraft';
+            src: url('fonts/Minecraft-Bold.woff2') format('woff2'),
+            url('fonts/Minecraft-Bold.woff') format('woff');
+            font-weight: bold;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Minecraft';
+            src: url('fonts/Minecraft-Regular.woff2') format('woff2'),
+            url('fonts/Minecraft-Regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Minecraft';
+            src: url('fonts/Minecraft-BoldItalic.woff2') format('woff2'),
+            url('fonts/Minecraft-BoldItalic.woff') format('woff');
+            font-weight: bold;
+            font-style: italic;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Minecraft';
+            src: url('fonts/Minecraft-Italic.woff2') format('woff2'),
+            url('fonts/Minecraft-Italic.woff') format('woff');
+            font-weight: normal;
+            font-style: italic;
+            font-display: swap;
+        }
+
+
+        body {
+            background-image: url("bg.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: bottom;
+            height: 100%;
+            margin: 0;
+        }
+
+        #play {
+            color: white;
+            padding: 0;
+            border: none;
+            background: none;
+            font-size: calc(min(100vh, 100vw) / 2);
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            z-index: 1000;
+            transform: translate(-50%, -50%);
+            cursor: pointer;
+        }
+
+        #chat {
+            width: 100%;
+            height: 100%;
+            max-height: 800px;
+            max-width: 1100px;
+            background-color: rgba(0, 0, 0, 0.5);
+            position: absolute;
+            left: 5px;
+            bottom: 50px;
+            font-family: Minecraft, sans-serif;
+            display: flex;
+            align-items: flex-start;
+            justify-content: flex-end;
+            overflow: hidden;
+            flex-direction: column;
+            font-size: 20px;
+            text-shadow: 2px 2px 0px #2e312f;
+        }
+
+        #speed-controls {
+            position: absolute;
+            top: 0;
+            right: 0;
+            color: white;
+        }
+
+        .black {
+            color: #000000;
+        }
+
+        .dark_blue {
+            color: #0000AA;
+        }
+
+        .dark_green {
+            color: #00AA00;
+        }
+
+        .dark_aqua {
+            color: #00AAAA;
+        }
+
+        .dark_red {
+            color: #AA0000;
+        }
+
+        .dark_purple {
+            color: #AA00AA;
+        }
+
+        .gold {
+            color: #FFAA00;
+        }
+
+        .gray {
+            color: #AAAAAA;
+        }
+
+        .dark_gray {
+            color: #555555;
+        }
+
+        .blue {
+            color: #5555FF;
+        }
+
+        .green {
+            color: #55FF55;
+        }
+
+        .aqua {
+            color: #55FFFF;
+        }
+
+        .red {
+            color: #FF5555;
+        }
+
+        .light_purple {
+            color: #FF55FF;
+        }
+
+        .yellow {
+            color: #FFFF55;
+        }
+
+        .white {
+            color: #FFFFFF;
+        }
+
+        .bold {
+            font-weight: bold;
+        }
+
+        .strikethrough {
+            text-decoration: line-through;
+        }
+    </style>
+
+    <script>
+        let firstRun = true;
+
+        const playerChatMessageRegex = /\[Client thread\/INFO\]: \[CHAT\] (\[[A-z]+\])?\s?([A-z0-9~]+):( .+)/
+        const timeRegex = /^\[([0-2][0-9]\:[0-5][0-9]\:[0-5][0-9])\]/
+        const announcementRegex = /\[CHAT] (\[\+]) (.+) (\/\w+)/
+
+        let speedModifier = 1;
+
+        async function play() {
+            if (firstRun) {
+                //window.setInterval(play, 6000);
+                firstRun = false;
+
+                var audio = new Audio('sweden.ogg');
+                audio.loop = true;
+                audio.play();
+
+                document.getElementById("play").style = "display: none;";
+            }
+
+            const fileNumber = Math.floor(Math.random() * 36.9) + 1
+            const response = await fetch('logs/' + fileNumber + '.txt');
+            const data = await response.text();
+
+            const chatbox = document.getElementById("chat");
+            let lastTime;
+
+            const lines = data.split('\n');
+            for (let line of lines) {
+                console.log(line)
+                if (line.indexOf('[Client thread/INFO]: [CHAT]') === -1)
+                    continue;
+
+                let chatMessage = document.createElement("div");
+                let validChat = false;
+
+                if (playerChatMessageRegex.test(line)) {
+                    validChat = true;
+                    const regexMatch = playerChatMessageRegex.exec(line);
+
+                    const rank = regexMatch[1];
+
+                    let colonColor = 'white';
+                    let chatColor = 'gray'
+                    // let nameColor = 'grey'
+                    if (rank) {
+                        const ranks = rank.split(']');
+
+                        ranks.filter(r => r).forEach(r => {
+                            colonColor = addRank(chatMessage, r + "]");
+                            chatColor = 'white';
+                        })
+                    }
+
+                    const namePart = document.createElement('span');
+                    namePart.innerHTML = ' ' + regexMatch[2];
+                    namePart.setAttribute('class', 'gray');
+                    chatMessage.appendChild(namePart);
+
+                    const colonPart = document.createElement('span');
+                    colonPart.innerHTML = ':';
+                    colonPart.setAttribute('class', colonColor);
+                    chatMessage.appendChild(colonPart);
+
+                    const messagePart = document.createElement('span');
+                    messagePart.innerHTML = regexMatch[3];
+                    messagePart.setAttribute('class', chatColor);
+                    chatMessage.appendChild(messagePart);
+
+                } else if (announcementRegex.test(line)) {
+                    validChat = true;
+                    const regexMatch = announcementRegex.exec(line);
+
+                    const plus = document.createElement('span');
+                    plus.setAttribute('class', 'dark_red');
+                    plus.innerHTML = regexMatch[1] + ' ';
+                    chatMessage.appendChild(plus);
+
+                    const message = document.createElement('span');
+                    message.setAttribute('class', 'gold');
+                    message.innerHTML = regexMatch[2] + ' ';
+                    chatMessage.appendChild(message);
+
+                    const command = document.createElement('span');
+                    command.setAttribute('class', 'dark_red');
+                    command.innerHTML = regexMatch[3];
+                    chatMessage.appendChild(command);
+                }
+
+                const time = new Date('0000-01-01 ' + timeRegex.exec(line)[1] + '.000');
+                if (lastTime && validChat) {
+                    let dif = time.getTime() - lastTime.getTime();
+                    await sleep(dif / speedModifier);
+
+                    console.log(chatMessage)
+                    chatbox.appendChild(chatMessage);
+                }
+
+                if (validChat)
+                    lastTime = time;
+            }
+
+            await play();
+        }
+
+        function sleep(ms) {
+            return new Promise(resolve => setTimeout(resolve, ms));
+        }
+
+        function addRank(parent, rank) {
+            let rankColor = 'gray';
+            const rankSection = document.createElement("span");
+
+            let rankModifier = '';
+
+            switch (rank) {
+                case '[Donator]':
+                    rankColor = 'gold';
+                    break;
+                case '[VIP]':
+                    rankColor = 'green';
+                    break;
+                case '[Premium]':
+                    rankColor = 'aqua';
+                    break;
+                case '[Legend]':
+                    rankColor = 'light_purple';
+                    break;
+                case '[Hero]':
+                    rankColor = 'red';
+                    break;
+
+                // staff ranks
+                case '[Helper]':
+                    rankColor = 'dark_aqua';
+                    rankModifier = 'bold';
+                    break;
+                case '[Mod]':
+                    rankColor = 'blue';
+                    rankModifier = 'bold';
+                    break;
+                case '[Mod+] ':
+                    rankColor = 'red';
+                    rankModifier = 'bold';
+                    break;
+                case '[Admin]':
+                    rankColor = 'red';
+                    break;
+
+                // old ranks
+                case '[God]':
+                    rankColor = 'red';
+                    break;
+                case '[Awesome]':
+                    rankColor = 'yellow';
+                    break;
+                case '[Super]':
+                    rankColor = 'dark_aqua';
+                    break;
+                case '[Extreme]':
+                    rankColor = 'aqua';
+                    break;
+                case '[Cool]':
+                    rankColor = 'green';
+                    break;
+                case '[Veteran]':
+                    rankColor = 'red';
+                    rankModifier = 'bold';
+                    break;
+            }
+
+            if (rank !== '[Herobrine]' && rank !== '[HeroBrine]') {
+                rankSection.setAttribute('class', rankColor + ' ' + rankModifier);
+                rankSection.innerHTML = rank;
+                parent.appendChild(rankSection);
+            } else {
+                rankSection.setAttribute('class', 'white bold');
+                rankSection.innerHTML = '[Hero';
+                parent.appendChild(rankSection);
+
+                const rankPart2 = document.createElement('span');
+                rankPart2.setAttribute('class', 'red bold');
+                rankPart2.innerHTML = 'brine]';
+                parent.appendChild(rankPart2);
+
+                rankColor = 'red';
+            }
+
+            return rankColor;
+        }
+
+        function setSpeed() {
+            speedModifier = document.getElementById('speed').value;
+        }
+    </script>
+</head>
+
+<body>
+<button id="play" onclick="play()">&#9654;</button>
+
+<div id="speed-controls">
+    <label for="speed">Speed</label>
+
+    <input type="number" name="speed" id="speed" placeholder="1.0" step="0.5" min="0" onchange="setSpeed()">
+</div>
+
+<div id="chat">
+    <div>
+        <span class="white strikethrough">--------------------------------------------------</span>
+    </div>
+    <div>
+        <span class="gold">Welcome to </span><span class="light_purple">ItsJerryAndHarry's </span><span class="gold">server, </span><span
+            class="yellow">Player</span>
+    </div>
+    <div>
+        <span class="gold">Check out our </span><span class="yellow">website</span><span class="gold">! </span><span
+            class="aqua">http://www.itsjerryandharry.com</span>
+    </div>
+    <div>
+        <span class="white strikethrough">--------------------------------------------------</span>
+    </div
+</div>
+
+<script>
+    document.getElementById('speed').value = 1.0;
+</script>
+</body>
