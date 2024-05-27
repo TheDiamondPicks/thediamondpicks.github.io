@@ -1,0 +1,500 @@
+[17:44:00] [main/INFO]: Setting user: TheDiamondPicks
+[17:44:02] [Client thread/INFO]: LWJGL Version: 2.9.0
+[17:44:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:All U want
+[17:44:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:44:11] [Sound Library Loader/INFO]: Sound engine started
+[17:44:11] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:44:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod, FMLFileResourcePack:All U want
+[17:44:12] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:44:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:44:14] [Sound Library Loader/INFO]: Sound engine started
+[17:52:00] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[17:52:04] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[17:52:04] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[17:52:04] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[17:52:04] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[17:52:07] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[17:52:07] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[17:52:07] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[17:52:39] [Client thread/INFO]: [CHAT] TheDiamondBoats has requested to teleport to you.
+[17:52:39] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:52:39] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:52:39] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:52:44] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:52:50] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:53:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:16] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:17] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:17] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:17] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:17] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:17] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:17] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:17] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:17] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:30] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[17:54:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:55:14] [Client thread/INFO]: [CHAT] Player not found.
+[17:55:53] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:56:54] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:57:55] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:58:55] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:59:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:00:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:02:01] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:03:00] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:04:01] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:46] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:04:47] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:05:01] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:06:02] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:07:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:08:03] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:09:03] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:10:04] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:10:25] [Client thread/WARN]: NBT tag SkullOwner was of wrong type; expected TAG_String, found TAG_Compound
+[18:11:05] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:12:06] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:12:24] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[18:12:31] [Client thread/INFO]: [CHAT] kirbygirl81: Tpa To me For an Elemental Highschool rp, 8 guys and 7 girls Avalible!!
+[18:12:31] [Client thread/INFO]: [CHAT] GavinSnakeDavis: my ice pack melted
+[18:12:46] [Client thread/INFO]: [CHAT] ChocolateBananaC: TPA TO ME OR JoltSun FOR A Family/Powers/HB RP need Boys Girls & Pets!!
+[18:12:47] [Client thread/INFO]: [CHAT] avery618: Tpa To Me For a Awesome Town RP! Need 3 Guys!!
+[18:12:49] [Client thread/INFO]: [CHAT] kirbygirl81: Tpa To me For an Elemental Highschool rp, 8 guys and 7 girls Avalible!
+[18:13:00] [Client thread/INFO]: [CHAT] LucaPvpz: Any1 wanna help me make a rp?
+[18:13:06] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:13:22] [Client thread/INFO]: [CHAT] kirbygirl81: Tpa To me For an Elemental Highschool rp, 8 guys and 7 girls Avalible!!
+[18:13:23] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: any god shops for PixeySticks
+[18:13:24] [Client thread/INFO]: [CHAT] ChocolateBananaC: TPA TO ME OR JoltSun FOR A Family/Powers/HB RP need Boys Girls & Pets!!!
+[18:13:27] [Client thread/INFO]: [CHAT] GavinSnakeDavis: hey u wanna make a slenderman game
+[18:13:35] [Client thread/INFO]: [CHAT] kirbygirl81: Tpa To me For an Elemental Highschool rp, 8 guys and 7 girls Avalible!
+[18:13:39] [Client thread/INFO]: [CHAT] GoodieGaming: EVERYONE THE RP IS CANCELEDBC PEOPLE ARE IDIOTS (caps aint got nothing on me)
+[18:13:42] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: tpa for awesome head/god shop
+[18:13:45] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: Oh i has teh
+[18:13:47] [Client thread/INFO]: [CHAT] kirbygirl81: Tpa To me For an Elemental Highschool rp, 8 guys and 7 girls Avalible!!
+[18:13:52] [Client thread/INFO]: [CHAT] GavinSnakeDavis: ill work at the god
+[18:13:55] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!!! 102+ heads!!!!! (caps rules)
+[18:13:55] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: TPA FOR AWESOME HEAD/GOD SHOP (caps are yolo swag)
+[18:14:09] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: go 2 god shop GavinSnakeDavis
+[18:14:09] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:14:10] [Client thread/INFO]: [CHAT] ChocolateBananaC: TPA TO ME OR JoltSun FOR A Family/Powers/HB RP need Boys Girls & Pets!!
+[18:14:13] [Client thread/INFO]: [CHAT] GoodieGaming: im srry no is coming
+[18:14:30] [Client thread/INFO]: [CHAT] Kir06: do /all Ezzy170103 , iGemmalee LucaPvpz
+[18:14:32] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: oh okie den
+[18:14:49] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:15:09] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: TPA FOR AWESOME HEAD/GOD SHOP (caps are yolo swag)!
+[18:15:10] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:15:15] [Client thread/INFO]: [CHAT] MegaDog532: TPA if you want to help me build a ABBANDONED LOG CABON/HEROBRINE RP! :S
+[18:15:15] [Client thread/INFO]: [CHAT] kirbygirl81: Tpa To me For an Elemental Highschool rp, 8 guys and 6 girls Avalible!
+[18:15:18] [Client thread/INFO]: [CHAT] emalo1234: ok
+[18:15:19] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!
+[18:15:22] [Client thread/INFO]: [CHAT] GoodieGaming: EVERYONE THE RP IS CANCELEDBC PEOPLE ARE IDIOTS (caps aint got nothing on me)
+[18:15:23] [Client thread/INFO]: [CHAT] kirbygirl81: Tpa To me For an Elemental Highschool rp, 8 guys and 6 girls Avalible!!
+[18:15:35] [Client thread/INFO]: [CHAT] ChocolateBananaC: TPA TO ME OR JoltSun FOR A Family/Powers/HB RP need Boys Girls & Pets!!!
+[18:15:47] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:15:57] [Client thread/INFO]: [CHAT] Chookbear has requested to teleport to you.
+[18:15:57] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:15:57] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:15:57] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:16:01] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:16:04] [Client thread/INFO]: [CHAT] ShuShanTDS: so far not even 1 rp has started
+[18:16:05] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: PixeySticks what time do you plan getting on here tommorow cuz im going to bed in 5 min
+[18:16:11] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:16:28] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: Ill probably beon around 3 or 2 or not be on :P
+[18:16:37] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: okie
+[18:16:41] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: thanks Mac
+[18:16:53] [Client thread/INFO]: [CHAT] GoodieGaming: Can You Please Leave The Rp Was Canceled
+[18:16:58] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!
+[18:17:04] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: TPA FOR AWESOME HEAD/GOD SHOP (caps are yolo swag)!!
+[18:17:06] [Client thread/INFO]: [CHAT] MegaDog532: TPA if you want to help me build a ABBANDONED LOG CABON/HEROBRINE RP! :D
+[18:17:07] [Client thread/INFO]: [CHAT] iGemmalee: Kingdom
+[18:17:11] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:17:18] [Client thread/INFO]: [CHAT] iGemmalee: ?
+[18:17:22] [Client thread/INFO]: [CHAT] ChocolateBananaC: RP CANCLED!
+[18:17:27] [Client thread/INFO]: [CHAT] iGemmalee: I know
+[18:17:45] [Client thread/INFO]: [CHAT] robbieman123 has requested to teleport to you.
+[18:17:45] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:17:45] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:17:45] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:17:45] [Client thread/INFO]: [CHAT] dachickenmaster: TPA TO ChocolateBananaC FOR EPIC FAMILY/POWERS/HB RP PETS BOYS AND GIRLS NEEDED (caps capssss)
+[18:17:47] [Client thread/INFO]: [CHAT] MegaDog532: aww
+[18:17:52] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:17:56] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:18:09] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: I need a bed..
+[18:18:12] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:18:19] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: hmm
+[18:18:26] [Client thread/INFO]: [CHAT] iGemmalee: Lets start the Role room
+[18:18:30] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: done
+[18:18:32] [Client thread/INFO]: [CHAT] Jorji1512 has requested to teleport to you.
+[18:18:32] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:18:32] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:18:32] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:18:33] [Client thread/INFO]: [CHAT] PixeySticks has requested to teleport to you.
+[18:18:33] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:18:33] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:18:33] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:18:34] [Client thread/INFO]: [CHAT] GoodieGaming: the rp was canceled
+[18:18:37] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: k imma goto bed
+[18:18:39] [Client thread/INFO]: [CHAT] Emaan01_1500: Cousin: why do i get a boner when i stare at myself in the mirror?
+[18:18:39] [Client thread/INFO]: [CHAT] [Herobrine] ~Skylar: Baii
+[18:18:42] [Client thread/INFO]: [CHAT] Maddiedoesmc: lol
+[18:18:43] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: BYEEEEEEEEEE
+[18:18:45] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:18:54] [Client thread/INFO]: [CHAT] Emaan01_1500: me: cause your dick thinks ur a pussy too! HAHAHAHA
+[18:18:58] [Client thread/INFO]: [CHAT] Jorji1512 has requested to teleport to you.
+[18:18:58] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:18:58] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:18:58] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:19:00] [Client thread/INFO]: [CHAT] iRaph: kirby is gone
+[18:19:08] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:19:12] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:19:18] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[18:19:22] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!
+[18:19:34] [Client thread/INFO]: [CHAT] tom_con_rouls has requested to teleport to you.
+[18:19:34] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:19:34] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:19:34] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:19:49] [Client thread/INFO]: [CHAT] ID: -148;-155 Owner: TheDiamondPicks Biome: Jungle
+[18:19:49] [Client thread/INFO]: [CHAT] Expire date: Never Finished: No Protected: No
+[18:19:49] [Client thread/INFO]: [CHAT] Helpers: Dwarfie_the_Axe, Minecraftpilot1, terminator3825, tom_con_rouls, dbwk090300, PhoenixKnight123, SandKToney, Mikeytnt, cherry22445, andretracy, Zebraprint554, johnbur12, candycane64, Miapup1018, MuddyDucky, CardiacSplash, bad, TheDiamondBoats, craftworld12, baystufinn01, PIGYGIRL393, bad_killer_ksa, MC_Gymnastics, jbhhik, ashwin143, FishFood6, Joe3365, AngelxofxAnime, SodaPoppinGurl, DirectionerDUH
+[18:19:53] [Client thread/INFO]: [CHAT] iRaph has requested to teleport to you.
+[18:19:53] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:19:53] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:19:53] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:19:54] [Client thread/INFO]: [CHAT] tom_con_rouls has requested to teleport to you.
+[18:19:54] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:19:54] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:19:54] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:19:58] [Client thread/INFO]: [CHAT] emalo1234: thats wirrd
+[18:20:01] [Client thread/INFO]: [CHAT] Teleport request denied.
+[18:20:05] [Client thread/INFO]: [CHAT] tom_con_rouls has requested to teleport to you.
+[18:20:05] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:20:05] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:20:05] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:20:10] [Client thread/INFO]: [CHAT] [me -> tom_con_rouls] your fired
+[18:20:12] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:20:14] [Client thread/INFO]: [CHAT] Emaan01_1500: awkward silence... haha
+[18:20:20] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:20:29] [Client thread/INFO]: [CHAT] eveandcaelyn: uhh
+[18:20:32] [Client thread/INFO]: [CHAT] [tom_con_rouls -> me] do i even know u?
+[18:20:33] [Client thread/INFO]: [CHAT] MessyTeapot: hi
+[18:20:34] [Client thread/INFO]: [CHAT] iRaph has requested to teleport to you.
+[18:20:34] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:20:34] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:20:34] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:20:38] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:20:40] [Client thread/INFO]: [CHAT] Clara1205 has requested to teleport to you.
+[18:20:40] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:20:40] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:20:40] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:20:49] [Client thread/INFO]: [CHAT] Clara1205 has requested to teleport to you.
+[18:20:49] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:20:49] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:20:49] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:20:50] [Client thread/INFO]: [CHAT] [me -> tom_con_rouls] you used to work for me
+[18:20:55] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:21:04] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[18:21:06] [Client thread/INFO]: [CHAT] [tom_con_rouls -> me] i don't think i did.
+[18:21:09] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!
+[18:21:13] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:21:31] [Client thread/INFO]: [CHAT] [me -> tom_con_rouls] on my plotme info you were added
+[18:21:35] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: Im back frum da shap
+[18:21:40] [Client thread/INFO]: [CHAT] MessyTeapot has requested to teleport to you.
+[18:21:40] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:21:40] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:21:40] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:21:46] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:21:50] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:21:51] [Client thread/INFO]: [CHAT] iRaph has requested to teleport to you.
+[18:21:51] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:21:51] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:21:51] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:21:55] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:22:01] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Msg me if you get a rp
+[18:22:09] [Client thread/INFO]: [CHAT] xreaper2003 has requested to teleport to you.
+[18:22:09] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:22:09] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:22:09] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:22:14] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:22:14] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:22:19] [Client thread/INFO]: [CHAT] Creeper776: ive got an rp! (w.i.p.)
+[18:22:29] [Client thread/INFO]: [CHAT] iGemmalee: We all help eachother
+[18:22:46] [Client thread/INFO]: [CHAT] eveandcaelyn: msg me if you have an adoption center or high school rp
+[18:23:00] [Client thread/INFO]: [CHAT] Creeper776: welcome to my Zombie apocolapse RP!
+[18:23:05] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: o-o
+[18:23:07] [Client thread/INFO]: [CHAT] Emaan01_1500: guys, what rank do you have to be to get headgrabber?
+[18:23:09] [Client thread/INFO]: [CHAT] Creeper776: welcome to my Zombie apocolapse RP!!
+[18:23:14] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:23:17] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: Vip and up
+[18:23:18] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: :D
+[18:23:21] [Client thread/INFO]: [CHAT] [Premium] crafter3201: I hate zombies
+[18:23:26] [Client thread/INFO]: [CHAT] Creeper776: same
+[18:23:29] [Client thread/INFO]: [CHAT] Emaan01_1500: okay thanks for the info
+[18:23:30] [Client thread/INFO]: [CHAT] [Premium] crafter3201: No premium
+[18:23:31] [Client thread/INFO]: [CHAT] [xreaper2003 -> me] can i work here
+[18:23:42] [Client thread/INFO]: [CHAT] [xreaper2003 -> me] can i work here
+[18:23:52] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: I have a friend that Vip and she can make heads she didnt buy it extra
+[18:23:53] [Client thread/INFO]: [CHAT] Creeper776: thats the gas station
+[18:23:59] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Oh
+[18:24:01] [Client thread/INFO]: [CHAT] Emaan01_1500: i might get premium one day
+[18:24:06] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Yes
+[18:24:15] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:24:21] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: follow me
+[18:24:24] [Client thread/INFO]: [CHAT] Emaan01_1500: But im gonna see whats on the cc.
+[18:24:33] [Client thread/INFO]: [CHAT] hawkindoone: oh
+[18:24:35] [Client thread/INFO]: [CHAT] [xreaper2003 -> me] can i work here please
+[18:24:37] [Client thread/INFO]: [CHAT] TheDeadlox123: what
+[18:24:41] [Client thread/INFO]: [CHAT] hawkindoone: I lagged Out
+[18:24:41] [Client thread/INFO]: [CHAT] eveandcaelyn: who has an rp
+[18:24:51] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Who'sgot a hs rp
+[18:24:56] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Wait i do lol
+[18:24:57] [Client thread/INFO]: [CHAT] robertoe1234: :(
+[18:25:01] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: here
+[18:25:02] [Client thread/INFO]: [CHAT] [VIP] TerritoryDemise: ?
+[18:25:03] [Client thread/INFO]: [CHAT] MessyTeapot: serve me
+[18:25:09] [Client thread/INFO]: [CHAT] amathaine: Any rpz
+[18:25:09] [Client thread/INFO]: [CHAT] xreaper2003: can i work here
+[18:25:10] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: apply
+[18:25:16] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:25:22] [Client thread/INFO]: [CHAT] [VIP] TerritoryDemise: I don't want to, but thanks anyway =)
+[18:25:27] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: :(
+[18:25:32] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: np
+[18:25:36] [Client thread/INFO]: [CHAT] xreaper2003: can i work here please
+[18:25:41] [Client thread/INFO]: [CHAT] GoodieGaming: WWWWWWW
+[18:25:55] [Client thread/INFO]: [CHAT] [Premium] crafter3201: TPA TO ME FOR EPIC HS/PROM RP!! (hate caps)
+[18:25:56] [Client thread/INFO]: [CHAT] GavinSnakeDavis: did u sell alot of heads
+[18:26:03] [Client thread/INFO]: [CHAT] MessyTeapot: serve me!
+[18:26:16] [Client thread/INFO]: [CHAT] dragonboya33: I want to frigen roleplay in a frigen highschool
+[18:26:19] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:26:25] [Client thread/INFO]: [CHAT] xreaper2003: can i work here please why is none answering
+[18:26:32] [Client thread/INFO]: [CHAT] LovePandy: where did riley go
+[18:26:39] [Client thread/INFO]: [CHAT] [iRaph -> me] i got ma work app
+[18:26:43] [Client thread/INFO]: [CHAT] LovePandy: weird
+[18:26:59] [Client thread/INFO]: [CHAT] MessyTeapot: serve me or i GREIF
+[18:27:05] [Client thread/INFO]: [CHAT] [Legend] AsherTrasher: DR
+[18:27:09] [Client thread/INFO]: [CHAT] xreaper2003: you people def
+[18:27:10] [Client thread/INFO]: [CHAT] HundredMenSlayer: any Maze,race or treasure huntong? say 324
+[18:27:20] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:27:32] [Client thread/INFO]: [CHAT] TheDeadlox123: TPA TO ME FOR EPIC T OR D HAVE A EMBARRESING DARE NEW!!!! QUICK COME!!! (capsprotectionsucksshitty)!
+[18:27:42] [Client thread/INFO]: [CHAT] TheDeadlox123: TPA TO ME FOR EPIC T OR D HAVE A EMBARRESING DARE NEW!!!! QUICK COME!!! (capsprotectionsucksshitty)
+[18:27:51] [Client thread/INFO]: [CHAT] GoodieGaming: u have tp disabled thedeadlox
+[18:27:59] [Client thread/INFO]: [CHAT] robertoe1234: TheDeadlox123 do /tptoggle you have tp disabled
+[18:28:05] [Client thread/INFO]: [CHAT] TheDeadlox123: TPA TO ME FOR EPIC T OR D HAVE A EMBARRESING DARE NEW!!!! QUICK COME!!! (capsprotectionsucksshitty)!
+[18:28:10] [Client thread/INFO]: [CHAT] Chookbear: paccept
+[18:28:18] [Client thread/INFO]: [CHAT] Btinio: i found jerrys model monthly nk look at the plot owner (caps protection)
+[18:28:21] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:28:25] [Client thread/INFO]: [CHAT] [me -> iRaph] we don't need workers
+[18:28:32] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Robert arentyou doing my rp
+[18:28:39] [Client thread/INFO]: [CHAT] [iRaph -> me] y
+[18:29:10] [Client thread/INFO]: [CHAT] GavinSnakeDavis: asher hello
+[18:29:11] [Client thread/INFO]: [CHAT] You have disabled all-chat.
+[18:29:18] [Client thread/INFO]: [CHAT] TheDiamondPicks: custom heads here
+[18:29:24] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:29:39] [Client thread/INFO]: [CHAT] MessyTeapot: yay i will clone these heads
+[18:30:26] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:30:31] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:31:06] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[18:31:23] [Client thread/INFO]: [CHAT] Kir06: a
+[18:31:24] [Client thread/INFO]: [CHAT] TheDeadlox123: TPA TO ME FOR EPIC T OR D HAVE A EMBARRESING DARE NEW!!!! QUICK COME!!! (capsprotectionsucksshitty)!
+[18:31:27] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:31:37] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[18:31:38] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: im lonley T^T
+[18:31:45] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!
+[18:31:46] [Client thread/INFO]: [CHAT] TheDeadlox123: TPA TO ME FOR EPIC T OR D HAVE A EMBARRESING DARE NEW!!!! QUICK COME!!! (capsprotectionsucksshitty)
+[18:31:53] [Client thread/INFO]: [CHAT] GoodieGaming: <><>TPA TO THEDEADLOX123 FOR AN EPIC T OR D<><> (capscansuckit)
+[18:32:06] [Client thread/INFO]: [CHAT] GoodieGaming: <><>TPA TO THEDEADLOX123 FOR AN EPIC T OR D<><> (capscansuckit)!
+[18:32:09] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:32:23] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: -logs off uz is Lonley-
+[18:32:27] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:32:28] [Client thread/INFO]: [CHAT] GoodieGaming: <><>TPA TO THEDEADLOX123 FOR AN EPIC T OR D<><> (capscansuckit)
+[18:32:36] [Client thread/INFO]: [CHAT] englanddd: msg me if you have a spare minecraft account or say 123
+[18:32:47] [Client thread/INFO]: [CHAT] HundredMenSlayer has requested to teleport to you.
+[18:32:47] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:32:47] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:32:47] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:32:49] [Client thread/INFO]: [CHAT] HundredMenSlayer has requested to teleport to you.
+[18:32:49] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:32:49] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:32:49] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:32:49] [Client thread/INFO]: [CHAT] HundredMenSlayer has requested to teleport to you.
+[18:32:49] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:32:49] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:32:49] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:32:50] [Client thread/INFO]: [CHAT] HundredMenSlayer has requested to teleport to you.
+[18:32:50] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:32:50] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:32:50] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:32:51] [Client thread/INFO]: [CHAT] GoodieGaming: <><>TPA TO THEDEADLOX123 FOR AN EPIC T OR D<><> (capscansuckit)!
+[18:32:52] [Client thread/INFO]: [CHAT] HundredMenSlayer has requested to teleport to you.
+[18:32:52] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:32:52] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:32:52] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:32:53] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:33:01] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[18:33:06] [Client thread/INFO]: [CHAT] iRaph: where r god items
+[18:33:07] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!
+[18:33:12] [Client thread/INFO]: [CHAT] CorbleFruitJube: tpa to me if you want to skin comp
+[18:33:19] [Client thread/INFO]: [CHAT] GoodieGaming: <><>TPA TO THEDEADLOX123 FOR AN EPIC T OR D<><> (capscansuckit)
+[18:33:22] [Client thread/INFO]: [CHAT] CorbleFruitJube: wait no
+[18:33:28] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:33:31] [Client thread/INFO]: [CHAT] [me -> iRaph] you have to order at white stand
+[18:33:35] [Client thread/INFO]: [CHAT] LilyLunaPotter13: <!>Msg me to adopt me<!>
+[18:33:37] [Client thread/INFO]: [CHAT] Emaan01_1500: hey guys
+[18:33:51] [Client thread/INFO]: [CHAT] GoodieGaming: <><>TPA TO THEDEADLOX123 FOR AN EPIC T OR D<><> (capscansuckit)!
+[18:33:55] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:34:00] [Client thread/INFO]: [CHAT] LittleBluePanda_: when did you make it?
+[18:34:15] [Client thread/INFO]: [CHAT] englanddd has requested to teleport to you.
+[18:34:15] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:34:15] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:34:15] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:34:18] [Client thread/INFO]: [CHAT] LilyLunaPotter13: <!>Msg me to adopt me, I am 12, Love anime, Love nature LOVE SIBLINGS<!>
+[18:34:20] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:34:28] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:34:44] [Client thread/INFO]: [CHAT] LittleBluePanda_: oh cool and because it looks so AWESOME
+[18:34:57] [Client thread/INFO]: [CHAT] fireknight2001: litte :D
+[18:34:58] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[18:35:00] [Client thread/INFO]: [CHAT] eveandcaelyn: tp to me or crafter3201 for an awesome high school rp !!!!!!! neeed boys
+[18:35:03] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!
+[18:35:03] [Client thread/INFO]: [CHAT] [VIP] CaptainShark101: Tp To crafter3201 FoR a EpIc HiGh ScHoOl Rp HuRrY NoT mAnY RoLeS LeFt!!!
+[18:35:18] [Client thread/INFO]: [CHAT] [Hero] ~Pig: de what
+[18:35:23] [Client thread/INFO]: [CHAT] [Premium] crafter3201: TPA TO ME FOR EPIC HS/PROM RP!! (hate caps)!
+[18:35:24] [Client thread/INFO]: [CHAT] englanddd: BRb
+[18:35:24] [Client thread/INFO]: [CHAT] fireknight2001: purpleeee
+[18:35:25] [Client thread/INFO]: [CHAT] LittleBluePanda_: what about 8?
+[18:35:29] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:35:43] [Client thread/INFO]: [CHAT] amathaine: <>Tpa to crafter3201 4 EPIC Hs/Prom Rp! Hurry! Not many roles yet!
+[18:35:47] [Client thread/INFO]: [CHAT] LittleBluePanda_: ok
+[18:35:52] [Client thread/INFO]: [CHAT] amathaine: <>Tpa to crafter3201 4 EPIC Hs/Prom Rp! Hurry! Not many roles left*!
+[18:35:56] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR CUSTOM HEADS AND GOD STUFF RIGHT HERE!!!! caps please work
+[18:35:57] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED BOYS!!!!!=- (caps have swag)
+[18:35:57] [Client thread/INFO]: [CHAT] [Hero] Master_Ed_3866: im still animal
+[18:36:03] [Client thread/INFO]: [CHAT] [VIP] CaptainShark101: Tp To crafter3201 FoR a EpIc HiGh ScHoOl Rp HuRrY NoT mAnY RoLeS LeFt!!! 2 GiRlS AnD 5 BoYs!!!
+[18:36:09] [Client thread/INFO]: [CHAT] iGemmalee: We should make a city were the murder is
+[18:36:20] [Client thread/INFO]: [CHAT] [Hero] Master_Ed_3866: maybr yes
+[18:36:22] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:36:24] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED BOYS!!!!!=- (caps are swagy)
+[18:36:27] [Client thread/INFO]: [CHAT] [VIP] CaptainShark101: Tp To crafter3201 FoR a EpIc HiGh ScHoOl Rp HuRrY NoT mAnY RoLeS LeFt!!! 1 GiRl AnD 5 BoYs!!!
+[18:36:31] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:36:42] [Client thread/INFO]: [CHAT] [Premium] crafter3201: TPA TO ME FOR EPIC HS/PROM RP!! (hate caps) 1 more girl and 5 boys
+[18:36:52] [Client thread/INFO]: [CHAT] amathaine: <>Tpa to crafter3201 4 EPIC Hs/Prom Rp! Hurry! Not many roles left! Need Boys!!
+[18:36:54] [Client thread/INFO]: [CHAT] eveandcaelyn: tp to me for an epic high scool rp need 5 boys and 2 girls hurryyy!!!!!!!!!!!!!!!
+[18:36:58] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED 1 GIRL AND BOYS!!!!!=- (caps are swagy)
+[18:37:02] [Client thread/INFO]: [CHAT] [Hero] Master_Ed_3866: wow baby much just do it then boss -_-
+[18:37:13] [Client thread/INFO]: [CHAT] Chookbear: minty_unicorns plot
+[18:37:15] [Client thread/INFO]: [CHAT] amathaine: <>Tpa to crafter3201 4 EPIC Hs/Prom Rp! Hurry! Not many roles left! Need Boys!! I'm not owner! <>
+[18:37:16] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED 1 GIRL AND BOYS!!!!!=- (caps have swag)
+[18:37:21] [Client thread/INFO]: [CHAT] TheDiamondPicks: custom god stuff
+[18:37:32] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:37:40] [Client thread/INFO]: [CHAT] TheDiamondPicks: anyone want their head
+[18:38:01] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED BOYS!!!!!=- (caps have swag)
+[18:38:04] [Client thread/INFO]: [CHAT] [me -> iRaph] we gave it to you
+[18:38:11] [Client thread/INFO]: [CHAT] [Premium] crafter3201: One of the 2 girls have to leave
+[18:38:14] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED BOYS!!!!!=- (caps are swagy)
+[18:38:15] [Client thread/INFO]: [CHAT] LovePandy: brb/afk
+[18:38:18] [Client thread/INFO]: [CHAT] TheDiamondPicks: no one
+[18:38:22] [Client thread/INFO]: [CHAT] Please wait 7 second(s) between messages.
+[18:38:23] [Client thread/INFO]: [CHAT] [VIP] CaptainShark101: Tp To crafter3201 FoR a EpIc HiGh ScHoOl Rp HuRrY NoT mAnY RoLeS LeFt!!! 1 GiRl AnD 5 BoYs!!!!
+[18:38:28] [Client thread/INFO]: [CHAT] HundredMenSlayer: so TheDiamondPicks AM I ACCEPTED work app?
+[18:38:30] [Client thread/INFO]: [CHAT] [iRaph -> me] HundredMenSlayer took it
+[18:38:30] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!!
+[18:38:32] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:38:33] [Client thread/INFO]: [CHAT] Chookbear: hi momoeLOVESyou
+[18:38:45] [Client thread/INFO]: [CHAT] [Premium] crafter3201: TPA TO ME FOR EPIC HS/PROM RP!! (hate caps) 1 more girl and 5 boys
+[18:38:57] [Client thread/INFO]: [CHAT] iRaph: can i have my head
+[18:39:00] [Client thread/INFO]: [CHAT] Chookbear: minty_unicorns
+[18:39:00] [Client thread/INFO]: [CHAT] amathaine: <>Tpa to crafter3201 4 EPIC Hs/Prom Rp! Hurry! Not many roles left! Need Boys!! I'm not owner!! <>
+[18:39:00] [Client thread/INFO]: [CHAT] [me -> HundredMenSlayer] why did you take iRaph order
+[18:39:12] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED BOYS!!!!!=- (caps have swag)
+[18:39:12] [Client thread/INFO]: [CHAT] Emaan01_1500: Guys, Dolby Digital or DTS?
+[18:39:14] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] i didnt
+[18:39:17] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Dating, dancing, disco & even adoptions!
+[18:39:19] [Client thread/INFO]: [CHAT] [me -> iRaph] want your head
+[18:39:20] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] was afk just now
+[18:39:31] [Client thread/INFO]: [CHAT] Chookbear: ok
+[18:39:32] [Client thread/INFO]: [CHAT] [Premium] crafter3201: TPA TO ME FOR EPIC HS/PROM RP!! (hate caps) 1 more girl and 5 boys!
+[18:39:33] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:39:37] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[18:39:41] [Client thread/INFO]: [CHAT] LittleBluePanda_: ok then
+[18:39:41] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop with custom heads and custom god items!!!!!! 102+ heads!!!!!
+[18:39:41] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED 1 GIRL AND BOYS!!!!!=- (caps have swag)
+[18:39:43] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Loads of people needed!
+[18:39:48] [Client thread/INFO]: [CHAT] Chookbear: let me get the prize
+[18:39:48] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=tpa for epic hs rp!!!!! need 1 girl and boys!!!!!=- (caps r cool)
+[18:39:56] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Dating, dancing, disco & even adoptions!
+[18:39:57] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED 1 GIRL AND BOYS!!!!!=- (caps are cool)
+[18:40:00] [Client thread/INFO]: [CHAT] HundredMenSlayer: TheDiamondPicks how about the work app
+[18:40:09] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Loads of people needed!
+[18:40:11] [Client thread/INFO]: [CHAT] dachickenmaster: TPA TO momoeLOVESyou, Chookbear FOR dachickenmaster FOR EPIC SKIN COMP
+[18:40:16] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED 1 GIRL AND BOYS!!!!!=- (caps are cool) :D
+[18:40:16] [Client thread/INFO]: [CHAT] [me -> HundredMenSlayer] dont need workers
+[18:40:21] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] kk
+[18:40:25] [Client thread/INFO]: [CHAT] [Premium] crafter3201: S3X IS ALOUD
+[18:40:32] [Client thread/INFO]: [CHAT] [me -> HundredMenSlayer] want a custom head
+[18:40:34] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:40:35] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Dating, dancing, disco & even adoptions! (and a pigu
+[18:40:35] [Client thread/INFO]: [CHAT] Emaan01_1500: I wish it was,
+[18:40:37] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] what head?
+[18:40:37] [Client thread/INFO]: [CHAT] [Hero] ~Pig: sex just say it
+[18:40:45] [Client thread/INFO]: [CHAT] Emaan01_1500: SEX
+[18:40:47] [Client thread/INFO]: [CHAT] [me -> HundredMenSlayer] any username
+[18:40:49] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Loads of people needed!
+[18:40:53] [Client thread/INFO]: [CHAT] Emaan01_1500: lol
+[18:40:56] [Client thread/INFO]: [CHAT] dachickenmaster: TPA TO momoeLOVESyou, Chookbear OR I FOR EPIC SKIN COMP
+[18:41:02] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] how can u make?
+[18:41:03] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Captain you just changed yo skin
+[18:41:04] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Dating, dancing, disco & even adoptions! (and a pigu
+[18:41:08] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] ur not VIP
+[18:41:11] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] ur not VIP or Premium
+[18:41:15] [Client thread/INFO]: [CHAT] [me -> HundredMenSlayer] secret
+[18:41:21] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] dood tell me
+[18:41:23] [Client thread/INFO]: [CHAT] dachickenmaster: TPA TO momoeLOVESyou, Chookbear OR I FOR EPIC SKIN COMP (da cappps)
+[18:41:25] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Loads of people needed!
+[18:41:27] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] or ill report on forum
+[18:41:31] [Client thread/INFO]: [CHAT] [me -> HundredMenSlayer] a mod
+[18:41:35] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:41:35] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED 1 GIRL AND BOYS!!!!!=- (caps are cool)
+[18:41:37] [Client thread/INFO]: [CHAT] [Hero] ~Pig: SEX SEX BABY MAKER SHE YELLS CRYS TO BIG ok :D Have Fun Kids Use De Bag :D
+[18:41:44] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] ill report on forum now
+[18:41:44] [Client thread/INFO]: [CHAT] Chookbear: tpa 4 a epic skin comp 0/7
+[18:41:44] [Client thread/INFO]: [CHAT] samusamalaya: l () () k ------> Tpa to me for a awesome CLUB! Dating, dancing, disco & even adoptions! (and a pigu
+[18:41:47] [Client thread/INFO]: [CHAT] [HundredMenSlayer -> me] brb
+[18:41:48] [Client thread/INFO]: [CHAT] [Premium] crafter3201: TPA TO ME FOR EPIC HS/PROM RP!! (hate caps) 5 boys
+[18:41:51] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC HS RP!!!!! NEED BOYS!!!!!=- (caps are cool)
+[18:41:57] [Client thread/INFO]: Stopping!

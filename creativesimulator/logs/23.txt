@@ -1,0 +1,281 @@
+[07:47:22] [main/INFO]: Setting user: TheDiamondPicks
+[07:47:22] [main/INFO]: (Session ID is token:eae4b3aae4da4e28bbec55357f284672:a05667a521154bc88bbb527426a047b5)
+[07:47:23] [Client thread/INFO]: LWJGL Version: 2.9.1
+[07:47:27] [Client thread/INFO]: Reloading ResourceManager: Default
+[07:47:27] [Sound Library Loader/INFO]: Sound engine started
+[07:47:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[07:47:39] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[07:47:45] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[07:47:49] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[07:47:49] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[07:47:49] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[07:47:49] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[07:47:50] [Client thread/INFO]: [CHAT]
+[07:47:50] [Client thread/INFO]: [CHAT] You have no new mail.
+[07:47:50] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[07:47:50] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[07:47:50] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[07:47:53] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[07:47:54] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ./realname bishh
+[07:47:59] [Client thread/INFO]: [CHAT] [Donator] ~xXSpidahManXx: DUHHH'
+[07:48:00] [Client thread/INFO]: [CHAT] lil_indy99: can i make my name short and be called jenn
+[07:48:01] [Client thread/INFO]: [CHAT] Request sent to ruffruffgo.
+[07:48:01] [Client thread/INFO]: [CHAT] gabepim: TPA TO XxTheBlueTacoxX for a element/summercamp rp!!!!!! L()()K!!!!!!!!!!!!!!!!
+[07:48:03] [Client thread/INFO]: [CHAT] _xIVYx_: Elsa: It hurts but its okay!
+[07:48:04] [Client thread/INFO]: [CHAT] Joepat8: TPA to XxTheBlueTacoxX for an ELEMENTAL summer camp RPG!!!!!!
+[07:48:07] [Client thread/INFO]: [CHAT] asleggs: YES
+[07:48:07] [Client thread/INFO]: [CHAT] NellieFaye: i am drinking tea
+[07:48:07] [Client thread/INFO]: [CHAT] mattiasbill123: <------------Tpa for Super Epic Skin Contest 0/10 <---------/tpa mattiasbill123
+[07:48:12] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:48:13] [Client thread/INFO]: [CHAT] ruffruffgo accepted your teleport request.
+[07:48:13] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[07:48:15] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:48:15] [Client thread/INFO]: [CHAT] asleggs: tpa for a herobrine rp need herobrine,the doctor.and enimies
+[07:48:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Wah is this
+[07:48:15] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[07:48:16] [Client thread/INFO]: [CHAT] Proclaimer: <<Aj>> lol hi
+[07:48:18] [Client thread/INFO]: [CHAT] mattiasbill123: <-----------Tpa for Super Epic Skin Contest 0/10 <---------/tpa mattiasbill123
+[07:48:20] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: angel's plopt
+[07:48:21] [Client thread/INFO]: [CHAT] MATTCRAFT704: tP fOr EpIc SlEnDeR mInI-gAmE!
+[07:48:22] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: plot
+[07:48:24] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: k
+[07:48:28] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:48:28] [Client thread/INFO]: [CHAT] MATTCRAFT704: tP fOr EpIc SlEnDeR mInI-gAmE! >:D
+[07:48:29] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: dere
+[07:48:31] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: :3
+[07:48:32] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Ah motha
+[07:48:37] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I'm not added D':
+[07:48:38] [Client thread/INFO]: [CHAT] eateroftoast: is ashton a boy
+[07:48:42] [Client thread/INFO]: [CHAT] asleggs: tpa for a herobrine rp need herobrine,the doctor.and enimies,hurry befor time runs out
+[07:48:44] [Client thread/INFO]: [CHAT] _xIVYx_: ELsa: *Continues to do belly flops*
+[07:48:52] [Client thread/INFO]: [CHAT] Joepat8: ashton is a boy
+[07:48:53] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:49:06] [Client thread/INFO]: [CHAT] [Donator] henry6996: r/tpa XxBlueviperxX
+[07:49:09] [Client thread/INFO]: [CHAT] [Legend] lolilol2338: no rp
+[07:49:19] [Client thread/INFO]: [CHAT] xXxyzXx: hi :)
+[07:49:25] [Client thread/INFO]: [CHAT] mattiasbill123: <------------Tpa for Super Epic Skin Contest 0/10 <---------/tpa mattiasbill123
+[07:49:27] [Client thread/INFO]: [CHAT] asleggs: tpa for a herobrine rp need herobrine,the doctor.and enimies,hurry befor time runs out!
+[07:49:29] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa to me for parkour!!!
+[07:49:31] [Client thread/INFO]: [CHAT] Proclaimer: <<AJ>> *changes into trunks*
+[07:49:33] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: UGHGHAGDHG]
+[07:49:35] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:49:36] [Client thread/INFO]: [CHAT] Linetes: tpa for awesome club <---- LOOK!!! If i dont accept tp again!!!
+[07:49:37] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:49:37] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa to me for parkour!!
+[07:49:38] [Client thread/INFO]: [CHAT] [Premium] ~xXSupahPowerXx: Blue Im Not Copying You
+[07:49:40] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa to me for parkour!!!
+[07:49:43] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: xD
+[07:49:43] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa to me for parkour!!
+[07:49:44] [Client thread/INFO]: [CHAT] [Premium] ~xXSupahPowerXx: xD
+[07:49:44] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa to me for parkour!!!
+[07:49:45] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa to me for parkour!!
+[07:49:53] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: no it's good id
+[07:49:53] [Client thread/INFO]: [CHAT] getsko123: Msg me if you have ANY complaints, doubts, or questions about God! I can try to help!!!!!!!!!!!!!!
+[07:49:58] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: idc
+[07:49:59] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Pls Can I Has Panda Heads
+[07:49:59] [Client thread/INFO]: [CHAT] TwilightAmbush: Done
+[07:50:00] [Client thread/INFO]: [CHAT] [Premium] ~xXSupahPowerXx: Thanks
+[07:50:00] [Client thread/INFO]: [CHAT] simoncrafter02: make tpa to me to play a epic parkour
+[07:50:01] [Client thread/INFO]: [CHAT] a25b07: tpa for highschool rp
+[07:50:01] [Client thread/INFO]: [CHAT] _xIVYx_: Elsa: Hello? Cashier!!
+[07:50:01] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: yesh
+[07:50:02] [Client thread/INFO]: [CHAT] basketball9804: gliched
+[07:50:09] [Client thread/INFO]: [CHAT] [Premium] ~xXSupahPowerXx: It Was A Cool Idea
+[07:50:15] [Client thread/INFO]: [CHAT] asleggs: tpa for a herobrine rp need herobrine,the doctor.and enimies,hurry befor time runs out!!
+[07:50:15] [Client thread/INFO]: [CHAT] [Premium] ~xXSupahPowerXx: xD
+[07:50:16] [Client thread/INFO]: [CHAT] Proclaimer: bye
+[07:50:20] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:50:25] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tigers
+[07:50:27] [Client thread/INFO]: [CHAT] basketball9804: thx
+[07:50:27] [Client thread/INFO]: [CHAT] mattiasbill123: <------------Tpa for Super Epic Skin Contest 3/10 <---------/tpa mattiasbill123
+[07:50:35] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Yeah?
+[07:50:35] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice
+[07:50:35] [Client thread/INFO]: [CHAT] Linetes: tpa for awesome club <---- LOOK!!! If i dont accept tp again!!!1
+[07:50:36] [Client thread/INFO]: [CHAT] mattiasbill123: <-----------Tpa for Super Epic Skin Contest 3/10 <---------/tpa mattiasbill123
+[07:50:40] [Client thread/INFO]: [CHAT] SamMackRocks: TP for Supercalifragilisticescpialedoces Herobrine RP with powers and a gala!!! TP NOW!!
+[07:50:43] [Client thread/INFO]: [CHAT] [VIP] mdjoss: I'm gonna buy Premium soon because it's only 10$ extra.
+[07:50:46] [Client thread/INFO]: [CHAT] bip7pop: msg me if u know how to add someone to ur plot
+[07:50:50] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Wtf
+[07:50:51] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Wait
+[07:50:53] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice!
+[07:50:54] [Client thread/INFO]: [CHAT] Linetes: tpa for awesome club <---- LOOK!!! If i dont accept tp again!!!1!
+[07:50:55] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Hold on my computer is...
+[07:51:00] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: arghh
+[07:51:00] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: WAHHTTT
+[07:51:01] [Client thread/INFO]: [CHAT] Nando104190: lagging
+[07:51:02] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: sorry im lagging
+[07:51:02] [Client thread/INFO]: [CHAT] a25b07: L()()K -> Tpa For Highschool Rp <- L()()K
+[07:51:03] [Client thread/INFO]: [CHAT] battleship100: tpa 2 me 4 incredible maze!!!!dont miss!!<------------word this is cool stuff
+[07:51:04] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: crap crap crap
+[07:51:05] [Client thread/INFO]: [CHAT] mattiasbill123: <-----------Tpa for Super Epic Skin Contest 5/10 <---------/tpa mattiasbill123
+[07:51:05] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex
+[07:51:07] [Client thread/INFO]: [CHAT] bip7pop: msg me if u know how to add someone to ur plot!!!
+[07:51:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: is /nick 10 dollars
+[07:51:10] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: There
+[07:51:12] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: :3
+[07:51:12] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice
+[07:51:13] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+
+[07:51:16] [Client thread/INFO]: [CHAT] Fireball_MC: do /add (player name)
+[07:51:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: It wouldnt fucking let me say that
+[07:51:20] [Client thread/INFO]: [CHAT] andretracy: kk
+[07:51:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: :3
+[07:51:27] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+ld;glds
+[07:51:27] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: I love /nick :3
+[07:51:30] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: me too
+[07:51:33] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+ld;glds}{}{{{{{}{}{}{
+[07:51:33] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: is /nick 10 dollars
+[07:51:34] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice!
+[07:51:40] [Client thread/INFO]: [CHAT] asleggs: tpa for a herobrine rp need herobrine,the doctor.and enimies,hurry befor time runs out!!!
+[07:51:41] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Yeah
+[07:51:42] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: yea
+[07:51:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: okai
+[07:51:43] [Client thread/INFO]: [CHAT] _xIVYx_: Elsa: La la laaa~
+[07:51:50] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+ld;glds}{}{{{{{}{}{}
+[07:51:52] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I think I'm gonna get 5 plots instead
+[07:51:55] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: tigers that looks beautiful on u xD
+[07:51:57] [Client thread/INFO]: [CHAT] TwilightAmbush: d
+[07:52:00] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice
+[07:52:01] [Client thread/INFO]: [CHAT] mattiasbill123: Later analudskanov
+[07:52:05] [Client thread/INFO]: [CHAT] asleggs: tpa for a rp need herobrine
+[07:52:06] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@ TPA TO XxTheBlueTacoxX FOR EPIC SUMMERCAMP RP@*@
+[07:52:07] [Client thread/INFO]: [CHAT] italianadi2001: is there any head shops
+[07:52:10] [Client thread/INFO]: [CHAT] mattiasbill123: <-----------Tpa for Super Epic Skin Contest 4/10 <---------/tpa mattiasbill123
+[07:52:13] [Client thread/INFO]: [CHAT] a25b07: tpa for highschool/ herobrinw rp
+[07:52:14] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice!
+[07:52:15] [Client thread/INFO]: [CHAT] [Premium] ~xXChewyXx: a
+[07:52:16] [Client thread/INFO]: [CHAT] mattiasbill123: <-----------Tpa for Super Epic Skin Contest 5/10 <---------/tpa mattiasbill123
+[07:52:18] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+ld;glds}{}{{{{{}{}
+[07:52:20] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice
+[07:52:20] [Client thread/INFO]: [CHAT] SamMackRocks: tpa for super awesome town rp with powers and a herobrine!!!
+[07:52:24] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: brb in mc
+[07:52:27] [Client thread/INFO]: [CHAT] LBP2EPICGUY232: who can make heads
+[07:52:30] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+ld;glds}{}{{{{{}{
+[07:52:31] [Client thread/INFO]: [CHAT] [Premium] analudskanov: TPA TO mattiasbill123 FOR AWESOME SKIN CONT
+[07:52:33] [Client thread/INFO]: [CHAT] Skyheart408: <>Head/God Shop! Over 60 Heads!<>
+[07:52:35] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: I need to check something
+[07:52:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:53:03] [Client thread/INFO]: [CHAT] MATTCRAFT704: tP fOr EpIc SlEnDeR mInI-gAmE!
+[07:53:07] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@ TPA TO XxTheBlueTacoxX FOR EPIC SUMMERCAMP RP@*@!
+[07:53:08] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+ld;glds}{}{{{{{}
+[07:53:17] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: brb
+[07:53:20] [Client thread/INFO]: [CHAT] MATTCRAFT704: tP fOr EpIc SlEnDeR mInI-gAmE! >:D
+[07:53:21] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:53:27] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@ TPA TO XxTheBlueTacoxX FOR EPIC SUMMERCAMP RP@*@
+[07:53:28] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+ld;glds}{}{{{{{
+[07:53:32] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice!
+[07:53:32] [Client thread/INFO]: [CHAT] SamMackRocks: tp for super awesome town rp with herobrine & powers!!
+[07:53:35] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:53:36] [Client thread/INFO]: [CHAT] Skyheart408: ^*^Head/God Shop! 60+ Heads!
+[07:53:52] [Client thread/INFO]: [CHAT] [Legend] lolilol2338: who want to help me build an rp?
+[07:54:01] [Client thread/INFO]: [CHAT] jbanez011: thx
+[07:54:07] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD her name is "molly"
+[07:54:11] [Client thread/INFO]: [CHAT] [Hero] StrongJohn1000: Me lolilol2338
+[07:54:16] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice
+[07:54:18] [Client thread/INFO]: [CHAT] simoncrafter02: guys when u want an epic server go to riftmc.us
+[07:54:21] [Client thread/INFO]: [CHAT] battleship100: keep it up
+[07:54:22] [Client thread/INFO]: [CHAT] asleggs: tpa for a rp need herobrine thats all just herobrine
+[07:54:35] [Client thread/INFO]: [CHAT] denshark03: tpa to XxTheBlueTacoxX for summercamp rp
+[07:54:37] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:54:37] [Client thread/INFO]: [CHAT] [Legend] lolilol2338: everybody that want to help tpa!
+[07:54:37] [Client thread/INFO]: [CHAT] Angelga_n: come to a wolf and tiger rp
+[07:54:43] [Client thread/INFO]: [CHAT] battleship100: go...
+[07:54:44] [Client thread/INFO]: [CHAT] AutumnMoons: tpa for the best club ever great sex__++__+_+_+ld;glds}{}{{{
+[07:54:46] [Client thread/INFO]: [CHAT] asleggs: tpa for a rp need herobrine thats all just herobrine!!!!
+[07:54:46] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:54:47] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:54:49] [Client thread/INFO]: [CHAT] miagamer: Tpa For An Epic Skin Comp
+[07:54:49] [Client thread/INFO]: [CHAT] Fireball_MC: tpa to mattiasbill123 for epic skin comp!
+[07:54:50] [Client thread/INFO]: [CHAT] [Premium] ~Cinderp: >--==--> Tpa to Asleggs need a Herobrine [Pls ono] <--==--<
+[07:54:52] [Client thread/INFO]: [CHAT] basketball9804: tpa for hs hb rp
+[07:54:52] [Client thread/INFO]: [CHAT] simoncrafter02: go to RiftMC.US
+[07:54:54] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: back
+[07:55:03] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: wb
+[07:55:11] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Thx
+[07:55:12] [Client thread/INFO]: [CHAT] miagamer: Tpa For An Epic Skin Comp!!
+[07:55:12] [Client thread/INFO]: [CHAT] battleship100: whahahah
+[07:55:14] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD why is there a girl named Molly
+[07:55:25] [Client thread/INFO]: [CHAT] money8989: what
+[07:55:28] [Client thread/INFO]: [CHAT] a25b07: Tpa For Herobrine / Highschool Rp
+[07:55:33] [Client thread/INFO]: [CHAT] jack5266: ahh this is the life
+[07:55:37] [Client thread/INFO]: [CHAT] battleship100: correct!
+[07:55:37] [Client thread/INFO]: [CHAT] [Premium] ~MissMoustache: -=-=- Tpa For A Highschool Rp -=-=-
+[07:55:38] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I wish i had a 10 dollar bill >:O
+[07:55:40] [Client thread/INFO]: [CHAT] simoncrafter02: epic server: RiftMC.US
+[07:55:44] [Client thread/INFO]: [CHAT] eateroftoast: can i be Jason
+[07:55:44] [Client thread/INFO]: [CHAT] [Legend] lolilol2338: everybody line up!
+[07:55:51] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I have all twenties
+[07:55:55] [Client thread/INFO]: [CHAT] jack5266: nobody to annoy you
+[07:55:58] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:56:00] [Client thread/INFO]: [CHAT] immergingrain: -= tpa me for a epic skin contest win a youtuber head of your choice!
+[07:56:02] [Client thread/INFO]: [CHAT] money8989: ok
+[07:56:02] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: -->> Tpa TigerLily456 For Rp <--- not sure which one
+[07:56:04] [Client thread/INFO]: [CHAT] Fireball_MC: tpa to mattiasbill123 for epic skin comp!!! 8/10
+[07:56:04] [Client thread/INFO]: [CHAT] mattiasbill123: <-----------Tpa for Super Epic Skin Contest 8/10 <--------/tpa mattiasbill123
+[07:56:05] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:56:06] [Client thread/INFO]: [CHAT] battleship100: trick
+[07:56:08] [Client thread/INFO]: [CHAT] a25b07: Tpa For Herobrine/ Highschool Rp
+[07:56:08] [Client thread/INFO]: [CHAT] gabepim: TPA TO XxTheBlueTacoxX for a element/summercamp rp!!!!!! L()()K!!!!!!!!!!!!!!!
+[07:56:12] [Client thread/INFO]: [CHAT] basketball9804: tpa me for supernaturl herobrine highschool rp
+[07:56:14] [Client thread/INFO]: [CHAT] Fireball_MC: tpa to mattiasbill123 for epic skin comp!!! 8/10!!
+[07:56:20] [Client thread/INFO]: [CHAT] battleship100: :)
+[07:56:22] [Client thread/INFO]: [CHAT] LadyKnowItAll: afk
+[07:56:22] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Maybe i should ride my bike to the bank
+[07:56:29] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:56:33] [Client thread/INFO]: [CHAT] simoncrafter02: RiftMC.US best server EVER!
+[07:56:36] [Client thread/INFO]: [CHAT] eateroftoast: can i be jason plz
+[07:56:41] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:56:41] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:56:42] [Client thread/INFO]: [CHAT] immergingrain: waffle u outside?
+[07:56:47] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: => Tpa Tigerlily For Epic Rp<=
+[07:56:55] [Client thread/INFO]: [CHAT] battleship100: good job
+[07:56:55] [Client thread/INFO]: [CHAT] basketball9804: tpa me for supernaturl herobrine highschool rp it awesome
+[07:56:56] [Client thread/INFO]: [CHAT] immergingrain: ok
+[07:56:58] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:57:00] [Client thread/INFO]: [CHAT] imjohnnyb: Joe)
+[07:57:02] [Client thread/INFO]: [CHAT] simoncrafter02: mr slevin
+[07:57:05] [Client thread/INFO]: [CHAT] [Premium] ~xXChewyXx: yo
+[07:57:05] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: hi
+[07:57:07] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:57:07] [Client thread/INFO]: [CHAT] battleship100: good job HopmanCraft
+[07:57:11] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: yo
+[07:57:11] [Client thread/INFO]: [CHAT] dylanschultz1: tpa to me for a building comp
+[07:57:13] [Client thread/INFO]: [CHAT] immergingrain: ok lets start
+[07:57:14] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: xD
+[07:57:16] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: !i!i!i! Tpa MissMoustache For Rp !i!i!i!
+[07:57:17] [Client thread/INFO]: [CHAT] [Premium] ~xXChewyXx: lel
+[07:57:17] [Client thread/INFO]: [CHAT] Fireball_MC: tpa to mattiasbill123 for epic skin comp!!! 8/10!! (NOT ME)
+[07:57:17] [Client thread/INFO]: [CHAT] eateroftoast: ok adam then
+[07:57:17] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:57:22] [Client thread/INFO]: [CHAT] battleship100: spread!
+[07:57:23] [Client thread/INFO]: [CHAT] dylanschultz1: tpa to me for a building comp!!
+[07:57:26] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@ TPA TO XxTheBlueTacoxX FOR EPIC SUMMERCAMP RP@*@!
+[07:57:28] [Client thread/INFO]: [CHAT] Fireball_MC: tpa to mattiasbill123 for epic skin comp!!! 8/10!! (NOT ME)!!
+[07:57:29] [Client thread/INFO]: [CHAT] basketball9804: tpa me for supernaturl herobrine highschool rp it awesome if i do not accept tpa again
+[07:57:31] [Client thread/INFO]: [CHAT] that_beast_b86: minecraft
+[07:57:33] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:57:37] [Client thread/INFO]: [CHAT] aj282167: yes
+[07:57:41] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: hi zoie :D
+[07:57:48] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:57:52] [Client thread/INFO]: [CHAT] [Premium] ~xXSupahPowerXx: Hello
+[07:57:56] [Client thread/INFO]: [CHAT] smushy1237: **TPA to be the STAR in a HEROBRINE ROMANCE
+[07:57:56] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:57:59] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@ TPA TO XxTheBlueTacoxX FOR EPIC SUMMERCAMP RP@*@
+[07:58:00] [Client thread/INFO]: [CHAT] LadyKnowItAll: back
+[07:58:01] [Client thread/INFO]: [CHAT] SamMackRocks: Tp for super awesome town rp with powers and a herobrine!!
+[07:58:03] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:58:05] [Client thread/INFO]: [CHAT] battleship100: wait
+[07:58:09] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:58:09] [Client thread/INFO]: [CHAT] mattiasbill123: <---------Skin Contest Starts Now!!!!
+[07:58:16] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:58:17] [Client thread/INFO]: [CHAT] battleship100: do u have parkour?
+[07:58:19] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park
+[07:58:21] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@ TPA TO XxTheBlueTacoxX FOR EPIC SUMMERCAMP RP@*@!
+[07:58:24] [Client thread/INFO]: [CHAT] basketball9804: tpa me for herobrine and highschool rp if i do not accept tpa again
+[07:58:29] [Client thread/INFO]: [CHAT] a25b07: Tpa For Highschool Roleplay With Herobrine
+[07:58:30] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: =>Tpa MissMoustache For Rp !i!i!i!i!
+[07:58:32] [Client thread/INFO]: [CHAT] katkatkat161: Tpa To Me Or Hannahhot1 To Come To Dark Pines National Park!
+[07:58:34] [Client thread/INFO]: [CHAT] battleship100: ya
+[07:58:43] [Client thread/INFO]: [CHAT] [Premium] ~MissMoustache: -=-=- Tpa For A Highschool Rp -=-=-.
+[07:58:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: D:< I mad
+[07:58:49] [Client thread/INFO]: [CHAT] money8989: try
+[07:58:52] [Client thread/INFO]: [CHAT] LadyKnowItAll: any head shops

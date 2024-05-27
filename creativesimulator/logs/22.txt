@@ -1,0 +1,138 @@
+[07:42:49] [Netty Client IO #0/ERROR]: Invalid server icon (unknown format)
+[07:43:04] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[07:43:07] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[07:43:07] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[07:43:07] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[07:43:07] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[07:43:07] [Client thread/INFO]: [CHAT]
+[07:43:07] [Client thread/INFO]: [CHAT] You have no new mail.
+[07:43:08] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[07:43:08] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[07:43:08] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[07:43:15] [Client thread/INFO]: [CHAT] Angel3970, Angelga_n
+[07:43:15] [Client thread/INFO]: [CHAT] HopmanCraft: any mazes?
+[07:43:16] [Client thread/INFO]: [CHAT] Angel3970, Angelga_n
+[07:43:16] [Client thread/INFO]: [CHAT] battleship100: any1 have a parkour
+[07:43:22] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[07:43:26] [Client thread/INFO]: [CHAT] crazybot916: [crazybot916 -> me] TPA TO Deathdrew1353 FOR HEROBRINE CAMPING RP
+[07:43:27] [Client thread/INFO]: [CHAT] Linetes: tpa for awesome club <---- LOOK!!! If i dont accept tp again!!
+[07:43:28] [Client thread/INFO]: [CHAT] battleship100: i have a maze me!!!!!!!!
+[07:43:30] [Client thread/INFO]: [CHAT] [Premium] ~xXChewyXx: dj chew toy xD
+[07:43:31] [Client thread/INFO]: [CHAT] Mealymon: tpa for epic head shop
+[07:43:33] [Client thread/INFO]: [CHAT] cherry22445: <> Katie <> -Wakes up-
+[07:43:36] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: xD
+[07:43:38] [Client thread/INFO]: [CHAT] Rasenkiller: Yes ?
+[07:43:41] [Client thread/INFO]: [CHAT] asleggs: tpa for a herobrine rp need boys herobrine,cyberman,dalek,weeping angle,and empty child
+[07:43:42] [Client thread/INFO]: [CHAT] Request sent to Mealymon.
+[07:43:43] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:43:44] [Client thread/INFO]: [CHAT] Mealymon accepted your teleport request.
+[07:43:44] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[07:43:46] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[07:43:47] [Client thread/INFO]: [CHAT] [VIP] ~xXBlueMoonXx: ......
+[07:43:50] [Client thread/INFO]: [CHAT] Mealymon: tpaccept
+[07:43:52] [Client thread/INFO]: [CHAT] Rasenkiller: Serious
+[07:43:55] [Client thread/INFO]: [CHAT] [VIP] ~xXBlueMoonXx: and me
+[07:43:56] [Client thread/INFO]: [CHAT] creatorman201007: HI
+[07:43:56] [Client thread/INFO]: [CHAT] asleggs: TPA FOR A HEROBRINE RP *ALL BOY ROLES OPEN NEED BAD GUYS hurry tpa now need da boys and the doctor
+[07:43:59] [Client thread/INFO]: [CHAT] Proclaimer: <<Aj>> im not late
+[07:44:00] [Client thread/INFO]: [CHAT] [Donator] Silvermist1079: This is freaky hes staring at me O.o
+[07:44:01] [Client thread/INFO]: [CHAT] Linetes: tpa for awesome club <---- LOOK!!! If i dont accept tp again!!!
+[07:44:04] [Client thread/INFO]: [CHAT] cherry22445: <> Katie <> heheh puga
+[07:44:05] [Client thread/INFO]: [CHAT] [VIP] ~xXBlueMoonXx: xD
+[07:44:08] [Client thread/INFO]: [CHAT] Rasenkiller: Yes ?
+[07:44:08] [Client thread/INFO]: [CHAT] Linetes: tpa for awesome club <---- LOOK!!! If i dont accept tp again!!
+[07:44:09] [Client thread/INFO]: [CHAT] _xIVYx_: Elsa: *Walks into class
+[07:44:13] [Client thread/INFO]: [CHAT] cherry22445: <> KAtie <> that tickles
+[07:44:13] [Client thread/INFO]: [CHAT] asleggs: tpa for a herobrine rp need boys herobrine,cyberman,dalek,weeping angle,and empty child
+[07:44:16] [Client thread/INFO]: [CHAT] [Donator] ~xXSpidahManXx: OOPS
+[07:44:17] [Client thread/INFO]: [CHAT] cali_kiwi: how did you do that
+[07:44:17] [Client thread/INFO]: [CHAT] battleship100: follow
+[07:44:20] [Client thread/INFO]: [CHAT] [Donator] Silvermist1079: Im scared im gonna hide xD
+[07:44:23] [Client thread/INFO]: [CHAT] cherry22445: ok
+[07:44:24] [Client thread/INFO]: [CHAT] [Donator] ~xXSpidahManXx: i sowwy angel
+[07:44:24] [Client thread/INFO]: [CHAT] battleship100: follow me
+[07:44:28] [Client thread/INFO]: [CHAT] TheKnitler: any head shops
+[07:44:30] [Client thread/INFO]: [CHAT] gabepim: TPA TO XxTheBlueTacoxX for a element/summercamp rp!!!!!! L()()K!!!!!!!!!!!!!!!!!!!!!!
+[07:44:30] [Client thread/INFO]: [CHAT] [Donator] ~xXSpidahManXx: i forgot i was added
+[07:44:30] [Client thread/INFO]: [CHAT] crazybot916: [crazybot916 -> me] TPA TO Deathdrew1353 FOR HEROBRINE CAMPING RP 1 BOY NEEDED
+[07:44:34] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@TPA TO Deathdrew1353 FOR EPIC RP@*@
+[07:44:36] [Client thread/INFO]: [CHAT] sebarker: haha
+[07:44:37] [Client thread/INFO]: [CHAT] creatorman201007: I want a TACO
+[07:44:39] [Client thread/INFO]: [CHAT] battleship100: come
+[07:44:40] [Client thread/INFO]: [CHAT] XxTheBlueTacoxX: tpa for epic elemental/powers summer camp rp! 7 boy's and 5 girl's needed! <---L()()K
+[07:44:40] [Client thread/INFO]: [CHAT] gabepim: TPA TO XxTheBlueTacoxX for a element/summercamp rp!!!!!! L()()K!!!!!!!!!!!!!!!!!!
+[07:44:41] [Client thread/INFO]: [CHAT] Proclaimer: <<aj>> blah
+[07:44:42] [Client thread/INFO]: [CHAT] Linetes: tpa for awesome club <---- LOOK!!! If i dont accept tp again!!!
+[07:44:48] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@TPA TO Deathdrew1353 FOR EPIC RP@*@!
+[07:44:55] [Client thread/INFO]: [CHAT] creatorman201007: I wantz an tako
+[07:44:56] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:44:57] [Client thread/INFO]: [CHAT] MajrStupidity: analudskanov turn on tpa
+[07:44:59] [Client thread/INFO]: [CHAT] [Donator] Silvermist1079: xD
+[07:45:00] [Client thread/INFO]: [CHAT] battleship100: i have a maze me!!!!!!!!
+[07:45:00] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Haii
+[07:45:03] [Client thread/INFO]: [CHAT] [VIP] ~xXBlueMoonXx: wgat
+[07:45:04] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: boo
+[07:45:05] [Client thread/INFO]: [CHAT] [Premium] ~xXChewyXx: lol
+[07:45:09] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: hai purple!
+[07:45:09] [Client thread/INFO]: [CHAT] gabepim: TPA TO XxTheBlueTacoxX for a element/summercamp rp!!!!!! L()()K!!!!!!!!!!!!!!!!!!!
+[07:45:10] [Client thread/INFO]: [CHAT] 0MiniMadd0: @*@TPA TO Deathdrew1353 FOR EPIC RP@*@
+[07:45:11] [Client thread/INFO]: [CHAT] asleggs: TPA FOR A HEROBRINE RP *ALL BOY ROLES OPEN NEED BAD GUYS hurry tpa now need da boys and the doctor
+[07:45:11] [Client thread/INFO]: [CHAT] [VIP] ~xXBlueMoonXx: what did I do
+[07:45:11] [Client thread/INFO]: [CHAT] Proclaimer: <<Aj>> yay
+[07:45:12] [Client thread/INFO]: [CHAT] supertyler900: umm. . .
+[07:45:13] [Client thread/INFO]: [CHAT] [VIP] ~xXBlueMoonXx: xD
+[07:45:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Hai Mg :D
+[07:45:15] [Client thread/INFO]: [CHAT] ID: -155;-57 Owner: kittencat26 Biome: Jungle
+[07:45:15] [Client thread/INFO]: [CHAT] Expire date: Never Finished: No Protected: No
+[07:45:15] [Client thread/INFO]: [CHAT] Helpers: mealymon
+[07:45:16] [Client thread/INFO]: [CHAT] _xIVYx_: Elsa: *Walks out and dashes for the pool*
+[07:45:16] [Client thread/INFO]: [CHAT] Maddyrocks151: flyingfun gtg
+[07:45:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Hai Blue :D
+[07:45:20] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: :D
+[07:45:22] [Client thread/INFO]: [CHAT] Caleb1969: fsa
+[07:45:22] [Client thread/INFO]: [CHAT] supertyler900: well that was unexpected xD
+[07:45:22] [Client thread/INFO]: [CHAT] creatorman201007: were is my fucking vodka
+[07:45:23] [Client thread/INFO]: [CHAT] [Donator] Silvermist1079: Wait gotta go D:
+[07:45:24] [Client thread/INFO]: [CHAT] crazybot916: [crazybot916 -> me] TPA TO Deathdrew1353 FOR HEROBRINE CAMPING RP 1 BOY NEEDED!
+[07:45:26] [Client thread/INFO]: [CHAT] imjohnnyb: joe
+[07:45:28] [Client thread/INFO]: [CHAT] _xIVYx_: Elsa: WAIT! I need to change.
+[07:45:29] [Client thread/INFO]: [CHAT] asleggs: tpa for a herobrine rp need boys herobrine,cyberman,dalek,weeping angle,and empty child
+[07:45:29] [Client thread/INFO]: [CHAT] Joepat8: TPA to XxTheBlueTacoxX for an ELEMENTAL Summer camp Rpg!!
+[07:45:30] [Client thread/INFO]: [CHAT] gabepim: TPA TO XxTheBlueTacoxX for a element/summercamp rp!!!!!! L()()K!!!!!!!!!!!!!!!!!!!!
+[07:45:33] [Client thread/INFO]: [CHAT] MATTCRAFT704: tP fOr EpIc SlEnDeR mInI-gAmE! >:D
+[07:45:34] [Client thread/INFO]: [CHAT] MWAZHERE123: tpa for head shop
+[07:45:34] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: brb
+[07:45:34] [Client thread/INFO]: [CHAT] [VIP] ~xXBlueMoonXx: Hai purple
+[07:45:37] [Client thread/INFO]: [CHAT] Joepat8: TPA to XxTheBlueTacoxX for an ELEMENTAL Summer camp Rpg!!!!
+[07:45:37] [Client thread/INFO]: [CHAT] [Donator] Silvermist1079: I'll fix your house when i get back xD
+[07:45:37] [Client thread/INFO]: [CHAT] CV_Eagle_22: im a tree
+[07:45:41] [Client thread/INFO]: [CHAT] minecraft72903: tpa 4 epic herobrine rp! needs herobrine and 1 boy!!!!
+[07:45:42] [Client thread/INFO]: [CHAT] creatorman201007: <Johnny> Where is my fucking vodka!
+[07:45:45] [Client thread/INFO]: [CHAT] [Donator] Silvermist1079: Bai peeps!
+[07:45:48] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: chewy
+[07:45:56] [Client thread/INFO]: [CHAT] Proclaimer: <<Aj>> wtf?
+[07:45:57] [Client thread/INFO]: [CHAT] [VIP] ~xXBlueMoonXx: awww now we need to fix this -.-
+[07:45:58] [Client thread/INFO]: [CHAT] [Premium] ~xXChewyXx: yesh?
+[07:45:58] [Client thread/INFO]: [CHAT] Rasenkiller: ?
+[07:45:59] [Client thread/INFO]: [CHAT] ruffruffgo: everyone tpa for a awesome shop
+[07:46:01] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:46:03] [Client thread/INFO]: [CHAT] [Legend] ~xXMysteryGirlXx: im excited!
+[07:46:04] [Client thread/INFO]: [CHAT] gleepwurp: sry i got kicked
+[07:46:06] [Client thread/INFO]: [CHAT] ruffruffgo: everyone tpa for a awesome skincomp
+[07:46:07] [Client thread/INFO]: [CHAT] Skyheart408: <>Tpa for a Head/God Shop! L()()K
+[07:46:08] [Client thread/INFO]: [CHAT] asleggs: TPA FOR A HEROBRINE RP *ALL BOY ROLES OPEN NEED BAD GUYS hurry tpa now need da boys and the doctor
+[07:46:08] [Client thread/INFO]: [CHAT] [Premium] ~xXChewyXx: me 2 :D
+[07:46:13] [Client thread/INFO]: [CHAT] Request sent to ruffruffgo.
+[07:46:16] [Client thread/INFO]: [CHAT] battleship100: tpa 2 me 4 incredible maze!!!!dont miss!
+[07:46:16] [Client thread/INFO]: [CHAT] XxTheBlueTacoxX: tpa for epic elemental/powers summer camp rp! 7 boy's and 5 girl's needed! <---L()()K!!!
+[07:46:19] [Client thread/INFO]: [CHAT] supertyler900: oh
+[07:46:19] [Client thread/INFO]: [CHAT] crazybot916: [crazybot916 -> me] TPA TO Deathdrew1353 FOR HEROBRINE CAMPING RP 1 BOY NEEDED
+[07:46:28] [Client thread/INFO]: [CHAT] _xIVYx_: Elsa: *Changes into a hot pink and white striped bikini*
+[07:46:33] [Client thread/INFO]: [CHAT] battleship100: tpa 2 me 4 incredible maze!!!!dont miss!!
+[07:46:35] [Client thread/INFO]: [CHAT] Request sent to ruffruffgo.
+[07:46:38] [Client thread/INFO]: [CHAT] ruffruffgo accepted your teleport request.
+[07:46:38] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[07:46:38] [Client thread/INFO]: [CHAT] [Legend] lolilol2338: wazzup anyone that want to build something?????
+[07:46:40] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[07:46:41] [Client thread/INFO]: [CHAT] Rasenkiller: RainbowGirl1227
+[07:46:54] [Client thread/INFO]: [CHAT] Skyheart408: -->head/god shop! tpa to me!<-- <>

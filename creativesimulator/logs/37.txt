@@ -1,0 +1,966 @@
+[17:47:26] [main/INFO]: Setting user: TheDiamondPicks
+[17:47:26] [main/INFO]: (Session ID is token:e704240f65dd484581251b807cf1e6ce:a05667a521154bc88bbb527426a047b5)
+[17:47:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:47:50] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:47:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:47:53] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:47:54] [Sound Library Loader/INFO]: Sound engine started
+[17:50:47] [Client thread/INFO]: Connecting to 192.168.1.49, 25565
+[17:51:24] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[17:51:48] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[17:51:51] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[17:51:51] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[17:51:52] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[17:51:52] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[17:51:54] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: SHADOOOOOW
+[17:51:57] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: :p
+[17:52:05] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: I bought a new mouse :D
+[17:52:08] [Client thread/INFO]: [CHAT] mara217: does any1 know how to get into the templerun game right here?
+[17:52:09] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Nice.
+[17:52:13] [Client thread/INFO]: [CHAT] X8xXPunisherXx8X: :/
+[17:52:16] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Mara u need to be donor
+[17:52:18] [Client thread/INFO]: [CHAT] [+] Purchase pets that follow you around! Type /store
+[17:52:21] [Client thread/INFO]: [CHAT] DeFrixas: ZZZ lagnkyk kontol
+[17:52:23] [Client thread/INFO]: [CHAT] mara217: oh
+[17:52:28] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Donator and over
+[17:52:31] [Client thread/INFO]: [CHAT] [me -> mara217] you have to be a donator
+[17:52:50] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Shadow
+[17:52:50] [Client thread/INFO]: [CHAT] DeFrixas: t
+[17:52:51] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Ye?
+[17:52:56] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Do u haz Optifine
+[17:52:56] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Yes?*
+[17:52:56] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: No.
+[17:53:00] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Get it
+[17:53:04] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: It increases FPS
+[17:53:05] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: ... ;n;
+[17:53:13] [Client thread/INFO]: [CHAT] Loopii_Ninja: e
+[17:53:18] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: I went from 6 to 36
+[17:53:19] [Client thread/INFO]: [CHAT] [+] Disguise as mobs or players :O! Type /store
+[17:53:23] [Client thread/INFO]: [CHAT] [Premium] ~LordCresof: Shadow_Riolu
+[17:53:23] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Cool.
+[17:53:26] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Hm?
+[17:53:34] [Client thread/INFO]: [CHAT] DeFrixas: s
+[17:53:35] [Client thread/INFO]: [CHAT] [Premium] ~LordCresof: how many people are rideing you?
+[17:53:42] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Mapie
+[17:53:43] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: From the looks of it, two.
+[17:53:44] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: MAP
+[17:53:46] [Client thread/INFO]: [CHAT] [Premium] ~LordCresof: NU
+[17:53:47] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: MAAAP
+[17:53:50] [Client thread/INFO]: [CHAT] DeFrixas: te
+[17:53:51] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: LISTEN
+[17:53:59] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Map be fokin AFK.
+[17:54:03] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Oh wat
+[17:54:05] [Client thread/INFO]: [CHAT] [Premium] ~LordCresof: 1+1=5
+[17:54:07] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Oh.
+[17:54:08] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: no
+[17:54:10] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Screw logic.
+[17:54:14] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: 1+1 equals 3
+[17:54:19] [Client thread/INFO]: [CHAT] [+] Purchase perks such as flying and fireworks! Type /store
+[17:54:24] [Client thread/INFO]: [CHAT] [Premium] ~MathGenius: sup dawg
+[17:54:28] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: 2+2=5
+[17:54:35] [Client thread/INFO]: [CHAT] [Premium] ~MathGenius: 5+5=5
+[17:54:37] [Client thread/INFO]: [CHAT] X8xXPunisherXx8X: alexisawesome02
+[17:54:37] [Client thread/INFO]: [CHAT] [Legend] Agedo2003: 4
+[17:54:37] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: IDIOT.
+[17:54:41] [Client thread/INFO]: [CHAT] ~mathgenius's real name is Cresof
+[17:54:44] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: 2+2=fish
+[17:54:44] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: 5 + 5 = 666.
+[17:54:45] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: becus
+[17:54:45] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: HELLO?
+[17:54:47] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: Shadow. 2 dayys
+[17:54:51] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: MAP
+[17:54:51] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Shhhh...
+[17:54:57] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: Hai demon
+[17:54:58] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: 2 days until wut <:
+[17:55:04] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Got a new mouse c:
+[17:55:04] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Only two days remain, before the van comes back to haunt me once more. >.<
+[17:55:08] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: AHAHA
+[17:55:08] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: The contract is up c:
+[17:55:09] [Client thread/INFO]: [CHAT] [Herobrine][Mod] Magical_Sparklez: lol
+[17:55:11] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: in
+[17:55:13] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: 2 days
+[17:55:16] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Ima save u Shadow
+[17:55:17] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: I wish I extended the contract.
+[17:55:19] [Client thread/INFO]: [CHAT] [Premium] ~MathGenius: 7+Gooby= no Opinion
+[17:55:20] [Client thread/INFO]: [CHAT] [+] Purchase pets that follow you around! Type /store
+[17:55:20] [Client thread/INFO]: [CHAT] [Legend] GummyBean: MAppy
+[17:55:24] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: ;-;
+[17:55:26] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: Goomy <3
+[17:55:27] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: cri
+[17:55:29] [Client thread/INFO]: [CHAT] [Legend] GummyBean: can I come in ur vaan c:
+[17:55:31] [Client thread/INFO]: [CHAT] [Legend] GummyBean: <3
+[17:55:32] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: ya
+[17:55:34] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: <33
+[17:55:35] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: GoodraHasAnOpinion
+[17:55:38] [Client thread/INFO]: [CHAT] [Premium] ~MathGenius: NU
+[17:55:38] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: Mappy, can I extend the contract while you take these people instead?
+[17:55:42] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: xD
+[17:55:42] [Client thread/INFO]: [CHAT] [Legend] GummyBean: will I get canddyy?
+[17:55:43] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: no
+[17:55:46] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: WHHYYY.
+[17:55:47] [Client thread/INFO]: [CHAT] [Herobrine] Syth_0_: connected with an iPad using MineChat
+[17:55:48] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: and yes
+[17:55:48] [Client thread/INFO]: [CHAT] Player not found.
+[17:55:52] [Client thread/INFO]: [CHAT] X8xXPunisherXx8X: Syth_0_
+[17:55:53] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: i protect u shadow
+[17:55:55] [Client thread/INFO]: [CHAT] [Herobrine] Syth_0_: 'aaalloooo
+[17:55:57] [Client thread/INFO]: [CHAT] [Premium] ~MathGenius: Gooby feels weird
+[17:55:58] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: because I want you inmy van <3
+[17:56:01] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: o.o
+[17:56:02] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: wot
+[17:56:03] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: WHY ME?..
+[17:56:04] [Client thread/INFO]: [CHAT] [Legend] alexisawesome02: Herobrine: What do u want for Christmas littles bow
+[17:56:08] [Client thread/INFO]: [CHAT] X8xXPunisherXx8X: SYTH
+[17:56:09] [Client thread/INFO]: [CHAT] [Premium] ~MathGenius: u feel weird!!
+[17:56:10] [Client thread/INFO]: [CHAT] [Herobrine] Syth_0_: o-o
+[17:56:12] [Client thread/INFO]: [CHAT] [me -> Syth_0_] minechat!
+[17:56:17] [Client thread/INFO]: [CHAT] [Herobrine] Syth_0_: puni?
+[17:56:18] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: There's Gooby, Gummy, Demon, Xad. EVERYONE!
+[17:56:20] [Client thread/INFO]: [CHAT] [+] Disguise as mobs or players :O! Type /store
+[17:56:26] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: Um
+[17:56:28] [Client thread/INFO]: [CHAT] bluenderdrago: sleep with one eye open
+[17:56:30] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: How does a girl rape a guy
+[17:56:32] [Client thread/INFO]: [CHAT] X8xXPunisherXx8X: u said you were going to play sb with me and you left :/
+[17:56:35] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: I'm important
+[17:56:37] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: since when
+[17:56:38] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: She breaks the laws of physics.
+[17:56:40] [Client thread/INFO]: [CHAT] [Hero] Map_Turtle: Would you like to find out? ;)
+[17:56:42] [Client thread/INFO]: [CHAT] [Herobrine] Syth_0_: my internet failed
+[17:56:45] [Client thread/INFO]: [CHAT] [Hero] Shadow_Riolu: No.
+[17:56:45] [Client thread/INFO]: [CHAT] [VIP] The_Demonstar01: No thanks.
+[17:56:47] [Client thread/INFO]: [CHAT] X8xXPunisherXx8X: :/
+[17:56:59] [Client thread/INFO]: [CHAT] X8xXPunisherXx8X: Syth_0_
+[17:57:07] [Client thread/INFO]: [CHAT] [Premium] Serakueyar33: Oh heeeeyyy
+[17:57:08] [Client thread/INFO]: [CHAT] X8xXPunisherXx8X: did you get a new skype?
+[17:57:10] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[17:57:10] [Client thread/INFO]: [CHAT] Warning: Players within 150 blocks will see your messages.
+[17:57:10] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[17:57:14] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[17:57:27] [Client thread/INFO]: [CHAT] [+] Get more faction power to expand your territory! Type /store
+[17:57:30] [Client thread/INFO]: [CHAT] rittydude567: yes!'
+[17:57:34] [Client thread/INFO]: [CHAT] **SuperRaiders Komendantski created a new faction SuperRaiders
+[17:57:58] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Um shes ma bad bitch and she can do what ever she wantss
+[17:58:09] [Client thread/INFO]: [CHAT] That name is already in use.
+[17:58:23] [Client thread/INFO]: [CHAT] That name is already in use.
+[17:58:27] [Client thread/INFO]: [CHAT] [+] Purchase special Survival kits! Type /store
+[17:58:37] [Client thread/INFO]: [CHAT] That name is already in use.
+[17:58:47] [Client thread/INFO]: [CHAT] DerpyArmy lobsterc97: ally how did you get out of the house?
+[17:58:50] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: I can be where ever i wantt
+[17:58:52] [Client thread/INFO]: [CHAT] You created a new faction TheDiamondPicks
+[17:58:53] [Client thread/INFO]: [CHAT] You should now: /f desc <desc>
+[17:58:56] [Client thread/INFO]: [CHAT] allygator575: upstairs brah.
+[17:58:57] [Client thread/INFO]: [CHAT] rittydude567: oh yeah wats thew ip again?
+[17:59:01] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: wait
+[17:59:02] [Client thread/INFO]: [CHAT] To few arguments. Use like this:
+[17:59:02] [Client thread/INFO]: [CHAT] /f desc <desc>
+[17:59:07] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: ok
+[17:59:13] [Client thread/INFO]: [CHAT] TheDiamondPicks set your faction description to:
+[17:59:13] [Client thread/INFO]: [CHAT] TheDiamondPicks
+[17:59:16] [Client thread/INFO]: [CHAT] BadGirlsClub pinklucci: okay, but you're stalking us like go to your own fac you're not wanted here. lol
+[17:59:16] [Client thread/INFO]: [CHAT] flowerlove14: hi!
+[17:59:23] [Client thread/INFO]: [CHAT] Kevin_expert: lets play together
+[17:59:24] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: I wont look :P
+[17:59:26] [Client thread/INFO]: [CHAT] _____________.[ (109,-53) SafeZone ].________________
+[17:59:26] [Client thread/INFO]: [CHAT] \N/##???$%===================&&^A^^^^^B
+[17:59:27] [Client thread/INFO]: [CHAT] W+EDEEF%%%===================&^^^G^^^^H
+[17:59:27] [Client thread/INFO]: [CHAT] /S\KLMNOP%===================&&&GGQQQ^R
+[17:59:27] [Client thread/INFO]: [CHAT] J\KKKM%%%%===================STTGGQQQU-
+[17:59:27] [Client thread/INFO]: [CHAT] JKKV%%%%%%=========+=========WXXXXQQQYZ
+[17:59:27] [Client thread/INFO]: [CHAT] J1%%%%%%%2===================WWX3X44566
+[17:59:27] [Client thread/INFO]: [CHAT] 78%9%%%%%%===================000abcb5bd
+[17:59:27] [Client thread/INFO]: [CHAT] ee%ggg%%%%===================hjmnbbbbbd
+[17:59:27] [Client thread/INFO]: [CHAT] /: GamingGroup X: TheShield F: PixelmonMasters ?: brokensoulsand C: farts R: ILoveFactions c: HydrogenBombers G: penguin V: toboss4u P: xpcreeper6 M: Dimondwither O: KoolGals B: Alvaro1117 ^: TheEnderArmy D: KittyPack h: factoin W: bobsnob n: MicrosoftCorp $: Pancakeprincess1 9: DerpCraft j: ELECTRIC 4: Kutmenreet =: SafeZone 2: FiraBUDDER E: SunRiseWolfPack g: teams K: DiamondSwords %: GamingDiamondz A: SlimeBox L: DinoBoys 6: Beast U: 3cows \: OneyNG b: AwesomeUnicorns 7: peanuts 0: coolfaction N: niallpeters123 1: lollololol H: BrianWT e: TheKilleur m: MegaMiners S: NoshtonCO T: theoneandonly1 Y: MyWolfPack 8: DFG #: Venom Z: sharks J: TheCoolOne 3: lalala &: GangsterPVP 5: Shadow1234 a: druddignight d: LucasBros Q: ColorWar
+[17:59:28] [Client thread/INFO]: [CHAT] [+] Get more money to buy items! Type /store
+[17:59:36] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: You done
+[17:59:38] [Client thread/INFO]: [CHAT] Kevin_expert: how do u get the sword
+[17:59:39] [Client thread/INFO]: [CHAT] MyLittleMonster XxDeathxX13: nah we are good
+[17:59:42] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: Tpa or Trivia Contest 3 seats left <----- L()()K
+[17:59:45] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Get a dictionary im not stalking u lol
+[17:59:46] [Client thread/INFO]: [CHAT] MyLittleMonster XxDeathxX13: i made it
+[17:59:50] [Client thread/INFO]: [CHAT] tntexplotion101: in vite me
+[17:59:59] [Client thread/INFO]: [CHAT] BadGirlsClub pinklucci: you are.
+[18:00:00] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Byyee happy niggaaa
+[18:00:02] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: ty?
+[18:00:09] [Client thread/INFO]: [CHAT] BadGirlsClub pinklucci: reporting.
+[18:00:13] [Client thread/INFO]: [CHAT] Kevin_expert: unfortunenatly i lost my skin :(
+[18:00:14] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: so many torches
+[18:00:16] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: Its just a water splash potion :P
+[18:00:17] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: sit over ther
+[18:00:27] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:00:28] [Client thread/INFO]: [CHAT] rittydude567: no
+[18:00:29] [Client thread/INFO]: [CHAT] [+] Get more faction power to expand your territory! Type /store
+[18:00:29] [Client thread/INFO]: [CHAT] MyLittleMonster XxDeathxX13: thats sad
+[18:00:30] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: brbd
+[18:00:35] [Client thread/INFO]: [CHAT] mcfans Tebeau: k
+[18:00:37] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[18:00:38] [Client thread/INFO]: [CHAT] tntexplotion101: my skin downloads fail every time
+[18:00:40] [Client thread/INFO]: [CHAT] wolflovers megasol415: f home
+[18:00:41] [Client thread/INFO]: [CHAT] Strange arguments auto.
+[18:00:41] [Client thread/INFO]: [CHAT] Use the command like this:
+[18:00:41] [Client thread/INFO]: [CHAT] /f
+[18:00:45] [Client thread/INFO]: [CHAT] __________.[ Help for command "f" 1/5 ]._____________
+[18:00:45] [Client thread/INFO]: [CHAT] # This command contains all faction stuff.
+[18:00:45] [Client thread/INFO]: [CHAT] /f ?,h,help [page=1]
+[18:00:45] [Client thread/INFO]: [CHAT] /f l,list [page=1] list all factions
+[18:00:45] [Client thread/INFO]: [CHAT] /f f,faction [faction=you] show faction information
+[18:00:45] [Client thread/INFO]: [CHAT] /f p,player [player=you] show player information
+[18:00:45] [Client thread/INFO]: [CHAT] /f join <faction> [player=you] join faction
+[18:00:45] [Client thread/INFO]: [CHAT] /f leave leave your faction
+[18:00:45] [Client thread/INFO]: [CHAT] /f home teleport to faction home
+[18:00:45] [Client thread/INFO]: [CHAT] /f map [on/off=once] show territory map
+[18:00:45] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: ok
+[18:00:48] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: you cute you cute im missin wich uu
+[18:01:04] [Client thread/INFO]: [CHAT] __________.[ Help for command "f" 2/5 ]._____________
+[18:01:04] [Client thread/INFO]: [CHAT] /f create <name> create new faction
+[18:01:04] [Client thread/INFO]: [CHAT] /f name <new name> set faction name
+[18:01:04] [Client thread/INFO]: [CHAT] /f desc <desc> change faction description
+[18:01:04] [Client thread/INFO]: [CHAT] /f sethome [faction=you] set the faction home
+[18:01:04] [Client thread/INFO]: [CHAT] /f open [yes/no=toggle] set if invitation is required to join
+[18:01:04] [Client thread/INFO]: [CHAT] /f inv,invite <player> [yes/no=toggle] set if player is invited
+[18:01:04] [Client thread/INFO]: [CHAT] /f kick <player> kick player from faction
+[18:01:04] [Client thread/INFO]: [CHAT] /f title <player> [title=] set player title
+[18:01:04] [Client thread/INFO]: [CHAT] /f promote <player> promote lesser members in your faction
+[18:01:07] [Client thread/INFO]: [CHAT] rittydude567: girl
+[18:01:11] [Client thread/INFO]: [CHAT] __________.[ Help for command "f" 3/5 ]._____________
+[18:01:11] [Client thread/INFO]: [CHAT] /f demote <player> demote lesser members in your faction
+[18:01:11] [Client thread/INFO]: [CHAT] /f officer <player> make player officer
+[18:01:11] [Client thread/INFO]: [CHAT] /f leader <player> [faction=you] set leader for faction
+[18:01:11] [Client thread/INFO]: [CHAT] /f money manage faction money
+[18:01:11] [Client thread/INFO]: [CHAT] /f sc,seechunk see the chunk you stand in
+[18:01:11] [Client thread/INFO]: [CHAT] /f claim [radius=1] [faction=you] claim land where you stand
+[18:01:11] [Client thread/INFO]: [CHAT] /f autoclaim [faction=you] autoclaim when walking
+[18:01:11] [Client thread/INFO]: [CHAT] /f unclaim unclaim land where you stand
+[18:01:11] [Client thread/INFO]: [CHAT] /f unclaimall unclaim all land
+[18:01:20] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: REALLY
+[18:01:20] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: get off the seat
+[18:01:22] [Client thread/INFO]: [CHAT] Now auto-claiming land for your faction.
+[18:01:22] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:25] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:27] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: c;z
+[18:01:29] [Client thread/INFO]: [CHAT] [+] Purchase special Survival kits! Type /store
+[18:01:30] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: Can I have some gunpowder?
+[18:01:30] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:34] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:36] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: can i has that back?
+[18:01:36] [Client thread/INFO]: [CHAT] besties lexi88ish: rittydude567 u wanna join my faction
+[18:01:36] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: u cant fuckin do that
+[18:01:38] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: I made my own strength potioh
+[18:01:39] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:39] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:45] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:45] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: u cnt fuckin sit on my chair
+[18:01:48] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:50] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: give me my stuff back
+[18:01:53] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: you will get ur stuff back
+[18:01:53] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:58] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:01:59] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: tebeau give it back
+[18:02:02] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:02:03] [Client thread/INFO]: [CHAT]  ~ SwagMuffins - Apply for our faction: http://itsjerryandharry.com/threads/swagmuffins-recruiting.13236/
+[18:02:03] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:02:04] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: u said to sit there
+[18:02:11] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: i said to sit over there
+[18:02:21] [Client thread/INFO]: [CHAT] tntexplotion101: can i join some1s faction
+[18:02:27] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: sit over there^^
+[18:02:31] [Client thread/INFO]: [CHAT] [+] Get more money to buy items! Type /store
+[18:02:39] [Client thread/INFO]: [CHAT] Your power is now 0.83 / 10.00
+[18:02:44] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: Tpa or Trivia Contest 3 seats left <----- L()()K
+[18:02:46] [Client thread/INFO]: [CHAT] flowerlove14: me
+[18:02:47] [Client thread/INFO]: [CHAT] Kevin_expert: i need
+[18:02:48] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: i dont see our base on ,.f map , are you sure we arent kist?
+[18:02:48] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: 2
+[18:02:50] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: U told me to sit there so dont lie and u cant do that
+[18:02:50] [Client thread/INFO]: [CHAT] besties lexi88ish: ok
+[18:03:00] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: jsut be elsa and let it go
+[18:03:01] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: I screen shoted that so u funna get banned
+[18:03:07] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: i said go over there^
+[18:03:08] [Client thread/INFO]: [CHAT] mcfans Tebeau: lol xD
+[18:03:09] [Client thread/INFO]: [CHAT] XxDeathxX13, XxRAINBOWSSSSxX
+[18:03:10] [Client thread/INFO]: [CHAT] XxDeathxX13, XxRAINBOWSSSSxX
+[18:03:12] [Client thread/INFO]: [CHAT] Request sent to XxRAINBOWSSSSxX.
+[18:03:14] [Client thread/INFO]: [CHAT] XxRAINBOWSSSSxX accepted your teleport request.
+[18:03:14] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[18:03:15] [Client thread/INFO]: [CHAT] besties lexi88ish: do /f join besties
+[18:03:17] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: Haha
+[18:03:17] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[18:03:20] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: ok.
+[18:03:24] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: most ppl don't give you their stuff back i did
+[18:03:31] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: guys this isnt claimed
+[18:03:32] [Client thread/INFO]: [CHAT] [+] Get more faction power to expand your territory! Type /store
+[18:03:33] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: And THANKSS
+[18:03:35] [Client thread/INFO]: [CHAT] besties flowerlove14: ok im in
+[18:03:36] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: Tpa or Trivia Contest 3 seats left <----- L()()K
+[18:03:38] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: nvm
+[18:03:43] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: theres 1 seat left actually
+[18:04:01] [Client thread/INFO]: [CHAT] Immortal [Premium] feldoesminecraft: anyone want some xp
+[18:04:06] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: ME
+[18:04:10] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: lets start
+[18:04:11] [Client thread/INFO]: [CHAT] Immortal [Premium] feldoesminecraft: tpa here
+[18:04:14] [Client thread/INFO]: [CHAT] mcfans Tebeau: k
+[18:04:24] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: I cant right now
+[18:04:27] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: when was mc made c:
+[18:04:33] [Client thread/INFO]: [CHAT] [+] Purchase special Survival kits! Type /store
+[18:04:34] [Client thread/INFO]: [CHAT] **Kevinexpert Kevin_expert created a new faction Kevinexpert
+[18:04:38] [Client thread/INFO]: [CHAT] mcfans Tebeau: 2009
+[18:04:41] [Client thread/INFO]: [CHAT] XxDeathxX13, XxRAINBOWSSSSxX
+[18:04:42] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Ugh 2008
+[18:04:48] [Client thread/INFO]: [CHAT] Immortal [Premium] feldoesminecraft: anyone wanna see my fac's island
+[18:04:48] [Client thread/INFO]: [CHAT] [me -> XxDeathxX13] 2008
+[18:04:49] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: HEYY
+[18:04:50] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: woops
+[18:04:58] [Client thread/INFO]: [CHAT] [XxDeathxX13 -> me] what?
+[18:05:01] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Ugh 2008
+[18:05:04] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: i think 2008
+[18:05:09] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Yeee
+[18:05:11] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: 1 point c:
+[18:05:11] [Client thread/INFO]: [CHAT] [me -> XxRAINBOWSSSSxX] 2008
+[18:05:20] [Client thread/INFO]: [CHAT] besties flowerlove14: WOW
+[18:05:25] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: next question
+[18:05:26] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: ???
+[18:05:33] [Client thread/INFO]: [CHAT] [+] Get more money to buy items! Type /store
+[18:05:37] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: how many docile mobs are there in mc
+[18:05:44] [Client thread/INFO]: [CHAT] BadGirlsClub CutiePieFighter: mc was made 2010
+[18:05:44] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: I gave birth... And I'm a cow... .-.
+[18:05:48] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: what docial
+[18:05:54] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: not hostile
+[18:05:58] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: they don't hurt u
+[18:06:04] [Client thread/INFO]: [CHAT] mcfans Tebeau: 3
+[18:06:10] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: nope
+[18:06:14] [Client thread/INFO]: [CHAT] mcfans Tebeau: 1
+[18:06:19] [Client thread/INFO]: [CHAT] Kevinexpert was disbanded.
+[18:06:21] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: nopey
+[18:06:26] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: 5
+[18:06:34] [Client thread/INFO]: [CHAT] [+] Get more faction power to expand your territory! Type /store
+[18:06:41] [Client thread/INFO]: [CHAT] [me -> XxRAINBOWSSSSxX] 10
+[18:06:42] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: noo
+[18:06:48] [Client thread/INFO]: [CHAT] mcfans Tebeau: 0
+[18:06:54] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: 10 c:
+[18:06:55] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: WHAT
+[18:06:56] [Client thread/INFO]: [CHAT] This Wool is locked with a magical spell
+[18:06:56] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: More babehs
+[18:06:58] [Client thread/INFO]: [CHAT] mcfans Tebeau: lol
+[18:07:00] [Client thread/INFO]: [CHAT] MandyMyleySpar does not allow you to edit the terrain.
+[18:07:03] [Client thread/INFO]: [CHAT] This Wool is locked with a magical spell
+[18:07:04] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: WHATT
+[18:07:05] [Client thread/INFO]: [CHAT] This Wool is locked with a magical spell
+[18:07:06] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: next question
+[18:07:14] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Pig chicken cow sheep and squid
+[18:07:22] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: They dont hurt u.
+[18:07:33] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: what version was horses and nametags added into mc
+[18:07:36] [Client thread/INFO]: [CHAT] [+] Purchase special Survival kits! Type /store
+[18:07:39] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: i think i know
+[18:07:40] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: 1.7
+[18:07:43] [Client thread/INFO]: [CHAT] mcfans Tebeau: 1.7
+[18:07:50] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Copy cat
+[18:07:52] [Client thread/INFO]: [CHAT] [me -> XxRAINBOWSSSSxX] 1.7
+[18:07:58] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: lol jk
+[18:07:59] [Client thread/INFO]: [CHAT] mcfans Tebeau: lol i was typing
+[18:08:01] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: c:
+[18:08:05] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: gooood jobb
+[18:08:08] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: next question
+[18:08:09] [Client thread/INFO]: [CHAT] mcfans Tebeau: nvm
+[18:08:12] [Client thread/INFO]: [CHAT] TigerBlood cocoapuffs2001: does any1 know how to make a beacon work
+[18:08:18] [Client thread/INFO]: [CHAT] allygator575: c;
+[18:08:25] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: Son!
+[18:08:28] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: how many tameable animals are in mc
+[18:08:28] [Client thread/INFO]: [CHAT] allygator575: hi.
+[18:08:29] [Client thread/INFO]: [CHAT] **thebestoftherest tntexplotion101 created a new faction thebestoftherest
+[18:08:32] [Client thread/INFO]: [CHAT] mcfans Tebeau: 5
+[18:08:33] [Client thread/INFO]: [CHAT] [me -> XxRAINBOWSSSSxX] 2
+[18:08:37] [Client thread/INFO]: [CHAT] [+] Get more money to buy items! Type /store
+[18:08:39] [Client thread/INFO]: [CHAT] allygator575: ikr.
+[18:08:42] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: 4
+[18:08:43] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: 2 ocelot & wolf
+[18:08:52] [Client thread/INFO]: [CHAT] mcfans Tebeau: horse
+[18:08:57] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: oh XD
+[18:08:58] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: dog pig horse cat
+[18:09:03] [Client thread/INFO]: [CHAT] [me -> XxRAINBOWSSSSxX] 3
+[18:09:08] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: you cant tame apig
+[18:09:11] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: dog pig horse cat Seee
+[18:09:11] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: um
+[18:09:16] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: you can ride one but u cant tame
+[18:09:17] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: but u can ride it
+[18:09:22] [Client thread/INFO]: [CHAT] [me -> XxRAINBOWSSSSxX] 3
+[18:09:27] [Client thread/INFO]: [CHAT] **flamingfire BurningFlame9 created a new faction flamingfire
+[18:09:27] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: dog horse cat
+[18:09:35] [Client thread/INFO]: [CHAT] [me -> XxRAINBOWSSSSxX] 3
+[18:09:37] [Client thread/INFO]: [CHAT] [+] Get more faction power to expand your territory! Type /store
+[18:09:44] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: poor tebeau has no points
+[18:09:46] [Client thread/INFO]: [CHAT] besties flowerlove14: were r u
+[18:09:46] [Client thread/INFO]: [CHAT] mcfans Tebeau: good job XD
+[18:09:52] [Client thread/INFO]: [CHAT] mcfans Tebeau: lol ikr
+[18:09:53] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: lol
+[18:10:01] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: haha
+[18:10:07] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: yeah?
+[18:10:07] [Client thread/INFO]: [CHAT] besties flowerlove14: try again
+[18:10:11] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: who si the leader in my fac ( do /f f MandyMyleySpar)
+[18:10:12] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Noooo
+[18:10:14] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: is*
+[18:10:22] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: im not the leader btw
+[18:10:24] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: Dont you mean... feather!
+[18:10:33] [Client thread/INFO]: [CHAT] besties flowerlove14: ok
+[18:10:38] [Client thread/INFO]: [CHAT] _______.[ Default Faction MandyMyleySpar ].__________
+[18:10:38] [Client thread/INFO]: [CHAT] Description: its so hard and fun to play with (clay) ~spar's art teacher. Get it? XD
+[18:10:38] [Client thread/INFO]: [CHAT] Age: 1month, 1week and 1day
+[18:10:38] [Client thread/INFO]: [CHAT] Open: No, only invited people can join
+[18:10:38] [Client thread/INFO]: [CHAT] Land / Power / Maxpower:  50/50/50
+[18:10:38] [Client thread/INFO]: [CHAT] In Truce with: WarZone, SafeZone
+[18:10:38] [Client thread/INFO]: [CHAT] Allies: NoobKill, Ballistic, AussieUnicorns, VanillaArmy
+[18:10:38] [Client thread/INFO]: [CHAT] Enemies:
+[18:10:38] [Client thread/INFO]: [CHAT] Followers online (1): +XxRAINBOWSSSSxX
+[18:10:38] [Client thread/INFO]: [CHAT] Followers offline (4): **amandaBeez, *sparlkyunicorn, +Cookiegocrazy, +its_that_ashley
+[18:10:38] [Client thread/INFO]: [CHAT] [+] Purchase special Survival kits! Type /store
+[18:10:39] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: lol ik
+[18:10:47] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: **amanda
+[18:10:52] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: yes
+[18:11:01] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: wooop
+[18:11:11] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: i don't has anymore questions left
+[18:11:21] [Client thread/INFO]: [CHAT] mcfans Tebeau: she wins
+[18:11:23] [Client thread/INFO]: [CHAT] minda87901 minda87901: anyone selling spawners?
+[18:11:24] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: yepp
+[18:11:33] [Client thread/INFO]: [CHAT] mcfans Tebeau: thx ;)
+[18:11:34] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: agian?
+[18:11:36] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: lemmme in
+[18:11:36] [Client thread/INFO]: [CHAT] besties flowerlove14: i dunno
+[18:11:38] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: who wants to do a trivia contest now
+[18:11:39] [Client thread/INFO]: [CHAT] [+] Get more money to buy items! Type /store
+[18:11:42] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:11:43] [Client thread/INFO]: [CHAT] mcfans Tebeau: me
+[18:11:46] [Client thread/INFO]: [CHAT] TheDiamondPicks TheDiamondPicks: bye
+[18:11:47] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:11:50] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: you'll just count de points
+[18:11:53] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:11:54] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: yup
+[18:11:56] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:11:56] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:11:57] [Client thread/INFO]: [CHAT] mcfans Tebeau: k
+[18:11:59] [Client thread/INFO]: [CHAT] *Kryptonite ImMIKKI08 gave **Kryptonite ItsVony the leadership of Kryptonite.
+[18:12:02] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:04] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: go in de chair
+[18:12:06] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:10] [Client thread/INFO]: [CHAT] Sanctum [Herobrine] chuckles99: Leelelelelelelelel hey yall
+[18:12:12] [Client thread/INFO]: [CHAT] Your power is now 2.50 / 10.00
+[18:12:16] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: omfg
+[18:12:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[18:12:21] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:21] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: tebeau sit in dat chair>
+[18:12:25] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:30] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:31] [Client thread/INFO]: [CHAT] LuThor JermaineDelaCruz: the le?ad
+[18:12:33] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:34] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:36] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:37] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: here
+[18:12:40] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:41] [Client thread/INFO]: [CHAT] [+] Get more faction power to expand your territory! Type /store
+[18:12:41] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:42] [Client thread/INFO]: [CHAT] [XxDeathxX13 -> me] would you like to join my server
+[18:12:46] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:48] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:49] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:12:50] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: lol
+[18:12:57] [Client thread/INFO]: [CHAT] [me -> XxDeathxX13] ok
+[18:12:59] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: im scaredd
+[18:13:01] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: 1st question?
+[18:13:02] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:13:03] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:13:08] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:13:15] [Client thread/INFO]: [CHAT] mcfans Tebeau: which mob does not attack u unless u attack it?
+[18:13:15] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:13:18] [Client thread/INFO]: [CHAT] DeBlossom theattackergo132: I'm only keeping one
+[18:13:21] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: enderman
+[18:13:22] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:13:24] [Client thread/INFO]: [CHAT] [XxDeathxX13 -> me] 192.99.0.184:41860
+[18:13:27] [Client thread/INFO]: [CHAT] DerpyArmy lobsterc97: pigman
+[18:13:31] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: pigman
+[18:13:32] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Pigman
+[18:13:33] [Client thread/INFO]: [CHAT] mcfans Tebeau: correct
+[18:13:39] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Shooot
+[18:13:39] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: which one correct
+[18:13:40] [Client thread/INFO]: [CHAT] DerpyArmy lobsterc97: ALLY
+[18:13:42] [Client thread/INFO]: [CHAT] [+] Purchase special Survival kits! Type /store
+[18:13:44] [Client thread/INFO]: [CHAT] allygator575: hi.
+[18:13:46] [Client thread/INFO]: [CHAT] mcfans Tebeau: rainbows
+[18:13:47] [Client thread/INFO]: [CHAT] DerpyArmy lobsterc97: get out
+[18:13:48] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: lol nah no tp
+[18:13:50] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: kk
+[18:13:58] [Client thread/INFO]: [CHAT] MandyMyleySpar [VIP] XxRAINBOWSSSSxX: 1-0
+[18:14:05] [Client thread/INFO]: [CHAT] CheerPVP Jitt_Melii: Less gooo
+[18:14:31] [Client thread/INFO]: Connecting to 192.99.0.184, 41860
+[18:14:33] [Server Connector #4/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection refused: no further information: /192.99.0.184:41860
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_05]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_05]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:191) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:228) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) ~[netty-all-4.0.10.Final.jar:?]
+	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_05]
+[18:14:38] [Client thread/INFO]: Connecting to 192.99.0.184, 41860
+[18:14:40] [Server Connector #5/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection refused: no further information: /192.99.0.184:41860
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_05]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_05]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:191) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:228) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) ~[netty-all-4.0.10.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) ~[netty-all-4.0.10.Final.jar:?]
+	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_05]
+[18:14:46] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[18:14:49] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[18:14:49] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[18:14:50] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[18:14:50] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[18:14:52] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[18:14:52] [Client thread/INFO]: [CHAT] Warning: Players within 150 blocks will see your messages.
+[18:14:52] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[18:15:04] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:06] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:10] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:15] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:18] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:23] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:29] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:34] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:35] [Client thread/INFO]: [CHAT] BadGirlsClub CutiePieFighter: omg XxRAINBOWSSSSxX is a cheater
+[18:15:43] [Client thread/INFO]: [CHAT] [+] Get more faction power to expand your territory! Type /store
+[18:15:46] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:50] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:55] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:57] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:15:58] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:15:58] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:58] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:15:58] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:15:59] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:15:59] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:15:59] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:00] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:00] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:00] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:00] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:02] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:02] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:02] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:02] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:02] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:02] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:03] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:03] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:03] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:03] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:03] [Client thread/INFO]: [CHAT] SafeZone does not allow you to edit the terrain.
+[18:16:06] [Client thread/INFO]: [CHAT] Thebestoftherest was disbanded.
+[18:16:06] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:10] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:14] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:20] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:21] [Client thread/INFO]: [CHAT] **sasage tntexplotion101 created a new faction sasage
+[18:16:22] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:27] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:27] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:35] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:43] [Client thread/INFO]: [CHAT]  ~ GangsterPVP
+[18:16:43] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:44] [Client thread/INFO]: [CHAT] [+] Purchase special Survival kits! Type /store
+[18:16:52] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:16:56] [Client thread/INFO]: [CHAT]  ~ TheEnderArmy - We are the only Ender Army left after the Nether Army attacked. We must survive on our own.
+[18:16:56] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:17:01] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:17:02] [Client thread/INFO]: [CHAT] TheEnderArmy does not allow you to edit the terrain.
+[18:17:02] [Client thread/INFO]: [CHAT] TheEnderArmy does not allow you to edit the terrain.
+[18:17:03] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:17:20] [Client thread/INFO]: [CHAT]  ~ JohnForTheWin
+[18:17:20] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:17:23] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:17:28] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:17:30] [Client thread/INFO]: [CHAT]  ~ TheEnderArmy - We are the only Ender Army left after the Nether Army attacked. We must survive on our own.
+[18:17:30] [Client thread/INFO]: [CHAT] You may not claim land from others.
+[18:17:41] [Client thread/INFO]: [CHAT] you disbanded your faction.
+[18:17:45] [Client thread/INFO]: [CHAT] [+] Get more money to buy items! Type /store
+[18:17:51] [Client thread/INFO]: [CHAT] theattackergo132, TheDiamondPicks
+[18:17:51] [Client thread/INFO]: [CHAT] theattackergo132, TheDiamondPicks
+[18:17:52] [Client thread/INFO]: [CHAT] theattackergo132, TheDiamondPicks
+[18:17:53] [Client thread/INFO]: [CHAT] theattackergo132, TheDiamondPicks
+[18:18:04] [Client thread/INFO]: [CHAT] This faction requires invitation.
+[18:18:10] [Client thread/INFO]: [CHAT]  ~ SHland - welcome~
+[18:18:28] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[18:18:28] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[18:18:28] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[18:18:28] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:18:31] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[18:18:33] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening?
+[18:18:37] [Client thread/INFO]: [CHAT] josephsoawesome: TPA to me if your awesome
+[18:18:44] [Client thread/INFO]: [CHAT] DontStealTheCake: TPA for an OPENING of a NEW MURDER/POWERS RP boyz girlz and petz
+[18:18:46] [Client thread/INFO]: [CHAT] Request sent to josephsoawesome.
+[18:18:50] [Client thread/INFO]: [CHAT] kelsy1: tpa to me for a hs/prom/powers rp need 3 more guys and 4 more girls to start
+[18:18:52] [Client thread/INFO]: [CHAT] GurlyTurtle: TPA for the most AMAZING RP in the world: FAMILY RP Owned by: Scream_14, need pets, girls, and boys_
+[18:18:56] [Client thread/INFO]: [CHAT] Karma_cat12: hello what would u like
+[18:18:58] [Client thread/INFO]: [CHAT] Request sent to josephsoawesome.
+[18:18:58] [Client thread/INFO]: [CHAT] DontStealTheCake: TPA for an OPENING of a NEW MURDER/POWERS RP boyz girlz and petz.
+[18:18:59] [Client thread/INFO]: [CHAT] josephsoawesome accepted your teleport request.
+[18:18:59] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[18:19:03] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[18:19:06] [Client thread/INFO]: [CHAT] GurlyTurtle: TPA for the most AMAZING RP in the world: FAMILY RP Owned by: Scream_14, need pets, girls, and boys`
+[18:19:12] [Client thread/INFO]: [CHAT] Karma_cat12: pls drive throuhg
+[18:19:12] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need Guys, Girls and 2 Teachers!!!=-
+[18:19:13] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:19:13] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:19:14] [Client thread/INFO]: [CHAT] Cool_Man_001: Does anyone else here have MorePlayerModels?
+[18:19:14] [Client thread/INFO]: [CHAT] flokiller105: i need to turn off clouds XD
+[18:19:14] [Client thread/INFO]: [CHAT] josephsoawesome: TPA to me if your a AWESOME REBEL
+[18:19:16] [Client thread/INFO]: [CHAT] scream_14: TPA TO me FOR A EPIC Family Rp w/Powers Need Girls N pets! (TPA IF UR A REBEL starting in 10 secs!!
+[18:19:17] [Client thread/INFO]: [CHAT] [Legend] FIRE_GEIKO: can i be austin
+[18:19:20] [Client thread/INFO]: [CHAT] DontStealTheCake: TPA for an OPENING of a NEW MURDER/POWERS RP boyz girlz and petz
+[18:19:23] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp!!! 0/7 SpOtS!!~~~~~
+[18:19:28] [Client thread/INFO]: [CHAT] GurlyTurtle: TPA for the most AMAZING RP in the world: FAMILY RP Owned by: Scream_14, need pets, girls, and boys)
+[18:19:28] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:19:30] [Client thread/INFO]: [CHAT] StampylongGhast: who has /headgrabber
+[18:19:37] [Client thread/INFO]: [CHAT] GurlyTurtle: TPA for the most AMAZING RP in the world: FAMILY RP Owned by: Scream_14, need pets, girls, and boys(
+[18:19:38] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp!!! 0/7 SpOtS!!~~~~
+[18:19:40] [Client thread/INFO]: [CHAT] [me -> RainbowPanda365] whats the prize
+[18:19:41] [Client thread/INFO]: [CHAT] StampylongGhast: tpa RainbowPanda365
+[18:19:41] [Client thread/INFO]: [CHAT] Vickiro: :(
+[18:19:42] [Client thread/INFO]: [CHAT] Breanna321: ^_^Tpa For A Epic Rp With Powers^_^ (caps are for....... snowmen!)
+[18:19:45] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need Guys, Girls and 2 Teachers!!!=- :P
+[18:19:50] [Client thread/INFO]: [CHAT] kelsy1: tpa to me for a hs/prom/powers rp need peeps
+[18:19:58] [Client thread/INFO]: [CHAT] josephsoawesome: TPA to me if you are a Awesome Crazy Rebel
+[18:20:01] [Client thread/INFO]: [CHAT] scream_14: GOO!
+[18:20:10] [Client thread/INFO]: [CHAT] GurlyTurtle: TPA for the most AMAZING RP in the world: FAMILY RP Owned by: Scream_14, need pets, girls, and boys*
+[18:20:11] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:20:12] [Client thread/INFO]: [CHAT] [RainbowPanda365 -> me] God Items
+[18:20:16] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need Guys and Girls!!!=-
+[18:20:17] [Client thread/INFO]: [CHAT] Pew_SweetPuddles: {SK} Tpa For Skin Comp Winner Gets 3 Diffrient Kinds Of Fire Works And Name Goes On Wall Of Fame 0/6
+[18:20:19] [Client thread/INFO]: [CHAT] ChocolateBananaC: Bella<*>
+[18:20:20] [Client thread/INFO]: [CHAT] DontStealTheCake: TPA for an OPENING of a NEW MURDER/POWERS RP boyz girlz and petz.
+[18:20:20] [Client thread/INFO]: [CHAT] Request sent to RainbowPanda365.
+[18:20:24] [Client thread/INFO]: [CHAT] RainbowPanda365 accepted your teleport request.
+[18:20:24] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[18:20:26] [Client thread/INFO]: [CHAT] Karma_cat12: lag
+[18:20:28] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[18:20:28] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:20:30] [Client thread/INFO]: [CHAT] ChocolateBananaC: Bella>
+[18:20:40] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:20:44] [Client thread/INFO]: [CHAT] josephsoawesome: sup
+[18:20:47] [Client thread/INFO]: [CHAT] scream_14: rp has started
+[18:20:47] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:20:53] [Client thread/INFO]: [CHAT] kelsy1: TPA TO MEH FOR A EPIC hs/prom/powers rp Need 3 more guys and 4 more girls to start
+[18:20:54] [Client thread/INFO]: [CHAT] pigel33: (jarrod)
+[18:20:54] [Client thread/INFO]: [CHAT] scream_14: GUYS
+[18:20:56] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need Guys and Girls!!!=- :P
+[18:20:58] [Client thread/INFO]: [CHAT] Karma_cat12: what would u like
+[18:20:58] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:21:04] [Client thread/INFO]: [CHAT] ChocolateBananaC: stop
+[18:21:07] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 0/7 SpOtS!!~~~~
+[18:21:11] [Client thread/INFO]: [CHAT] sonictrolledyou: hi scream
+[18:21:15] [Client thread/INFO]: [CHAT] JAAT2000: SAY 123 IF YOU KNOW ME xD (caps thing)
+[18:21:17] [Client thread/INFO]: [CHAT] scream_14: Everybody RP HAS STARTED
+[18:21:21] [Client thread/INFO]: [CHAT] josephsoawesome: can we just have one more guy then could we start??
+[18:21:22] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 0/7 SpOtS!!~~~~~
+[18:21:22] [Client thread/INFO]: [CHAT] sonictrolledyou: 123
+[18:21:23] [Client thread/INFO]: [CHAT] [Legend] blackshaun12: SmallVivor
+[18:21:29] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:21:30] [Client thread/INFO]: [CHAT] heindel34: ok bye
+[18:21:31] [Client thread/INFO]: [CHAT] [Legend] blackshaun12: Where are you?
+[18:21:32] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!!
+[18:21:35] [Client thread/INFO]: [CHAT] [Premium] ~Damara: ?????
+[18:21:39] [Client thread/INFO]: [CHAT] josephsoawesome: well girl
+[18:21:40] [Client thread/INFO]: [CHAT] Breanna321: ^_^Tpa For A Epic Rp With Powers^_^ (caps are for....... snowmen!!)
+[18:21:40] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: hey swirly
+[18:21:40] [Client thread/INFO]: [CHAT] Airbutts: TP FOR EPIC POWERS RP!!! NEED PEOPLE!! HURRY!!!(caps have powers)<=-=-=-=L00K!!!!
+[18:21:43] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 0/7 SpOtS!!~~~~
+[18:21:47] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!
+[18:21:48] [Client thread/INFO]: [CHAT] jade_carla: ~* SUMMER*~
+[18:21:48] [Client thread/INFO]: [CHAT] Karma_cat12: samtat pls come to mc's
+[18:21:51] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 2/7 SpOtS!!~~~
+[18:21:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:21:57] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: hi
+[18:21:59] [Client thread/INFO]: [CHAT] cameron0723 has requested to teleport to you.
+[18:21:59] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:21:59] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:21:59] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:21:59] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 2/7 SpOtS!!~~~~~
+[18:22:00] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:22:03] [Client thread/INFO]: [CHAT] MewMew18: LOL i had tried to tp to myself
+[18:22:05] [Client thread/INFO]: [CHAT] dedath528: Say 123 for a wolf pet! (PS: I'm a boy)
+[18:22:09] [Client thread/INFO]: [CHAT] [Premium] ~Damara: ??????????
+[18:22:14] [Client thread/INFO]: [CHAT] sonictrolledyou: 123!
+[18:22:15] [Client thread/INFO]: [CHAT] [Premium] ~Damara: ANY ROLEPLAY
+[18:22:22] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 2/7 SpOtS!!~~~~
+[18:22:26] [Client thread/INFO]: [CHAT] kelsy1: tpa to me for a hs/prom/powers rp
+[18:22:26] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need Guys and Girls!!!=-
+[18:22:27] [Client thread/INFO]: [CHAT] Karma_cat12: SamTatbaker pls come in throught the drive way
+[18:22:27] [Client thread/INFO]: [CHAT] JAAT2000: i was just asking xD
+[18:22:29] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:22:32] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 3/7 SpOtS!!~~~~
+[18:22:33] [Client thread/INFO]: [CHAT] Airbutts: TP FOR EPIC POWERS RP!!!! HURRY!!!!(caps have powers)<=-=-=-=L00K!!!!!
+[18:22:34] [Client thread/INFO]: [CHAT] josephsoawesome: its 2 and 2 even
+[18:22:38] [Client thread/INFO]: [CHAT] [me -> cameron0723] tpa RainbowPanda365
+[18:22:42] [Client thread/INFO]: [CHAT] [cameron0723 -> me] i did
+[18:22:42] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!!
+[18:22:48] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 3/7 SpOtS!!~~~
+[18:22:49] [Client thread/INFO]: [CHAT] scream_14: ^Matt^ Hey Riley
+[18:22:54] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!
+[18:22:54] [Client thread/INFO]: [CHAT] dedath528: Say 123 for a wolf pet! (PS: I'm a boy)~!
+[18:22:56] [Client thread/INFO]: [CHAT] StampylongGhast: tpa for a awsome skin comp winner gets god items
+[18:22:56] [Client thread/INFO]: [CHAT] Karma_cat12: Lol
+[18:23:03] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need Guys and Girls!!!=- :P
+[18:23:03] [Client thread/INFO]: [CHAT] sonictrolledyou: ded really?
+[18:23:04] [Client thread/INFO]: [CHAT] Karma_cat12: start here
+[18:23:05] [Client thread/INFO]: [CHAT] kelsy1: tpa to me for a epic hs/prom/powers rp please join
+[18:23:07] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!!
+[18:23:08] [Client thread/INFO]: [CHAT] scream_14: ^Matt^ Cewl.
+[18:23:12] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 5/7 SpOtS!!~~~
+[18:23:12] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:23:13] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:23:15] [Client thread/INFO]: [CHAT] Pew_SweetPuddles: {SK} Tpa For Skin Comp Winner Gets 3 Diffrient Kinds Of Fire Works N Name Goes On Wall Of Fame 0/6 !
+[18:23:18] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[18:23:19] [Client thread/INFO]: [CHAT] Airbutts: TP FOR EPIC POWERS RP!!! HURRY!!!(caps have powers)<=-=-=-=-=L00K!!!!
+[18:23:19] [Client thread/INFO]: [CHAT] [Premium] ~Damara: ??????????
+[18:23:21] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!
+[18:23:27] [Client thread/INFO]: [CHAT] [Premium] ~Damara: I HELP
+[18:23:27] [Client thread/INFO]: [CHAT] Karma_cat12: SamTatBaker come through
+[18:23:30] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:23:31] [Client thread/INFO]: [CHAT] [Premium] ~Damara: I WANT
+[18:23:34] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 6 Guys and 6 Girls!!!=- :P
+[18:23:35] [Client thread/INFO]: [CHAT] Aclover44: tpa For a firework show
+[18:23:35] [Client thread/INFO]: [CHAT] [Premium] ~Damara: TO HELP
+[18:23:36] [Client thread/INFO]: [CHAT] josephsoawesome: the d
+[18:23:37] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!!
+[18:23:37] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 1 SpOt LeFt!!~~~
+[18:23:37] [Client thread/INFO]: [CHAT] jade_carla: ~* SUMMER*~ Hi sarah
+[18:23:47] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 1 SpOt LeFt!!~~
+[18:23:49] [Client thread/INFO]: [CHAT] [Premium] ~Damara: ANY ROLEPLAY
+[18:23:52] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[18:23:53] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 6 Guys and 6 Girls!!!=-
+[18:23:56] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!
+[18:23:57] [Client thread/INFO]: [CHAT] [Premium] ~Damara: I HELP WITH
+[18:23:59] [Client thread/INFO]: [CHAT] RainbowPanda365: ~~~~TpA fOr A aWeSoMe SkIn CoMp WiNnEr GeTs GoD iTeMs!!! 1 SpOt LeFt!!~~~~
+[18:24:00] [Client thread/INFO]: [CHAT] Karma_cat12: what would u like
+[18:24:08] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 6 Guys and 6 Girls!!!=- :P
+[18:24:10] [Client thread/INFO]: [CHAT] Airbutts: TP FOR EPIC POWERS RP!!! HURRY!!!(caps have powers)<=====L00K!!!!!
+[18:24:13] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa to rainbowpanda365 for epic skin comp winner gets god stuff!!!!
+[18:24:17] [Client thread/INFO]: [CHAT] [Legend] blackshaun12: SmallVivor
+[18:24:18] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:20] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:20] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:20] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:23] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:23] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:24] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:28] [Client thread/INFO]: [CHAT] RainbowPanda365: ok lets start
+[18:24:31] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:31] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:24:33] [Client thread/INFO]: [CHAT] sonictrolledyou: Yay
+[18:24:37] [Client thread/INFO]: [CHAT] MewMew18: yay
+[18:24:37] [Client thread/INFO]: [CHAT] Crafty_wolf5445: Damara, can you help with our roleplay?
+[18:24:42] [Client thread/INFO]: [CHAT] StampylongGhast: yay
+[18:24:43] [Client thread/INFO]: [CHAT] josephsoawesome: who is sexier
+[18:24:44] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:44] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:45] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:24:50] [Client thread/INFO]: [CHAT] Breanna321: ^_^Tpa For A Epic Rp With Powers^_^ (caps are for....... snowmen!)
+[18:24:52] [Client thread/INFO]: [CHAT] Karma_cat12: drive through asmit
+[18:24:55] [Client thread/INFO]: [CHAT] sonictrolledyou: god damn my cat just threw up on my leg
+[18:24:56] [Client thread/INFO]: [CHAT] [Legend] blackshaun12: No i am so not
+[18:24:59] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:25:03] [Client thread/INFO]: [CHAT] [Legend] ~Horse: who needs help with something?
+[18:25:04] [Client thread/INFO]: [CHAT] Aclover44: tpa for a firwork show lots of awesome fireworks (caps sucks)
+[18:25:04] [Client thread/INFO]: [CHAT] RainbowPanda365: ewww XD
+[18:25:06] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 7 Guys and 6 Girls!!!=- :P
+[18:25:10] [Client thread/INFO]: [CHAT] Karma_cat12: 2 dollars
+[18:25:15] [Client thread/INFO]: [CHAT] MewMew18: XD
+[18:25:16] [Client thread/INFO]: [CHAT] [Premium] ~Damara: ?????
+[18:25:19] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:25:28] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:25:31] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:25:32] [Client thread/INFO]: [CHAT] Karma_cat12: ok next stop
+[18:25:39] [Client thread/INFO]: [CHAT] Breanna321: ^_^Tpa For A Epic Rp With Powers^_^ (caps are for....... snowmen!!)
+[18:25:42] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:25:43] [Client thread/INFO]: [CHAT] Airbutts: TPA FOR EPIC POWERS RP!!!! HURRY!!! NEED PEOPLE!!!!(caps have powers)<============L00K!!!!!
+[18:25:44] [Client thread/INFO]: [CHAT] Karma_cat12: Lol hehe
+[18:25:47] [Client thread/INFO]: [CHAT] kelsy1: TPA TO ME FOR A Hs/Prom/Powers RP NEED PEEPS
+[18:25:52] [Client thread/INFO]: [CHAT] RainbowPanda365: sorry ur green josephsoawesome
+[18:25:52] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:25:56] [Client thread/INFO]: [CHAT] Karma_cat12: i just made FIVE BUCKS! im rich
+[18:25:56] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: tpa
+[18:25:59] [Client thread/INFO]: [CHAT] Crafty_wolf5445: Okay, Damara can you help us build a roleplay thing?
+[18:25:59] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: for'
+[18:26:05] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: awesome club!!
+[18:26:07] [Client thread/INFO]: [CHAT] RainbowPanda365: TheDiamondPicks ur green then
+[18:26:08] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: tpa
+[18:26:09] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: for'
+[18:26:10] [Client thread/INFO]: [CHAT] [Premium] ~Damara: ??????????????
+[18:26:11] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: awesome club!!
+[18:26:17] [Client thread/INFO]: [CHAT] RainbowPanda365: go up
+[18:26:31] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:26:32] [Client thread/INFO]: [CHAT] [Premium] ~Damara: I FIX SKIN
+[18:26:33] [Client thread/INFO]: [CHAT] kelsy1: tpa to meh for a epic hs/prom/powers rp need girls and boys
+[18:26:34] [Client thread/INFO]: [CHAT] [Premium] ~Damara: LATER
+[18:26:38] [Client thread/INFO]: [CHAT] Vickiro: let's do a secirety place
+[18:26:43] [Client thread/INFO]: [CHAT] Airbutts: TPA FOR EPIC POWERS RP!!! HURRY!!! Need people!!!(caps have powers)<==============L00K!!!!!!
+[18:26:44] [Client thread/INFO]: [CHAT] [Legend] LitteMouse413: tpa to me to vote for a rp i will build! also i am hiring
+[18:26:46] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:26:53] [Client thread/INFO]: [CHAT] Karma_cat12: LOl!
+[18:26:54] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:26:54] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:27:05] [Client thread/INFO]: [CHAT] kelsy1: hans advertise
+[18:27:06] [Client thread/INFO]: [CHAT] Karma_cat12: Room service coming though!
+[18:27:07] [Client thread/INFO]: [CHAT] [Premium] ~Damara: NEVER
+[18:27:09] [Client thread/INFO]: [CHAT] [Premium] ~Damara: MIND
+[18:27:09] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: xD
+[18:27:12] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: lol
+[18:27:13] [Client thread/INFO]: [CHAT] [Premium] ~Damara: I FIX NOW
+[18:27:13] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:27:14] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:27:14] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:27:18] [Client thread/INFO]: [CHAT] kelsy1: tpa to me for a awesome hs/prom/powers rp
+[18:27:22] [Client thread/INFO]: [CHAT] Karma_cat12: room service! anything today?
+[18:27:22] [Client thread/INFO]: [CHAT] RainbowPanda365: mmmm
+[18:27:26] [Client thread/INFO]: [CHAT] [Premium] ~Damara: WHY LAUGH
+[18:27:26] [Client thread/INFO]: [CHAT] [Legend] LitteMouse413: tpa to me to vote for a rp i will build! also i am hiring!
+[18:27:29] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 7 Guys and 5 Girls!!!=-
+[18:27:29] [Client thread/INFO]: [CHAT] [Premium] ~Damara: why you laugh
+[18:27:33] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:27:33] [Client thread/INFO]: [CHAT] Airbutts: TPA FOR EPIC POWERS RP!!!! HURRY!!!! NEED PEOPLE!!!!(caps have powers)<============L00K!!!!
+[18:27:33] [Client thread/INFO]: [CHAT] [Premium] ~Damara: WHY YOU
+[18:27:35] [Client thread/INFO]: [CHAT] [Premium] ~Damara: LAUGH
+[18:27:36] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 5 Guys and 5 Girls!!!=-
+[18:27:37] [Client thread/INFO]: [CHAT] [Legend] LitteMouse413: Yes
+[18:27:41] [Client thread/INFO]: [CHAT] [Donator] BudderJC: we laugh cause you on drugs
+[18:27:42] [Client thread/INFO]: [CHAT] [VIP] Swirlywhirley: say 123 if you are having a regular high school rp!! (caps wuut)
+[18:27:42] [Client thread/INFO]: [CHAT] Karma_cat12: Why?
+[18:27:44] [Client thread/INFO]: [CHAT] [Donator] BudderJC: idek
+[18:27:47] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:27:54] [Client thread/INFO]: [CHAT] josephsoawesome: tpa to me if you are A awesome crazy epic rebel
+[18:27:56] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:27:58] [Client thread/INFO]: [CHAT] [Legend] LitteMouse413: follow
+[18:28:01] [Client thread/INFO]: [CHAT] RainbowPanda365: no swords
+[18:28:04] [Client thread/INFO]: [CHAT] [Premium] ~Aranea: http://mustachefirebender.tumblr.com/post/30650580005/peh-chan-so-aranea-and-porrim-fucked-guys
+[18:28:06] [Client thread/INFO]: [CHAT] sonictrolledyou: haha
+[18:28:09] [Client thread/INFO]: [CHAT] kelsy1: tpa to meh for a epic HS/PROM/POWERS RP need 2 more guys and 4 more girls to start
+[18:28:11] [Client thread/INFO]: [CHAT] RainbowPanda365: :P
+[18:28:11] [Client thread/INFO]: [CHAT] Airbutts: TPA FOR EPIC POWERS RP!!!! NEED PEOPLE!!!! HURRY!!!!(caps have powers)<===========L00K!!!!!!
+[18:28:12] [Client thread/INFO]: [CHAT] [Premium] ~Aranea: How did these get out?!
+[18:28:13] [Client thread/INFO]: [CHAT] [Legend] LitteMouse413: FOLLOW!!
+[18:28:16] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:28:16] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:28:17] [Client thread/INFO]: [CHAT] MewMew18: LOL
+[18:28:17] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:28:17] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:28:17] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:28:22] [Client thread/INFO]: [CHAT] [Premium] ~Aranea: I'm so em8arrassed.
+[18:28:26] [Client thread/INFO]: [CHAT] RainbowPanda365: XD
+[18:28:27] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:28:29] [Client thread/INFO]: [CHAT] [VIP] Swirlywhirley: SAY 123 IF you ARE having A high SCHOOL rp!! OR msg ME!!!!!!
+[18:28:29] [Client thread/INFO]: [CHAT] Diggy_Dwarf03: Damn
+[18:28:33] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:28:33] [Client thread/INFO]: [CHAT] [Legend] LitteMouse413: tpa to me to vote for a rp i will build! also i am hiring!!
+[18:28:35] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:28:35] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:28:38] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:28:38] [Client thread/INFO]: [CHAT] kelsy1: 123
+[18:28:40] [Client thread/INFO]: [CHAT] Breanna321: ^_^Tpa For A Epic Rp With Powers^_^ (caps are for....... snowmen!)
+[18:28:44] [Client thread/INFO]: [CHAT] Request sent to LitteMouse413.
+[18:28:46] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 4 Guys and 5 Girls!!!=-
+[18:28:46] [Client thread/INFO]: [CHAT] [Premium] ~Aranea: I'm on from the hotel I'm at, just checking on the server.
+[18:28:46] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious:  _
+[18:28:46] [Client thread/INFO]: [CHAT] Karma_cat12: Lol!
+[18:28:47] [Client thread/INFO]: [CHAT] LitteMouse413 accepted your teleport request.
+[18:28:47] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[18:28:48] [Client thread/INFO]: [CHAT] Pending teleportation request cancelled.
+[18:28:51] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:28:54] [Client thread/INFO]: [CHAT] Request sent to LitteMouse413.
+[18:28:56] [Client thread/INFO]: [CHAT] LitteMouse413 accepted your teleport request.
+[18:28:56] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[18:28:59] [Client thread/INFO]: [CHAT] Karma_cat12: lol
+[18:28:59] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[18:28:59] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:29:00] [Client thread/INFO]: [CHAT] Airbutts: TPA FOR EPIC POWERS RP!!!!! NEED PEOPLE!!!! HURRY!!!!(caps have powers)<==========L00K!!!!
+[18:29:00] [Client thread/INFO]: [CHAT] [Premium] ~Aranea: Vriska must've 8een on
+[18:29:03] [Client thread/INFO]: [CHAT] Vickiro: brb
+[18:29:04] [Client thread/INFO]: [CHAT] [Premium] ~Aranea: -squint-
+[18:29:06] [Client thread/INFO]: [CHAT] sonictrolledyou: i feel like *throws up*
+[18:29:10] [Client thread/INFO]: [CHAT] Sup3rboy25: tpa for funland!!
+[18:29:11] [Client thread/INFO]: [CHAT] [Premium] ~Aranea: -groans-
+[18:29:12] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 4 Guys and 5 Girls!!!=- :P
+[18:29:29] [Client thread/INFO]: [CHAT] Diggy_Dwarf03: Damn cloud
+[18:29:33] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:29:35] [Client thread/INFO]: [CHAT] asmit14777: anyone can visit the hotel
+[18:29:41] [Client thread/INFO]: [CHAT] Sup3rboy25: tpa for funland/mcdonal/bookstore/parkour...!!
+[18:29:48] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 4 Guys and 5 Girls!!!=-
+[18:29:49] [Client thread/INFO]: [CHAT] Airbutts: TP FOR EPIC POWERS RP!!!! NEED PEOPLE!!! HURRY!!!(caps have powers)<=======L00K!!!!!
+[18:29:54] [Client thread/INFO]: [CHAT] Sup3rboy25: tpa for funland/mcdonal/bookstore/parkour...!!!!
+[18:29:54] [Client thread/INFO]: [CHAT] [me -> LitteMouse413] do you want to work ata head shop
+[18:30:00] [Client thread/INFO]: [CHAT] [VIP] Swirlywhirley: SAY 123 IF you ARE having A regular HIGH school RP!! or MSG me!!!!!!
+[18:30:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:30:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:30:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[18:30:10] [Client thread/INFO]: [CHAT] [LitteMouse413 -> me] umm sure, why?
+[18:30:25] [Client thread/INFO]: [CHAT] Sup3rboy25: tpa for funland/mcdonal/bookstore/parkour/afk........!!
+[18:30:26] [Client thread/INFO]: [CHAT] [me -> LitteMouse413] i own one :D
+[18:30:30] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?
+[18:30:33] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:30:35] [Client thread/INFO]: [CHAT] Sup3rboy25: tpa for funland/mcdonal/bookstore/parkour/afk........
+[18:30:36] [Client thread/INFO]: [CHAT] [LitteMouse413 -> me] cool
+[18:30:41] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ?Tpa For Club? ?Second Day Opening!?.
+[18:30:48] [Client thread/INFO]: [CHAT] Karma_cat12: Sorry no
+[18:30:49] [Client thread/INFO]: [CHAT] Crafty_wolf5445: Damara, if you want to you can leave cause we arent doing a rp anymore.
+[18:30:49] [Client thread/INFO]: [CHAT] josephsoawesome: tpa to me for taco bell
+[18:30:52] [Client thread/INFO]: [CHAT] [me -> LitteMouse413] wait do this command /headgrabber
+[18:31:01] [Client thread/INFO]: [CHAT] [LitteMouse413 -> me] why
+[18:31:03] [Client thread/INFO]: [CHAT] Airbutts: TP FOR EPIC POWERS RP!!! HURRY!!! NEEP PEOPLE!!!(caps have powers)<=============L00K!!!!!
+[18:31:09] [Client thread/INFO]: [CHAT] [me -> LitteMouse413] try it
+[18:31:09] [Client thread/INFO]: [CHAT] sonictrolledyou: shes getting something
+[18:31:12] [Client thread/INFO]: [CHAT] Breanna321: ^_^Tpa For A Epic Rp With Powers^_^ (caps are for....... snowmen!!)
+[18:31:22] [Client thread/INFO]: [CHAT] [LitteMouse413 -> me] well if ur testing that it works it does
+[18:31:27] [Client thread/INFO]: [CHAT] Maddiedoesmc: -=TPA FOR EPIC POWER HS RP!!!! Need 4 Guys and 5 Girls!!!=- :P
+[18:31:34] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:31:35] [Client thread/INFO]: [CHAT] sonictrolledyou: plz pick me
+[18:31:36] [Client thread/INFO]: [CHAT] [me -> LitteMouse413] tpa to me soon
+[18:31:37] [Client thread/INFO]: [CHAT] josephsoawesome: Tp to me for A MODERN DELICOUS TACO BELL!!!
+[18:31:44] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPAFOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontowntheadd)
+[18:31:45] [Client thread/INFO]: [CHAT] [VIP] Swirlywhirley: SAY 123 IF you ARE having A regular HIGH school RP!! or MSG me!!!
+[18:31:51] [Client thread/INFO]: [CHAT] [me -> LitteMouse413] now
+[18:31:56] [Client thread/INFO]: [CHAT] [Premium] ~Damara: ????Aranea?Porrim??????????
+[18:31:57] [Client thread/INFO]: [CHAT] sonictrolledyou: R:
+[18:31:58] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPAFOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontowntheadd
+[18:32:00] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPAFOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontowntheadd)
+[18:32:12] [Client thread/INFO]: [CHAT] [LitteMouse413 -> me] 1 sec, i got some heads i wanna bring
+[18:32:14] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA FOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontowntheadd
+[18:32:21] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA FOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontownthead
+[18:32:22] [Client thread/INFO]: [CHAT] RickStrad14: tpa to me for hs rp
+[18:32:23] [Client thread/INFO]: [CHAT] [Legend] blackshaun12: Tpa to play Do Not Laugh! 1/6
+[18:32:24] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA FOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontownthead)
+[18:32:24] [Client thread/INFO]: [CHAT] josephsoawesome: i cant stay here all day..... i wanna go to the hotel/mcdonalds
+[18:32:31] [Client thread/INFO]: [CHAT] Airbutts: TP FOR EPIC POWERS RP!!!! NEED PEOPLE!!! HURRY!!!(caps have powers)<=============L00K!!!!
+[18:32:31] [Client thread/INFO]: [CHAT] TP9944: any head shops
+[18:32:34] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:32:36] [Client thread/INFO]: [CHAT] sonictrolledyou: hello winin place
+[18:32:40] [Client thread/INFO]: [CHAT] [Premium] ~Damara: HEHE
+[18:32:41] [Client thread/INFO]: [CHAT] TP9944: any head shops msg me
+[18:32:41] [Client thread/INFO]: [CHAT] Vickiro: ok
+[18:32:46] [Client thread/INFO]: [CHAT] sonictrolledyou: dude get out
+[18:32:46] [Client thread/INFO]: [CHAT] [Premium] ~Damara: I PUT
+[18:32:49] [Client thread/INFO]: [CHAT] [Premium] ~Damara: PIC OF
+[18:32:51] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA FOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontownthead
+[18:32:53] [Client thread/INFO]: [CHAT] [Premium] ~Damara: RANEA AND
+[18:32:58] [Client thread/INFO]: [CHAT] sonictrolledyou: yay
+[18:33:03] [Client thread/INFO]: [CHAT] [Premium] ~Damara: PORM ONLIN
+[18:33:11] [Client thread/INFO]: [CHAT] Sup3rboy25: oh follow me i want this room
+[18:33:13] [Client thread/INFO]: [CHAT] TP9944: say 123 if u have a head shop
+[18:33:14] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA FOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontownthead)
+[18:33:16] [Client thread/INFO]: [CHAT] [VIP] Swirlywhirley: Can I have a DELUXE room please?
+[18:33:16] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA FOR AN AWESOME MCDONALDSWITH HOTEL AND MORE COMING SOON (capscauseidontownthead
+[18:33:23] [Client thread/INFO]: [CHAT] [me -> LitteMouse413] im really sorry i gtg
+[18:33:24] [Client thread/INFO]: [CHAT] [VIP] Swirlywhirley: Can I have a DELUXE room please???
+[18:33:25] [Client thread/INFO]: [CHAT] josephsoawesome: ahhhh i cant take it anymore
+[18:33:25] [Client thread/INFO]: [CHAT] Breanna321: ^_^Tpa For A Epic Rp With Powers^_^ (caps are for....... snowmen!)

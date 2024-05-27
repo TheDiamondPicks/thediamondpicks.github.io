@@ -1,0 +1,1083 @@
+[16:43:50] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:43:50] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[16:43:50] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[16:43:50] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:43:51] [Client thread/INFO]: [CHAT]
+[16:43:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 165 ms
+[16:43:53] [Client thread/INFO]: [CHAT] Zoezilla: yup
+[16:43:56] [Client thread/INFO]: Warning: Clientside chunk ticking took 102 ms
+[16:43:58] [Client thread/INFO]: [CHAT] [Legend] Apex156: you are addicted to a corner
+[16:43:59] [Client thread/INFO]: [CHAT] [Legend] Apex156: xD
+[16:44:01] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[16:44:08] [Client thread/INFO]: [CHAT] Zoezilla: lawl
+[16:44:13] [Client thread/INFO]: [CHAT] MasterAj911 won Spleef!
+[16:44:15] [Client thread/INFO]: [CHAT] legomanDKZ: gg
+[16:44:15] [Client thread/INFO]: [CHAT] hollistxr: wtf
+[16:44:18] [Client thread/INFO]: [CHAT] Zoezilla: oh now theres a boy on ur face
+[16:44:20] [Client thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[16:44:21] [Client thread/INFO]: [CHAT] [Legend] Apex156: YE
+[16:44:24] [Client thread/INFO]: [CHAT] [Legend] Apex156: I get them all
+[16:44:25] [Client thread/INFO]: [CHAT] Zoezilla: xD
+[16:44:26] [Client thread/INFO]: [CHAT] [Legend] Apex156: ;D
+[16:44:30] [Client thread/INFO]: Warning: Clientside chunk ticking took 3033 ms
+[16:44:34] [Client thread/INFO]: Warning: Clientside chunk ticking took 2472 ms
+[16:44:37] [Client thread/INFO]: Warning: Clientside chunk ticking took 2575 ms
+[16:44:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 2673 ms
+[16:44:40] [Client thread/INFO]: [CHAT] quickvengeance: nice name
+[16:44:40] [Client thread/INFO]: [CHAT] Zoezilla: OMG I HAVE 1 HEART LEFT
+[16:44:43] [Client thread/INFO]: Warning: Clientside chunk ticking took 2651 ms
+[16:44:43] [Client thread/INFO]: [CHAT] [+] Get more snowballs in Spleef! Type /store
+[16:44:44] [Client thread/INFO]: [CHAT] [Legend] Apex156: :o
+[16:44:47] [Client thread/INFO]: Warning: Clientside chunk ticking took 2419 ms
+[16:44:47] [Client thread/INFO]: [CHAT] Zoezilla: XD HOW
+[16:44:50] [Client thread/INFO]: Warning: Clientside chunk ticking took 2641 ms
+[16:44:51] [Client thread/INFO]: [CHAT] [Legend] Apex156: haha
+[16:44:54] [Client thread/INFO]: Warning: Clientside chunk ticking took 2708 ms
+[16:44:54] [Client thread/INFO]: [CHAT] [Legend] Apex156: donz know
+[16:44:57] [Client thread/INFO]: Warning: Clientside chunk ticking took 2792 ms
+[16:45:01] [Client thread/INFO]: Warning: Clientside chunk ticking took 2633 ms
+[16:45:04] [Client thread/INFO]: [CHAT] Zoezilla: omg how and why..??
+[16:45:04] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:45:04] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:45:04] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:45:04] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:45:05] [Client thread/INFO]: [CHAT]
+[16:45:08] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: She rarelyt bill gates
+[16:45:09] [Client thread/INFO]: [CHAT] Bowgirl1: haiiiiiiii
+[16:45:12] [Client thread/INFO]: [CHAT] [Legend] _Hooves_: yep
+[16:45:14] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: on anymore
+[16:45:16] [Client thread/INFO]: [CHAT] Burnaby22: i will never forget to eat a dinosaur >:(
+[16:45:17] [Client thread/INFO]: [CHAT] [Legend] _Hooves_: Also potatos
+[16:45:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.ozelot.step
+[16:45:19] [Client thread/INFO]: [CHAT] [Legend] ItssoFLUFFY1: Do you even bill gates?
+[16:45:19] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[16:45:21] [Client thread/INFO]: [CHAT] [Legend] _Hooves_: Like Lila
+[16:45:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.ozelot.step
+[16:45:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.ozelot.step
+[16:45:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.ozelot.step
+[16:45:23] [Client thread/INFO]: [CHAT] [Legend] LilaRok: :
+[16:45:24] [Client thread/INFO]: [CHAT] [Legend] LilaRok: * :D
+[16:45:26] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: K back to paula the koa;a
+[16:45:27] [Client thread/INFO]: [CHAT]
+[16:45:37] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:45:37] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:45:37] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:45:38] [Client thread/INFO]: [CHAT]
+[16:45:38] [Client thread/INFO]: [CHAT] You have no new mail.
+[16:45:39] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[16:45:39] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[16:45:39] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[16:45:44] [Client thread/INFO]: [CHAT] butterman452: i will look at it just not sit down and watch the series
+[16:45:45] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: blockmaster956 I love you
+[16:45:47] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: <3
+[16:45:49] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:45:53] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[16:45:53] [Client thread/INFO]: [CHAT] aleahlps2014: homer
+[16:45:55] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: xD
+[16:45:57] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[16:45:57] [Client thread/INFO]: [CHAT] kelsy1: homer
+[16:45:58] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~~
+[16:45:58] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[16:46:00] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: homer
+[16:46:00] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you know how to get fake name
+[16:46:03] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: simpson
+[16:46:03] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I love the simpsons
+[16:46:04] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: is
+[16:46:06] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> wait WHAT ABOUT MAX!! are you ok now
+[16:46:06] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: stupid
+[16:46:07] [Client thread/INFO]: [CHAT] OXxGumballxXO: it's to cold!
+[16:46:07] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *& is still bleeding off when chris stabbed her*
+[16:46:07] [Client thread/INFO]: [CHAT] crazycrazygirl: TPA TO ME 4 EPIC HEROBRINE CAMP RP
+[16:46:09] [Client thread/INFO]: [CHAT] lilly326: TPA FOR A HEROBRINE ELEMENTEL RP NEED BOYS AND GIRLS AND 1 HEROBRINE TPA AND NOT REGRET IT!!!!!!!
+[16:46:12] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:46:13] [Client thread/INFO]: [CHAT] blockmaster956: true dat
+[16:46:14] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!
+[16:46:14] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I'm not allowd to watch south park :3
+[16:46:14] [Client thread/INFO]: [CHAT] butterman452: yay simpsons
+[16:46:15] [Client thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[16:46:16] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you know how to get fake name.
+[16:46:16] [Client thread/INFO]: [CHAT] MARIO_MAN12: has anyone heard about the bird
+[16:46:17] [Client thread/INFO]: [CHAT] crazycrazygirl: TPA TO ME 4 EPIC HEROBRINE CAMP RP <----- L()()K
+[16:46:18] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Awe
+[16:46:18] [Client thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[16:46:21] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: idc
+[16:46:24] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: back
+[16:46:24] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> *Gasp* I have an idea* *runs to where she died*
+[16:46:25] [Client thread/INFO]: [CHAT] maxxmatty: Hi butterman452
+[16:46:25] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Dat sucks monkey balls
+[16:46:26] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~~
+[16:46:30] [Client thread/INFO]: [CHAT] butterman452: hey dood
+[16:46:30] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> NO! MAX
+[16:46:30] [Client thread/INFO]: [CHAT] MARIO_MAN12: bird is da word
+[16:46:30] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: There are plenty of other shows out dere
+[16:46:34] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: >:O
+[16:46:37] [Client thread/INFO]: [CHAT] butterman452: yea
+[16:46:37] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:46:37] [Client thread/INFO]: [CHAT] TPF_123: ANY SERVERS THAT I CAN BE STAFF IN MSG ME!!!!!!!!!!!!!!!
+[16:46:38] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: what do we do ?
+[16:46:40] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: That offended me
+[16:46:40] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: just sayin
+[16:46:41] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:46:41] [Client thread/INFO]: [CHAT] [Donator] Wavy03: head sho anyone?
+[16:46:41] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!! :DDDD
+[16:46:42] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you know how to get fake name
+[16:46:44] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~~
+[16:46:44] [Client thread/INFO]: [CHAT] lilly326: COME UP OR ELSE!
+[16:46:44] [Client thread/INFO]: [CHAT] PusheenPizza: TPA TO ME FOR EPIC HIGH SCHOOL RP!!! PLEASE COME, I DID IT ALL BY MYSELF
+[16:46:49] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Cayse
+[16:46:49] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:46:52] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: *Cause
+[16:46:53] [Client thread/INFO]: [CHAT] butterman452: u dont have to just say we all know that
+[16:46:56] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *feels light headed due to blood loss*
+[16:46:57] [Client thread/INFO]: [CHAT] hunter7195: tpa for a skin comp
+[16:46:57] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!! :DDD
+[16:46:57] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!!
+[16:46:58] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~
+[16:46:59] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I live off of it >:D
+[16:47:02] [Client thread/INFO]: [CHAT] AuchtoMel: g2g
+[16:47:02] [Client thread/INFO]: [CHAT] TPF_123: ANY SERVERS THAT I CAN BE STAFF IN MSG ME!!!!!!!!!!!!!!!!!!!!!!!!!
+[16:47:05] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you know how to get fake name.
+[16:47:07] [Client thread/INFO]: [CHAT] maxxmatty: im a girl not a dude butterman452
+[16:47:08] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Thats no good :P
+[16:47:09] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:47:10] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[16:47:10] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~
+[16:47:12] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you know how to get fake name
+[16:47:12] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> i can see millions of evil spirits flying
+[16:47:13] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Dude
+[16:47:13] [Client thread/INFO]: [CHAT] hunter7195: tpa for a skin competiton pls come
+[16:47:14] [Client thread/INFO]: [CHAT] lilly326: Ok
+[16:47:16] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Sarcasam
+[16:47:17] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: yeah
+[16:47:18] [Client thread/INFO]: [CHAT] concon555: --===TPA TO MINTYGOESMINING FOR A EPIC HIGHSCHOOL RP, BOYS AND GIRLS NEEDED===--
+[16:47:18] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> i can see millions of evil spirits flying its not good
+[16:47:19] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *feels light headed due to blood loss *
+[16:47:21] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ik
+[16:47:22] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: LEARN THE LANGUAGE
+[16:47:23] [Client thread/INFO]: [CHAT] lilly326: DO /ALL EVERYONE AT MY RP!
+[16:47:24] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> *finds her body* I hope this works *Comes back to life*
+[16:47:25] [Client thread/INFO]: [CHAT] TPF_123: ANY SERVERS THAT I CAN BE STAFF IN MSG ME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[16:47:25] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: LEARN IT
+[16:47:26] [Client thread/INFO]: [CHAT] CutiePie1902: tpa to MintygoesMining for epic high school rp 3boys and 1 boy teather needed and 2 girls!!
+[16:47:26] [Client thread/INFO]: [CHAT] butterman452: just some people over reactoe to shows some people like
+[16:47:27] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!!
+[16:47:31] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: IM NOT AS STUPID AS I LOOK OKAY XD
+[16:47:31] [Client thread/INFO]: [CHAT] CutiePie1902: tpa to MintygoesMining for epic high school rp 3boys and 1 boy teather needed and 2 girls!
+[16:47:32] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!
+[16:47:33] [Client thread/INFO]: [CHAT] MARIO_MAN12: has anyone heard about the bird
+[16:47:34] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~
+[16:47:39] [Client thread/INFO]: [CHAT] crazycrazygirl: TPA TO ME 4 EPIC HEROBRINE CAMP RP
+[16:47:40] [Client thread/INFO]: [CHAT] MARIO_MAN12: has anyone heard about the bird?!
+[16:47:41] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I dun know what you look like tho o-o
+[16:47:41] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~~
+[16:47:44] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *feels light headed due to blood loss & goes to lie down*
+[16:47:45] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: BUM BUM BUM
+[16:47:45] [Client thread/INFO]: [CHAT] ZenConfusion: what
+[16:47:47] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~
+[16:47:50] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:47:50] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I meant like
+[16:47:50] [Client thread/INFO]: [CHAT] ZenConfusion: --TPA to MintygoesMining for epic roleplay need 3 boys--
+[16:47:51] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!
+[16:47:52] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: What i
+[16:47:52] [Client thread/INFO]: [CHAT] butterguy27: paiute is gone
+[16:47:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: nvm
+[16:47:54] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[16:47:55] [Client thread/INFO]: [CHAT] PusheenPizza: TPA TO ME FOR EPIC HIGH SCHOOL RP!!! PLEASE COME AND ENJOY!
+[16:47:57] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: See
+[16:47:58] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS AND GIRLS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:47:58] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Now
+[16:47:59] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~
+[16:47:59] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!!
+[16:48:00] [Client thread/INFO]: [CHAT] hunter7195: any boys wanna hve sex
+[16:48:01] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Looses blood from the evil spirits* they want revenge
+[16:48:01] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I'm stupid
+[16:48:02] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Namoi> *dies immediatly*
+[16:48:04] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I have
+[16:48:04] [Client thread/INFO]: [CHAT] [Donator] Wavy03: tpa to hunter7195 for skin comp!
+[16:48:05] [Client thread/INFO]: [CHAT] butterman452: just sit down and zip it
+[16:48:06] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: what do I do ?
+[16:48:07] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: 4 A's
+[16:48:07] [Client thread/INFO]: [CHAT] mollyawesome5: Tpa For A Awesome Head Shop In A Epic Club With Lots More!!!!!!!!!!
+[16:48:09] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~~
+[16:48:09] [Client thread/INFO]: [CHAT] MARIO_MAN12: HAS ANYONE HEARD ABOUT THE BIRD?!
+[16:48:11] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: and 1 c+
+[16:48:13] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: So
+[16:48:13] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS AND GIRLS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~~
+[16:48:14] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: YOLO
+[16:48:14] [Client thread/INFO]: [CHAT] [Donator] ~Alina: Why
+[16:48:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I have 6 A's
+[16:48:19] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *feels light headed due to blood loss*
+[16:48:22] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS AND GIRLS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:48:23] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Actually
+[16:48:31] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: My C+ is B+ now
+[16:48:33] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> hahahhahaha im going crazy NO! there give me a curse!
+[16:48:34] [Client thread/INFO]: [CHAT] PusheenPizza: TPA TO ME FOR EPIC HIGH SCHOOL RP! PLEASE COME AND ENJOY THE FUN!
+[16:48:34] [Client thread/INFO]: [CHAT] [Donator] ~Alina: What did i do?
+[16:48:37] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS AND GIRLS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~~
+[16:48:38] [Client thread/INFO]: [CHAT] ChristyCraft1658: TPA TO ME FOR AN AMAZING SKIN COMP AND YOU CAN WIN PRIZES 0/5 PEOPLE!
+[16:48:38] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> *sneaks around* *Sigh*
+[16:48:39] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~~~
+[16:48:39] [Client thread/INFO]: [CHAT] butterman452: good 4 u
+[16:48:40] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: My teacher let me redo work
+[16:48:46] [Client thread/INFO]: [CHAT] [Donator] ~Alina: i have a D in math o>p
+[16:48:46] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: *felix*wait WHAT !
+[16:48:47] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: But I still hate her
+[16:48:49] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~~
+[16:48:50] [Client thread/INFO]: [CHAT] [Donator] Wavy03: tpa to hunter7195 for skin comp!
+[16:48:50] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:48:53] [Client thread/INFO]: [CHAT] butterman452: well
+[16:48:55] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> hahahhahaha im going crazy NO! there give me a curse! AHHHHHH!!!!*Gets cursed by Ghost*
+[16:48:55] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~~~
+[16:49:02] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~~
+[16:49:09] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *still has evil chris trapped in a jar*
+[16:49:09] [Client thread/INFO]: [CHAT] misskels: <~Vianey~>
+[16:49:09] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: stfu
+[16:49:10] [Client thread/INFO]: [CHAT] matt4302: MSG ME IF U HAVE A HEAD/GOD SHOP<-----
+[16:49:11] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~~~
+[16:49:11] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!!
+[16:49:16] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~~
+[16:49:19] [Client thread/INFO]: [CHAT] dat_pig_gal: Anyone want a daughter?
+[16:49:20] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *still has evil chris trapped in a sacred jar*
+[16:49:21] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!
+[16:49:22] [Client thread/INFO]: [CHAT] [Legend] kklm225: just a donor comment passing through
+[16:49:23] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~~
+[16:49:23] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ BOYS AND GIRLS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:49:24] [Client thread/INFO]: [CHAT] [Donator] Wavy03: tpa to hunter7195 for skin comp!
+[16:49:24] [Client thread/INFO]: [CHAT] Maisiecoolest: wtf
+[16:49:29] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *feels light headed due to blood loss*
+[16:49:30] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: HI KK
+[16:49:30] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> *gets memory back*
+[16:49:30] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~~
+[16:49:32] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: :D
+[16:49:32] [Client thread/INFO]: [CHAT] dat_pig_gal: Anyone want a daughter?!
+[16:49:34] [Client thread/INFO]: [CHAT] concon555: --===TPA TO MINTYGOESMINING FOR A EPIC HIGHSCHOOL RP, BOYS NEEDED===--
+[16:49:35] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I DONT KNOW YOU!
+[16:49:37] [Client thread/INFO]: [CHAT] [Legend] kklm225: hi claire :D
+[16:49:37] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: :D
+[16:49:46] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: *listens to conversation*
+[16:49:48] [Client thread/INFO]: [CHAT] kelsy1: MSG ME IF U HAVE A HEAD SHOP AND A GOOD ONE
+[16:49:48] [Client thread/INFO]: [CHAT] butterman452: u know sometimes im just siting and i really want to sing the pokemon song
+[16:49:49] [Client thread/INFO]: [CHAT] Maisiecoolest: hahaha jack
+[16:49:49] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Math is mah best subject
+[16:49:50] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: WHO GIVES A FUCK ABOUT STRANGER DANGER :D
+[16:49:52] [Client thread/INFO]: [CHAT] superjosh2013: woah
+[16:49:52] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> RUN!
+[16:49:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:49:54] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> No the ghost are trying to make you drop the jarDONT DROP IT BRI OR IM DOOMED
+[16:49:56] [Client thread/INFO]: [CHAT] [Legend] kklm225: lol :P
+[16:49:56] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!!
+[16:49:58] [Client thread/INFO]: [CHAT] MakeACakeDude: hi
+[16:49:58] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: i dunnno.
+[16:49:59] [Client thread/INFO]: [CHAT] dat_pig_gal: Anyone want a daughter!!!!!!!!!!
+[16:49:59] [Client thread/INFO]: [CHAT] mollyawesome5: Tpa For A Awesome Head Shop In A Epic Club With Lots More!!!!!!!!!!!
+[16:50:01] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I dunnnnnno
+[16:50:03] [Client thread/INFO]: [CHAT] concon555: --===TPA TO MINTYGOESMINING FOR A EPIC HIGHSCHOOL RP, BOYS NEEDED===--.
+[16:50:07] [Client thread/INFO]: [CHAT] herobrine20m: hi
+[16:50:09] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *feels light headed due to blood loss *
+[16:50:09] [Client thread/INFO]: [CHAT] coalmank: lol
+[16:50:10] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~~
+[16:50:11] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ 3 BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:50:13] [Client thread/INFO]: [CHAT] MARIO_MAN12: #PETERGRIFFIN4EVER
+[16:50:13] [Client thread/INFO]: [CHAT] PusheenPizza: TPA TO ME FOR EPIC HIGH SCHOOL RP! 1/6 L()()K
+[16:50:14] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: WHO WANTS MY INSTAGRAM
+[16:50:15] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> No the ghost are trying to make you drop the jarDONT DROP IT BRI OR IM DOOMED!!
+[16:50:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: MAH
+[16:50:19] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[16:50:20] [Client thread/INFO]: [CHAT] ChristyCraft1658: TPA FOR AN AMAZING SKIN COMP AND YOU CAN WIN PRIZES
+[16:50:21] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: ITS GETTHEFUCKOFFPEDO
+[16:50:21] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<---------
+[16:50:23] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: :D
+[16:50:23] [Client thread/INFO]: [CHAT] kitkat559: lbre
+[16:50:24] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~~
+[16:50:25] [Client thread/INFO]: [CHAT] MARIO_MAN12: #PETERGRIFFIN4EVER SPREAD THAT ON TWITTER
+[16:50:25] [Client thread/INFO]: [CHAT] butterman452: really
+[16:50:27] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ 3 BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~
+[16:50:28] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: ?
+[16:50:30] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: HAHAH
+[16:50:31] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: NO
+[16:50:31] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xDDD
+[16:50:32] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *looks at the jar*
+[16:50:33] [Client thread/INFO]: [CHAT] butterman452: just really
+[16:50:35] [Client thread/INFO]: [CHAT] sepsed: TPA FOR THE BEST HEAD SHOP EVER
+[16:50:35] [Client thread/INFO]: [CHAT] lbre101: kitkat yea?
+[16:50:36] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!!!
+[16:50:41] [Client thread/INFO]: [CHAT] butterman452: u had to say that
+[16:50:41] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!
+[16:50:45] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:46] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:47] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Its ____________
+[16:50:47] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~~
+[16:50:48] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:49] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: :3
+[16:50:49] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:50] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:51] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:51] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:51] [Client thread/INFO]: [CHAT] [Donator] Wavy03: hunter7195 can u let me out
+[16:50:51] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:51] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 GIRLS AND 6 BOYS LEFT HURRY WE NEED YOU
+[16:50:52] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:50:53] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: with letters
+[16:50:55] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ 3 BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:50:56] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~
+[16:50:57] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:50:59] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *looks at the jar closely*
+[16:51:00] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:01] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:01] [Client thread/INFO]: [CHAT] butterman452: Y DO U PEOPLE MAKE THES CLUBS
+[16:51:01] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:02] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Yah
+[16:51:02] [Client thread/INFO]: [CHAT] lbre101: ~~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more
+[16:51:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:05] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:05] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I'm bored
+[16:51:05] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:05] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:06] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:06] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:06] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<--------!
+[16:51:06] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:06] [Client thread/INFO]: [CHAT] butterguy27: no
+[16:51:06] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:07] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:07] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:08] [Client thread/INFO]: [CHAT] [Donator] Wavy03: pls
+[16:51:09] [Client thread/INFO]: [CHAT] TheBoys614: TURNS IVISIBLE
+[16:51:09] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:10] [Client thread/INFO]: [CHAT] MARIO_MAN12: #PETERGRIFFIN4EVER
+[16:51:12] [Client thread/INFO]: [CHAT] maxxmatty: follow me pls RetroBoy2213
+[16:51:13] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Wavy03
+[16:51:14] [Client thread/INFO]: [CHAT] lbre101: ~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more
+[16:51:15] [Client thread/INFO]: [CHAT] lilly326: brb
+[16:51:17] [Client thread/INFO]: [CHAT] ChristyCraft1658: TPA FOR SKIN COMP AND WE NEED TWO MORE PLAYERS
+[16:51:18] [Client thread/INFO]: [CHAT] RetroBoy2213: k
+[16:51:19] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *falls to the cold ground and faints* ahhhhhhhhha
+[16:51:21] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Wavy03
+[16:51:23] [Client thread/INFO]: [CHAT] ChelseaDuong123: TPA TO ME OR ChristyCraft1658 FOR A GREAT SKIN COMP! 3/5 2 MORE PLAYERS! TPA NOW!
+[16:51:24] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!!
+[16:51:25] [Client thread/INFO]: [CHAT] [Donator] Wavy03: me
+[16:51:26] [Client thread/INFO]: [CHAT] kelsy1: THIS SHOP IS AWESOME
+[16:51:26] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 GIRLS AND 6 BOYS LEFT HURRY WE NEED YOU!!!!!!!!!!
+[16:51:27] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ 3 BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~
+[16:51:28] [Client thread/INFO]: [CHAT] TheBoys614: TURNS IVISIBLE.
+[16:51:33] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *puts jar back in bag*
+[16:51:35] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I'm gonna tell you something
+[16:51:35] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ 3 BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~~
+[16:51:38] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *falls to the cold ground and faints* ahhhhhhhhhad
+[16:51:38] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:39] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:39] [Client thread/INFO]: [CHAT] [Donator] Wavy03: ok
+[16:51:39] [Client thread/INFO]: [CHAT] capinsparcles: help
+[16:51:40] [Client thread/INFO]: [CHAT] jessicanator: ****TPA FOR AWESOME TROLL PARK****
+[16:51:43] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: It's "please"
+[16:51:46] [Client thread/INFO]: [CHAT] maxxmatty: its a club
+[16:51:46] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Not "pls"
+[16:51:47] [Client thread/INFO]: [CHAT] ChelseaDuong123: TPA FOR A SKIN COMP! 1 MORE PLAYER SO HURRY AND TPA!!! <3333
+[16:51:49] [Client thread/INFO]: [CHAT] lbre101: ~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~
+[16:51:49] [Client thread/INFO]: [CHAT] Fairydaisy9: CAN SOMEONE PLZ TPA TO ME TO HELP REBUILD MY PLOT
+[16:51:50] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> ...........Mr Drake you are a bad person ........
+[16:51:52] [Client thread/INFO]: [CHAT] [Donator] Wavy03: good to know
+[16:51:53] [Client thread/INFO]: [CHAT] kelsy1: what amount of heads can i have
+[16:51:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:51:54] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:51:56] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Just saying...
+[16:51:57] [Client thread/INFO]: [CHAT] Fairydaisy9: PLZ
+[16:51:57] [Client thread/INFO]: [CHAT] RetroBoy2213: kewl
+[16:51:58] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: *texts tye* whats happening
+[16:51:58] [Client thread/INFO]: [CHAT] EnderDingo10: MSG FOR EPIC CAMPING RP, MSG WHO YOU WANT TO BE, CHOOSE CHARACTER, AND BASE PERSONALITY OFF OF YOU!
+[16:51:58] [Client thread/INFO]: [CHAT] lbre101: ~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more
+[16:51:59] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 GIRLS AND 6 BOYS LEFT HURRY!!!!!!!!!!!!!!!!!!!1
+[16:52:01] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ 3 BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~
+[16:52:03] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!!
+[16:52:03] [Client thread/INFO]: [CHAT] RetroBoy2213: is this ur plot
+[16:52:03] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> THE SPIRITS!!!!! THEY ARE COMEING
+[16:52:04] [Client thread/INFO]: [CHAT] jessicanator: ****TPA FOR AWESOME TROLL PARK***
+[16:52:07] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Fuck you Fairydaisy9
+[16:52:08] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ 2 BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~~
+[16:52:09] [Client thread/INFO]: [CHAT] maxxmatty: nope
+[16:52:09] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> chris r u ok?
+[16:52:10] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: -.-
+[16:52:12] [Client thread/INFO]: [CHAT] venombites1: VENOMBITES1FTW
+[16:52:13] [Client thread/INFO]: [CHAT] RetroBoy2213: o
+[16:52:14] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 GIRLS AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow
+[16:52:21] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Sorry
+[16:52:23] [Client thread/INFO]: [CHAT] mollyawesome5: Tpa For A Awesome Head Shop In A Epic Club With Lots More!!!!!!
+[16:52:25] [Client thread/INFO]: [CHAT] flamerider123: let me check my plot
+[16:52:26] [Client thread/INFO]: [CHAT] concon555: brb soon
+[16:52:27] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A HIGHSCHOOL RP~~~ 2 BOYS NEEDED!!! msg MintygoesMining for role!!!!!~~~~~
+[16:52:29] [Client thread/INFO]: [CHAT] ashscoobydoo: WELCOME TO THE TROOL PARK
+[16:52:32] [Client thread/INFO]: [CHAT] mollyawesome5: Tpa For A Awesome Head Shop In A Epic Club With Lots More!!!!!
+[16:52:33] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *looks at the jar closely*
+[16:52:34] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I have all these bumps and scabs on my head
+[16:52:34] [Client thread/INFO]: [CHAT] jessicanator: ****TPA FOR AWESOME TROLL PARK****
+[16:52:36] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!
+[16:52:38] [Client thread/INFO]: [CHAT] herobrine20m: READ
+[16:52:40] [Client thread/INFO]: [CHAT] craftworld12: <>Candy<>
+[16:52:41] [Client thread/INFO]: [CHAT] jacobritz: {HeroBrine} *Cuts Sasha*
+[16:52:43] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *wakes up*
+[16:52:47] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: And they are really annoying
+[16:52:48] [Client thread/INFO]: [CHAT] concon555: brb soon!
+[16:52:49] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: what ? meh puts MyPhone away
+[16:52:50] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *looks at the jar closely *
+[16:52:50] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 GIRLS AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!!
+[16:52:52] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> .......
+[16:52:52] [Client thread/INFO]: [CHAT] mollyawesome5: Tpa For A Awesome Head Shop In A Epic Club With Lots More!!!!
+[16:52:55] [Client thread/INFO]: [CHAT] butterman452: NOOO
+[16:52:57] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:53:03] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> RRUUNN!!!!!
+[16:53:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:05] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:05] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!
+[16:53:06] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:06] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:09] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: NO
+[16:53:09] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:11] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:12] [Client thread/INFO]: [CHAT] Icy_Pie: te he
+[16:53:12] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *looks at the jar closely*
+[16:53:13] [Client thread/INFO]: [CHAT] jacobritz: {HeroBrine}
+[16:53:15] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> Yeah
+[16:53:17] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:17] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:18] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:21] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: gtg bye
+[16:53:22] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>*Stops and coughs blood* ahhhhh!
+[16:53:22] [Client thread/INFO]: [CHAT] mollyawesome5: Tpa For A Awesome Head Shop In A Epic Club With Lots More!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[16:53:25] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *puts jar back in bag*
+[16:53:27] [Client thread/INFO]: [CHAT] zMulae: I love it lester
+[16:53:28] [Client thread/INFO]: [CHAT] homein42: Damage Indicators was unable to check for updates!
+[16:53:29] [Client thread/INFO]: [CHAT] [Donator] Wavy03: who has a head shop...msg me
+[16:53:31] [Client thread/INFO]: [CHAT] bigmuffin23: oooo
+[16:53:31] [Client thread/INFO]: [CHAT] Fzeh: amanda) *chews gum* ross come here sweetie
+[16:53:32] [Client thread/INFO]: [CHAT] ashscoobydoo: ALSO OVER HERE
+[16:53:32] [Client thread/INFO]: [CHAT] LomeliTylerCaleb: gtg bye.
+[16:53:32] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Blame it on mah ADD babeh
+[16:53:34] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: SAIL
+[16:53:34] [Client thread/INFO]: [CHAT] craftworld12: <>Candy<> hi guys
+[16:53:35] [Client thread/INFO]: [CHAT] zMulae: Lester it is amazing
+[16:53:36] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 2 GIRLS AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!
+[16:53:37] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: :O
+[16:53:44] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:44] [Client thread/INFO]: [CHAT] Otem0655: rlly i have that mod
+[16:53:45] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:53:45] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: i love dat song c:
+[16:53:48] [Client thread/INFO]: [CHAT] jeyfrog: TPA FOR A AWESOME HEROBRINE CAMP RP
+[16:53:49] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Well
+[16:53:49] [Client thread/INFO]: [CHAT] SnickersCraftFTW: anyskin comps
+[16:53:51] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: :3
+[16:53:52] [Client thread/INFO]: [CHAT] craftworld12: <>Candy<> hi scene
+[16:53:52] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Actually
+[16:53:52] [Client thread/INFO]: [CHAT] herobrine20m: hui
+[16:53:54] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I dont
+[16:53:55] [Client thread/INFO]: [CHAT] SnickersCraftFTW: any skin comps
+[16:53:58] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: umm okay..?
+[16:53:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:54:02] [Client thread/INFO]: [CHAT] concon555: afk
+[16:54:02] [Client thread/INFO]: [CHAT] maxxmatty: Hi
+[16:54:04] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Cause
+[16:54:07] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> chris r u ok?
+[16:54:08] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<--------~
+[16:54:08] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: I have anxeity
+[16:54:14] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you want to build a airport
+[16:54:15] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:54:15] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> ahhhhhhhhhh EVIL IS RUSHING IN THE MIND RUN BEFORE IT HAPPENS!!!!!!!!!!!!
+[16:54:15] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:54:15] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: And Its one of the triggers
+[16:54:15] [Client thread/INFO]: [CHAT] ZenConfusion: (Jack)
+[16:54:16] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 2 GIRLS AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!!
+[16:54:19] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: WOAHH
+[16:54:21] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Spirit/soul Namoi> *yells* Hey Mr.Darke.... Where Are You!
+[16:54:22] [Client thread/INFO]: [CHAT] mollyawesome5: Tpa For A Awesome Head Shop In A Epic Club With Lots More!!!!!!!!!!!!!!!!!!!!
+[16:54:23] [Client thread/INFO]: [CHAT] ZenConfusion: (Jack) Hi Derek
+[16:54:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: This
+[16:54:26] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Whut o-o
+[16:54:27] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: is
+[16:54:29] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> ahhhhhhhhhh EVIL IS RUSHING IN THE MIND RUN BEFORE IT HAPPENS!!!!!!!!!!!!!!!!!!
+[16:54:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: AWESOMEEEE
+[16:54:32] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> chris calm down
+[16:54:32] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Whut o-o
+[16:54:35] [Client thread/INFO]: [CHAT] jessicanator: ****TPA FOR AWESOME TROLL PARK**** TROLL PIPE
+[16:54:37] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you want to build a airport.
+[16:54:38] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Nutin
+[16:54:42] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: mah friend made somethin kewl
+[16:54:42] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: lol
+[16:54:44] [Client thread/INFO]: [CHAT] stefanoawsome: thx
+[16:54:46] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you want to build a airport
+[16:54:49] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<--------/
+[16:54:56] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:54:56] [Client thread/INFO]: [CHAT] Lovey9539848: So how is everybody/
+[16:54:58] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 1 GIRLS AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!!
+[16:54:59] [Client thread/INFO]: [CHAT] jeyfrog: TPA FOR A AWESOME HEROBRINE CAMP RP!!!!!
+[16:54:59] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Then whyd you say it on here and not to her?
+[16:54:59] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:00] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:00] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:00] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:01] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:01] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:01] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:01] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: or him..
+[16:55:01] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:55:02] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:02] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:02] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:03] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:03] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:08] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>*Cries* I CANT IM *Loses breath* JUST RUN!!!!!!!!!!!
+[16:55:08] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Dude this is kewl
+[16:55:11] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Sorry
+[16:55:11] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you want to build a airport.
+[16:55:11] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[16:55:13] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: lel
+[16:55:21] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: Do you have a kik?
+[16:55:22] [Client thread/INFO]: [CHAT] homein42: Damage Indicators was unable to check for updates!
+[16:55:23] [Client thread/INFO]: [CHAT] 31Nivlac: can i help ya?
+[16:55:23] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> chris calm down.
+[16:55:25] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Yeah
+[16:55:29] [Client thread/INFO]: [CHAT] ButterAssassin66: t
+[16:55:33] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: msg me it ill msg u mine
+[16:55:35] [Client thread/INFO]: [CHAT] craftworld12: <>Candy<> hi melissa why are you crying?
+[16:55:35] [Client thread/INFO]: [CHAT] britton280sel: any RPS????????
+[16:55:35] [Client thread/INFO]: [CHAT] stefanoawsome: WHO HAS A TROLL CAMP?
+[16:55:36] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: holy crap this whole time i was thinking u were mysterygirl
+[16:55:36] [Client thread/INFO]: [CHAT] Fairydaisy9: i just lost everything :(
+[16:55:40] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 1 GIRLS AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!!!
+[16:55:43] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<--------~
+[16:55:44] [Client thread/INFO]: [CHAT] britton280sel: any RPS????????!
+[16:55:46] [Client thread/INFO]: [CHAT] stefanoawsome: WHO HAS A TROLL CARNIVAL?
+[16:55:49] [Client thread/INFO]: [CHAT] AdamLegoFan: Shut up
+[16:55:52] [Client thread/INFO]: [CHAT] You cannot use that.
+[16:55:52] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: claire
+[16:55:54] [Client thread/INFO]: [CHAT] [Legend] ~ItsClaire: ?
+[16:55:59] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Namoi> *comes back to life* *yells* Im Alive!!!
+[16:56:01] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 1 GIRLS AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!!
+[16:56:01] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: nvm
+[16:56:03] [Client thread/INFO]: [CHAT] andretracy: tpa troll park
+[16:56:04] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>RUN! OR PARISH*tries to control himself *Chris returns the power from ace*
+[16:56:04] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:56:09] [Client thread/INFO]: [CHAT] ButterAssassin66: tpa to me for a head shop and amazing buildings
+[16:56:11] [Client thread/INFO]: [CHAT] [Donator] ~Alina: uhg
+[16:56:12] [Client thread/INFO]: [CHAT] luigidogmax: i am herobrines older brother
+[16:56:17] [Client thread/INFO]: [CHAT] craftworld12: <>Candy<> oh
+[16:56:17] [Client thread/INFO]: [CHAT] ashscoobydoo: you can go Ice skating ^^
+[16:56:18] [Client thread/INFO]: [CHAT] Fairydaisy9: i have nothing but a lava pit now
+[16:56:22] [Client thread/INFO]: [CHAT] BUTTER_LOVER48, ButterAssassin66, butterguy27, butterman452, Buttermaster199, buttermoose1235
+[16:56:23] [Client thread/INFO]: [CHAT] Request sent to BUTTER_LOVER48.
+[16:56:24] [Client thread/INFO]: [CHAT] [Donator] Wavy03: purplegrenade321 can i tell u something?
+[16:56:26] [Client thread/INFO]: [CHAT] britton280sel: any RPS????????
+[16:56:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: yeah
+[16:56:28] [Client thread/INFO]: [CHAT] DucheeTuchee: <--- L{}{}K TP TO DirectionerDUH FOR SKIN COMP WITH PRIZES
+[16:56:32] [Client thread/INFO]: [CHAT] TheBoys614: tpa me ryan
+[16:56:33] [Client thread/INFO]: [CHAT] BUTTER_LOVER48, ButterAssassin66, butterguy27, butterman452, Buttermaster199, buttermoose1235
+[16:56:33] [Client thread/INFO]: [CHAT] [BUTTER_LOVER48 -> me] what u need
+[16:56:33] [Client thread/INFO]: [CHAT] BUTTER_LOVER48, ButterAssassin66, butterguy27, butterman452, Buttermaster199, buttermoose1235
+[16:56:35] [Client thread/INFO]: [CHAT] Fairydaisy9: :(
+[16:56:36] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> JUST RUN!!! OR YOU WILL DIE
+[16:56:37] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> chris calm down ur kinda freaking me out
+[16:56:37] [Client thread/INFO]: [CHAT] Request sent to ButterAssassin66.
+[16:56:40] [Client thread/INFO]: [CHAT] jacobritz: {HeroBrine} I have come for heads!
+[16:56:42] [Client thread/INFO]: [CHAT] BUTTER_LOVER48, ButterAssassin66, butterguy27, butterman452, Buttermaster199, buttermoose1235
+[16:56:42] [Client thread/INFO]: [CHAT] [Donator] Wavy03: "something" Cx
+[16:56:44] [Client thread/INFO]: [CHAT] [Donator] ~Alina: Whos plot
+[16:56:45] [Client thread/INFO]: [CHAT] MissAwesomekidd: AFK
+[16:56:46] [Client thread/INFO]: [CHAT] ButterAssassin66 accepted your teleport request.
+[16:56:46] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[16:56:46] [Client thread/INFO]: [CHAT] ashscoobydoo: chose a team red, green or blue
+[16:56:46] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<--3/7---~
+[16:56:49] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[16:56:49] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: um
+[16:56:50] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!!
+[16:56:51] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: okay xD
+[16:56:51] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> JUST RUN!!! OR YOU WILL DIE AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[16:56:53] [Client thread/INFO]: [CHAT] luigidogmax: i am herobrines brother
+[16:56:53] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<--3/6---~
+[16:56:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: bluemoon
+[16:56:56] [Client thread/INFO]: [CHAT] DatBaccaHig: {Carly}hi!*blushes*
+[16:56:56] [Client thread/INFO]: [CHAT] kitikat13: HAHAHA
+[16:56:57] [Client thread/INFO]: [CHAT] homein42: sure sure
+[16:56:58] [Client thread/INFO]: [CHAT] [Donator] ~Alina: kk
+[16:57:03] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!
+[16:57:04] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:57:05] [Client thread/INFO]: [CHAT] DucheeTuchee: <--- L{}{}K TP TO DirectionerDUH FOR SKIN COMP WITH PRIZES 3?6
+[16:57:05] [Client thread/INFO]: [CHAT] angelcookie11: any clubs?
+[16:57:09] [Client thread/INFO]: [CHAT] mollyawesome5: Tpa For A Awesome Head Shop In A Epic Club With Lots More!!!!!!!!!!!!!!!
+[16:57:09] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> chris no...i won't leave u
+[16:57:09] [Client thread/INFO]: [CHAT] luigidogmax: bitch
+[16:57:10] [Client thread/INFO]: [CHAT] DucheeTuchee: <--- L{}{}K TP TO DirectionerDUH FOR SKIN COMP WITH PRIZES 3/6
+[16:57:10] [Client thread/INFO]: [CHAT] TheBoys614: tpa me ryan.
+[16:57:11] [Client thread/INFO]: [CHAT] Request sent to DirectionerDUH.
+[16:57:12] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: oops
+[16:57:13] [Client thread/INFO]: [CHAT] Kanga32: TPA TO EnderDingo10 FOR EPIC RP PLZ
+[16:57:13] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> its happening
+[16:57:13] [Client thread/INFO]: [CHAT] homein42: xD
+[16:57:15] [Client thread/INFO]: [CHAT] DirectionerDUH accepted your teleport request.
+[16:57:15] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[16:57:16] [Client thread/INFO]: [CHAT] Pending teleportation request cancelled.
+[16:57:20] [Client thread/INFO]: [CHAT] DatBaccaHig: {Carly}sure!
+[16:57:20] [Client thread/INFO]: [CHAT] craftworld12: <>Candy<> *feels bored*
+[16:57:20] [Client thread/INFO]: [CHAT] Request sent to DirectionerDUH.
+[16:57:23] [Client thread/INFO]: [CHAT] DirectionerDUH accepted your teleport request.
+[16:57:23] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[16:57:23] [Client thread/INFO]: [CHAT] HansMineDigger: jmp look here
+[16:57:25] [Client thread/INFO]: [CHAT] moondog560: hey people and aliens of all ages tp to directonerduh for an epic skins comp with great prizes
+[16:57:26] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[16:57:27] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> its happening just run with the little time you have
+[16:57:27] [Client thread/INFO]: [CHAT] DucheeTuchee: <--- L{}{}K TP TO DirectionerDUH FOR SKIN COMP WITH PRIZES 3/6!
+[16:57:29] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Namoi> Well Im Gonna Go...I wont be alive much longer so im going to the world of spirits!
+[16:57:30] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!
+[16:57:31] [Client thread/INFO]: [CHAT] mollyawesome5: TpA FOR A AWESOME HEAD SHOP
+[16:57:34] [Client thread/INFO]: [CHAT] crystalhh8: say 777 for help building
+[16:57:35] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:35] [Client thread/INFO]: [CHAT] ashscoobydoo: HEAD AND GOD SHOP NOW OPEN
+[16:57:36] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<--5/6---~
+[16:57:36] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:36] [Client thread/INFO]: [CHAT] kitikat13: yes
+[16:57:37] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:43] [Client thread/INFO]: [CHAT] DucheeTuchee: <--- L{}{}K TP TO DirectionerDUH FOR SKIN COMP WITH PRIZES4/6
+[16:57:43] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *put fire wall round chris*
+[16:57:43] [Client thread/INFO]: [CHAT] Fairydaisy9: CAN SOMEONE PLZ TPA TO ME TO HELP REBUILD MY PLOT
+[16:57:43] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:45] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!!!!!
+[16:57:46] [Client thread/INFO]: [CHAT] DucheeTuchee: <--- L{}{}K TP TO DirectionerDUH FOR SKIN COMP WITH PRIZES 4/6
+[16:57:47] [Client thread/INFO]: [CHAT] DirectionerDUH: ---_---__--____TPA TP ME FOR A SKIN COMP WINNER GETS 2 PRIZES (1 RARE OP ITEM) (1 SUPRISE)<--5/6---!
+[16:57:48] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> chris no...i won't leave u
+[16:57:49] [Client thread/INFO]: [CHAT] rosethekidRS: any clubs?
+[16:57:50] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:51] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:51] [Client thread/INFO]: [CHAT] DatBaccaHig: {Carly}fiesh!*giggles*
+[16:57:52] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> its happening just run with the little time you have i know your still there bri GO!
+[16:57:52] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:53] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:53] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:54] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:57] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:57] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:58] [Client thread/INFO]: [CHAT] lbre101: ~~~~Tpa for a awesome Club with hot or not sex rooms strippers dj and more~
+[16:57:59] [Client thread/INFO]: [CHAT] DucheeTuchee: <--- L{}{}K TP TO DirectionerDUH FOR SKIN COMP WITH PRIZES 5/6
+[16:58:01] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: THE LAGGGG
+[16:58:02] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>I DEMAND YOU!!!!
+[16:58:02] [Client thread/INFO]: [CHAT] rosethekidRS: any clubs? msg me!
+[16:58:05] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:58:05] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:06] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:06] [Client thread/INFO]: [CHAT] zMulae: Lol
+[16:58:07] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:07] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!!!
+[16:58:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: No lag for me
+[16:58:09] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:10] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:10] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:10] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:11] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:11] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:11] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:12] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> chris no! i won't leave u!
+[16:58:13] [Client thread/INFO]: [CHAT] CorrinUzumaki: <Namoi> *dies and turns into a mocking jay spirit* Bye *flys away*
+[16:58:15] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Hi Blue
+[16:58:22] [Client thread/INFO]: [CHAT] Diamond123412: =-Angel-=
+[16:58:25] [Client thread/INFO]: [CHAT] Fairydaisy9: plz help
+[16:58:26] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>*Eyes go dark black * go now or else
+[16:58:30] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!!
+[16:58:31] [Client thread/INFO]: [CHAT] herobrine20m: lol we spy
+[16:58:32] [Client thread/INFO]: [CHAT] kitikat13: im 27
+[16:58:32] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: hi!
+[16:58:33] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:33] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:34] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:34] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:34] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:35] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: Hai! :D
+[16:58:36] [Client thread/INFO]: [CHAT] [Premium] PhoenixKnight123: hai evryone
+[16:58:39] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS YO ;D
+[16:58:42] [Client thread/INFO]: [CHAT] mincraft_girlluv: samantha: ill find away to get u out of there
+[16:58:44] [Client thread/INFO]: [CHAT] [Premium] PhoenixKnight123: hi bluemoon
+[16:58:44] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Hey Blue
+[16:58:45] [Client thread/INFO]: [CHAT] DatBaccaHig: {Carly}fiesh!*sits and eats* thanks!
+[16:58:48] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:48] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: Hi
+[16:58:48] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:49] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:49] [Client thread/INFO]: [CHAT] herobrine20m: follow me
+[16:58:50] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!!!!!
+[16:58:51] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:51] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:51] [Client thread/INFO]: [CHAT] stefanoawsome: watch me get out capinsparcles
+[16:58:52] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:52] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> no chris i won't leave u behind!
+[16:58:52] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>*Eyes go dark black * go now or elsE!!! I DEMAND ALL OF YOU OR ELSE
+[16:58:52] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:53] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:53] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:53] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: You Should Add MEh
+[16:58:53] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:53] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:54] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:56] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:56] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] sorry
+[16:58:56] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:57] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:58] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:58] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!!
+[16:58:58] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:58] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:59] [Client thread/INFO]: [CHAT] ashscoobydoo: ----> TPA FOR HEAD/GOD SHOP!! <----
+[16:58:59] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!========
+[16:58:59] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> no chris i won't leave u behind!!
+[16:59:00] [Client thread/INFO]: [CHAT] MakeACakeDude: Any whovians?
+[16:59:07] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:59:08] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 6 BOYS LEFT HURRY!!!!!!!!!!! So vampire so wow!
+[16:59:09] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: I did :D
+[16:59:10] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS YO
+[16:59:15] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Yay!
+[16:59:20] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[16:59:20] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!=======
+[16:59:22] [Client thread/INFO]: [CHAT] ashscoobydoo: ----> TPA FOR HEAD/GOD SHOP!! <---
+[16:59:23] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Ew
+[16:59:24] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: haiii WORLD
+[16:59:26] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp
+[16:59:27] [Client thread/INFO]: [CHAT] [me -> DirectionerDUH] you win some you lose some oh and what are the prizes
+[16:59:29] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: lol
+[16:59:29] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP <--LOOK!@_@_@
+[16:59:31] [Client thread/INFO]: [CHAT] jacobritz: {HeroBrine{Watches Kat
+[16:59:31] [Client thread/INFO]: [CHAT] Fairydaisy9: OH
+[16:59:33] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp is awesome join
+[16:59:34] [Client thread/INFO]: [CHAT] [VIP] coletwin: TPA DOR EPIC SERVER WITH SG AND MORE!!!!
+[16:59:38] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS YO ;D
+[16:59:38] [Client thread/INFO]: [CHAT] CorrinUzumaki: Tpa For Town RP With Powers and Secrets!!!
+[16:59:38] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: brb
+[16:59:38] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!!!!
+[16:59:44] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>*Eyes turn black* *an explosion emersions*
+[16:59:46] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:59:47] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp
+[16:59:50] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP <--LOOK!
+[16:59:54] [Client thread/INFO]: [CHAT] [Premium] PhoenixKnight123: what ya making bluemmoon
+[16:59:54] [Client thread/INFO]: [CHAT] DatBaccaHig: {Carly}*finishes*thanks!*runs off*
+[16:59:55] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp is awesome join
+[16:59:57] [Client thread/INFO]: [CHAT] angel19ss, angelcookie11, angelheart101
+[16:59:58] [Client thread/INFO]: [CHAT] angel19ss, angelcookie11, angelheart101
+[17:00:02] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAII purple haii BIGMUFFIN who ELSE IS ONLINE i know |=D
+[17:00:03] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP <--LOOK
+[17:00:06] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS YO
+[17:00:11] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:00:11] [Client thread/INFO]: [CHAT] jeyfrog: TPA FOR A AWESOME HEROBRINE CAMP RP!!!!!!
+[17:00:12] [Client thread/INFO]: [CHAT] jacobritz: {HeroBrine} *Watches Kat*
+[17:00:17] [Client thread/INFO]: [CHAT] jessicanator: ****TPA FOR AWESOME HEAD/GOD/LIBRARY SHOP****
+[17:00:18] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>*Voice goes deep* I GAVE YOU A CHANGE NOW YO DIE!!
+[17:00:18] [Client thread/INFO]: [CHAT] MissAwesomekidd: TPA TO bunny3969 FOR AN AWESOME RP THAT CHOISES WHAT YOU WANT YOUR CHARCTER TO BE!!!!!!!!!
+[17:00:22] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *stays ignoring wat chris said*
+[17:00:22] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry!
+[17:00:25] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp is awesome join it has herobirne
+[17:00:26] [Client thread/INFO]: [CHAT] MakeACakeDude: I like space and time
+[17:00:27] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: WHAT TYPE OF RP xD i like caps
+[17:00:30] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp with herobrine
+[17:00:34] [Client thread/INFO]: [CHAT] CorrinUzumaki: Bye See ya Later :D D: XD DX
+[17:00:36] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp is awesome join it has herobirne
+[17:00:38] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: WHOA
+[17:00:38] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>*Voice goes deep* I GAVE YOU A CHANGE NOW YO DIE!!!
+[17:00:39] [Client thread/INFO]: [CHAT] mollyawesome5: TpA FOR A AWESOME HEAD SHOP!
+[17:00:40] [Client thread/INFO]: [CHAT] [VIP] coletwin: TPA FOR EPIC SERVER WITH SG AND MORE!!
+[17:00:41] [Client thread/INFO]: [CHAT] MissAwesomekidd: TPA TO bunny3969 FOR AN AWESOME CAMPING RP THAT CHOISES WHAT YOU WANT YOUR CHARCTER TO BE!!!
+[17:00:43] [Client thread/INFO]: [CHAT] DatBaccaHig: {Carly}hi viaeny!
+[17:00:43] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp with herobrine
+[17:00:50] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry!!
+[17:00:59] [Client thread/INFO]: [CHAT] ChelseaDuong123: brb guys
+[17:01:00] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 6 BOYS LEFT HURRY!!!!!!!!!!
+[17:01:01] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: yes
+[17:01:01] [Client thread/INFO]: [CHAT] mollyawesome5: TpA FOR A AWESOME HEAD SHOP!!
+[17:01:02] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you want to build a airport
+[17:01:03] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> i said i wouldn't leave u so i won't
+[17:01:03] [Client thread/INFO]: [CHAT] mincraft_girlluv: samantha cmon chicken herobrien
+[17:01:05] [Client thread/INFO]: [CHAT] Linetes: tpa to me for rp is awesome join it has herobirne
+[17:01:05] [Client thread/INFO]: [CHAT] MissAwesomekidd: TPA TO bunny3969 FOR AN AWESOME CAMPING RP THAT CHOISES WHAT YOU WANT YOUR CHARCTER TO BE!!!!!!!!!!
+[17:01:06] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: can u hear me?
+[17:01:07] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry
+[17:01:11] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>*Strikes her with water beam* hahaha]
+[17:01:12] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:01:15] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you want to build a airport.
+[17:01:16] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: K so what rp is this
+[17:01:18] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS YO;D
+[17:01:29] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *getsweaker*
+[17:01:30] [Client thread/INFO]: [CHAT] [VIP] coletwin: TPA FOR EPIC SERVER
+[17:01:31] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you want to build a airport
+[17:01:32] [Client thread/INFO]: [CHAT] blockmaster956: TPA-=-=-=-=-FOR-=-=-=-S3X-=-=-=-=-CLUB!!!! <-----L()()K!!!
+[17:01:36] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: kk
+[17:01:38] [Client thread/INFO]: [CHAT] ChristyCraft1658: FOLLOW US
+[17:01:39] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS YO
+[17:01:39] [Client thread/INFO]: [CHAT] ashscoobydoo: ----> TPA FOR HEAD/GOD SHOP, TROLL PARK AND LIBRARY!! <----
+[17:01:42] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 6 BOYS LEFT HURRY!!!!!!!!!!!
+[17:01:42] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I LIKE YELLING
+[17:01:43] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>HAHAHAHAHHA
+[17:01:44] [Client thread/INFO]: [CHAT] ChelseaDuong123: FOLLOW US GUYS
+[17:01:45] [Client thread/INFO]: [CHAT] lilly326: :D
+[17:01:49] [Client thread/INFO]: [CHAT] Kanga32: TPA TO HELP MAKE A TOWN RP PLZ
+[17:01:51] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry!
+[17:01:51] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 5 BOYS LEFT HURRY!!!!!!!!!!!
+[17:01:58] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: yeah IM GOOD AT RESTURAUNTS, AND YELLING
+[17:01:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: back
+[17:02:00] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!!!
+[17:02:07] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>>
+[17:02:08] [Client thread/INFO]: [CHAT] TheBoys614: msg me if you want to build a airport.
+[17:02:09] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: where do u WANT ME TO BUILD THE RESTURAUNT
+[17:02:11] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES
+[17:02:14] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>>HAHAHAHAH*Strikes bri with a sword GO OR ELSE*
+[17:02:14] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry plz
+[17:02:14] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:02:17] [Client thread/INFO]: [CHAT] Kanga32: TPA TO HELP MAKE A TOWN RP
+[17:02:18] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] please go
+[17:02:19] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES!!
+[17:02:20] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: OUT OF WHAT BLOCK
+[17:02:23] [Client thread/INFO]: [CHAT] [Premium] PhoenixKnight123: im soo bored
+[17:02:24] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS YO;D
+[17:02:26] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:02:29] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> Chris stop this ain't u
+[17:02:30] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: SORRY, I TOLD U I LIKE YELLING =D
+[17:02:32] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:02:36] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:37] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:37] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:38] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!======
+[17:02:38] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, thought not looks count
+[17:02:38] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:38] [Client thread/INFO]: [CHAT] Ryanv2003: \/
+[17:02:39] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:39] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 5 BOYS LEFT HURRY!!!!!!!!!!!!
+[17:02:40] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:40] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: OUT OF WHICH BLOCK
+[17:02:42] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:43] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!!!
+[17:02:47] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:47] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry plz!
+[17:02:47] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:48] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Grenade
+[17:02:48] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:48] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:02:49] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:02:56] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Shoots ashley with beam of darkness
+[17:02:58] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS :D
+[17:02:59] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!===========
+[17:02:59] [Client thread/INFO]: [CHAT] HansMineDigger: no
+[17:02:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: yeah
+[17:03:01] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: also u have TO ADD ME
+[17:03:05] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:03:05] [Client thread/INFO]: [CHAT] HansMineDigger: wut chest?
+[17:03:07] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> Chris stop this ain't u!
+[17:03:07] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: you have to see this
+[17:03:09] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Shoots ashley with beam of darkness hahah
+[17:03:10] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: xD
+[17:03:10] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only
+[17:03:10] [Client thread/INFO]: [CHAT] [Premium] PhoenixKnight123: bluemoon wana see my headshop
+[17:03:14] [Client thread/INFO]: [CHAT] sepsed: TPA FOR THE BEST HEAD SHOP EVER!
+[17:03:14] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: hold on tigers
+[17:03:14] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:03:17] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:03:19] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: kk
+[17:03:19] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry plz!!
+[17:03:22] [Client thread/INFO]: [CHAT] sepsed: TPA FOR THE BEST HEAD SHOP EVER
+[17:03:23] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:03:24] [Client thread/INFO]: [CHAT] [SnickersCraftFTW -> me] do /p h to get back
+[17:03:24] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Shoots ashley with beam of darkness hahah SHUT UP HE IS GONE
+[17:03:26] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!==========
+[17:03:29] [Client thread/INFO]: [CHAT] [VIP] coletwin: TPA FOR RP/SKINCOMP/CLUB AND MORE!!!
+[17:03:29] [Client thread/INFO]: [CHAT] sepsed: TPA FOR THE BEST HEAD SHOP EVER!
+[17:03:29] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: xD I LIKE YELLING
+[17:03:29] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:03:31] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:03:33] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> Chris stop this ain't u!!!
+[17:03:36] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!========
+[17:03:36] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:03:37] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Hi
+[17:03:38] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 5 BOYS LEFT HURRY!!!!!!!!!!!!!
+[17:03:40] [Client thread/INFO]: [CHAT] Error: PhoenixKnight123 has teleportation disabled.
+[17:03:41] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Ok
+[17:03:41] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only!
+[17:03:44] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:03:44] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: I like it
+[17:03:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: hao do i get down xD
+[17:03:47] [Client thread/INFO]: [CHAT] 31Nivlac, 5niper2_0, a25b07, agentcreepergarm, Alanbitlz, anakpapa, andretracy, angel19ss, angelcookie11, angelheart101, Animeloveplaysmc, Anomidget, AntonioTheSilly, Ash325, ashscoobydoo, ashwill321, Avreyy, BaylorHailey, becco135, beccy70078, belenking, BenCeli, BettyMjDana, bigmuffin23, Bip16pop, bip7pop, Blair_Nyoko, blockmaster956, bloxtonium, bluediamonds01, BlueMoon7130, bobman2131, britton280sel, BULLDOGLOVER152, bunny3969, bunnybooy, BUTTER_LOVER48, ButterAssassin66, butterguy27, Buttermaster199, buttermoose1235, capinsparcles, CaptainJomar, Captan_Ender, carlosjr41, Charzam, CheckYesJuilet, Chelsea0166, ChelseaDuong123, ChickenGod80, ChristyCraft1658, cocobutterbee, coletwin, Collin295, concon555, Connorsupa, Cowgirl_45, CoyCrown560, crafterarmy, craftworld12, CrazyCoolCarol, crazycrazygirl, crystalhh8, crystalmc2013, cutestthingever, CutiePie1902, cuttinthecheeze, cybermanleader, Daftpunk432, DarkBlaze105, DarkRye890, deathrealm25, DerpydplaysMC, Diamond123412, diamond_unicorn1, DirectionerDUH, dontae876, Dorisfrench, DPoke, Ecorche, eddiehobbit, Elliebaby007, EnderDingo10, EnderMatterEB, Erick468, Exploading_TNT11, ExplodingLava, Fairydaisy9, Falloutgurl13, FerminatorFTW, fireflame6, FireMasterSteve, flamerider123, fluffydog241, FoxTeen14, FrankMartin28, Freete4, Fzeh, gabrielle2413, GalladeTrainer, gaminggods, gavin2533, GavinStix, GeoCrazyCat978, goku911, goodgame876, graydog11, Guncakex, GustavRJ1, HangoverII, HansMineDigger, horselovermc, hunter7195, iceek51, IceJewel, Icy_Pie, iGemmalee, inky345, Its_alyssa24, jackace318, Jacobg26, jacobritz, Jberube24, Jbob56, jdawg7933, Jercacia, jessicanator, jeyfrog, jjcheerio, jjkicktive, jlwaud7, JmpProd, Joey_IV, JollyPuppyLuv, jtdiamondminer, Just2cool1, k9king42, kaitlynthekool, Kanga32, Kat_Minecraft, kbordeaux2002, kelsy1, kitikat13, kitkat559, kittenlover1943, kittycat15978, kittyclaus34, Kittysoftpaws9, kryssaa, Kyra5598, LaurenPiePants, lbre101, Left4dead04, Legendary_Hero01, Lego_Kid2012, LegoFan9642, Lester124, lexiluvsyeh, lilly326, Linetes, lion70449, littlechris26, Livi816, Lord_Witherbrine, LordofCrayons, Lovey9539848, macario77, mackamoo, maddawgdancer, Maisiecoolest, MakeACakeDude, Margarita11621, MARIO_MAN12, MarleyBear, mathew4t3, matt4302, maxxmatty, MetalMario999999, mike9237809, Mikeytnt, millermobs, mincraft_girlluv, MintygoesMining, misskels, missrklg, mollyawesome5, moomoonini, moondog560, MPCMatheus, Mr_Milk_MAn123, Mr_Razzlez, Mr_Steve_Ingot, Mr_Zazzlz, MrCreeper1104, muffin9591982, natanb123, Nathan_Indigo, nekochibimaid, nialler5525, paarthanaux, Pandamoniom37, PhoenixKnight123, POWd_rd, pr3sunto, purplegrenade321, PusheenPizza, RetroBoy2213, rezpez, RocketStar040, RockStarPuppy123, Roses22, rosethekidRS, Ryanv2003, S4m0s, Saturn257, ScittenKitty, sepsed, Shortstack400, SketchedRose, SnickersCraftFTW, solonatalia7, stefanoawsome, stumboechoe, StunnerSmile, superjosh2013, supersmitygaming, swag_masta_d, teleportergirl9, ThatOneGuyLJ, TheBoys614, TheCoolOneX, TheDiamondPicks, Themaza1178, thepinkboss, TigersMineing, Trial_Crafter, TRISTAN102303, turtlegenocide, turtlethekiller, Umbreon_x, Utethan729, venombites1, viniiiiii, WANNISA777, washosb1, Wavy03, Wernerje, xavierkingboy, xJuliarockstarx, xLEGEND4RY10x, xMiniCraft105x, xNeonMarvelx, xUnicornPrincess, xXMciliyaXx, ZenConfusion, zMulae
+[17:03:50] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!!
+[17:03:52] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[17:03:53] [Client thread/INFO]: [CHAT] MakeACakeDude: Finished my Volcano :)
+[17:03:55] [Client thread/INFO]: [CHAT] [VIP] coletwin: TPA FOR EPIC HIGH SCHOOL RP!!
+[17:03:58] [Client thread/INFO]: [CHAT] SnickersCraftFTW: ohmy
+[17:03:58] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!======
+[17:03:58] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 5 BOYS LEFT HURRY!!!!!!!!!!!!!!!!!!
+[17:03:58] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: oh im stupid xD
+[17:03:59] [Client thread/INFO]: [CHAT] blockmaster956: TPA-=-=-=-=-FOR-=-=-=-S3X-=-=-=-=-CLUB!!!! <-----L()()K!!!!
+[17:04:00] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: IT SMELLS LIKE COLONE
+[17:04:01] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: ummm
+[17:04:01] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only
+[17:04:03] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:04:03] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS
+[17:04:04] [Client thread/INFO]: [CHAT] Ryanv2003: h
+[17:04:05] [Client thread/INFO]: [CHAT] kitkat559: block
+[17:04:06] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: woahhh nice :D
+[17:04:07] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *STrikes bri with water sword*
+[17:04:07] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[17:04:09] [Client thread/INFO]: [CHAT] blockmaster956: TPA-=-=-=-=-FOR-=-=-=-S3X-=-=-=-=-CLUB!!!! <-----L()()K!!!
+[17:04:10] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Grenade tp to me
+[17:04:10] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:04:12] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: ty
+[17:04:13] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: THAT SMMELLS SO GOOD BUT WHERE IS IT COMING FROM
+[17:04:13] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[17:04:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: k
+[17:04:16] [Client thread/INFO]: [CHAT] blockmaster956: TPA-=-=-=-=-FOR-=-=-=-S3X-=-=-=-=-CLUB!!!! <-----L()()K!
+[17:04:17] [Client thread/INFO]: [CHAT] Fairydaisy9: cool
+[17:04:17] [Client thread/INFO]: [CHAT] SnickersCraftFTW: :3
+[17:04:19] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:04:20] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:04:21] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[17:04:22] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *gets weaker*
+[17:04:24] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[17:04:26] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:04:29] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[17:04:29] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!======(3/9)
+[17:04:30] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:04:32] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: oh i saw dish
+[17:04:32] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: In the chest
+[17:04:34] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] sorry u were being annoying
+[17:04:35] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry plz!!!
+[17:04:36] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only!
+[17:04:36] [Client thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[17:04:36] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: huh
+[17:04:38] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES!!!
+[17:04:39] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!! U GET TO MAKE UP UR ROLE!!!!!
+[17:04:42] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: oh its not sere
+[17:04:43] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES!!!!
+[17:04:45] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Whispers* max...
+[17:04:48] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: put it in
+[17:04:49] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only
+[17:04:50] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: but like SERIOUSLY, WHERE IS THAT COLONE SMELL COMING FROM
+[17:04:50] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ladeh
+[17:04:51] [Client thread/INFO]: [CHAT] maddawgdancer: TPA FOR AN EPIC VAMPIRE VS HUMAN CAMPING ROLEPLAY! INCLUDES POWERS! GUYS NEEDED!+FIREWORKS:D
+[17:04:57] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Whispers* max... is that you
+[17:04:57] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:04:57] [Client thread/INFO]: [CHAT] Icy_Pie: TPA FOR AN EPIC VAMPIRE VS HUMAN RP 3 VAMPIRES AND 5 BOYS LEFT HURRY!!!!!!!!!!!!!!!!!!! COME ON
+[17:04:58] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> Chris stop this ain't u!!!!
+[17:04:58] [Client thread/INFO]: [CHAT] [me -> DirectionerDUH] what were the prizes
+[17:05:02] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!! U GET TO MAKE UP UR ROLE!!!!
+[17:05:03] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: it said stripper bra and thong with masterbating tools
+[17:05:06] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Whispers* max... is that you NO IM NOT WEAK!!!
+[17:05:07] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry plz!!!!
+[17:05:09] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD OH! ITS COMING FROM MY BUDDY MIKE
+[17:05:11] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: oh my god xD
+[17:05:12] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:05:13] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES!!!
+[17:05:15] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: Idk loll
+[17:05:15] [Client thread/INFO]: [CHAT] blockmaster956: TPA-=-=-=-=-FOR-=-=-=-S3X-=-=-=-=-CLUB!!!! <-----L()()K
+[17:05:16] [Client thread/INFO]: [CHAT] HansMineDigger: that was from jmp's chest
+[17:05:17] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:05:19] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: he says HI
+[17:05:20] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:05:20] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only!
+[17:05:23] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES!!
+[17:05:23] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Whispers* max... is that you NO IM NOT WEAK!!! NO no
+[17:05:24] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:05:27] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: claire keeps txting me :/ brb
+[17:05:31] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:05:31] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES!!!
+[17:05:31] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> Chris stop please this ain't u!!!!
+[17:05:36] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] a real book written by SkythekidRS (SKydoesminecraft) and a thing make u like a
+[17:05:37] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: poop IM SO SORRY I BROKE THE GRASS 0.0
+[17:05:38] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES!!
+[17:05:40] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!! U GET TO MAKE UP UR ROLE!!!
+[17:05:41] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] slim
+[17:05:42] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry plz!
+[17:05:44] [Client thread/INFO]: [CHAT] Fairydaisy9: i like it
+[17:05:45] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Whispers* max... is that you NO IM NOT WEAK!!! NO no NO IM NOT wEAK
+[17:05:48] [Client thread/INFO]: [CHAT] beccy70078: TP FOR A FIREWORK SHOP CHOOSE YOUR OWN COLOURS AND SHAPES!!!
+[17:05:48] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] *slime*
+[17:05:50] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!======(4/9)
+[17:05:53] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only
+[17:05:58] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *Whispers* max... is that you NO IM NOT WEAK!!! NO no NO IM NOT wEAK no
+[17:05:59] [Client thread/INFO]: [CHAT] WANNISA777: HEY IM BACK
+[17:05:59] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: did i MENTION I LIKE SINGING AND YELLING WHILE I BUILD xD >=D
+[17:06:02] [Client thread/INFO]: [CHAT] turtlethekiller: TPA FOR EPIC LIFE RP WITH SCHOOL, HOUSES, SHOPS, AND MORE!!! HURRY!!!
+[17:06:05] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:05] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:05] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:06] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:06] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:06] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:06] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:06] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:07] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:07] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:08] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> am i
+[17:06:13] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry plz!!
+[17:06:16] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA TO SEE MY DOCTOR WHO CAPE
+[17:06:16] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: LA DI DA DA DOO DOO BAP SHE BAP WOW!
+[17:06:19] [Client thread/INFO]: [CHAT] goldenkiller532: .
+[17:06:19] [Client thread/INFO]: [CHAT] xNeonMarvelx: TPA FOR MISS MINER PAGENT! BASED ON THOUGHTS NOT BEAUTY! GIRLS ONLY!======(5/9)
+[17:06:20] [Client thread/INFO]: [CHAT] TRISTAN102303: TPA TO maddawgdancer FOR AN EPIC CAMPING RP!!!!!
+[17:06:21] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA TO SEE MY DOCTOR WHO CAPE
+[17:06:21] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:06:22] [Client thread/INFO]: [CHAT] [Premium] PhoenixKnight123: ok
+[17:06:23] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:23] [Client thread/INFO]: [CHAT] angel19ss, angelheart101
+[17:06:27] [Client thread/INFO]: [CHAT] WANNISA777: Sup
+[17:06:28] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: AYAYAYAY AII
+[17:06:28] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only!
+[17:06:31] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *doesn't want to hurt chris*
+[17:06:35] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> am i im not weak
+[17:06:41] [Client thread/INFO]: [CHAT] jjcheerio: EVERYONE TPA TO ME OR STUNNERSMILE FOR THE BEST BOOK/GOD/HEAD SHOP EVA
+[17:06:43] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!! U GET TO MAKE UP UR ROLE!!!!!
+[17:06:44] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry
+[17:06:44] [Client thread/INFO]: [CHAT] jackace318: HOSTING SKIN COMPETITION COME QUICK IM RECORDING IT
+[17:06:44] [Client thread/INFO]: [CHAT] Tick526: TPA FOR HEAD SHOP
+[17:06:45] [Client thread/INFO]: [CHAT] LaurenPiePants: t
+[17:06:45] [Client thread/INFO]: [CHAT] Livi816: TPA to xNeonMarvelx for epic Miss Miner Pagent, based on thoughts not beauty, Girls Only
+[17:06:55] [Client thread/INFO]: [CHAT] Kanga32: TPA TO fluffydog241 FOR A EPIC RP I LAGGED A SAW IT SOOO EPIC
+[17:06:56] [Client thread/INFO]: [CHAT] turtlethekiller: TPA FOR EPIC LIFE RP WITH SCHOOL, HOUSES, SHOPS, AND MORE!!! HURRY!!!!
+[17:06:56] [Client thread/INFO]: [CHAT] Error: You do not have the essentials.mail.send permission.
+[17:06:57] [Client thread/INFO]: [CHAT] jackace318: HOSTING SKIN COMPETITION COME QUICK IM RECORDING IT 0/^
+[17:06:58] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *doesn't want to hurt chris* chris please...
+[17:07:00] [Client thread/INFO]: [CHAT] jjcheerio: EVERYONE TPA TO ME OR STUNNERSMILE FOR THE BEST BOOK/GOD/HEAD SHOP EVA!
+[17:07:01] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> am i im not weak GET oUT MAX NO*GETS PURE EVIL AGAIN* HAHAH IM STRONG
+[17:07:03] [Client thread/INFO]: [CHAT] jackace318: HOSTING SKIN COMPETITION COME QUICK IM RECORDING IT 0/6
+[17:07:07] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:07:11] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry!
+[17:07:11] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[17:07:12] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *STrikes bri with water sword*
+[17:07:15] [Client thread/INFO]: [CHAT] jjcheerio: EVERYONE TPA TO ME OR STUNNERSMILE FOR THE BEST BOOK/GOD/HEAD SHOP EVA!!
+[17:07:16] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *doesn't want to hurt chris* chris please...stop
+[17:07:17] [Client thread/INFO]: [CHAT] Maisiecoolest: ----TPA FOR EPIC SKIN COMP /W PRIZE------RECORDING-----
+[17:07:19] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:07:20] [Client thread/INFO]: [CHAT] WANNISA777: KAITIE
+[17:07:21] [Client thread/INFO]: [CHAT] 100squishies, 31Nivlac, 5niper2_0, a25b07, Aden45, alexis25888, anakpapa, anastasia0616, andretracy, angel19ss, angelheart101, Animeloveplaysmc, Anomidget, AntonioTheSilly, Ash325, ashscoobydoo, ashwill321, BaylorHailey, becco135, beccy70078, belenking, BenCeli, BettyMjDana, Bip16pop, bip7pop, Blair_Nyoko, blockmaster956, BlooperCOWS, bloxtonium, bluediamonds01, BlueMoon7130, bobman2131, britton280sel, BULLDOGLOVER152, bunny3969, bunnybooy, BUTTER_LOVER48, ButterAssassin66, butterguy27, Buttermaster199, buttermoose1235, capinsparcles, CaptainJomar, Captan_Ender, carlosjr41, Charzam, CheckYesJuilet, Chelsea0166, ChelseaDuong123, ChickenGod80, ChristyCraft1658, cocobutterbee, Collin295, concon555, Connorsupa, Cowgirl_45, CoyCrown560, crafterarmy, craftworld12, CrazyCoolCarol, crazycrazygirl, CrystalButter, crystalhh8, crystalmc2013, cutestthingever, CutiePie1902, cuttinthecheeze, cybermanleader, Daftpunk432, Danhoover, DarkBlaze105, DarkRye890, deathrealm25, DerpydplaysMC, Diamond123412, DirectionerDUH, doggahprincess, dontae876, Dorisfrench, DPoke, drews219, Ecorche, eddiehobbit, Elliebaby007, EnderDingo10, EnderMatterEB, Erick468, Exploading_TNT11, ExplodingLava, Fairydaisy9, Falloutgurl13, FerminatorFTW, fireflame6, FireMasterSteve, flamerider123, fluffydog241, FoxTeen14, FrankMartin28, Freete4, Fzeh, GalladeTrainer, gaminggods, gavin2533, GavinStix, GeoCrazyCat978, goldenkiller532, graydog11, Guncakex, GustavRJ1, HangoverII, HansMineDigger, horselovermc, hunter7195, iceek51, IceJewel, Icy_Pie, iGemmalee, inky345, Its_alyssa24, jackace318, Jacobg26, jacobritz, Jberube24, Jbob56, jdawg7933, Jercacia, jessicanator, jeyfrog, jjcheerio, jjkicktive, jlwaud7, JmpProd, Joey_IV, JollyPuppyLuv, Just2cool1, k9king42, kaitlynthekool, Kanga32, Kat_Minecraft, kbordeaux2002, kelsy1, kitikat13, kitkat559, kittycat15978, kittyclaus34, Kittysoftpaws9, kman1041, kryssaa, Kyra5598, LaurenPiePants, lbre101, Legendary_Hero01, Lego_Kid2012, LegoFan9642, Lester124, lexiluvsyeh, Linetes, littlechris26, Livi816, Lord_Witherbrine, LordofCrayons, Lovey9539848, macario77, mackamoo, Maisiecoolest, MakeACakeDude, Margarita11621, MARIO_MAN12, MarleyBear, mathew4t3, matt4302, maxxmatty, mike9237809, Mikeytnt, millermobs, mincraft_girlluv, MintygoesMining, misskels, missrklg, mollyawesome5, moomoonini, moondog560, MPCMatheus, Mr_Milk_MAn123, Mr_Steve_Ingot, MrCreeper1104, muffin9591982, natanb123, Nathan_Indigo, nekochibimaid, nialler5525, nicholasvalqui, paarthanaux, Pandamoniom37, PhoenixKnight123, PixeySticks, POWd_rd, purplegrenade321, PusheenPizza, RetroBoy2213, rezpez, RocketStar040, RockStarPuppy123, Roses22, rosethekidRS, S4m0s, SamTatBaker, ScittenKitty, sepsed, Shortstack400, SketchedRose, SnickersCraftFTW, solonatalia7, stefanoawsome, stumboechoe, StunnerSmile, sufe22, superjosh2013, swag_masta_d, teleportergirl9, ThatOneGuyLJ, TheCoolOneX, TheDiamondPicks, thepinkboss, Tick526, Trial_Crafter, TRISTAN102303, turtlegenocide, turtlethekiller, Utethan729, venombites1, viniiiiii, WANNISA777, washosb1, Wavy03, xavierkingboy, xJuliarockstarx, xLEGEND4RY10x, xMiniCraft105x, xNeonMarvelx, xUnicornPrincess, xXMciliyaXx, ZenConfusion, zMulae
+[17:07:22] [Client thread/INFO]: [CHAT] 100squishies, 31Nivlac, 5niper2_0, a25b07, Aden45, alexis25888, anakpapa, anastasia0616, andretracy, angel19ss, angelheart101, Animeloveplaysmc, Anomidget, AntonioTheSilly, Ash325, ashscoobydoo, ashwill321, BaylorHailey, becco135, beccy70078, belenking, BenCeli, BettyMjDana, Bip16pop, bip7pop, Blair_Nyoko, blockmaster956, BlooperCOWS, bloxtonium, bluediamonds01, BlueMoon7130, bobman2131, britton280sel, BULLDOGLOVER152, bunny3969, bunnybooy, BUTTER_LOVER48, ButterAssassin66, butterguy27, Buttermaster199, buttermoose1235, capinsparcles, CaptainJomar, Captan_Ender, carlosjr41, Charzam, CheckYesJuilet, Chelsea0166, ChelseaDuong123, ChickenGod80, ChristyCraft1658, cocobutterbee, Collin295, concon555, Connorsupa, Cowgirl_45, CoyCrown560, crafterarmy, craftworld12, CrazyCoolCarol, crazycrazygirl, CrystalButter, crystalhh8, crystalmc2013, cutestthingever, CutiePie1902, cuttinthecheeze, cybermanleader, Daftpunk432, Danhoover, DarkBlaze105, DarkRye890, deathrealm25, DerpydplaysMC, Diamond123412, DirectionerDUH, doggahprincess, dontae876, Dorisfrench, DPoke, drews219, Ecorche, eddiehobbit, Elliebaby007, EnderDingo10, EnderMatterEB, Erick468, Exploading_TNT11, ExplodingLava, Fairydaisy9, Falloutgurl13, FerminatorFTW, fireflame6, FireMasterSteve, flamerider123, fluffydog241, FoxTeen14, FrankMartin28, Freete4, Fzeh, GalladeTrainer, gaminggods, gavin2533, GavinStix, GeoCrazyCat978, goldenkiller532, graydog11, Guncakex, GustavRJ1, HangoverII, HansMineDigger, horselovermc, hunter7195, iceek51, IceJewel, Icy_Pie, iGemmalee, inky345, Its_alyssa24, jackace318, Jacobg26, jacobritz, Jberube24, Jbob56, jdawg7933, Jercacia, jessicanator, jeyfrog, jjcheerio, jjkicktive, jlwaud7, JmpProd, Joey_IV, JollyPuppyLuv, Just2cool1, k9king42, kaitlynthekool, Kanga32, Kat_Minecraft, kbordeaux2002, kelsy1, kitikat13, kitkat559, kittycat15978, kittyclaus34, Kittysoftpaws9, kman1041, kryssaa, Kyra5598, LaurenPiePants, lbre101, Legendary_Hero01, Lego_Kid2012, LegoFan9642, Lester124, lexiluvsyeh, Linetes, littlechris26, Livi816, Lord_Witherbrine, LordofCrayons, Lovey9539848, macario77, mackamoo, Maisiecoolest, MakeACakeDude, Margarita11621, MARIO_MAN12, MarleyBear, mathew4t3, matt4302, maxxmatty, mike9237809, Mikeytnt, millermobs, mincraft_girlluv, MintygoesMining, misskels, missrklg, mollyawesome5, moomoonini, moondog560, MPCMatheus, Mr_Milk_MAn123, Mr_Steve_Ingot, MrCreeper1104, muffin9591982, natanb123, Nathan_Indigo, nekochibimaid, nialler5525, nicholasvalqui, paarthanaux, Pandamoniom37, PhoenixKnight123, PixeySticks, POWd_rd, purplegrenade321, PusheenPizza, RetroBoy2213, rezpez, RocketStar040, RockStarPuppy123, Roses22, rosethekidRS, S4m0s, SamTatBaker, ScittenKitty, sepsed, Shortstack400, SketchedRose, SnickersCraftFTW, solonatalia7, stefanoawsome, stumboechoe, StunnerSmile, sufe22, superjosh2013, swag_masta_d, teleportergirl9, ThatOneGuyLJ, TheCoolOneX, TheDiamondPicks, thepinkboss, Tick526, Trial_Crafter, TRISTAN102303, turtlegenocide, turtlethekiller, Utethan729, venombites1, viniiiiii, WANNISA777, washosb1, Wavy03, xavierkingboy, xJuliarockstarx, xLEGEND4RY10x, xMiniCraft105x, xNeonMarvelx, xUnicornPrincess, xXMciliyaXx, ZenConfusion, zMulae
+[17:07:22] [Client thread/INFO]: [CHAT] bunny3969: TPA TO ME OR EnderDingo10 FOR AN EPIC RP WHEN YOU CHOOSE WHAT YOUR CHARACTER IS LIKE!!!!
+[17:07:22] [Client thread/INFO]: [CHAT] 100squishies, 31Nivlac, 5niper2_0, a25b07, Aden45, alexis25888, anakpapa, anastasia0616, andretracy, angel19ss, angelheart101, Animeloveplaysmc, Anomidget, AntonioTheSilly, Ash325, ashscoobydoo, ashwill321, BaylorHailey, becco135, beccy70078, belenking, BenCeli, BettyMjDana, Bip16pop, bip7pop, Blair_Nyoko, blockmaster956, BlooperCOWS, bloxtonium, bluediamonds01, BlueMoon7130, bobman2131, britton280sel, BULLDOGLOVER152, bunny3969, bunnybooy, BUTTER_LOVER48, ButterAssassin66, butterguy27, Buttermaster199, buttermoose1235, capinsparcles, CaptainJomar, Captan_Ender, carlosjr41, Charzam, CheckYesJuilet, Chelsea0166, ChelseaDuong123, ChickenGod80, ChristyCraft1658, cocobutterbee, Collin295, concon555, Connorsupa, Cowgirl_45, CoyCrown560, crafterarmy, craftworld12, CrazyCoolCarol, crazycrazygirl, CrystalButter, crystalhh8, crystalmc2013, cutestthingever, CutiePie1902, cuttinthecheeze, cybermanleader, Daftpunk432, Danhoover, DarkBlaze105, DarkRye890, deathrealm25, DerpydplaysMC, Diamond123412, DirectionerDUH, doggahprincess, dontae876, Dorisfrench, DPoke, drews219, Ecorche, eddiehobbit, Elliebaby007, EnderDingo10, EnderMatterEB, Erick468, Exploading_TNT11, ExplodingLava, Fairydaisy9, Falloutgurl13, FerminatorFTW, fireflame6, FireMasterSteve, flamerider123, fluffydog241, FoxTeen14, FrankMartin28, Freete4, Fzeh, GalladeTrainer, gaminggods, gavin2533, GavinStix, GeoCrazyCat978, goldenkiller532, graydog11, Guncakex, GustavRJ1, HangoverII, HansMineDigger, horselovermc, hunter7195, iceek51, IceJewel, Icy_Pie, iGemmalee, inky345, Its_alyssa24, jackace318, Jacobg26, jacobritz, Jberube24, Jbob56, jdawg7933, Jercacia, jessicanator, jeyfrog, jjcheerio, jjkicktive, jlwaud7, JmpProd, Joey_IV, JollyPuppyLuv, Just2cool1, k9king42, kaitlynthekool, Kanga32, Kat_Minecraft, kbordeaux2002, kelsy1, kitikat13, kitkat559, kittycat15978, kittyclaus34, Kittysoftpaws9, kman1041, kryssaa, Kyra5598, LaurenPiePants, lbre101, Legendary_Hero01, Lego_Kid2012, LegoFan9642, Lester124, lexiluvsyeh, Linetes, littlechris26, Livi816, Lord_Witherbrine, LordofCrayons, Lovey9539848, macario77, mackamoo, Maisiecoolest, MakeACakeDude, Margarita11621, MARIO_MAN12, MarleyBear, mathew4t3, matt4302, maxxmatty, mike9237809, Mikeytnt, millermobs, mincraft_girlluv, MintygoesMining, misskels, missrklg, mollyawesome5, moomoonini, moondog560, MPCMatheus, Mr_Milk_MAn123, Mr_Steve_Ingot, MrCreeper1104, muffin9591982, natanb123, Nathan_Indigo, nekochibimaid, nialler5525, nicholasvalqui, paarthanaux, Pandamoniom37, PhoenixKnight123, PixeySticks, POWd_rd, purplegrenade321, PusheenPizza, RetroBoy2213, rezpez, RocketStar040, RockStarPuppy123, Roses22, rosethekidRS, S4m0s, SamTatBaker, ScittenKitty, sepsed, Shortstack400, SketchedRose, SnickersCraftFTW, solonatalia7, stefanoawsome, stumboechoe, StunnerSmile, sufe22, superjosh2013, swag_masta_d, teleportergirl9, ThatOneGuyLJ, TheCoolOneX, TheDiamondPicks, thepinkboss, Tick526, Trial_Crafter, TRISTAN102303, turtlegenocide, turtlethekiller, Utethan729, venombites1, viniiiiii, WANNISA777, washosb1, Wavy03, xavierkingboy, xJuliarockstarx, xLEGEND4RY10x, xMiniCraft105x, xNeonMarvelx, xUnicornPrincess, xXMciliyaXx, ZenConfusion, zMulae
+[17:07:23] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:07:24] [Client thread/INFO]: [CHAT] [Donator] Cowgirl_45: tpa for epic LIFE RP!!!!!!!!!!!!!!!!!
+[17:07:26] [Client thread/INFO]: [CHAT] turtlethekiller: TPA FOR EPIC LIFE RP WITH SCHOOL, HOUSES, SHOPS, AND MORE!!! HURRY!!!
+[17:07:29] [Client thread/INFO]: [CHAT] jjcheerio: EVERYONE TPA TO ME OR STUNNERSMILE FOR THE BEST BOOK/GOD/HEAD SHOP EVA!
+[17:07:31] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~
+[17:07:33] [Client thread/INFO]: [CHAT] Kanga32: TPA TO fluffydog241
+[17:07:34] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *STrikes bri with water sword* IM NOT WEAK YOU YOU
+[17:07:35] [Client thread/INFO]: [CHAT] You don't have enough permissions to promote on this ladder
+[17:07:37] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *doesn't want to hurt chris* chris please...stop...
+[17:07:40] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry!!
+[17:07:44] [Client thread/INFO]: [CHAT] Diamond123412: TPA TO EnderDingo10 FOR A EPIC RP!!!! U GET TO MAKE UP UR ROLE!!!!!!
+[17:07:48] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~~
+[17:07:48] [Client thread/INFO]: [CHAT] WANNISA777: Can I Be Kaitie
+[17:07:50] [Client thread/INFO]: [CHAT] bluediamonds01: <<Brianna>> *doesn't want to hurt chris* chris please...stop....
+[17:07:51] [Client thread/INFO]: [CHAT] jjcheerio: EVERYONE TPA TO ME OR STUNNERSMILE FOR THE BEST BOOK/GOD/HEAD SHOP EVA!!
+[17:07:56] [Client thread/INFO]: [CHAT] fluffydog241: TPA FOR EPIC LIFE RP WITH HOUSES A SCHOOL AND MORE!TPA TO ME OR turtlethekiller FOR RP Hurry!!@@
+[17:07:56] [Client thread/INFO]: [CHAT] Kanga32: TPA TO fluffydog241 EPIC RP
+[17:07:57] [Client thread/INFO]: [CHAT] StunnerSmile: L()()K----------> TPA FOR AN AWESOME HEAD/BOOK/GOD SHOP-------->/
+[17:07:58] [Client thread/INFO]: [CHAT] littlechris26: <<Chris>> *STrikes bri with water sword* IM NOT WEAK YOU YOU hahah
+[17:08:00] [Client thread/INFO]: [CHAT] turtlethekiller: TPA FOR EPIC LIFE RP WITH SCHOOL, HOUSES, SHOPS, AND MORE!!! HURRY!!!!
+[17:08:04] [Client thread/INFO]: [CHAT] Blair_Nyoko: TPA FOR A LIFE RP~~~~~~ msg fluffydog241 for role!!!!!~~~~~

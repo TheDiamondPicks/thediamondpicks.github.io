@@ -1,0 +1,2289 @@
+[16:34:10] [main/INFO]: Setting user: TheDiamondPicks
+[16:34:10] [main/INFO]: (Session ID is token:b988e69b0b834d5692a6889a748c59da:a05667a521154bc88bbb527426a047b5)
+[16:34:11] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:34:15] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:34:16] [Sound Library Loader/INFO]: Sound engine started
+[16:34:25] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:34:25] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:34:36] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[16:34:39] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:34:39] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[16:34:39] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[16:34:39] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:34:40] [Client thread/INFO]: [CHAT]
+[16:34:40] [Client thread/INFO]: [CHAT] You have no new mail.
+[16:34:40] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[16:34:40] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[16:34:40] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[16:34:44] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:34:44] [Client thread/INFO]: [CHAT] Nerdyowlgirl: hello my name is a sercret name no one willGabyminer500: Tpa for club
+[16:35:01] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[16:35:02] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> Her... Her body is in the pool....
+[16:35:04] [Client thread/INFO]: [CHAT] ~Tony: You okay megan?
+[16:35:04] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: kha
+[16:35:05] [Client thread/INFO]: [CHAT] Nerdyowlgirl: hello my name is a sercret name no one will Gabyminer500: >>Tpa for club<<
+[16:35:06] [Client thread/INFO]: [CHAT] [VIP] Purple1217: Animeloveplaysmc do u
+[16:35:07] [Client thread/INFO]: [CHAT] [Donator] usaaa: Ugh no one listens to me
+[16:35:09] [Client thread/INFO]: [CHAT] Djdark1133: TPA TO ME TO COME TO MY HEADS SHOP.<------_
+[16:35:11] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: What
+[16:35:14] [Client thread/INFO]: [CHAT] Djdark1133: TPA TO ME TO COME TO MY HEADS SHOP.<-----
+[16:35:15] [Client thread/INFO]: [CHAT] [Donator] usaaa: NOTHIN FUK U
+[16:35:15] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:35:16] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:35:17] [Client thread/INFO]: [CHAT] [Donator] usaaa: :P
+[16:35:20] [Client thread/INFO]: [CHAT] Djdark1133: TPA TO ME TO COME TO MY HEADS SHOP.<----
+[16:35:20] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:35:23] [Client thread/INFO]: [CHAT] [Donator] usaaa: ,3
+[16:35:24] [Client thread/INFO]: [CHAT] [Donator] usaaa: <3
+[16:35:25] [Client thread/INFO]: [CHAT] Its_alyssa24: <megan> takw me to me roomplz
+[16:35:25] [Client thread/INFO]: [CHAT] Zeeborg: Mo animal rps >-<
+[16:35:26] [Client thread/INFO]: [CHAT] Djdark1133: TPA TO ME TO COME TO MY HEADS SHOP.<--
+[16:35:27] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: </3
+[16:35:31] [Client thread/INFO]: [CHAT] [Donator] usaaa: ;-p;
+[16:35:31] [Client thread/INFO]: [CHAT] Djdark1133: TPA TO ME TO COME TO MY HEADS SHOP.<-
+[16:35:32] [Client thread/INFO]: [CHAT] [Donator] usaaa: ;-;
+[16:35:33] [Client thread/INFO]: [CHAT] 123grodku47: TPA FOR EPICA CLUB WIHT CHAT ROOMS AND HOT OR NOT AND MORE.......
+[16:35:33] [Client thread/INFO]: [CHAT] Nerdyowlgirl: hello my name is a sercret name no one will Gabyminer500: >>Tpa for club<< WE NEED GIRLS!
+[16:35:34] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:35:37] [Client thread/INFO]: [CHAT] ~Tony: Your room?
+[16:35:38] [Client thread/INFO]: [CHAT] Djdark1133: TPA TO ME TO COME TO MY HEADS SHOP.<
+[16:35:38] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:35:41] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: \
+[16:35:43] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:35:43] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:35:44] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:35:45] [Client thread/INFO]: [CHAT] Djdark1133: TPA TO ME TO COME TO MY HEADS SHOP.
+[16:35:46] [Client thread/INFO]: [CHAT] Parkerbot: dragano> what
+[16:35:46] [Client thread/INFO]: [CHAT] schlauder: anybody have a headshop?
+[16:35:47] [Client thread/INFO]: [CHAT] [Donator] usaaa: Fuck errythang
+[16:35:48] [Client thread/INFO]: [CHAT] ~Tony: Where is it?
+[16:35:49] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: \/\//
+[16:35:53] [Client thread/INFO]: [CHAT] Djdark1133: TPA TO ME TO COME TO MY HEADS SHOP
+[16:35:54] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: oopsh
+[16:35:54] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] can i see your plot
+[16:35:55] [Client thread/INFO]: [CHAT] Its_alyssa24: <megan> YES
+[16:35:55] [Client thread/INFO]: [CHAT] lilly326: kk
+[16:35:56] [Client thread/INFO]: [CHAT] [Herobrine] justinlatimer12: \/\/\/\/\/\/\/\/\/\
+[16:36:03] [Client thread/INFO]: [CHAT] prittypink01: you win
+[16:36:03] [Client thread/INFO]: [CHAT] [Donator] usaaa: I wanna help
+[16:36:04] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> AWESOME ROLES!
+[16:36:06] [Client thread/INFO]: [CHAT] [Donator] usaaa: wat is dis
+[16:36:06] [Client thread/INFO]: [CHAT] ~Tony: WHERE IS YOUR ROOM
+[16:36:12] [Client thread/INFO]: [CHAT] Its_alyssa24: UM next to urs
+[16:36:15] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> W.. Why...?
+[16:36:17] [Client thread/INFO]: [CHAT] Defiant04: YOU TOO SLOW
+[16:36:18] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!!
+[16:36:19] [Client thread/INFO]: [CHAT] ~Tony: OKAY
+[16:36:22] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Well I dont allow gays to help meh ;-;
+[16:36:22] [Client thread/INFO]: [CHAT] torchicrocksman: 5 MINUTES
+[16:36:25] [Client thread/INFO]: [CHAT] Nerdyowlgirl: hello my name is a sercret name no one will lilly326: SHUT UP
+[16:36:25] [Client thread/INFO]: [CHAT] prittypink01: you win ok
+[16:36:26] [Client thread/INFO]: [CHAT] ~Tony: FOLLOW ME!
+[16:36:28] [Client thread/INFO]: [CHAT] [Donator] usaaa: Fml
+[16:36:28] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] One sec, please? Gotta finish building.
+[16:36:28] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!
+[16:36:29] [Client thread/INFO]: [CHAT] Bananaman2013: every1 go to type in comments and press up arrow
+[16:36:29] [Client thread/INFO]: [CHAT] 123grodku47: TPA FOR EPICA CLUB WIHT CHAT ROOMS AND HOT OR NOT AND MORE......
+[16:36:30] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I'mah Backah
+[16:36:31] [Client thread/INFO]: [CHAT] Defiant04: YOU TOO SLOW!
+[16:36:32] [Client thread/INFO]: [CHAT] prittypink01: no
+[16:36:32] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:36:32] [Client thread/INFO]: [CHAT] Parkerbot: i have to go bye
+[16:36:33] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!
+[16:36:33] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Jk
+[16:36:38] [Client thread/INFO]: [CHAT] Defiant04: YOU TOO SLOW!!
+[16:36:38] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:36:39] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:36:39] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!
+[16:36:43] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] say when
+[16:36:44] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:36:44] [Client thread/INFO]: [CHAT] Nerdyowlgirl: hello my name is a sercret name no one will lilly326: I hate all of you guys!
+[16:36:45] [Client thread/INFO]: [CHAT] [VIP] Purple1217: u have it all ready
+[16:36:46] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Sup Purple
+[16:36:47] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!
+[16:36:50] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: hai
+[16:36:53] [Client thread/INFO]: [CHAT] [Donator] usaaa: Aw when I do /suicide it doesnt say I killed myself ;-;
+[16:36:53] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] kay
+[16:36:54] [Client thread/INFO]: [CHAT] lilly326: :/
+[16:36:54] [Client thread/INFO]: [CHAT] [me -> TheDiamondPicks] hi loop
+[16:36:55] [Client thread/INFO]: [CHAT] [TheDiamondPicks -> me] hi loop
+[16:36:56] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!
+[16:36:59] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:37:00] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:37:01] [Client thread/INFO]: [CHAT] Request sent to AngelxofxAnime.
+[16:37:02] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!
+[16:37:03] [Client thread/INFO]: [CHAT] ~Tony: tHERE YOU GO
+[16:37:03] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:37:03] [Client thread/INFO]: [CHAT] torchicrocksman: LOL
+[16:37:04] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Dx
+[16:37:08] [Client thread/INFO]: [CHAT] [Donator] usaaa: ;-; fml
+[16:37:10] [Client thread/INFO]: [CHAT] ~Tony: Sorry caps!
+[16:37:12] [Client thread/INFO]: [CHAT] Nerdyowlgirl: hello my name is a sercret name no one will lilly326: TPA FOR SEX
+[16:37:12] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> *Goes back to room, and takes out book*
+[16:37:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: y u so sad
+[16:37:15] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Dude
+[16:37:17] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:37:18] [Client thread/INFO]: [CHAT] Defiant04: YOU TOO SLOW
+[16:37:23] [Client thread/INFO]: [CHAT] Its_alyssa24: <megan> i cant believe murphy didnt even care
+[16:37:23] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!
+[16:37:24] [Client thread/INFO]: [CHAT] Request sent to AngelxofxAnime.
+[16:37:25] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Not now please? I'm at someone else's plot.
+[16:37:31] [Client thread/INFO]: [CHAT] ~Tony: Well thats rude
+[16:37:32] [Client thread/INFO]: [CHAT] [Donator] usaaa: Because life sucks ass
+[16:37:35] [Client thread/INFO]: [CHAT] [Premium] chris0395: dj
+[16:37:38] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:37:39] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:37:41] [Client thread/INFO]: [CHAT] [Premium] chris0395: i got the chest back up
+[16:37:42] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] sorry
+[16:37:43] [Client thread/INFO]: [CHAT] kittenlover1943: anyone got any other servers i can go on MSG ME
+[16:37:44] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:37:44] [Client thread/INFO]: [CHAT] ~Tony: BAD MURPHY
+[16:37:45] [Client thread/INFO]: [CHAT] [Donator] usaaa: Lifes useless
+[16:37:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: that makes sense.
+[16:37:45] [Client thread/INFO]: [CHAT] lilly326: Im good
+[16:37:48] [Client thread/INFO]: [CHAT] Bananaman2013: WUT DOES FTW MEAN MSG ME
+[16:37:51] [Client thread/INFO]: [CHAT] Its_alyssa24: <megan> i know. hes my bf
+[16:37:53] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:37:53] [Client thread/INFO]: [CHAT] slyfoxlyric: ANY RPS MSG ME
+[16:37:55] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: baaack
+[16:37:56] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: does this have to do with mc?
+[16:37:57] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] It's fine
+[16:38:07] [Client thread/INFO]: [CHAT] ~Tony: Okay ou should rest here i will call someone to come help
+[16:38:08] [Client thread/INFO]: [CHAT] [Donator] usaaa: .-. slightly
+[16:38:12] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:38:13] [Client thread/INFO]: [CHAT] QueenStephie: ANY RPS MSG ME
+[16:38:13] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:38:14] [Client thread/INFO]: [CHAT] lilly326: :d
+[16:38:14] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Idiots...
+[16:38:15] [Client thread/INFO]: [CHAT] ~Tony: you
+[16:38:16] [Client thread/INFO]: [CHAT] [Donator] usaaa: xD
+[16:38:16] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: jk jk
+[16:38:17] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!!!!!
+[16:38:18] [Client thread/INFO]: [CHAT] Its_alyssa24: <megan> thanks
+[16:38:21] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] say when your back
+[16:38:22] [Client thread/INFO]: [CHAT] lilly326: :D!
+[16:38:24] [Client thread/INFO]: [CHAT] ~Tony: Be right back
+[16:38:25] [Client thread/INFO]: [CHAT] [VIP] Purple1217: Animeloveplaysmc u get it
+[16:38:27] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!!!
+[16:38:28] [Client thread/INFO]: [CHAT] lilly326: WHATS A ETC!
+[16:38:31] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Kay.
+[16:38:34] [Client thread/INFO]: [CHAT] [Premium] TigerLily456: :/
+[16:38:37] [Client thread/INFO]: [CHAT] Zeeborg: omg
+[16:38:39] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!!
+[16:38:40] [Client thread/INFO]: [CHAT] Defiant04: TTWTF
+[16:38:42] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: omfg another purple? its on
+[16:38:44] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:38:44] [Client thread/INFO]: [CHAT] Zeeborg: You dont know what ETC is
+[16:38:45] [Client thread/INFO]: [CHAT] Apaul03: murderer!
+[16:38:46] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!
+[16:38:50] [Client thread/INFO]: [CHAT] [VIP] Purple1217: hiiiii
+[16:38:51] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: >:Y
+[16:38:53] [Client thread/INFO]: [CHAT] torchicrocksman: 2 MINUTES
+[16:38:53] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!!!!!
+[16:38:54] [Client thread/INFO]: [CHAT] QueenGaming: ( XD )
+[16:38:56] [Client thread/INFO]: [CHAT] Error: TheDiamondPicks has teleportation disabled.
+[16:38:56] [Client thread/INFO]: [CHAT] 123grodku47: TPA FOR EPICA CLUB WIHT CHAT ROOMS AND HOT OR NOT AND MORE.....
+[16:38:57] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUNR
+[16:38:57] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: YOU STOLE MAH NAME
+[16:38:58] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!
+[16:38:59] [Client thread/INFO]: [CHAT] ~Tony: Murphey!
+[16:38:59] [Client thread/INFO]: [CHAT] skelyton_boss: hi
+[16:39:00] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: o3o
+[16:39:01] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!!!!
+[16:39:01] [Client thread/INFO]: [CHAT] Teleportation enabled.
+[16:39:02] [Client thread/INFO]: [CHAT] [VIP] Purple1217: im the one and only purple
+[16:39:03] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE!
+[16:39:09] [Client thread/INFO]: [CHAT] TheDiamondPicks has requested to teleport to you.
+[16:39:09] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:39:09] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:39:09] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:39:09] [Client thread/INFO]: [CHAT] Request sent to TheDiamondPicks.
+[16:39:13] [Client thread/INFO]: [CHAT] [Donator] usaaa: this is a wasteland, my only retreat. with heaven above you, there's hell over me
+[16:39:14] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: What kinda year is 1217?
+[16:39:14] [Client thread/INFO]: [CHAT] Its_alyssa24: <megan> *thinks ugh why cant murphy be like tony and care?*
+[16:39:14] [Client thread/INFO]: [CHAT] lilly326: ok
+[16:39:17] [Client thread/INFO]: [CHAT] Chelsea0166: PURPLE VS. PURPLE
+[16:39:19] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE
+[16:39:20] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: minecraft is just awesome
+[16:39:20] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!
+[16:39:21] [Client thread/INFO]: [CHAT] Teleport request denied.
+[16:39:21] [Client thread/INFO]: [CHAT] TheDiamondPicks denied your teleport request.
+[16:39:21] [Client thread/INFO]: [CHAT] Jomopl: fandomcutie green
+[16:39:23] [Client thread/INFO]: [CHAT] [VIP] Purple1217: its not a year
+[16:39:24] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I love dat quote usa :D
+[16:39:25] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE!
+[16:39:26] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!!!
+[16:39:26] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: no purple#1 is ugh - smart guy
+[16:39:27] [Client thread/INFO]: [CHAT] cupqake2003: tpa for epic sex club!!!!!!!!~~~look!!!!!!!!~~~~
+[16:39:27] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!
+[16:39:28] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: I love the mountains
+[16:39:32] [Client thread/INFO]: [CHAT] TheDiamondPicks has requested to teleport to you.
+[16:39:33] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:39:33] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:39:33] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:39:33] [Client thread/INFO]: [CHAT] Request sent to TheDiamondPicks.
+[16:39:33] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: I love the big blue sky
+[16:39:33] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: lol
+[16:39:36] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:39:36] [Client thread/INFO]: [CHAT] TheDiamondPicks accepted your teleport request.
+[16:39:36] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[16:39:37] [Client thread/INFO]: [CHAT] Jomopl: fandomcutie green !
+[16:39:38] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!!!!!
+[16:39:39] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[16:39:40] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: I love BIG BRIDGES!
+[16:39:41] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE
+[16:39:41] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!!
+[16:39:42] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I love
+[16:39:43] [Client thread/INFO]: [CHAT] Ashley0217: any clubs
+[16:39:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ...
+[16:39:44] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:39:46] [Client thread/INFO]: [CHAT] [Donator] usaaa: I love nothing
+[16:39:47] [Client thread/INFO]: [CHAT] Chelsea0166: PURPLE VS. PURPLE BEGIN DA BATTLE
+[16:39:47] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Nacho cheese
+[16:39:48] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE!
+[16:39:48] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: look up song on youtube
+[16:39:55] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE
+[16:40:00] [Client thread/INFO]: [CHAT] Chelsea0166: lol XD x2
+[16:40:00] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!
+[16:40:05] [Client thread/INFO]: [CHAT] [VIP] Purple1217: i got that summer time sadness oh oh oh
+[16:40:06] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Niggas be basin their lives on minecraft
+[16:40:07] [Client thread/INFO]: [CHAT] EddieMac13: TP ME IF YOU <3 THEATRE!!! YOU CAN BE IN A SHOW HERE!!!!!!<---L()()K!!!
+[16:40:07] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE! U WILL BE ON YOUTUBE!
+[16:40:10] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Woah
+[16:40:12] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: Minecraft is just awesome
+[16:40:15] [Client thread/INFO]: [CHAT] [Premium] chris0395: dj
+[16:40:17] [Client thread/INFO]: [CHAT] Bananaman2013: WUT DOES TTYL MEAN MSG ME
+[16:40:17] [Client thread/INFO]: [CHAT] TheDiamondPicks has requested to teleport to you.
+[16:40:18] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:40:18] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:40:18] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:40:18] [Client thread/INFO]: [CHAT] Request sent to TheDiamondPicks.
+[16:40:18] [Client thread/INFO]: [CHAT] [Donator] usaaa: Look up Hell Above on youtube
+[16:40:18] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE! U WILL BE ON YOUTUBE
+[16:40:18] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!!
+[16:40:18] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!
+[16:40:20] [Client thread/INFO]: [CHAT] [VIP] Purple1217: then why r u on
+[16:40:20] [Client thread/INFO]: [CHAT] [Premium] chris0395: i am not fired right
+[16:40:20] [Client thread/INFO]: [CHAT] [Donator] crusher925: ->me] hi there
+[16:40:25] [Client thread/INFO]: [CHAT] cupqake2003: tpa for epic sex club!!!!!!!!~~~look!!!!!!!!~~
+[16:40:27] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:40:28] [Client thread/INFO]: [CHAT] TheDiamondPicks accepted your teleport request.
+[16:40:28] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[16:40:28] [Client thread/INFO]: [CHAT] [Premium] chris0395: i am not fired right
+[16:40:29] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!
+[16:40:30] [Client thread/INFO]: [CHAT] Chelsea0166: crusher that was not an msg
+[16:40:30] [Client thread/INFO]: [CHAT] Its_alyssa24: <megan> TONY DID U GET ANYONE?!
+[16:40:30] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[16:40:31] [Client thread/INFO]: [CHAT] niceglamfanny: DON
+[16:40:32] [Client thread/INFO]: [CHAT] RyanDxxx: Tpa to me to do a Survival Serious ON MY SERVER FOR YOUTUBE! U WILL BE ON YOUTUBE!
+[16:40:32] [Client thread/INFO]: [CHAT] CoolRocky615: yrah real convincing crusher
+[16:40:35] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: No i agree, its just they get drama into their life cuz of it
+[16:40:38] [Client thread/INFO]: [CHAT] Bananaman2013: ./r HI
+[16:40:40] [Client thread/INFO]: [CHAT] niceglamfanny: DONE!!!!!!!!!!!
+[16:40:40] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!
+[16:40:44] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:40:44] [Client thread/INFO]: [CHAT] Bananaman2013: WUT DOES TTYL MEAN MSG ME
+[16:40:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Well mainly cuz this server -.-
+[16:40:47] [Client thread/INFO]: [CHAT] torchicrocksman: TIMES UP!!!!!!!!!!!!!!!!
+[16:40:47] [Client thread/INFO]: [CHAT] [Donator] usaaa: Drama adds fun
+[16:40:48] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!
+[16:40:49] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> Goodbye. *Steps in*
+[16:40:50] [Client thread/INFO]: [CHAT] [VIP] Purple1217: who has ocd from minecraft
+[16:40:51] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:40:52] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Good point...
+[16:40:53] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:40:54] [Client thread/INFO]: [CHAT] [Donator] usaaa: Drama makes it less boring
+[16:40:54] [Client thread/INFO]: [CHAT] CoolRocky615: me
+[16:40:56] [Client thread/INFO]: [CHAT] [Premium] chris0395:  r not you
+[16:40:57] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Good point...
+[16:40:57] [Client thread/INFO]: [CHAT] lilly326: AH!
+[16:40:59] [Client thread/INFO]: [CHAT] ~Tony: What happened murphey
+[16:41:01] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!
+[16:41:01] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] ready yet
+[16:41:02] [Client thread/INFO]: [CHAT] Chelsea0166: I HAVE OCD CUZ OF MINECRAFT
+[16:41:02] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!!!!
+[16:41:03] [Client thread/INFO]: [CHAT] Bananaman2013: WUT DOES TTYL MEAN MSG ME!
+[16:41:05] [Client thread/INFO]: [CHAT] lilly326: I AM NOT DONE!
+[16:41:06] [Client thread/INFO]: [CHAT] [Donator] usaaa: Without drama its just boring
+[16:41:07] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: But
+[16:41:09] [Client thread/INFO]: [CHAT] [Donator] usaaa: Thats why RP's are made
+[16:41:10] [Client thread/INFO]: [CHAT] lilly326: so stop
+[16:41:10] [Client thread/INFO]: [CHAT] jojo32156: i have add
+[16:41:13] [Client thread/INFO]: [CHAT] cupqake2003: tpa for epic sex club!!!!!!!!~~~look!!!!!!!!~~~~
+[16:41:14] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: it can ruin our simple lives
+[16:41:16] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!!
+[16:41:17] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!
+[16:41:18] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> *Pushes away* STOP
+[16:41:20] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Yea, one sec. Let me plotme home
+[16:41:22] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!
+[16:41:24] [Client thread/INFO]: [CHAT] [VIP] Purple1217: just like tv
+[16:41:26] [Client thread/INFO]: [CHAT] [Donator] usaaa: We would ruin it anyway
+[16:41:28] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!
+[16:41:28] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: yeah
+[16:41:29] [Client thread/INFO]: [CHAT] lilly326: Stop im making it
+[16:41:31] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!
+[16:41:33] [Client thread/INFO]: [CHAT] Anak1nSkywalker: murphy: idk megan is mad at me
+[16:41:36] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!
+[16:41:39] [Client thread/INFO]: [CHAT] [Donator] usaaa: So ruin it in a fun way
+[16:41:41] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] GO ahead
+[16:41:41] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:41:43] [Client thread/INFO]: [CHAT] angelheart101, AngelxofxAnime
+[16:41:45] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:41:51] [Client thread/INFO]: [CHAT] Request sent to AngelxofxAnime.
+[16:41:52] [Client thread/INFO]: [CHAT] [VIP] Purple1217: school is a wast of our lives ok
+[16:41:53] [Client thread/INFO]: [CHAT] AngelxofxAnime accepted your teleport request.
+[16:41:53] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[16:41:54] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> Stoooooop
+[16:41:56] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[16:42:02] [Client thread/INFO]: [CHAT] ~Tony: Well she got hurt and you didnt even care thats what she said
+[16:42:02] [Client thread/INFO]: [CHAT] [Donator] usaaa: Everything is a waste of life
+[16:42:04] [Client thread/INFO]: [CHAT] Chelsea0166: Yaaaay my brain is being fried by staring at a screen for 16 hours a day!
+[16:42:09] [Client thread/INFO]: [CHAT] [VIP] Purple1217: even life
+[16:42:10] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!
+[16:42:12] [Client thread/INFO]: [CHAT] [VIP] Purple1217: ?
+[16:42:16] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] I'll show you my head shop when you're done ecploring.
+[16:42:19] [Client thread/INFO]: [CHAT] [Donator] usaaa: yea
+[16:42:21] [Client thread/INFO]: [CHAT] torchicrocksman: GTG
+[16:42:24] [Client thread/INFO]: [CHAT] [Donator] usaaa: Waste of time
+[16:42:25] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!
+[16:42:25] [Client thread/INFO]: [CHAT] cupqake2003: tpa for epic sex club!!!!!!!!~~~look!!!!!!!!~~
+[16:42:26] [Client thread/INFO]: [CHAT] jojo32156: same here
+[16:42:27] [Client thread/INFO]: [CHAT] Anak1nSkywalker: murphy: well she never told me
+[16:42:37] [Client thread/INFO]: [CHAT] [VIP] Purple1217: then everyone get a lefe
+[16:42:41] [Client thread/INFO]: [CHAT] [VIP] Purple1217: life
+[16:42:42] [Client thread/INFO]: [CHAT] [Donator] usaaa: ew, fuck that
+[16:42:46] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:42:46] [Client thread/INFO]: [CHAT] ~Tony: Oh
+[16:42:48] [Client thread/INFO]: [CHAT] Chelsea0166: I am 13 I can't get a life yet.
+[16:42:52] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> *Wipes face off with sleeve*
+[16:42:55] [Client thread/INFO]: [CHAT] penguinari: if you never went to school you probably would never be able to play minecraft though XD
+[16:42:58] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!
+[16:43:03] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:43:11] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!
+[16:43:11] [Client thread/INFO]: [CHAT] EddieMac13: come into the audition room for auditioning clara
+[16:43:20] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!
+[16:43:31] [Client thread/INFO]: [CHAT] Jomopl: gopack13 go away
+[16:43:34] [Client thread/INFO]: [CHAT] HadesCurvex: :D
+[16:43:35] [Client thread/INFO]: [CHAT] EddieMac13: clara come in
+[16:43:36] [Client thread/INFO]: [CHAT] fandomcutie: who has a head shop
+[16:43:37] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Hellloooooo!
+[16:43:38] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!
+[16:43:38] [Client thread/INFO]: [CHAT] QueenGaming: o.o
+[16:43:39] [Client thread/INFO]: [CHAT] gopack13: ok
+[16:43:42] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!!
+[16:43:42] [Client thread/INFO]: [CHAT] Anak1nSkywalker: murphy: megan!!
+[16:43:45] [Client thread/INFO]: [CHAT] Chelsea0166: Let's waste our lives doing things we will forget we did, within a metter of hours.
+[16:43:47] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:43:48] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!!
+[16:43:58] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!!!
+[16:44:00] [Client thread/INFO]: [CHAT] rosethekidRS: ya
+[16:44:00] [Client thread/INFO]: [CHAT] slyfoxlyric: ANY RPS MSG ME.
+[16:44:01] [Client thread/INFO]: [CHAT] EddieMac13: nerdyyowlgirl leave the staff room please
+[16:44:01] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:44:03] [Client thread/INFO]: [CHAT] penguinari: guess what I wasted my life doing today?
+[16:44:03] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> WHAT DID YOU DO TO TY?!
+[16:44:05] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!!
+[16:44:06] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!
+[16:44:07] [Client thread/INFO]: [CHAT] rosethekidRS: sky
+[16:44:10] [Client thread/INFO]: [CHAT] Chelsea0166: Playing minecraft?
+[16:44:14] [Client thread/INFO]: [CHAT] rosethekidRS: so?
+[16:44:16] [Client thread/INFO]: [CHAT] EddieMac13: NERDYYOWLGIRL OUT OF THE STAFF ROOM
+[16:44:22] [Client thread/INFO]: [CHAT] rosethekidRS: hiya
+[16:44:22] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*-=+=-*->> HURRY!
+[16:44:22] [Client thread/INFO]: [CHAT] [Premium] chris0395: bye
+[16:44:23] [Client thread/INFO]: [CHAT] lilly326: nice
+[16:44:28] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Anyone on that I know?
+[16:44:28] [Client thread/INFO]: [CHAT] Chelsea0166: OMG I DIDNT EVEN KNOW THAT WAS OU MEWTWO
+[16:44:30] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!!1
+[16:44:31] [Client thread/INFO]: [CHAT] penguinari: I played minecraft with my friends and all we did was kill each other in every way possible
+[16:44:34] [Client thread/INFO]: [CHAT] EddieMac13: NERDYYOWLGIRL!!! OUT
+[16:44:36] [Client thread/INFO]: [CHAT] rosethekidRS: ?
+[16:44:40] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: fall
+[16:44:41] [Client thread/INFO]: [CHAT] penguinari: So much fun though XD
+[16:44:42] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!!
+[16:44:43] [Client thread/INFO]: [CHAT] Nerdyowlgirl: lol
+[16:44:46] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:44:46] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Hey Rail
+[16:44:47] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:44:47] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> *Takes out sword and stabs Ty's body*
+[16:44:47] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:44:48] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:44:48] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:44:51] [Client thread/INFO]: [CHAT] flaminswrd: IS NO LONGER AFK
+[16:44:51] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*- NEED TEACHERS!!!!!!!!!!!
+[16:44:52] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 YEAHS
+[16:44:53] [Client thread/INFO]: [CHAT] EddieMac13: nerdyyowlgirl get out of staff
+[16:44:54] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Hey purplegrenade
+[16:44:54] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: hey angel
+[16:44:54] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:44:55] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:44:57] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:44:59] [Client thread/INFO]: [CHAT] Anak1nSkywalker: murphy: i think she hates me now
+[16:45:00] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!
+[16:45:03] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] going home now to open headshop please come
+[16:45:04] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Hey Fall
+[16:45:05] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:45:08] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[16:45:15] [Client thread/INFO]: [CHAT] rosethekidRS: what the hell KaMiKaZ3Ali
+[16:45:16] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*- NEED TEACHERS!!!!!!!!!
+[16:45:16] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:45:18] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:45:18] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> Well Skylar's inside.
+[16:45:19] [Client thread/INFO]: [CHAT] [Donator] usaaa: Back
+[16:45:19] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: hey angel
+[16:45:20] [Client thread/INFO]: [CHAT] EddieMac13: ok lemme give you the script clara
+[16:45:23] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:45:24] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:45:24] [Client thread/INFO]: [CHAT] Chelsea0166: <Reshiram> "Hello, Mewtwo!" n_n
+[16:45:25] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!
+[16:45:26] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: OMG FALL YOU LOOK SO PRETTY!
+[16:45:27] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Didn't show you head shop yet!
+[16:45:29] [Client thread/INFO]: [CHAT] Super_Troller999: SAY 123456789 IF YOU HAVE A STRIP CLUB
+[16:45:29] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im blasting music from my speaker ;3
+[16:45:33] [Client thread/INFO]: [CHAT] [Premium] chris0395: FUCKING MOUSE
+[16:45:34] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:45:35] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:45:36] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:45:39] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*- NEED TEACHERS!!!!!!!
+[16:45:44] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!
+[16:45:45] [Client thread/INFO]: [CHAT] [Donator] usaaa: I too, fuck mice
+[16:45:47] [Client thread/INFO]: [CHAT] MinionLover5074: i have an idea
+[16:45:47] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:45:48] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Yea im listening to music too but im not balsting it
+[16:45:48] [Client thread/INFO]: [CHAT] EddieMac13: I will add you clara
+[16:45:49] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:45:50] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> *Drinks juice and starts to fly*
+[16:45:58] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] ive seen it i got heads there once :)
+[16:45:59] [Client thread/INFO]: [CHAT] [Donator] usaaa: I love blasting music
+[16:46:01] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!
+[16:46:02] [Client thread/INFO]: [CHAT] Chelsea0166: IM WALKING ON SUNSHINE, WHOOOOOOOOOOOAAAAAA IM WALKING ON SUNSHINE!!!!!!!!!
+[16:46:04] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Let me show ya my gead shop?
+[16:46:05] [Client thread/INFO]: [CHAT] stream7503: tpa chris0395
+[16:46:05] [Client thread/INFO]: [CHAT] [Donator] usaaa: Especially PTV
+[16:46:05] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I can tell
+[16:46:06] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> THAT WAS SUPPOSED TO BE FRUIT PUNCH
+[16:46:07] [Client thread/INFO]: [CHAT] prittypink01: LOL HAHAHHAHAHHAAHHAHA
+[16:46:08] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*- NEED TEACHERS!!!!!
+[16:46:09] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] When?
+[16:46:13] [Client thread/INFO]: [CHAT] Anak1nSkywalker: murphy: megan!!
+[16:46:14] [Client thread/INFO]: [CHAT] AngelxofxAnime has requested to teleport to you.
+[16:46:14] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:46:14] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:46:14] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:46:15] [Client thread/INFO]: [CHAT] EddieMac13: go into the "CrayZ" chest and take the book named "CrayZ" for the script
+[16:46:15] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:46:17] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:46:18] [Client thread/INFO]: [CHAT] [Donator] usaaa: And song with loud bass
+[16:46:21] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Last time on skype you just put music
+[16:46:24] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*- NEED TEACHERS!!!
+[16:46:25] [Client thread/INFO]: [CHAT] [Donator] usaaa: ;3 hell yea
+[16:46:27] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:46:27] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!
+[16:46:28] [Client thread/INFO]: [CHAT] EddieMac13: ok?
+[16:46:30] [Client thread/INFO]: [CHAT] prittypink01: ZEXYZEK SUCKS
+[16:46:31] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] i cant remeber
+[16:46:32] [Client thread/INFO]: [CHAT] AngelxofxAnime has requested to teleport to you.
+[16:46:32] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:46:32] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:46:32] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:46:33] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:46:36] [Client thread/INFO]: [CHAT] EddieMac13: did you listen?
+[16:46:38] [Client thread/INFO]: [CHAT] Imagirl8: L<><>K-->Tpa to Katie_summergirl for an epic middle school rp its really awesome so tpa!<--L<><>K
+[16:46:39] [Client thread/INFO]: [CHAT] Chelsea0166: NO HE DOESNT
+[16:46:39] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE
+[16:46:45] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Oh well, whatev.
+[16:46:46] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!
+[16:46:47] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:46:48] [Client thread/INFO]: [CHAT] katie_summergirl: <<-*-=+=-*->> TPA TO AN EPIC MIDDLE SCHOOL/HEROBRINE RP!!!!!!!!!!!!!! <<-*- NEED TEACHERS!!!!!!!!!
+[16:46:50] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> No!
+[16:46:53] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!
+[16:46:55] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP
+[16:46:58] [Client thread/INFO]: [CHAT] kmaster020: i want to be aiden
+[16:47:04] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:47:05] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:47:06] [Client thread/INFO]: [CHAT] EddieMac13: you are added now
+[16:47:06] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!
+[16:47:07] [Client thread/INFO]: [CHAT] [Legend] Angel3970: I said no builder2435
+[16:47:11] [Client thread/INFO]: [CHAT] [me -> DirectionerDUH] could you please com abot to open headshop
+[16:47:21] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE~~~
+[16:47:21] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!
+[16:47:25] [Client thread/INFO]: [CHAT] DirectionerDUH has requested to teleport to you.
+[16:47:25] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:47:25] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:47:25] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:47:27] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I remember One of my friends told me to put on Dope Musci
+[16:47:29] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Music*
+[16:47:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:47:31] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!
+[16:47:31] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:47:31] [Client thread/INFO]: [CHAT] prittypink01: ZEXYZEK SUCKS KILL HIM
+[16:47:33] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Hey Khaozz :D
+[16:47:39] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: And I put on The Muffin Man
+[16:47:39] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:47:40] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:47:44] [Client thread/INFO]: [CHAT] QueenGaming: << Mango >> I'm out *stabs self*
+[16:47:44] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: IF YOU'RE TPAING TO Angel3970, PLEASE LOOK AT WHO YOU'RE TPAING TO FIRST?
+[16:47:48] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:47:49] [Client thread/INFO]: [CHAT] Chelsea0166: HE DOES NOT YOU... YOU... NUVGWEGSLI
+[16:47:50] [Client thread/INFO]: [CHAT] SmallVivor: [Tyler] Hey nerds
+[16:47:56] [Client thread/INFO]: [CHAT] Anak1nSkywalker: murphy: do u know where megan is
+[16:47:56] [Client thread/INFO]: [CHAT] EddieMac13: Which character do you like best? Kat or Kylie?
+[16:47:56] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:47:56] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE~~~~
+[16:48:00] [Client thread/INFO]: [CHAT] [Legend] Angel3970: AngelxofxAnime ._.
+[16:48:02] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE
+[16:48:03] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:48:06] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!
+[16:48:09] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:48:14] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: >.< Not my fault people tpa to meh by accident.
+[16:48:15] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:48:18] [Client thread/INFO]: [CHAT] prittypink01: Fin i _Wolfy1234_ BE LIKE THAT
+[16:48:24] [Client thread/INFO]: [CHAT] krissykat43: -TPA FOR A SKIN COMP-
+[16:48:29] [Client thread/INFO]: [CHAT] Minecrafter88820: gee
+[16:48:36] [Client thread/INFO]: [CHAT] [Legend] Angel3970: I got my skype working :D
+[16:48:42] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Sweet
+[16:48:45] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Skype me
+[16:48:45] [Client thread/INFO]: [CHAT] supermonkeytrey: :D
+[16:48:46] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:48:48] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:48:50] [Client thread/INFO]: [CHAT] Chelsea0166: ERMAHGERD THE CHAT IS FILLED WITH ARGUING PEOPLE AND ADVERTISMENTS
+[16:48:53] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!
+[16:48:53] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!
+[16:48:55] [Client thread/INFO]: [CHAT] [Donator] usaaa: D: KhaozzMC we were suppost to skype </3
+[16:48:58] [Client thread/INFO]: [CHAT] izzyfizzy135: -=-=-=-TPA FOR EPIC SCHOOL RP NEED -4- GIRLS AND -2- BOYS -=-=-=-=--
+[16:48:59] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:49:00] [Client thread/INFO]: [CHAT] [Premium] chris0395: tpa for head shop OVER 50 heads
+[16:49:02] [Client thread/INFO]: [CHAT] [Donator] usaaa: Fml
+[16:49:03] [Client thread/INFO]: [CHAT] [Donator] usaaa: Kil me
+[16:49:04] [Client thread/INFO]: [CHAT] [Donator] usaaa: im done
+[16:49:05] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:49:07] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Yea but I haven't used Skype in a awhile so
+[16:49:07] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE~~~~
+[16:49:11] [Client thread/INFO]: [CHAT] [Donator] usaaa: Take me out of the oven because im so done
+[16:49:11] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: So
+[16:49:14] [Client thread/INFO]: [CHAT] izzyfizzy135: -=-=-=-TPA FOR EPIC SCHOOL RP NEED -4- GIRLS AND -2- BOYS -=-=-=-=-
+[16:49:18] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!
+[16:49:19] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Okai Okai Usaa we can still skype
+[16:49:21] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:49:22] [Client thread/INFO]: [CHAT] [Donator] usaaa: YAY
+[16:49:22] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE
+[16:49:27] [Client thread/INFO]: [CHAT] krissykat43: -TPA FOR A SKIN COMP--
+[16:49:27] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!
+[16:49:28] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: fall
+[16:49:28] [Client thread/INFO]: [CHAT] prittypink01: I HATE YOU
+[16:49:30] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: TPA FOR AN EPIC HEAD SHOP WITH GOD ITEMS AND +100 HEADS!
+[16:49:31] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Im not used to talking to people that much cause im too shy :P
+[16:49:35] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS SPAM THAT TPA!!!!!!
+[16:49:38] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: you sorta look like my friend irl Maddie also o.o
+[16:49:38] [Client thread/INFO]: [CHAT] izzyfizzy135: -=-=-=-TPA FOR EPIC SCHOOL RP NEED -4- GIRLS AND -2- BOYS -=-=-=-=
+[16:49:39] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:49:45] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!
+[16:49:45] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: that's creepy
+[16:49:46] [Client thread/INFO]: [CHAT] [Donator] usaaa: Aw angle, Ill help you
+[16:49:47] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS SPAM THAT TPA!!!!!
+[16:49:48] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:49:49] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: TPA FOR AN EPIC HEAD SHOP WITH GOD ITEMS, +100 HEADS, AND CUSTOM HEADS!
+[16:49:50] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: D:
+[16:49:51] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: D:
+[16:49:52] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE~~~~
+[16:49:52] [Client thread/INFO]: [CHAT] [Donator] usaaa: Ill bring out the animal in you
+[16:49:54] [Client thread/INFO]: [CHAT] [Donator] usaaa: >:D
+[16:49:56] [Client thread/INFO]: [CHAT] izzyfizzy135: -=-=-=-TPA FOR EPIC SCHOOL RP NEED -4- GIRLS AND -2- BOYS -=-=-=-=-
+[16:49:57] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Fuck School D:
+[16:49:58] [Client thread/INFO]: [CHAT] Chelsea0166: ROAR
+[16:49:59] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!
+[16:50:04] [Client thread/INFO]: [CHAT] [Donator] usaaa: EW I HAVE SCHOOL TOMORROW
+[16:50:06] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE
+[16:50:07] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: 11 :O
+[16:50:09] [Client thread/INFO]: [CHAT] Chelsea0166: I HAVE THE WEEK OF I HAVE NO SCHOOL
+[16:50:10] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS!!!!
+[16:50:10] [Client thread/INFO]: [CHAT] [Legend] Angel3970: KhaozzMC whats your skype name?
+[16:50:12] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE~~~~
+[16:50:18] [Client thread/INFO]: [CHAT] flaminswrd has requested to teleport to you.
+[16:50:18] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:50:18] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:50:18] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:50:20] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[16:50:23] [Client thread/INFO]: [CHAT] [Donator] usaaa: Late Start
+[16:50:23] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: ~ItsKha or KhaozzMC My skype
+[16:50:24] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:50:27] [Client thread/INFO]: [CHAT] Chelsea0166: I HAVE THE WEEK OFF I HAVE NO SCHOOL ISNT THAT AWESOME
+[16:50:28] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS!!!
+[16:50:32] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: TPA FOR AN EPIC HEAD SHOP WITH GOD ITEMS, +100 HEADS, AND CUSTOM HEADS!
+[16:50:33] [Client thread/INFO]: [CHAT] Chelsea0166: lol
+[16:50:33] [Client thread/INFO]: [CHAT] prittypink01: Minecrafter put a hopper down
+[16:50:36] [Client thread/INFO]: [CHAT] izzyfizzy135: -=-=-=-TPA FOR EPIC SCHOOL RP NEED -4- GIRLS AND -2- BOYS -=-=-=-=
+[16:50:39] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!
+[16:50:48] [Client thread/INFO]: [CHAT] kmaster020: -aiden- will be played by meZ!
+[16:50:48] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:50:50] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS!!!!
+[16:51:00] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:51:02] [Client thread/INFO]: [CHAT] [Donator] usaaa: I just shit my pants
+[16:51:02] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[16:51:02] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:51:02] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:51:02] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:51:04] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: #ThugLife
+[16:51:05] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: LOL
+[16:51:07] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:51:13] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!
+[16:51:15] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: why
+[16:51:20] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: So Fall
+[16:51:23] [Client thread/INFO]: [CHAT] prittypink01: Minecrafter put a hopper down plz
+[16:51:23] [Client thread/INFO]: [CHAT] [Donator] usaaa: Sometimes I just like to let it all out into my pants
+[16:51:27] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: TPA FOR AN EPIC HEAD SHOP WITH GOD ITEMS, +100 HEADS, AND CUSTOM HEADS!
+[16:51:27] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!
+[16:51:29] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: XD
+[16:51:30] [Client thread/INFO]: [CHAT] Ringleaderxx: your not done
+[16:51:33] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: You Guys gotta learn not to care to get trouble
+[16:51:33] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS!!!
+[16:51:34] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:51:35] [Client thread/INFO]: [CHAT] ParkerthePug: TPA TO MINECRAFTER FOR AN EPIC SKIN COMP!!!!! 2/5!!!
+[16:51:35] [Client thread/INFO]: [CHAT] prittypink01: Minecrafter put a hopper down plzzzz
+[16:51:39] [Client thread/INFO]: [CHAT] [Donator] usaaa: Because I just dont give 2 shits
+[16:51:41] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: xD
+[16:51:41] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: No for me
+[16:51:44] [Client thread/INFO]: [CHAT] kmaster020: can i switch my role to mr.bryne?
+[16:51:44] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Not*
+[16:51:45] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: I got in trouble
+[16:51:48] [Client thread/INFO]: [CHAT] [VIP] Justice3356: i
+[16:51:48] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:51:49] [Client thread/INFO]: [CHAT] [VIP] Justice3356: don't
+[16:51:50] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: o.o lol xD
+[16:51:50] [Client thread/INFO]: [CHAT] [VIP] Justice3356: know
+[16:51:51] [Client thread/INFO]: [CHAT] Ashley0217: why not just 1 dhit
+[16:51:52] [Client thread/INFO]: [CHAT] [VIP] Justice3356: what
+[16:51:52] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I got supended:3
+[16:51:53] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!
+[16:51:53] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE
+[16:51:54] [Client thread/INFO]: [CHAT] [VIP] Justice3356: to
+[16:51:54] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: :3*
+[16:51:54] [Client thread/INFO]: [CHAT] kmaster020: can i switch my role from aiden to mr.bryne?
+[16:51:55] [Client thread/INFO]: [CHAT] [VIP] Justice3356: build
+[16:51:55] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: wow
+[16:51:55] [Client thread/INFO]: [CHAT] MissAwesomekidd: ...... No commment.......
+[16:51:56] [Client thread/INFO]: [CHAT] prittypink01: Minecrafter put a hopper down plzzzzzzzzz
+[16:51:57] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Before
+[16:52:01] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: For Fightin
+[16:52:01] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!
+[16:52:04] [Client thread/INFO]: [CHAT] kmaster020: yay
+[16:52:04] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xDDD
+[16:52:13] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: no
+[16:52:13] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: He was cryin
+[16:52:15] [Client thread/INFO]: [CHAT] [Donator] usaaa: Ive never been in trouble cuz of school xD
+[16:52:15] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Sooo
+[16:52:16] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Yea
+[16:52:17] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: xD
+[16:52:17] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xDD
+[16:52:23] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im a a goodie two shoes e.e
+[16:52:25] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I think kid name was Pj
+[16:52:26] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS!!!!
+[16:52:28] [Client thread/INFO]: [CHAT] [Donator] usaaa: Cuz my parents
+[16:52:38] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!!!1
+[16:52:39] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Sure
+[16:52:40] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!
+[16:52:41] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS!!!
+[16:52:43] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:52:49] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:52:49] [Client thread/INFO]: [CHAT] butterhead2006: 3
+[16:52:52] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!!!!
+[16:52:52] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: YES
+[16:52:56] [Client thread/INFO]: [CHAT] kmaster020: i consider myself 96% good
+[16:52:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:52:57] [Client thread/INFO]: [CHAT] MissAwesomekidd: I HAVE TO GO IN 9 MIN OMG NOOOOOO!!!!! I HATE SCHOOL!!!!
+[16:52:57] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: TPA FOR AN EPIC HEAD SHOP WITH GOD ITEMS, +100 HEADS, AND CUSTOM HEADS!
+[16:53:01] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS!!!!
+[16:53:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:53:03] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: fall
+[16:53:04] [Client thread/INFO]: [CHAT] [Donator] usaaa: In the deepest hours of the night, I like to lather myself in butter, and slither around my kitchen
+[16:53:06] [Client thread/INFO]: [CHAT] Ashley0217: lol
+[16:53:12] [Client thread/INFO]: [CHAT] hatzxxlovexx: <Ashley>
+[16:53:12] [Client thread/INFO]: [CHAT] [Donator] usaaa: Saying hiss and pretend ima snake
+[16:53:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:53:13] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: you ever got sent to princables office?
+[16:53:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:53:15] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Angel
+[16:53:16] [Client thread/INFO]: [CHAT] kmaster020: well...
+[16:53:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:53:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:53:20] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Angel
+[16:53:22] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: fall
+[16:53:22] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Angel!
+[16:53:23] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:53:23] [Client thread/INFO]: [CHAT] angelheart101: what
+[16:53:23] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: o.o
+[16:53:24] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!!
+[16:53:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:53:28] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Angel!!!!
+[16:53:28] [Client thread/INFO]: [CHAT] Please don't send the same message twice.
+[16:53:29] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: I have xD 3 timeeees
+[16:53:30] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] u know i can create heads right
+[16:53:30] [Client thread/INFO]: [CHAT] [Legend] Angel3970: ?
+[16:53:31] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP YOU CAN ORDER CUSTOM HEADS!!!!!!! 100 HEADS!!!
+[16:53:33] [Client thread/INFO]: [CHAT] ParkerthePug: TPA TO MINECRAFTER FOR AN EPIC SKIN COMP!!!!! 2/5!!!!
+[16:53:33] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: GAWHS
+[16:53:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:53:36] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: scared me
+[16:53:37] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!
+[16:53:37] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: *sigh* Say who please?
+[16:53:38] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: There
+[16:53:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:53:42] [Client thread/INFO]: [CHAT] kmaster020: I have once
+[16:53:42] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: TPA FOR AN EPIC HEAD SHOP WITH GOD ITEMS, +100 HEADS, AND CUSTOM HEADS!
+[16:53:44] [Client thread/INFO]: [CHAT] QueenGaming has requested to teleport to you.
+[16:53:44] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:53:44] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:53:44] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:53:44] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: 2 times bad 1 time good :)
+[16:53:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: TPA TO katie_summergirl FOR AN EPIC MIDDLESCHOOL RP!!!
+[16:53:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:53:48] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:53:49] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!!
+[16:53:55] [Client thread/INFO]: [CHAT] [me -> DirectionerDUH] can u use headgrabber
+[16:53:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:53:59] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:54:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:54:03] [Client thread/INFO]: [CHAT] [Premium] chris0395: dj
+[16:54:04] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Mind if I go to an rp?
+[16:54:04] [Client thread/INFO]: [CHAT] hatzxxlovexx: TPA TO KATIE_SUMMERGIRL FOR EPIC MIDDLE SCHOOL RP!!!!!!!!!!!!!!!!
+[16:54:05] [Client thread/INFO]: [CHAT] supermonkeytrey: w
+[16:54:07] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: gg o.o
+[16:54:08] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!
+[16:54:09] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] no i dont have a rank
+[16:54:09] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Who a six grader in Middle School?
+[16:54:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:54:11] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: jk
+[16:54:12] [Client thread/INFO]: [CHAT] [Premium] chris0395: i gtg in like 4 minutes
+[16:54:12] [Client thread/INFO]: [CHAT] kmaster020: 1 time bad lots good (school drawing)
+[16:54:15] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: jk jk jk
+[16:54:16] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: TPA FOR AN EPIC HEAD SHOP WITH GOD ITEMS, +100 HEADS, AND CUSTOM HEADS!
+[16:54:17] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Who a six grader in Middle School?!
+[16:54:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:54:19] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Mind if I go to an rp?
+[16:54:20] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im in high school e.e
+[16:54:20] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!
+[16:54:24] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for AN AMAZING WELL ORGANIZED STRIP CLUB HAS LOTS TO DO HURRY B4 ITS TO LATE
+[16:54:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:54:25] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Lol
+[16:54:28] [Client thread/INFO]: [CHAT] prittypink01: CYA
+[16:54:29] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Fall
+[16:54:29] [Client thread/INFO]: [CHAT] ParkerthePug: TPA TO MINECRAFTER FOR AN EPIC SKIN COMP!!!!! 2/5!!!
+[16:54:30] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Mind if I go to an rp?
+[16:54:31] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!!
+[16:54:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:54:33] [Client thread/INFO]: [CHAT] Diamond123412: im a 5th grader in Middle School
+[16:54:37] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im the oldest, I rule over all the children
+[16:54:37] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Your a Scrub ;-;
+[16:54:37] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!!!
+[16:54:38] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Hey everyone :D
+[16:54:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:54:40] [Client thread/INFO]: [CHAT] Anak1nSkywalker: styupid ;ag i cant even fly with all the lag
+[16:54:41] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:54:41] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:54:42] [Client thread/INFO]: [CHAT] Angel3970, angelheart101, AngelxofxAnime
+[16:54:45] [Client thread/INFO]: [CHAT] [me -> AngelxofxAnime] ok
+[16:54:45] [Client thread/INFO]: [CHAT] MissAwesomekidd: Middle school 6th
+[16:54:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:54:47] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for AN AMAZING WELL ORGANIZED STRIP CLUB HAS LOTS TO DO HURRY B4 ITS TO LATE!
+[16:54:48] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: 5th grader
+[16:54:51] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] Thanks!
+[16:54:51] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:54:51] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Sorry I have to say that :/
+[16:54:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:54:56] [Client thread/INFO]: [CHAT] penguinari: uh why do you care how old we are
+[16:54:57] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Im a 8th grader! :D
+[16:54:58] [Client thread/INFO]: [CHAT] Chelsea0166: wow 7th grader
+[16:55:01] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!!!!
+[16:55:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:55:05] [Client thread/INFO]: [CHAT] [Donator] usaaa: xD im the oldest and prob most imature
+[16:55:06] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: D:
+[16:55:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:55:10] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:55:10] [Client thread/INFO]: [CHAT] lilly326: DONE!
+[16:55:15] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: skipped grade 1st
+[16:55:16] [Client thread/INFO]: [CHAT] penguinari: I'll just say I'm in either middle or high school :-P
+[16:55:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:55:18] [Client thread/INFO]: [CHAT] kmaster020: im the most mature out of 3 yay
+[16:55:19] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: :/
+[16:55:20] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for AN AMAZING WELL ORGANIZED STRIP CLUB HAS LOTS TO DO HURRY B4 ITS TO LATE!!
+[16:55:22] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!!!!!!
+[16:55:23] [Client thread/INFO]: [CHAT] [Legend] Angel3970: I skipped Pre-K
+[16:55:24] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I started late
+[16:55:24] [Client thread/INFO]: [CHAT] Chelsea0166: <7th Grader> *crosses arms* "You bow to ME." XD
+[16:55:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:55:26] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:55:27] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: and then I'm not held back in 5th grade o.o
+[16:55:29] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!!!!!
+[16:55:30] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *starts doing fractions and decimals*
+[16:55:30] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: -.- *
+[16:55:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:55:33] [Client thread/INFO]: [CHAT] gopack13: <James> TEACHER I HAVE TO Pee
+[16:55:34] [Client thread/INFO]: [CHAT] [Donator] usaaa: I skipped nothing
+[16:55:35] [Client thread/INFO]: [CHAT] [Donator] usaaa: woo
+[16:55:36] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!!!!!!
+[16:55:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:55:43] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!!!!!!!
+[16:55:45] [Client thread/INFO]: [CHAT] [Legend] Angel3970: If i get held back Minecraft goes bye bye D:
+[16:55:45] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for AN AMAZING WELL ORGANIZED STRIP CLUB HAS LOTS TO DO HURRY B4 ITS TO LATE!!!!!!
+[16:55:46] [Client thread/INFO]: [CHAT] Chelsea0166: IM IN HONORS WOOOOO
+[16:55:47] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: You Band Wagon
+[16:55:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:55:48] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:55:50] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:55:55] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!!!!!!!!!!!!!!
+[16:55:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:55:59] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: You mean* Band Wagon
+[16:56:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:56:03] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for AN AMAZING WELL ORGANIZED STRIP CLUB HAS LOTS TO DO HURRY B4 ITS TO LATE!!!!!!~~~~
+[16:56:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:56:11] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: ;-;
+[16:56:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:56:24] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:56:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[16:56:29] [Client thread/INFO]: [CHAT] Chelsea0166: IM IN HONORS WOOOOOO
+[16:56:37] [Client thread/INFO]: [CHAT] Chelsea0166: XD
+[16:56:39] [Client thread/INFO]: [CHAT] [Donator] usaaa: I got honor roll too
+[16:56:40] [Client thread/INFO]: [CHAT] [Premium] bella4141: -_-
+[16:56:40] [Client thread/INFO]: [CHAT] izzyfizzy135: *Kimberly* Hey Will... is this seat taken?
+[16:56:40] [Client thread/INFO]: [CHAT] penguinari: The whole chat is freaking xD and ;-; XD
+[16:56:40] [Client thread/INFO]: [CHAT] Anak1nSkywalker: no thnx
+[16:56:42] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Justin a Scrub :3
+[16:56:43] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:56:47] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *stares back at alyssa and quickly looks away*
+[16:56:48] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for AN AMAZING WELL ORGANIZED STRIP CLUB HAS LOTS TO DO HURRY B4 ITS TO LATE!!!!!!~~~~!!!!
+[16:56:51] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:56:53] [Client thread/INFO]: [CHAT] ParkerthePug has requested to teleport to you.
+[16:56:53] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:56:53] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:56:53] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:57:00] [Client thread/INFO]: [CHAT] ParkerthePug has requested to teleport to you.
+[16:57:00] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:57:00] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:57:00] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:57:08] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Wow :3
+[16:57:09] [Client thread/INFO]: [CHAT] Chelsea0166: IM IN HONORS WOOOOO *akward silence* uhhh WOOOOOOOOOOO XD
+[16:57:10] [Client thread/INFO]: [CHAT] [Donator] usaaa: Fall, you need to beat the shit outa dem
+[16:57:10] [Client thread/INFO]: [CHAT] [ParkerthePug -> me] plz accept i wanna come
+[16:57:10] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for AN AMAZING WELL ORGANIZED STRIP CLUB HAS LOTS TO DO HURRY B4 ITS TO LATE!!!!!!~~~~!!
+[16:57:12] [Client thread/INFO]: [CHAT] ParkerthePug has requested to teleport to you.
+[16:57:12] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:57:12] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:57:12] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:57:18] [Client thread/INFO]: [CHAT] [Donator] usaaa: Ima need to come there and beat the shit outa dem
+[16:57:27] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I would of Stand up Deck that bitch and Fade with him
+[16:57:28] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for AN AMAZING WELL ORGANIZED STRIP CLUB HAS LOTS TO DO HURRY B4 ITS TO LATE!!!!!!~~~~
+[16:57:29] [Client thread/INFO]: [CHAT] MissAwesomekidd: Did you hear about Justin Bieber??
+[16:57:29] [Client thread/INFO]: [CHAT] [Donator] usaaa: im 9th
+[16:57:31] [Client thread/INFO]: [CHAT] [Donator] usaaa: iz all good
+[16:57:35] [Client thread/INFO]: [CHAT] [Donator] usaaa: ill kill em
+[16:57:36] [Client thread/INFO]: [CHAT] ClaraOswald83: ALL HAIL THE DALEKS
+[16:57:39] [Client thread/INFO]: [CHAT] [Donator] usaaa: IMA SHAKE EM
+[16:57:45] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Fall
+[16:57:47] [Client thread/INFO]: [CHAT] [Donator] usaaa: SHANKE EM WIT MEH PENIS
+[16:57:48] [Client thread/INFO]: [CHAT] Chelsea0166: DALEKS EVERYBODY RUUUUUUUUUN
+[16:57:49] [Client thread/INFO]: [CHAT] [Donator] usaaa: wat
+[16:57:49] [Client thread/INFO]: [CHAT] ClaraOswald83: DALEKS REIGN SUPRIME
+[16:57:50] [Client thread/INFO]: [CHAT] [Legend] Angel3970: xD|
+[16:57:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:57:53] [Client thread/INFO]: [CHAT] [Legend] Angel3970: xD
+[16:57:54] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: usa you 9th grader?
+[16:57:56] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: If Ik you I would of Protected you
+[16:57:56] [Client thread/INFO]: [CHAT] [Donator] usaaa: yea
+[16:57:58] [Client thread/INFO]: [CHAT] ClaraOswald83: OR YOU SHALL BE EXTERMINATED
+[16:57:58] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:58:00] [Client thread/INFO]: [CHAT] izzyfizzy135: *Kimberly* *sits awkwardly in corner alone*
+[16:58:01] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: my bro is too
+[16:58:04] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im fucking myself
+[16:58:06] [Client thread/INFO]: [CHAT] [Legend] Angel3970: xD
+[16:58:07] [Client thread/INFO]: [CHAT] MissAwesomekidd: JUSTIN BIEBER IS DEAD!
+[16:58:08] [Client thread/INFO]: [CHAT] Chelsea0166: x_@
+[16:58:08] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Idc Who I fight
+[16:58:11] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im fucking myself/Angel
+[16:58:12] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I just do it
+[16:58:12] [Client thread/INFO]: [CHAT] [Donator] usaaa: :P
+[16:58:13] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:58:16] [Client thread/INFO]: [CHAT] ClaraOswald83: EXTERMINAAATTTEEE
+[16:58:20] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: xD fight teachers?
+[16:58:23] [Client thread/INFO]: [CHAT] Chelsea0166: *FACEPALM*
+[16:58:23] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Sure
+[16:58:28] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: They Piss me off
+[16:58:36] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:58:37] [Client thread/INFO]: [CHAT] [Donator] usaaa: Rail, Can I have your babies?
+[16:58:38] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC HEAD SHOP
+[16:58:41] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: O.o
+[16:58:41] [Client thread/INFO]: [CHAT] supermonkeytrey: BOO*ies
+[16:58:49] [Client thread/INFO]: [CHAT] [Legend] Angel3970: My friend Cursed out a teacher and got suspended for 2 weeks xD
+[16:58:49] [Client thread/INFO]: [CHAT] Chelsea0166: I DONT LIKE MY MATH TEACHER SHE YELLS AT US
+[16:58:50] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: You can have mine
+[16:58:50] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:58:51] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: WHAT DA DUCK
+[16:58:52] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: I don't haaave babies o.o
+[16:58:53] [Client thread/INFO]: [CHAT] MissAwesomekidd: JUSTIN BIEBER IS DEAD!!
+[16:58:53] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:58:54] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP
+[16:58:55] [Client thread/INFO]: [CHAT] [VIP] artgirl456: RAILROAD
+[16:58:56] [Client thread/INFO]: [CHAT] [Donator] usaaa: Aw
+[16:58:58] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: ART
+[16:59:03] [Client thread/INFO]: [CHAT] [VIP] artgirl456: HERRO
+[16:59:07] [Client thread/INFO]: [CHAT] [Donator] usaaa: FALL RAIL SAYS YOU HAVE BABIES, CAN I HAS DEM
+[16:59:10] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] Kungfukitty275 is really weird i FYI
+[16:59:17] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *looks at alyssa from window*
+[16:59:17] [Client thread/INFO]: [CHAT] Chelsea0166: JUSTEN BEIBER IS DEAD? HALELUYAH
+[16:59:18] [Client thread/INFO]: [CHAT] [VIP] artgirl456: usaaa plz STOP
+[16:59:19] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE~~~~
+[16:59:21] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!
+[16:59:22] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Im bored
+[16:59:24] [Client thread/INFO]: [CHAT] [Donator] usaaa: I like to eat their souls
+[16:59:27] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Angel Skype me
+[16:59:27] [Client thread/INFO]: [CHAT] [Donator] usaaa: I eat babies sou;s
+[16:59:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *i should tell her*
+[16:59:29] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:59:29] [Client thread/INFO]: [CHAT] [Donator] usaaa: souls*
+[16:59:32] [Client thread/INFO]: [CHAT] [Legend] Angel3970: ok
+[16:59:35] [Client thread/INFO]: [CHAT] [VIP] artgirl456: P!NK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[16:59:35] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[16:59:35] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:59:35] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:59:35] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:59:37] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: XD
+[16:59:40] [Client thread/INFO]: [CHAT] [Donator] usaaa: They taste better than adult souls
+[16:59:41] [Client thread/INFO]: [CHAT] [VIP] artgirl456: ur on!
+[16:59:41] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for the opening of my very own CLUB SEX ROOMS CHAT ROOMS
+[16:59:42] [Client thread/INFO]: [CHAT] MissAwesomekidd: Humainty is back!
+[16:59:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- yay
+[16:59:44] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: hey guys!
+[16:59:44] [Client thread/INFO]: [CHAT] [Donator] usaaa: A lil more sweet
+[16:59:44] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[16:59:45] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[16:59:45] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:59:45] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:59:45] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:59:45] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[16:59:45] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:59:45] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:59:45] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:59:46] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[16:59:46] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:59:46] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:59:46] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:59:47] [Client thread/INFO]: [CHAT] Chelsea0166: I EAT YOUR SOUL
+[16:59:48] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] DONT ADD HER
+[16:59:50] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: D: got kicked 0.0
+[16:59:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:59:52] [Client thread/INFO]: [CHAT] penguinari: good for you guys XD
+[16:59:53] [Client thread/INFO]: [CHAT] cupqake2003: TPA FOR EPIC SEX CLUB!!!! STRIPPERS ,SEX ROOMS,CHAAT ROOMS AND MORE
+[16:59:54] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: hey guys!
+[16:59:55] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- pewl dayz
+[16:59:55] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Brb
+[16:59:56] [Client thread/INFO]: [CHAT] QueenGaming has requested to teleport to you.
+[16:59:56] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:59:56] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:59:56] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:05] [Client thread/INFO]: [CHAT] [me -> KungFuKitty275] leave please
+[17:00:06] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:06] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:06] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:06] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:07] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:07] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:07] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:07] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:07] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:07] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:07] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:07] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:07] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:07] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:07] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:07] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:09] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: ACCEPT TPA
+[17:00:12] [Client thread/INFO]: [CHAT] penguinari: congrats you eat souls what shall you accomplish next? XD
+[17:00:14] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:14] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:14] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:14] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:15] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:15] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:15] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:15] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:16] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:16] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:16] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:16] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:16] [Client thread/INFO]: [CHAT] Teleport request denied.
+[17:00:16] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:16] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:16] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:16] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:17] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:17] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:17] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:17] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:18] [Client thread/INFO]: [CHAT] butterhead2006 has requested to teleport to you.
+[17:00:18] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:00:18] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:00:18] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:00:20] [Client thread/INFO]: [CHAT] Teleportation disabled.
+[17:00:20] [Client thread/INFO]: [CHAT] [Donator] usaaa: I am a demon, I make contracts with people. They make one wish. And I grant it, in return I eat
+[17:00:22] [Client thread/INFO]: [CHAT] [Donator] usaaa: Their soul
+[17:00:25] [Client thread/INFO]: [CHAT] MissAwesomekidd: i have to go 5
+[17:00:25] [Client thread/INFO]: [CHAT] LBP2EPICGUY232: ZEXYZEK IS ON
+[17:00:26] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: nice skin
+[17:00:29] [Client thread/INFO]: [CHAT] [KungFuKitty275 -> me] ijudt did -_-
+[17:00:32] [Client thread/INFO]: [CHAT] MissAwesomekidd: i have to go in 4
+[17:00:32] [Client thread/INFO]: [CHAT] Chelsea0166: TH15 15 H0W W3 T41K N0W
+[17:00:41] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: does any1 have a server i can join msg me
+[17:00:43] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: Hi KhaozzMC
+[17:00:44] [Client thread/INFO]: [CHAT] MissAwesomekidd: i have to go in 321 BAII!
+[17:00:44] [Client thread/INFO]: [CHAT] Imagirl8: <Lily>xD
+[17:00:45] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: TALK ANGEL
+[17:00:45] [Client thread/INFO]: [CHAT] lilly326: :"
+[17:00:46] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[17:00:50] [Client thread/INFO]: [CHAT] [Donator] usaaa: Fall, so that means I can have your babies?
+[17:00:51] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:00:51] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Hai Richie
+[17:00:52] [Client thread/INFO]: [CHAT] [Donator] usaaa: KhaozzMC Add me
+[17:00:58] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: lol
+[17:00:58] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: does any1 have a server i can join msg me
+[17:00:58] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!
+[17:00:59] [Client thread/INFO]: [CHAT] butterhead2006: who sells head say 123!!'
+[17:00:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *sighs*
+[17:01:01] [Client thread/INFO]: [CHAT] QueenGaming: Any head shops?
+[17:01:01] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Hold up Usaa
+[17:01:03] [Client thread/INFO]: [CHAT] [Donator] usaaa: oksi
+[17:01:05] [Client thread/INFO]: [CHAT] [Donator] usaaa: Okai
+[17:01:05] [Client thread/INFO]: [CHAT] Minecrafter88820: 123!
+[17:01:07] [Client thread/INFO]: [CHAT] [DirectionerDUH -> me] whhere r the OP items/ God items
+[17:01:10] [Client thread/INFO]: [CHAT] [VIP] artgirl456: hi Rail
+[17:01:14] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: so many ranks are here
+[17:01:17] [Client thread/INFO]: [CHAT] LBP2EPICGUY232: ITS ZEXYZEK IN DISCIS
+[17:01:20] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: ikr
+[17:01:22] [Client thread/INFO]: [CHAT] penguinari: If you play Starbound say I
+[17:01:24] [Client thread/INFO]: [CHAT] LBP2EPICGUY232: ITS ZEXYZEK IN DISCISE
+[17:01:27] [Client thread/INFO]: [CHAT] [Donator] usaaa: Fall, May I please have your babies
+[17:01:29] [Client thread/INFO]: [CHAT] izzyfizzy135: *Kimberly* *sits on bench and listens to music
+[17:01:30] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!
+[17:01:31] [Client thread/INFO]: [CHAT] [me -> DirectionerDUH] oh yeah gon missing you can leave no
+[17:01:35] [Client thread/INFO]: [CHAT] Chelsea0166: I GOT KICKED WTF
+[17:01:39] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: POOPEH
+[17:01:39] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: E HGOQHYUGEOHG UQhG
+[17:01:39] [Client thread/INFO]: [CHAT] LBP2EPICGUY232: TPA TO SEE ZEXYZEK
+[17:01:39] [Client thread/INFO]: [CHAT] [me -> DirectionerDUH] w
+[17:01:40] [Client thread/INFO]: [CHAT] [VIP] artgirl456: usaaa plz STOP
+[17:01:42] [Client thread/INFO]: [CHAT] slyfoxlyric: ANY RPS MSG ME
+[17:01:42] [Client thread/INFO]: [CHAT] diamondsword790: take a meliode
+[17:01:43] [Client thread/INFO]: [CHAT] [Donator] usaaa: Stop what?
+[17:01:47] [Client thread/INFO]: [CHAT] [Donator] usaaa: Why you trippin
+[17:01:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:01:51] [Client thread/INFO]: [CHAT] Chelsea0166: I GOT KICKED WTF! vgueivohgilsvhtvijqlghazjgvhqla
+[17:01:54] [Client thread/INFO]: [CHAT] penguinari: Does anyone else play Starbound O_o
+[17:01:54] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: why keep getting kicked?! D:
+[17:01:59] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: I KEEP GETTING KICKED
+[17:02:03] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!
+[17:02:11] [Client thread/INFO]: [CHAT] [Donator] usaaa: yea xD
+[17:02:17] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- i wonder where alyssa is
+[17:02:18] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: haha lol
+[17:02:22] [Client thread/INFO]: [CHAT] [Donator] usaaa: Rock, donate rite now
+[17:02:26] [Client thread/INFO]: [CHAT] [Donator] usaaa: RITE NOW
+[17:02:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- there you go
+[17:02:34] [Client thread/INFO]: [CHAT] Request sent to Minecrafter88820.
+[17:02:37] [Client thread/INFO]: [CHAT] penguinari: Does anyone else play Starbound O_O
+[17:02:38] [Client thread/INFO]: [CHAT] Minecrafter88820 accepted your teleport request.
+[17:02:38] [Client thread/INFO]: [CHAT] Teleportation will commence in 2 seconds. Don't move.
+[17:02:41] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[17:02:42] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: get a rank then
+[17:02:43] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: in your head fall xD
+[17:02:46] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: eww...
+[17:02:51] [Client thread/INFO]: [CHAT] HannahLikesCats: Ugh lagging like a son of a gun. >_<
+[17:02:51] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:02:51] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: xD bad for you
+[17:02:52] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- oh... im sorry
+[17:02:55] [Client thread/INFO]: [CHAT] [VIP] artgirl456: Rock when r u gettin a rank?
+[17:02:56] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: RockStarPuppy123 get a rank then
+[17:02:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *crap*
+[17:03:00] [Client thread/INFO]: [CHAT] Anak1nSkywalker: yes plz
+[17:03:02] [Client thread/INFO]: [CHAT] penguinari: Seriously no one else here plays Starbound? XD
+[17:03:17] [Client thread/INFO]: [CHAT] Anak1nSkywalker: cool
+[17:03:21] [Client thread/INFO]: [CHAT] HannahLikesCats: I listen to a band called Starbomb, does that count?
+[17:03:26] [Client thread/INFO]: [CHAT] penguinari: No XD
+[17:03:28] [Client thread/INFO]: [CHAT] [Donator] usaaa: Thats better
+[17:03:33] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: does any1 have a server i can join msg me!!!
+[17:03:36] [Client thread/INFO]: [CHAT] [Donator] usaaa: Angel, say I like penis
+[17:03:38] [Client thread/INFO]: [CHAT] [Donator] usaaa: In skype
+[17:03:40] [Client thread/INFO]: [CHAT] ZlenderThompson: xD
+[17:03:43] [Client thread/INFO]: [CHAT] [Donator] usaaa: So I can see whos who
+[17:03:46] [Client thread/INFO]: [CHAT] [Legend] Angel3970: no
+[17:03:47] [Client thread/INFO]: [CHAT] [VIP] artgirl456: Rock ill make ur skin sometime again
+[17:03:47] [Client thread/INFO]: [CHAT] [Donator] usaaa: Hear your voice
+[17:03:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:03:51] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: ?
+[17:03:52] [Client thread/INFO]: [CHAT] penguinari: This is getting more awkward by the minute
+[17:04:00] [Client thread/INFO]: [CHAT] [Donator] usaaa: Want me to talk?
+[17:04:03] [Client thread/INFO]: [CHAT] [VIP] artgirl456: brb
+[17:04:05] [Client thread/INFO]: [CHAT] [Donator] usaaa: What should I say
+[17:04:07] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Ywea
+[17:04:09] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Anything
+[17:04:12] [Client thread/INFO]: [CHAT] penguinari: Say ehfoe2hfouhewfougrwe
+[17:04:13] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!!
+[17:04:14] [Client thread/INFO]: [CHAT] [Donator] usaaa: I need something to say
+[17:04:16] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: holy...
+[17:04:19] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: say penis is skype
+[17:04:21] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Say Fuck you
+[17:04:24] [Client thread/INFO]: [CHAT] penguinari: Say ehfoe2hfouhewfougrwefenfowehofhrueifhiruw
+[17:04:26] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: say penis is skype usaaa
+[17:04:28] [Client thread/INFO]: [CHAT] [Donator] usaaa: I did
+[17:04:29] [Client thread/INFO]: [CHAT] [Donator] usaaa: xD
+[17:04:31] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- crap no im not goin to science class
+[17:04:31] [Client thread/INFO]: [CHAT] penguinari: lol
+[17:04:34] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Penis is Skype?
+[17:04:36] [Client thread/INFO]: [CHAT] [Donator] usaaa: Their laughing
+[17:04:37] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!!!
+[17:04:37] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[17:04:40] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- herobrine is the teacher!
+[17:04:42] [Client thread/INFO]: [CHAT] penguinari: ow XD
+[17:04:48] [Client thread/INFO]: [CHAT] penguinari: wow XD
+[17:04:48] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *ditches class*
+[17:04:51] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:04:52] [Client thread/INFO]: [CHAT] [Donator] usaaa: EVERYONE! PENIS IS SKYPE!
+[17:04:57] [Client thread/INFO]: [CHAT] [Legend] Angel3970: xD
+[17:04:59] [Client thread/INFO]: [CHAT] ZlenderThompson: :O
+[17:05:01] [Client thread/INFO]: [CHAT] [Donator] usaaa: A vid e.e
+[17:05:04] [Client thread/INFO]: [CHAT] [Donator] usaaa: I sound like shit tho
+[17:05:06] [Client thread/INFO]: [CHAT] penguinari: lol seriously lol XDXDXD
+[17:05:07] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: So
+[17:05:07] [Client thread/INFO]: [CHAT] [Donator] usaaa: and my brother is here
+[17:05:11] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:05:15] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: o_O
+[17:05:15] [Client thread/INFO]: [CHAT] Imagirl8: <Lily> lol idk
+[17:05:16] [Client thread/INFO]: [CHAT] penguinari: oh noes xD
+[17:05:17] [Client thread/INFO]: [CHAT] supermonkeytrey: ENEY Rp
+[17:05:20] [Client thread/INFO]: [CHAT] [Donator] usaaa: he askes me to spell shit all the time
+[17:05:24] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!!!!
+[17:05:24] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Axe
+[17:05:25] [Client thread/INFO]: [CHAT] [VIP] artgirl456: *facepalm* what goes on in the donator world!?!
+[17:05:26] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[17:05:26] [Client thread/INFO]: [CHAT] penguinari: um ok
+[17:05:34] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[17:05:38] [Client thread/INFO]: [CHAT] penguinari: yeah artgirl what goes on XD
+[17:05:38] [Client thread/INFO]: [CHAT] Imagirl8: <Lily> Y
+[17:05:40] [Client thread/INFO]: [CHAT] [Donator] usaaa: Who else has skype, Were gunna have a giant JH skype call
+[17:05:40] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: o_0
+[17:05:49] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: YUSH :O
+[17:05:52] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:05:56] [Client thread/INFO]: [CHAT] Chelsea0166: IM NOT A DONATER BUT IM RIDING THE DONATER TRAIN
+[17:05:58] [Client thread/INFO]: [CHAT] [VIP] artgirl456: i MEANT what the heck happens in a donators mind
+[17:05:59] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: -.-
+[17:06:01] [Client thread/INFO]: [CHAT] penguinari: I have skype but I.....chose not to participate XD
+[17:06:02] [Client thread/INFO]: [CHAT] Imagirl8: <Lily> brains Y mr.bryne
+[17:06:03] [Client thread/INFO]: [CHAT] DirectionerDUH: You can't exept flowers when u you plant no seed....
+[17:06:10] [Client thread/INFO]: [CHAT] [VIP] artgirl456: penguin >:(
+[17:06:11] [Client thread/INFO]: [CHAT] [Donator] usaaa: Angel is riding me
+[17:06:12] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: D:
+[17:06:14] [Client thread/INFO]: [CHAT] [Donator] usaaa: Hes on my dick
+[17:06:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *runs into class* GUYS RUN THE TEACHER IS HEROBRINE
+[17:06:19] [Client thread/INFO]: [CHAT] penguinari: lol sorry
+[17:06:19] [Client thread/INFO]: [CHAT] [Donator] usaaa: Riding it
+[17:06:19] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Dont leave D:
+[17:06:23] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- RUN BEFORE HE GETS YOU
+[17:06:25] [Client thread/INFO]: [CHAT] Chelsea0166: I agree with Mewtwo. XD
+[17:06:26] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: idk artgirl456... even though i am a donator! XD
+[17:06:29] [Client thread/INFO]: [CHAT] Request sent to DirectionerDUH.
+[17:06:31] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: gotta go bye! D:
+[17:06:34] [Client thread/INFO]: [CHAT] [Donator] usaaa: RichieCollins you have skype?
+[17:06:35] [Client thread/INFO]: [CHAT] penguinari: lol yes resh and mewtwo agree XD
+[17:06:39] [Client thread/INFO]: [CHAT] [Donator] usaaa: Bye fall, Bye Rail
+[17:06:39] [Client thread/INFO]: [CHAT] diamondsword790: uhhhh suck my dick uhh mmm uhh uhhhhh uhhhhhhhh thanx aunt may *my granpa*
+[17:06:39] [Client thread/INFO]: [CHAT] [VIP] artgirl456: do not make meh mad or i talk in bad grammer
+[17:06:39] [Client thread/INFO]: [CHAT] [VIP] RailroadCat: yup
+[17:06:41] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: D:
+[17:06:46] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: is that mine?
+[17:06:48] [Client thread/INFO]: [CHAT] [Donator] usaaa: RichieCollins you have skype?
+[17:06:52] [Client thread/INFO]: [CHAT] [VIP] artgirl456: bye Rail D:
+[17:06:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:06:52] [Client thread/INFO]: [CHAT] [Donator] usaaa: AND HES FUCKING AFK
+[17:06:56] [Client thread/INFO]: [CHAT] ZlenderThompson: :I
+[17:06:57] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I g2g too
+[17:06:59] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[17:07:01] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: i used to but my camera and microphone broke
+[17:07:02] [Client thread/INFO]: [CHAT] TPF_123: any Rp's
+[17:07:06] [Client thread/INFO]: [CHAT] diamondsword790: ALL HAIL MASTER PORKY
+[17:07:11] [Client thread/INFO]: [CHAT] [Donator] usaaa: Aw fuck
+[17:07:12] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: i used to but my camera and microphone broke.. my dog bit it
+[17:07:14] [Client thread/INFO]: [CHAT] [Donator] usaaa: Who else has skype
+[17:07:15] [Client thread/INFO]: [CHAT] [VIP] artgirl456: what is this anyway? an rp?
+[17:07:20] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *sees alyssa* *kinda tries to hide*
+[17:07:22] [Client thread/INFO]: [CHAT] Imagirl8: <Lily> *runs out of class i dont wanna do it*
+[17:07:22] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] ? Can I tpa back?
+[17:07:25] [Client thread/INFO]: [CHAT] [Donator] usaaa: NIGGA
+[17:07:27] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: ???
+[17:07:28] [Client thread/INFO]: [CHAT] [Legend] Angel3970: ._.
+[17:07:28] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[17:07:29] [Client thread/INFO]: [CHAT] [Donator] usaaa: He fucking left
+[17:07:30] [Client thread/INFO]: [CHAT] [Donator] usaaa: xD
+[17:07:30] [Client thread/INFO]: [CHAT] Super_Troller999: tpaccept
+[17:07:31] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!!!!!
+[17:07:32] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: I left call
+[17:07:33] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: xD
+[17:07:33] [Client thread/INFO]: [CHAT] penguinari: it's an everyday modern conversation artgirl XD
+[17:07:35] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Later
+[17:07:37] [Client thread/INFO]: [CHAT] DirectionerDUH: No matter where u r u will see beauty in something
+[17:07:37] [Client thread/INFO]: [CHAT] diamondsword790: ALL HAOL MASTER PORKY!!!
+[17:07:38] [Client thread/INFO]: [CHAT] [Legend] Angel3970: see ya
+[17:07:39] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: usaaa my dog bit it thats why
+[17:07:42] [Client thread/INFO]: [CHAT] [VIP] artgirl456: PENGUIN SHUT UP
+[17:07:47] [Client thread/INFO]: [CHAT] [VIP] artgirl456: thank u
+[17:07:47] [Client thread/INFO]: [CHAT] [Donator] KhaozzMC: Bai Every1 Ik you guys think Im smexy
+[17:07:49] [Client thread/INFO]: [CHAT] [Donator] usaaa: artgirl456 do you have skype
+[17:07:50] [Client thread/INFO]: [CHAT] penguinari: heck no
+[17:07:52] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:07:57] [Client thread/INFO]: [CHAT] penguinari: lol XD
+[17:08:05] [Client thread/INFO]: [CHAT] penguinari: I am a rebel
+[17:08:05] [Client thread/INFO]: [CHAT] [Donator] usaaa: artgirl456 do you have skype
+[17:08:06] [Client thread/INFO]: [CHAT] [VIP] artgirl456: grrrr me talks in bad grammer nows
+[17:08:08] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!!!!!!
+[17:08:11] [Client thread/INFO]: [CHAT] [Legend] Angel3970: RichieCollins you got Skype
+[17:08:11] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: usaaa my dog bit it thats why XD
+[17:08:11] [Client thread/INFO]: [CHAT] [Donator] usaaa: artgirl456 do you have skype
+[17:08:15] [Client thread/INFO]: [CHAT] Chelsea0166: DONT SKYPE WITH THEM
+[17:08:20] [Client thread/INFO]: [CHAT] [VIP] artgirl456: ummm
+[17:08:20] [Client thread/INFO]: [CHAT] penguinari: oh noes artgirl not the bad grammer
+[17:08:20] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: i used to but my camera and microphone broke.. my dog bit it
+[17:08:20] [Client thread/INFO]: [CHAT] [Donator] usaaa: Get a new mic RichieCollins
+[17:08:32] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *keeps hiding in cafeteria*
+[17:08:34] [Client thread/INFO]: [CHAT] [AngelxofxAnime -> me] ? Can I tpa back?
+[17:08:34] [Client thread/INFO]: [CHAT] [Donator] usaaa: Do uuu
+[17:08:36] [Client thread/INFO]: [CHAT] ~Tony: so quet...
+[17:08:39] [Client thread/INFO]: [CHAT] [VIP] artgirl456: PENGUIN irl am REALLy serious about grammer
+[17:08:46] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *doesnt dare to go near classrooms*
+[17:08:47] [Client thread/INFO]: [CHAT] [Donator] usaaa: art, do you have skype?
+[17:08:48] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: its 11:10 P.M where is lve
+[17:08:48] [Client thread/INFO]: [CHAT] UncleToby03: tp for epic club
+[17:08:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:08:59] [Client thread/INFO]: [CHAT] penguinari: Seriously though WTF is this conversation about XD
+[17:08:59] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: its 11:10 P.M where is live
+[17:09:06] [Client thread/INFO]: [CHAT] DirectionerDUH: In the darkness u will find light
+[17:09:06] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: its 11:10 P.M where i live
+[17:09:07] [Client thread/INFO]: [CHAT] Diamond123412: same
+[17:09:07] [Client thread/INFO]: [CHAT] DragonSlayer1024: Its 11:08 where i live RichieCollins SUCK IT
+[17:09:07] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *texts alyssa* alyssa its not safe
+[17:09:08] [Client thread/INFO]: [CHAT] Ashley0217: tpa to me for the opening of my very own CLUB SEX ROOMS CHAT ROOMS!!!!!!!!
+[17:09:10] [Client thread/INFO]: [CHAT] [Donator] usaaa: art, do you have skype?
+[17:09:11] [Client thread/INFO]: [CHAT] [Donator] usaaa: art, do you have skype?
+[17:09:12] [Client thread/INFO]: [CHAT] [Donator] usaaa: art, do you have skype?
+[17:09:15] [Client thread/INFO]: [CHAT] [VIP] artgirl456: uh-heh heh- im not allowed to say -.-
+[17:09:15] [Client thread/INFO]: [CHAT] DragonSlayer1024: Its 11:08 where i live RichieCollins SUCK IT!!!!!!!!!!!!!!!!
+[17:09:15] [Client thread/INFO]: [CHAT] [Legend] Angel3970: same here but 2 minutes back RichieCollins
+[17:09:19] [Client thread/INFO]: [CHAT] penguinari: It's 10:00 where I live :-P
+[17:09:24] [Client thread/INFO]: [CHAT] penguinari: ish
+[17:09:29] [Client thread/INFO]: [CHAT] [Donator] usaaa: fine, no fuckin skype call fo u
+[17:09:31] [Client thread/INFO]: [CHAT] [Donator] usaaa: RockStarPuppy123
+[17:09:31] [Client thread/INFO]: [CHAT] [VIP] artgirl456: its 8:08 where i am
+[17:09:31] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *sigh of relief*
+[17:09:32] [Client thread/INFO]: [CHAT] [Donator] usaaa: u has skype
+[17:09:35] [Client thread/INFO]: [CHAT] [Legend] Angel3970: lol
+[17:09:35] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: um
+[17:09:40] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: did i get it?
+[17:09:43] [Client thread/INFO]: [CHAT] [Premium] TigerLily456: M LILLY HEY!!!! LISTEN
+[17:09:48] [Client thread/INFO]: [CHAT] [Premium] TigerLily456: .
+[17:09:49] [Client thread/INFO]: [CHAT] [Donator] crusher925: its (:08 in CO
+[17:09:52] [Client thread/INFO]: [CHAT] [Donator] usaaa: 8:09 PM where I am
+[17:09:52] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:09:56] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: you probably live on the west coast artgirl456
+[17:09:57] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!!!!!!!
+[17:09:57] [Client thread/INFO]: [CHAT] [Donator] crusher925: 9:08
+[17:09:58] [Client thread/INFO]: [CHAT] [VIP] artgirl456: its 8:08 where i am
+[17:10:05] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: you probably live on the west coast artgirl456
+[17:10:06] [Client thread/INFO]: [CHAT] lilly326: CRUSH NOT DATE
+[17:10:06] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *sits in back of room and thinks*
+[17:10:06] [Client thread/INFO]: [CHAT] Lyezo: 11:09 where i am
+[17:10:12] [Client thread/INFO]: [CHAT] lilly326: Its like
+[17:10:15] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im in california where the weeds good
+[17:10:24] [Client thread/INFO]: [CHAT] [VIP] artgirl456: whateves im goin to my plot
+[17:10:25] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: did i get the job Minecrafter
+[17:10:28] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *sits in back of room and thinks*
+[17:10:33] [Client thread/INFO]: [CHAT] [Donator] crusher925: im inCO where weed is legal
+[17:10:33] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: im in Connecticut
+[17:10:39] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- hey alyssa
+[17:10:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:10:54] [Client thread/INFO]: [CHAT] DirectionerDUH: Everyone has something good in them......
+[17:10:58] [Client thread/INFO]: [CHAT] [Donator] usaaa: it may be legal, But its not as good as california's is
+[17:11:16] [Client thread/INFO]: [CHAT] [VIP] artgirl456: CA is epic as heck
+[17:11:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *perfect chance* hey can i tell you a secret
+[17:11:18] [Client thread/INFO]: [CHAT] [Donator] usaaa: tikr
+[17:11:19] [Client thread/INFO]: [CHAT] [Donator] usaaa: ikr
+[17:11:29] [Client thread/INFO]: [CHAT] Super_Troller999: GOOD 4 YOU YOU KNOW UR STATS
+[17:11:35] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Im boreeeed
+[17:11:36] [Client thread/INFO]: [CHAT] Apaul03: weve been looking for you
+[17:11:38] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *whispers* i-i like you
+[17:11:46] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: bye guys gtg
+[17:11:50] [Client thread/INFO]: [CHAT] [Donator] usaaa: Bye <3
+[17:11:51] [Client thread/INFO]: [CHAT] [Legend] Angel3970: bye
+[17:11:55] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:11:55] [Client thread/INFO]: [CHAT] pedrogman: bai
+[17:11:57] [Client thread/INFO]: [CHAT] [Legend] Angel3970: :P
+[17:11:57] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: peace out
+[17:11:58] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Cya richi
+[17:11:59] [Client thread/INFO]: [CHAT] sheep85: bye
+[17:12:01] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Cya richie*
+[17:12:05] [Client thread/INFO]: [CHAT] [Donator] usaaa: Purple, Can I have your babies
+[17:12:06] [Client thread/INFO]: [CHAT] frostypolo2001: :I
+[17:12:10] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: bye purplegrenade321
+[17:12:13] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- what the... *picks her up*
+[17:12:17] [Client thread/INFO]: [CHAT] DirectionerDUH: Everyday Find the time to smile!
+[17:12:19] [Client thread/INFO]: [CHAT] ZlenderThompson: BYE
+[17:12:19] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: be on tomorrow
+[17:12:22] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *smiles*
+[17:12:24] [Client thread/INFO]: [CHAT] [Donator] usaaa: Purple, Can I have your babies
+[17:12:25] [Client thread/INFO]: [CHAT] Apaul03: admit it!
+[17:12:34] [Client thread/INFO]: [CHAT] sheep85: DirectionerDUH i hate 1D
+[17:12:40] [Client thread/INFO]: [CHAT] Apaul03: you are doing it!
+[17:12:41] [Client thread/INFO]: [CHAT] [Donator] usaaa: Fall or Rail wouldnt let me have they'res
+[17:12:42] [Client thread/INFO]: [CHAT] pedrogman: 1D IS THE BOMB
+[17:12:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *gives her water* youre okay
+[17:12:44] [Client thread/INFO]: [CHAT] [Legend] anastasia0616: SAY 123 IF YOU NEED HELP
+[17:12:46] [Client thread/INFO]: [CHAT] DirectionerDUH: Its your opinion i respect that
+[17:12:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:12:55] [Client thread/INFO]: [CHAT] Angipotter: 123
+[17:13:00] [Client thread/INFO]: [CHAT] sheep85: oh wait nvm
+[17:13:11] [Client thread/INFO]: [CHAT] DirectionerDUH: Everyone is entitled to they're opinion
+[17:13:17] [Client thread/INFO]: [CHAT] [VIP] artgirl456: IF U LIKE ARCADE FIRE OR THE AVETT BROTHERS SAY 456
+[17:13:19] [Client thread/INFO]: [CHAT] ZlenderThompson: =::(
+[17:13:20] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *texts katie* i know he is
+[17:13:23] [Client thread/INFO]: [CHAT] [VIP] artgirl456: 456
+[17:13:24] [Client thread/INFO]: [CHAT] sheep85: its just i like the group and they really insulted them
+[17:13:26] [Client thread/INFO]: [CHAT] [Donator] usaaa: 123
+[17:13:28] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: ill see you tomorrow at 9:00 A.M... what state do you live in
+[17:13:28] [Client thread/INFO]: [CHAT] [Legend] Angel3970: whats wrong ZlenderThompson?
+[17:13:28] [Client thread/INFO]: [CHAT] Chelsea0166: OMG WHO SPAWNED A SKELETON
+[17:13:42] [Client thread/INFO]: [CHAT] ZlenderThompson: I can't take a banana
+[17:13:42] [Client thread/INFO]: [CHAT] Super_Troller999: go on the item frame it says something
+[17:13:43] [Client thread/INFO]: [CHAT] Apaul03: admit it you played as us!
+[17:13:48] [Client thread/INFO]: [CHAT] [Legend] Angel3970: xD
+[17:13:53] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: what state
+[17:13:53] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:13:56] [Client thread/INFO]: [CHAT] [VIP] artgirl456: k
+[17:13:56] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im bored
+[17:14:00] [Client thread/INFO]: [CHAT] ZlenderThompson: Cuz its the only 1 and my mom need it for cooking
+[17:14:01] [Client thread/INFO]: [CHAT] [Donator] usaaa: wait a sec brb
+[17:14:02] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *texts in group chat* okay
+[17:14:04] [Client thread/INFO]: [CHAT] Anak1nSkywalker: any rp
+[17:14:07] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: what state
+[17:14:07] [Client thread/INFO]: [CHAT] Apaul03: we will leave until you tell us!
+[17:14:08] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *texts in group chat* sounds swell
+[17:14:19] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ATEJULIA FOR A SKIN COMP!!
+[17:14:20] [Client thread/INFO]: [CHAT] ZlenderThompson: BORED
+[17:14:23] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: ill see you tomorrow at 9:00 A.M... what state do you live in
+[17:14:25] [Client thread/INFO]: [CHAT] Anak1nSkywalker: any rp's
+[17:14:26] [Client thread/INFO]: [CHAT] [Donator] usaaa: Back
+[17:14:27] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: ill see you tomorrow at 9:00 A.M
+[17:14:28] [Client thread/INFO]: [CHAT] RockStarPuppy123: back
+[17:14:31] [Client thread/INFO]: [CHAT] frostypolo2001: SCHOOL... IS .... TOMORROW,,,, :O
+[17:14:36] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!!!!!!!!
+[17:14:37] [Client thread/INFO]: [CHAT] DUMBBLONDE1922: *bolt
+[17:14:40] [Client thread/INFO]: [CHAT] [Donator] usaaa: Hey frostypolo2001
+[17:14:44] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ATEJULIA FOR A EPIC SKIN COMP!
+[17:14:45] [Client thread/INFO]: [CHAT] frostypolo2001: :I hi
+[17:14:46] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: bye guys
+[17:14:48] [Client thread/INFO]: [CHAT] [VIP] artgirl456: i have school 2marrow :P
+[17:14:50] [Client thread/INFO]: [CHAT] [Donator] usaaa: school can fuck itself
+[17:14:52] [Client thread/INFO]: [CHAT] [Donator] usaaa: Bye RichieCollins
+[17:14:52] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ATEJULIA FOR A SKIN COMP!!
+[17:14:54] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:15:00] [Client thread/INFO]: [CHAT] RockStarPuppy123: me too :(
+[17:15:01] [Client thread/INFO]: [CHAT] IceeRose: TPA TO JULIA FOR A EPIC SKIN COMP!
+[17:15:03] [Client thread/INFO]: [CHAT] Bananaman2013: any1 know CrystalButter msg me
+[17:15:06] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *doesnt text back and is in shock*
+[17:15:17] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ATEJULIA FOR A SKIN COMP!
+[17:15:17] [Client thread/INFO]: [CHAT] [VIP] artgirl456: Rock where do i meet u at recess?
+[17:15:17] [Client thread/INFO]: [CHAT] ClaraOswald83: I got so exited I cxrashed
+[17:15:19] [Client thread/INFO]: [CHAT] EmAAAA: Any rp's that are small w/ prom?
+[17:15:23] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: like my cars?
+[17:15:27] [Client thread/INFO]: [CHAT] [Donator] usaaa: Recess :3
+[17:15:31] [Client thread/INFO]: [CHAT] [Donator] usaaa: I remember that
+[17:15:41] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: ok my mom is yelling gtg
+[17:15:41] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- oh sh*t!
+[17:15:45] [Client thread/INFO]: [CHAT] [Donator] usaaa: xD
+[17:15:46] [Client thread/INFO]: [CHAT] Bananaman2013: HOT AND SPICY <<<SEX>>>
+[17:15:47] [Client thread/INFO]: [CHAT] Anak1nSkywalker: i am board anything to do
+[17:15:49] [Client thread/INFO]: [CHAT] RockStarPuppy123: the luch tables
+[17:15:50] [Client thread/INFO]: [CHAT] [VIP] artgirl456: i hate the grade im in xD
+[17:15:53] [Client thread/INFO]: [CHAT] [Donator] usaaa: What grade?
+[17:15:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *gets stabbed*
+[17:15:53] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:15:58] [Client thread/INFO]: [CHAT] EmAAAA: What grade?
+[17:16:01] [Client thread/INFO]: [CHAT] [Donator] RichieCollins: bye
+[17:16:04] [Client thread/INFO]: [CHAT] [VIP] artgirl456: im not sayin'
+[17:16:06] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *lays on ground* hunhh....
+[17:16:08] [Client thread/INFO]: [CHAT] lupop724: bye
+[17:16:11] [Client thread/INFO]: [CHAT] Anak1nSkywalker: any rps
+[17:16:11] [Client thread/INFO]: [CHAT] Bananaman2013: y not?
+[17:16:13] [Client thread/INFO]: [CHAT] ClaraOswald83: WHICH WAY IS THE BUDDER THEATER? I DONT REMEMBER :P
+[17:16:15] [Client thread/INFO]: [CHAT] [VIP] artgirl456: :3
+[17:16:15] [Client thread/INFO]: [CHAT] DirectionerDUH: Be glad for the good and bad in your life they help u grow!
+[17:16:20] [Client thread/INFO]: [CHAT] EmAAAA: Well, you don't go and say "I hate the grade I'm in" Without telling people your grade...RETARD.
+[17:16:23] [Client thread/INFO]: [CHAT] Bananaman2013: SAY IT
+[17:16:24] [Client thread/INFO]: [CHAT] coopman616: thx
+[17:16:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- he-help... someone...
+[17:16:32] [Client thread/INFO]: [CHAT] Anak1nSkywalker: any rps say 092
+[17:16:32] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR AUTOMATIC GOD AND HEAD SHOP!!!!!!!!!!!!
+[17:16:32] [Client thread/INFO]: [CHAT] [Donator] usaaa: -.-
+[17:16:32] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ME FOR A SKIN COMP! OR TPA TO ATEJULIA FOR SKIN COMP ITS THE SAME
+[17:16:33] [Client thread/INFO]: [CHAT] [Donator] usaaa: Fine den
+[17:16:37] [Client thread/INFO]: [CHAT] DUMBBLONDE1922: WOAH
+[17:16:42] [Client thread/INFO]: [CHAT] pedrogman: ANY RPS?
+[17:16:43] [Client thread/INFO]: [CHAT] EmAAAA: what
+[17:16:45] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im gunna to play gta
+[17:16:46] [Client thread/INFO]: [CHAT] [Donator] usaaa: Bai
+[17:16:49] [Client thread/INFO]: [CHAT] Bananaman2013: y r u in 2nd grade
+[17:16:49] [Client thread/INFO]: [CHAT] EmAAAA: BYE
+[17:16:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:16:56] [Client thread/INFO]: [CHAT] Chelsea0166: CAN I BE ADDED TO SOMEONES PLOT SO I CAN HAVE SOMEWHERE TO PUT MY STUFF???
+[17:16:58] [Client thread/INFO]: [CHAT] DirectionerDUH: U can chose to be happy or sad, choose happy -DDUH
+[17:17:06] [Client thread/INFO]: [CHAT] Bananaman2013: y r u in 2nd grade?
+[17:17:08] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: do it or else
+[17:17:12] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ME OR ATEJILIA FOR A SKIN COMP!!
+[17:17:13] [Client thread/INFO]: [CHAT] Anak1nSkywalker: any rps
+[17:17:15] [Client thread/INFO]: [CHAT] [Donator] usaaa: artgirl456 is in 2nd grade
+[17:17:18] [Client thread/INFO]: [CHAT] Bananaman2013: y r u in 2nd grade or something?
+[17:17:18] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Brb
+[17:17:20] [Client thread/INFO]: [CHAT] [VIP] artgirl456: HECK NO
+[17:17:24] [Client thread/INFO]: [CHAT] [Donator] usaaa: I know
+[17:17:27] [Client thread/INFO]: [CHAT] [Donator] usaaa: Ive fucked her
+[17:17:27] [Client thread/INFO]: [CHAT] [Donator] usaaa: waht
+[17:17:32] [Client thread/INFO]: [CHAT] Bananaman2013: 10th grade?
+[17:17:34] [Client thread/INFO]: [CHAT] Chelsea0166: SOMEONE PLZ ADD ME TO A PLOT I NEED TO PUT MY STUFF SOMEWHERE
+[17:17:38] [Client thread/INFO]: [CHAT] [Donator] usaaa: Shes like in 5th
+[17:17:46] [Client thread/INFO]: [CHAT] [VIP] artgirl456: uh
+[17:17:50] [Client thread/INFO]: [CHAT] [Donator] usaaa: Or lower
+[17:17:50] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ATEJULIA FOR SKIN COMP!!
+[17:17:53] [Client thread/INFO]: [CHAT] Bananaman2013: me= in 4th
+[17:17:53] [Client thread/INFO]: [CHAT] DirectionerDUH: Take the time to think before u speak
+[17:17:53] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:17:56] [Client thread/INFO]: [CHAT] Chelsea0166: SOMEONE PLZ ADD ME TO A PLOT I NEED TO PUT MY STUFF SOMEWHERE!!!!!!!!!!!!!!!!!!!!!!!!!
+[17:18:05] [Client thread/INFO]: [CHAT] mincraft_girlluv: who has rp i can join
+[17:18:05] [Client thread/INFO]: [CHAT] Jotate9: Can I tpa to anyone msg me
+[17:18:07] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP
+[17:18:12] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!
+[17:18:14] [Client thread/INFO]: [CHAT] Anak1nSkywalker: im board
+[17:18:19] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!!
+[17:18:25] [Client thread/INFO]: [CHAT] Chelsea0166: SOMEONE PLZ ADD ME TO A PLOT I NEED TO PUT MY STUFF SOMEWHERE!!!!!!!!!!!!!!!!!!!!!!!!!!
+[17:18:26] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ATEJULIA FOR A AWESOME SKIN COMP!
+[17:18:27] [Client thread/INFO]: [CHAT] Bananaman2013: artgirl do me = grade << >>
+[17:18:28] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!!!
+[17:18:36] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ATEJULIA FOR A AWESOME SKIN COMP
+[17:18:40] [Client thread/INFO]: [CHAT] lilly326: hi
+[17:18:45] [Client thread/INFO]: [CHAT] lilly326: ahem
+[17:18:47] [Client thread/INFO]: [CHAT] supermonkeytrey: HELO
+[17:18:50] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!!!!
+[17:18:52] [Client thread/INFO]: [CHAT] Bananaman2013: yes
+[17:18:52] [Client thread/INFO]: [CHAT] IceeRose: TPA TO AEJULIA OR ME FOR A EPIC AWESOME SKIN COMP!!
+[17:18:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:18:57] [Client thread/INFO]: [CHAT] DirectionerDUH: Good things come from bad. -DirectionerDUH
+[17:18:57] [Client thread/INFO]: [CHAT] lilly326: my home lol
+[17:19:01] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!!!!!
+[17:19:04] [Client thread/INFO]: [CHAT] Bananaman2013: artgirl do me = grade << >>
+[17:19:11] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!!!!!!
+[17:19:16] [Client thread/INFO]: [CHAT] [VIP] artgirl456: no
+[17:19:20] [Client thread/INFO]: [CHAT] Bananaman2013: y not?
+[17:19:22] [Client thread/INFO]: [CHAT] DragonSlayer1024: msg * hi
+[17:19:23] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!!!!!!!
+[17:19:23] [Client thread/INFO]: [CHAT] Jotate9: Can I tpa to anyone msg me
+[17:19:27] [Client thread/INFO]: [CHAT] EmAAAA: Tpa to AteJulia for skin comp!
+[17:19:33] [Client thread/INFO]: [CHAT] Bananaman2013: r u SCARED
+[17:19:33] [Client thread/INFO]: [CHAT] Chelsea0166: omg thanks
+[17:19:35] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!!!!!!!!
+[17:19:38] [Client thread/INFO]: [CHAT] Jotate9: Can I tpa to anyone msg me!
+[17:19:40] [Client thread/INFO]: [CHAT] [VIP] artgirl456: id like to keep it to myself, thank u very much
+[17:19:40] [Client thread/INFO]: [CHAT] mincraft_girlluv: np
+[17:19:41] [Client thread/INFO]: [CHAT] tylerissobored: TPA FOR SKIN COMP WITH GOD PRIZE 0/6
+[17:19:44] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO ATE JULIA FOR AWESOME SKIN COMP!!!!!!!!!
+[17:19:45] [Client thread/INFO]: [CHAT] Bananaman2013: y!!
+[17:19:47] [Client thread/INFO]: [CHAT] EmAAAA: Tpa to AteJulia for AWESOME skin competition! YOU THINK UR SKIN GOOD? I THINK NOT! COME ON PPL! ;D
+[17:19:49] [Client thread/INFO]: [CHAT] IceeRose: TPA TO ATEJULIA FOR A SKIN COMP!
+[17:19:50] [Client thread/INFO]: [CHAT] tylerissobored: TPA FOR SKIN COMP WITH GOD PRIZE 0/6!
+[17:19:53] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:20:04] [Client thread/INFO]: [CHAT] tylerissobored: TPA FOR SKIN COMP WITH GOD PRIZE 0/6!!
+[17:20:04] [Client thread/INFO]: [CHAT] EmAAAA: Tpa to AteJulia for AWESOME skin competition! YOU THINK UR SKIN GOOD? I THINK NOT! COME ON PPL! ;P
+[17:20:07] [Client thread/INFO]: [CHAT] shocker1001: PEOPLE TPA TO ATEJULIA FOR SKIN COMP.....
+[17:20:07] [Client thread/INFO]: [CHAT] DirectionerDUH: Be glad for everyday is a blessing
+[17:20:11] [Client thread/INFO]: [CHAT] Bananaman2013: that makes no sense its a game that almost every1 plays
+[17:20:16] [Client thread/INFO]: [CHAT] supermonkeytrey: ENEY RP
+[17:20:19] [Client thread/INFO]: [CHAT] Jotate9: Can I tpa to anyone msg me!!!
+[17:20:25] [Client thread/INFO]: [CHAT] shocker1001: PEOPLE TPA TO AteJulia FOR EPIC SKIN COMP!
+[17:20:29] [Client thread/INFO]: [CHAT] tylerissobored: TPA FOR SKIN COMP WITH GOD PRIZE 0/6!!!
+[17:20:40] [Client thread/INFO]: [CHAT] UncleToby03: lol
+[17:20:40] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: Connected with and IPhone using MineChat.
+[17:20:45] [Client thread/INFO]: [CHAT] DragonSlayer1024: its okay :D
+[17:20:45] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: MINECRAFTER
+[17:20:49] [Client thread/INFO]: [CHAT] UncleToby03: yes
+[17:20:50] [Client thread/INFO]: [CHAT] tylerissobored: TPA FOR SKIN COMP WITH GOD PRIZE 0/6!!!!
+[17:20:52] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: JUST DO IT
+[17:20:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:20:59] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: haii
+[17:21:09] [Client thread/INFO]: [CHAT] DirectionerDUH: Why live life in fear knowing God is with u
+[17:21:09] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: JUST DO IT
+[17:21:11] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: MINECRAFTER
+[17:21:23] [Client thread/INFO]: [CHAT] tylerissobored: TPA FOR SKIN COMP WITH GOD PRIZE 1/6!!!!
+[17:21:23] [Client thread/INFO]: [CHAT] LBP2EPICGUY232: rying to be nice
+[17:21:28] [Client thread/INFO]: [CHAT] UncleToby03: um thanks
+[17:21:31] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: you leave me no choice
+[17:21:46] [Client thread/INFO]: [CHAT] [lilly326 -> me] im putting a gate so we can vist
+[17:21:54] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:21:57] [Client thread/INFO]: [CHAT] pzdizzle: :I
+[17:21:57] [Client thread/INFO]: [CHAT] mauishark: `
+[17:22:06] [Client thread/INFO]: [CHAT] coopman616: <some randome kid> NO!!!!
+[17:22:16] [Client thread/INFO]: [CHAT] DirectionerDUH: When life gives u lemons dont make lemonade thank Life or the snak
+[17:22:26] [Client thread/INFO]: [CHAT] pzdizzle: lol
+[17:22:26] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: you* dating her?
+[17:22:37] [Client thread/INFO]: [CHAT] coopman616: <some randome kid> NO!!!
+[17:22:42] [Client thread/INFO]: [CHAT] pzdizzle: any anything?
+[17:22:45] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: goodbye Minecrafter :)
+[17:22:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:22:54] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: 1o
+[17:22:58] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: 1ownsworth1
+[17:23:01] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: u on?
+[17:23:06] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: SS
+[17:23:06] [Client thread/INFO]: [CHAT] tylerissobored: haha
+[17:23:11] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: wot?
+[17:23:13] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: FRIK it's cold
+[17:23:17] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: pffffffffft yea right
+[17:23:23] [Client thread/INFO]: [CHAT] frostypolo2001: :I
+[17:23:35] [Client thread/INFO]: [CHAT] pzdizzle: NO THATS MY FACE
+[17:23:35] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: goodbye Minecrafter88820
+[17:23:40] [Client thread/INFO]: [CHAT] DragonSlayer1024: r/ sis
+[17:23:45] [Client thread/INFO]: [CHAT] coopman616: <some random kid> hey teacher screw u
+[17:23:52] [Client thread/INFO]: [CHAT] tylerissobored: TPA FOR SKIN COMP WITH GOD PRIZE 1/6!!!!
+[17:23:54] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:23:55] [Client thread/INFO]: [CHAT] pzdizzle: ANARCHY!
+[17:23:57] [Client thread/INFO]: [CHAT] coopman616: <some random kid> hey teacher screw u!
+[17:23:59] [Client thread/INFO]: [CHAT] frostypolo2001: haha
+[17:23:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- Alyssa!
+[17:24:01] [Client thread/INFO]: [CHAT] pzdizzle: SCHOOL!
+[17:24:06] [Client thread/INFO]: [CHAT] jeff1210: any clubs
+[17:24:09] [Client thread/INFO]: [CHAT] byy789: Any Rp's?
+[17:24:11] [Client thread/INFO]: [CHAT] [Legend] AngelxofxAnime: BYE CHAT!
+[17:24:18] [Client thread/INFO]: [CHAT] Ashley0217: any clubs?
+[17:24:20] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: just report me then nothing will happen
+[17:24:33] [Client thread/INFO]: [CHAT] [TigerLily456 -> me] k
+[17:24:33] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I Wumbo,you Wumbo,he she we WUMBO
+[17:24:36] [Client thread/INFO]: [CHAT] pzdizzle: Any anything?
+[17:24:39] [Client thread/INFO]: [CHAT] [TigerLily456 -> me] wrong person soz
+[17:24:44] [Client thread/INFO]: [CHAT] byy789: Any Rp's??
+[17:24:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:24:54] [Client thread/INFO]: [CHAT] pzdizzle: Did you set it to Wumbo?
+[17:24:58] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: Hahahaha
+[17:25:01] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- *in shock*
+[17:25:06] [Client thread/INFO]: [CHAT] Imagirl8: wanna run this rp with me
+[17:25:17] [Client thread/INFO]: [CHAT] byy789: Any Rp's?
+[17:25:17] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: nice one psizzle drizzle in the hizzle
+[17:25:20] [Client thread/INFO]: [CHAT] coopman616: <some randome kid> f**K you brine@!!!!!
+[17:25:24] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:25:27] [Client thread/INFO]: [CHAT] Jotate9: Could someone help me finish my highschool rp? Msg me and tpa
+[17:25:35] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: FRIKEN Minechat doesn't let u walk around
+[17:25:35] [Client thread/INFO]: [CHAT] pzdizzle: pzdizzle for shizzle my nizzle!
+[17:25:42] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:25:47] [Client thread/INFO]: [CHAT] Imagirl8: kk just i need to finish the roles because i got griefed
+[17:25:54] [Client thread/INFO]: [CHAT] coopman616: <some randome kid> f**K you brine@!!!!!!
+[17:25:55] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:26:00] [Client thread/INFO]: [CHAT] pzdizzle: But fo reals ANY ANYTHING!?!?!?!?!?!
+[17:26:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Sheeya katie
+[17:26:12] [Client thread/INFO]: [CHAT] Ashley0217: any clubs?"?
+[17:26:20] [Client thread/INFO]: [CHAT] Imagirl8: kk
+[17:26:21] [Client thread/INFO]: [CHAT] pzdizzle: Any anything?!?!?!?!?!?!?!?!?
+[17:26:23] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: DAAHH MY NAMES NOT RIIIIICCKKK
+[17:26:24] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: STOP IGNORING ME
+[17:26:25] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: toxic35792 u cant ban Minecrafter88820 u
+[17:26:26] [Client thread/INFO]: [CHAT] coopman616: no u wont B****H
+[17:26:28] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: toxic35792 u cant ban Minecrafter88820 u
+[17:26:32] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD Patrick
+[17:26:32] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: only admins can'
+[17:26:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: -=Eddie=- Wheres alyssa..?
+[17:26:49] [Client thread/INFO]: [CHAT] coopman616: hey kmaster020 hi
+[17:26:52] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: so stop threatening Minecrafter88820
+[17:26:54] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: toxic35792
+[17:26:54] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:26:55] [Client thread/INFO]: [CHAT] pzdizzle: C A M P F I R E S O N G song!
+[17:26:55] [Client thread/INFO]: [CHAT] coopman616: hi
+[17:27:04] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: hah Minecraft:D sharing personal info since 1991
+[17:27:07] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: yea but no one can ban me
+[17:27:07] [Client thread/INFO]: [CHAT] coopman616: hey kmaster020 hi
+[17:27:13] [Client thread/INFO]: [CHAT] pzdizzle: C A M P F I R E S O N G song!?
+[17:27:16] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHA
+[17:27:17] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: :D
+[17:27:26] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: the best time to wear a striped SWEATERRRR
+[17:27:26] [Client thread/INFO]: [CHAT] coopman616: hi
+[17:27:32] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: is all the tiiiime
+[17:27:39] [Client thread/INFO]: [CHAT] pzdizzle: is all the tiime
+[17:27:41] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: one with a color,
+[17:27:45] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: TURTLE NECK
+[17:27:50] [Client thread/INFO]: [CHAT] pzdizzle: thats the kind
+[17:27:51] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: that's the kind
+[17:27:52] [Client thread/INFO]: [CHAT] skelyton_boss: KRUSTY KRAAAAAYAAAAAAB PIZZA
+[17:27:54] [Client thread/INFO]: [CHAT] Anak1nSkywalker: danget so mother freaking close thats y i never go to these crapy thing
+[17:27:54] [Client thread/INFO]: [CHAT] EmAAAA: Thanks :D
+[17:27:54] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:28:00] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: cause when ur WEARING
+[17:28:02] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: sorry
+[17:28:05] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: that one
+[17:28:07] [Client thread/INFO]: [CHAT] pzdizzle: AND WHEN YOUR WEARING that one special sweater..
+[17:28:12] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHAHAHAHA
+[17:28:13] [Client thread/INFO]: [CHAT] coopman616: hey kmaster020 hi
+[17:28:14] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: do it then Minecrafter
+[17:28:17] [Client thread/INFO]: [CHAT] EmAAAA: Thank you guyz!!
+[17:28:19] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I can't I'm using Minechat
+[17:28:20] [Client thread/INFO]: [CHAT] skelyton_boss: KRUSTY KRAAAAAYAAAAAAB PIZZA IS THE PIZZA FOR U AND MEE
+[17:28:22] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: toxic35792 go away ur gettin reported
+[17:28:27] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: nuuu
+[17:28:27] [Client thread/INFO]: [CHAT] pzdizzle: lol
+[17:28:30] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:28:30] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: KRUSTY KRAAAAAAB AAAAA YAYAYAAAB YAYAYAYB PIZZA IS 4 U & MEEEHEEHEHEEHEEEEEEE YA
+[17:28:30] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: by me
+[17:28:34] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:28:37] [Client thread/INFO]: [CHAT] Ashley0217: any clubs?"
+[17:28:46] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I'm..I'm..I'm.. IMMA GOOFY GOOFER
+[17:28:51] [Client thread/INFO]: [CHAT] pzdizzle: I'm ready promotion im rdy promotion
+[17:28:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Grocery outlet Bargain MARKEEETTT
+[17:28:56] [Client thread/INFO]: [CHAT] skelyton_boss: ROCK
+[17:28:56] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:28:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: So catchy
+[17:29:00] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: dahahahah
+[17:29:03] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: toxic35792 yes we can report u and ull get VIP taken
+[17:29:06] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: mayb
+[17:29:08] [Client thread/INFO]: [CHAT] Jotate9: Can I tpa to anyone msg me
+[17:29:10] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: if they decide
+[17:29:16] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: haa Spongebob
+[17:29:18] [Client thread/INFO]: [CHAT] skelyton_boss: WERE ALL GOOFY GOOBERS
+[17:29:18] [Client thread/INFO]: [CHAT] Ashley0217: any clubs?
+[17:29:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: HHHHHEY THERE KIYDZ IYTZ BARNEH!
+[17:29:19] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: no not vip taken
+[17:29:23] [Client thread/INFO]: [CHAT] maddo1235: Can someone help destroy a building for me? Message me if you can!
+[17:29:26] [Client thread/INFO]: [CHAT] Jotate9: Can I tpa to anyone msg me!
+[17:29:26] [Client thread/INFO]: [CHAT] skelyton_boss: ROCK
+[17:29:27] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: something else
+[17:29:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I can do the perfect voice irl
+[17:29:36] [Client thread/INFO]: [CHAT] EmAAAA: Thanks you!
+[17:29:37] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: u may get ur rank taken toxic35792
+[17:29:37] [Client thread/INFO]: [CHAT] Anak1nSkywalker: ye everyone
+[17:29:38] [Client thread/INFO]: [CHAT] kmaster020: anyone got something fun i can do
+[17:29:38] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I'm basically the voice for barney
+[17:29:40] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: or banned
+[17:29:42] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: F IS 4 FRIENDS WHO DO STUFF TOGETHER U IS 4 U & ME N IS 4 ANYWHERE ANY TIME AT ALL
+[17:29:43] [Client thread/INFO]: [CHAT] EmAAAA: Haha thanks. I like your skin, too.
+[17:29:49] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: DOWN DEEP IN THE BLUE SEA
+[17:29:49] [Client thread/INFO]: [CHAT] skelyton_boss: GOFFY GOOFY GOOBERS ROCK!!!!!
+[17:29:49] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: except for when he said the f word on tc
+[17:29:51] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: F IS 4 FRIENDS WHO DO STUFF TOGETHER U IS 4 U & ME N IS 4 ANYWHERE ANY TIME AT ALL
+[17:29:52] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: DOWN DEEP IN THE BLUE SEA
+[17:29:52] [Client thread/INFO]: [CHAT] EmAAAA: ooh pretty colors :3
+[17:29:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: except for when he said the f word on tv*
+[17:29:54] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: banned sounds better then the rank
+[17:29:56] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:29:58] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: stop putting that banana in my face I don't even want it WOOP jk I got it HAHA Dkdmdndndbd
+[17:30:05] [Client thread/INFO]: [CHAT] coopman616: any skin comps or rps
+[17:30:12] [Client thread/INFO]: [CHAT] pzdizzle: ???
+[17:30:13] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: anybody saw that video??? XD
+[17:30:16] [Client thread/INFO]: [CHAT] EmAAAA: Oki can I have some fireworks ?
+[17:30:18] [Client thread/INFO]: [CHAT] pzdizzle: no..
+[17:30:19] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: AAWWWKKKKWAAARDDD
+[17:30:25] [Client thread/INFO]: [CHAT] pzdizzle: yea..
+[17:30:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: IKR xD bulldog
+[17:30:26] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: dahahahah
+[17:30:30] [Client thread/INFO]: [CHAT] kmaster020: hey pzdizzle
+[17:30:33] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:30:33] [Client thread/INFO]: [CHAT] pzdizzle: Hi?
+[17:30:35] [Client thread/INFO]: [CHAT] tylerissobored: TPA FOR SKIN COMP WITH GOD PRIZE 0/6!!!!
+[17:30:37] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Who
+[17:30:39] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Can
+[17:30:40] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I
+[17:30:48] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tp
+[17:30:48] [Client thread/INFO]: [CHAT] skelyton_boss: F IS FOR FIRE THAT BURNS DOWN THE WHOLE TOWN U IS 4 URAINUM BOMBS N IS 4 NO SURVIORS!!!!
+[17:30:48] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: To
+[17:30:48] [Client thread/INFO]: [CHAT] kmaster020: remember me?
+[17:30:48] [Client thread/INFO]: [CHAT] pedrogman: lol i say that vine with the monkey and the banana too lol
+[17:30:48] [Client thread/INFO]: [CHAT] lilly326: THAT MY HOME TIGER!
+[17:30:54] [Client thread/INFO]: [CHAT] coopman616: wtf
+[17:30:54] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: yea pedrogman
+[17:30:54] [Client thread/INFO]: [CHAT] [VIP] nM_Ambush: Who wants heads?
+[17:30:56] [Client thread/INFO]: [CHAT] pedrogman: lol
+[17:30:57] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:30:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Say 567 if i can tpa to you
+[17:31:00] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: :D
+[17:31:05] [Client thread/INFO]: [CHAT] [VIP] nM_Ambush: 567
+[17:31:06] [Client thread/INFO]: [CHAT] gopack13: 567
+[17:31:10] [Client thread/INFO]: [CHAT] coopman616: 567
+[17:31:10] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: hold on
+[17:31:16] [Client thread/INFO]: [CHAT] [VIP] nM_Ambush: WHO WANTS HEADS?
+[17:31:18] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: Minecrafter88820 when i press heads dey dont come out :(
+[17:31:21] [Client thread/INFO]: [CHAT] BoyArianator: ME
+[17:31:22] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP WINNER GETS 5 HEADS!
+[17:31:23] [Client thread/INFO]: [CHAT] pzdizzle: F IS FOR FRIENDS WHO DO STUFF TOGETHER U IS FOR U AND ME N IS FOR NEWHER DOWN HERE IN THE
+[17:31:29] [Client thread/INFO]: [CHAT] [VIP] nM_Ambush: WHO WANTS HEADS? MSG ME
+[17:31:32] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I gotta dry my hair before my mamma says U FRIKEN-
+[17:31:34] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: this one does
+[17:31:34] [Client thread/INFO]: [CHAT] coopman616: purplegrenade321 tpa to me
+[17:31:41] [Client thread/INFO]: [CHAT] coopman616: 567
+[17:31:41] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:31:41] [Client thread/INFO]: [CHAT] [VIP] nM_Ambush: WHO WANTS HEADS? MSG ME!!!!!!!!!
+[17:31:46] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR SKIN COMP WINNER GETS 5 HEADS!
+[17:31:49] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Wehn does the party start
+[17:31:50] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: NAOOO
+[17:31:51] [Client thread/INFO]: [CHAT] pzdizzle: NEWHER *and anywhere at all DOWN HERE IN THE DEEP BLUE SEA!
+[17:31:55] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: CUZ I WALKED IN!
+[17:31:55] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: Minecrafter88820 use dispensers
+[17:31:58] [Client thread/INFO]: [CHAT] kmaster020: pzdizzle remember that camping rp we made
+[17:31:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:32:04] [Client thread/INFO]: [CHAT] pzdizzle: No..
+[17:32:07] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: f is for friends that do stuff together
+[17:32:10] [Client thread/INFO]: [CHAT] pzdizzle: Wait..
+[17:32:12] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: u is for u and me
+[17:32:15] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP WINNER GETS 5 HEADS
+[17:32:19] [Client thread/INFO]: [CHAT] EmAAAA: Wait can I have that firework
+[17:32:20] [Client thread/INFO]: [CHAT] skelyton_boss: F IS FOR FIRE THAT BURNS DOWN THE WHOLE TOWN U IS 4 URAINUM BOMBS N IS 4 NO SURVIORS!!!!!
+[17:32:21] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: U is for uranium bombs
+[17:32:21] [Client thread/INFO]: [CHAT] kmaster020: oh aww
+[17:32:21] [Client thread/INFO]: [CHAT] coopman616: yay i won!!
+[17:32:27] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: n is for anywhere and EVERYWHRTE AY ALL
+[17:32:27] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Crap
+[17:32:27] [Client thread/INFO]: [CHAT] EmAAAA: Pwease?
+[17:32:31] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHA purple
+[17:32:39] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XDD
+[17:32:41] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Skeleton you took the words right outta mah mouth
+[17:32:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: >:D
+[17:32:47] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: y face is red XD
+[17:32:52] [Client thread/INFO]: [CHAT] EmAAAA: Guys can I have a firework
+[17:32:52] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: my face is red
+[17:32:53] [Client thread/INFO]: [CHAT] skelyton_boss: Y THANKS
+[17:32:56] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:32:59] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:33:07] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR NICE SKIN COMP WINNER GETS 5 HEADS
+[17:33:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I wanna parteh
+[17:33:17] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: this place is for wild west men
+[17:33:20] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: CHA-CHING CHA-CHING CHA chinnggAARRRYY
+[17:33:23] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: m Its_alyssa24 yeah
+[17:33:31] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: sorreh xD
+[17:33:32] [Client thread/INFO]: [CHAT] coopman616: TPA ME OR shocker1001 4 AWESOME SKIN COMP!!!!!!!!!!!!
+[17:33:37] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: dahahahah
+[17:33:44] [Client thread/INFO]: [CHAT] coopman616: TPA ME OR shocker1001 4 AWESOME SKIN COMP!!!!!!!!!!!!!
+[17:33:49] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!
+[17:33:49] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP WINNER GETS 5 HEADS
+[17:33:51] [Client thread/INFO]: [CHAT] coopman616: TPA ME OR shocker1001 4 AWESOME SKIN COMP!!!!!!!!!!!!!!
+[17:33:55] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: OMG I turned on the tv and it's SPONGEVOB
+[17:33:56] [Client thread/INFO]: [CHAT] Minecrafter88820: Ok
+[17:33:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: OMFG
+[17:33:59] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:33:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: YAYA
+[17:33:59] [Client thread/INFO]: [CHAT] pzdizzle: :D
+[17:33:59] [Client thread/INFO]: [CHAT] lilly326: lol
+[17:33:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:34:01] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: 2 hours latergg
+[17:34:06] [Client thread/INFO]: [CHAT] shocker1001: TPA TO SHOCKER1001 FOR EPIC SKIN COMP! WINNER GETS 5 HEADS!!!
+[17:34:07] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: AHAHAHAHAHAH XD
+[17:34:07] [Client thread/INFO]: [CHAT] coopman616: TPA ME OR shocker1001 4 AWESOME SKIN COMP!!!!!!!!!!!!!!!
+[17:34:12] [Client thread/INFO]: [CHAT] Red_Beni_Ninja: any skin comps
+[17:34:16] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I"m at mah party plot
+[17:34:24] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: my plot is da bomb
+[17:34:24] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Yellow diamonds in the light,
+[17:34:27] [Client thread/INFO]: [CHAT] shocker1001: TPACCPET
+[17:34:32] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: it's all Hawaii :D
+[17:34:37] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: now were standin side bah side
+[17:34:43] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP WINNER GETS 5 HEADS
+[17:34:46] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:34:49] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!
+[17:34:50] [Client thread/INFO]: [CHAT] EmAAAA: THanx guys
+[17:34:51] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: WE FOUND LOVE IN A HOPELESS PLACE
+[17:34:51] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: WE FOUND LOVE IN A HOPELESS PLACE
+[17:34:54] [Client thread/INFO]: [CHAT] coopman616: TPA ME OR shocker1001 4 AWESOME SKIN COMP!!!!!!!!!!!!!!!! winner gets 5 heads
+[17:34:55] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP
+[17:34:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:35:06] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club
+[17:35:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:35:12] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club
+[17:35:14] [Client thread/INFO]: [CHAT] pedrogman: no
+[17:35:14] [Client thread/INFO]: [CHAT] frostypolo2001: theres vomit on his sweater already, moms spaggeti
+[17:35:15] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: SO KAWWAAI ^-^
+[17:35:18] [Client thread/INFO]: [CHAT] coopman616: gl&hf every1
+[17:35:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club
+[17:35:20] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I love this song: DOO DOO doo Doo Doo DOO DOO
+[17:35:20] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club
+[17:35:25] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ME TOO
+[17:35:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: OMG
+[17:35:28] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club
+[17:35:31] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:35:37] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: doo doo Do
+[17:35:40] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club or you will die
+[17:35:42] [Client thread/INFO]: [CHAT] shocker1001: TPA TO SHOCKER1001 FOR EPIC SKIN COMP
+[17:35:44] [Client thread/INFO]: [CHAT] skelyton_boss: AND THE WALLS KEPT TUMBLING IN THE CITY THAT WE LOOVE
+[17:35:46] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: lol
+[17:35:49] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: eat potatoes or die
+[17:35:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club or you will die
+[17:35:58] [Client thread/INFO]: [CHAT] PixelPrestigious: ?
+[17:35:58] [Client thread/INFO]: [CHAT] coopman616: gopack13 frostypolo2001 EddieMac13 gl*hf
+[17:35:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:36:01] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!
+[17:36:05] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP!!!
+[17:36:07] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I know where you all live O.o
+[17:36:10] [Client thread/INFO]: [CHAT] shocker1001: EINNER GETS 5 HEADS!!
+[17:36:11] [Client thread/INFO]: [CHAT] whiteboy77: heyy
+[17:36:11] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club or you will die
+[17:36:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: EEEEEK
+[17:36:19] [Client thread/INFO]: [CHAT] Its_alyssa24: LETS GATHER ROUND THE CAMPFIRE AND SING OUR CAMPFIRE SONGGGG!
+[17:36:23] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: bulldog dont scare me like that >:(
+[17:36:23] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 EPIC HEADSHOP (sorry if its too small it will be huge over time)
+[17:36:27] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP WINNER GETS 5 HEADS
+[17:36:27] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for epic club or you will die
+[17:36:30] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:36:34] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: ok that is kinda true
+[17:36:36] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP
+[17:36:41] [Client thread/INFO]: [CHAT] [Legend] Angel3970: Wow i couldn't join
+[17:36:45] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAH Minecraft :D giving personal info since 1991
+[17:36:47] [Client thread/INFO]: [CHAT] shocker1001: WINNER GET 5 HEADS
+[17:36:48] [Client thread/INFO]: [CHAT] Red_Beni_Ninja: TPA TO SHOCKER1001 FOR SKIN COMP!!
+[17:36:49] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: you are pretty sexy
+[17:36:51] [Client thread/INFO]: [CHAT] EddieMac13: *yawns*'
+[17:36:52] [Client thread/INFO]: [CHAT] skelyton_boss: DR WHO THEME SONG; DOO WEEE DOOOO DO DO BA DOOOO DOOO WEEE DOOO DOOO BABA DOOO DOOO WEE DOOOO!!!!!
+[17:36:52] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: xD
+[17:36:54] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 EPIC HEADSHOP (sorry if its too small it will be huge over time)
+[17:36:55] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: GAYYY
+[17:36:56] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:36:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:37:02] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: that is true dou
+[17:37:02] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 EPIC HEADSHOP
+[17:37:04] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: jk
+[17:37:04] [Client thread/INFO]: [CHAT] Red_Beni_Ninja: TPA TO SHOCKER1001 FOR SKIN COMP WINNER GET 5 HEADS !!!!!
+[17:37:05] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP
+[17:37:06] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 EPIC HEADSHOP
+[17:37:08] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: ?
+[17:37:08] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I'm shhexxy and I Knuu it
+[17:37:10] [Client thread/INFO]: [CHAT] Its_alyssa24: OUR C-A-M-P-F-I-R-E- S-O-N-G SONGGGG
+[17:37:15] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHA
+[17:37:17] [Client thread/INFO]: [CHAT] Red_Beni_Ninja: TPA TO SHOCKER1001 FOR SKIN COMP WINNER GET 5 HEADS !!!!!!
+[17:37:17] [Client thread/INFO]: [CHAT] Minecrafter88820: yes herobrinetroll
+[17:37:22] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: kk
+[17:37:22] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I call this the campfire song song
+[17:37:27] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 NEW AUTOMATIC HEADSHOP
+[17:37:29] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP WINNER GETS 5 HEADS!!!!!
+[17:37:31] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: yep
+[17:37:33] [Client thread/INFO]: [CHAT] Red_Beni_Ninja: TPA TO SHOCKER1001 FOR SKIN COMP WINNER GET 5 HEADS !!!!!!!
+[17:37:35] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for Epic Club! Bar, DJ, Ice skating, private rooms, dancing, disco, chat + MUCH MORE
+[17:37:37] [Client thread/INFO]: [CHAT] Minecrafter88820: TPA TO ME FOR EPIC SKIN COMP!!!!
+[17:37:41] [Client thread/INFO]: [CHAT] coopman616: TPA ME OR shocker1001 4 AWESOME SKIN COMP!!!!!!!!!!!!!!!! winner gets 5 heads!
+[17:37:41] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 NEW AUTOMATIC HEADSHOP
+[17:37:44] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: we're sitting round the campfire singing Oruro campfire sing
+[17:37:47] [Client thread/INFO]: [CHAT] shocker1001: TPA TO ME FOR EPIC SKIN COMP WINNER GETS 5 HEADS
+[17:37:50] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for Epic Club! Bar, DJ, Ice skating, private rooms, dancing, disco, chat + MUCH MORE
+[17:37:54] [Client thread/INFO]: [CHAT] diamondsword790: SPACESHIP!
+[17:37:54] [Client thread/INFO]: [CHAT] Red_Beni_Ninja: TPA TO SHOCKER1001 FOR SKIN COMP WINNER GET 5 HEADS !!!!!!!!!
+[17:37:54] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 NEW AUTOMATIC HEADSHOP
+[17:37:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:38:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for Epic Club! Bar, DJ, Ice skating, private rooms, dancing, disco, chat + MUCH MORE
+[17:38:09] [Client thread/INFO]: [CHAT] coopman616: TPA ME OR shocker1001 4 AWESOME SKIN COMP!!!!!!!!!!!!!!!! winner gets 5 heads!!
+[17:38:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for Epic Club! Bar, DJ, Ice skating, private rooms, dancing, disco, chat + MUCH MORE
+[17:38:14] [Client thread/INFO]: [CHAT] coopman616: TPA ME OR shocker1001 4 AWESOME SKIN COMP!!!!!!!!!!!!!!!! winner gets 5 heads!!!
+[17:38:18] [Client thread/INFO]: [CHAT] shocker1001: UM WANNA GET STARTED GUYS?!?!?!?!?!!?!??!
+[17:38:19] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: our C-A-M-P-F-I lazy to spell the rest SONG
+[17:38:19] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 NEW AUTOMATIC HEADSHOP
+[17:38:22] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ahaha
+[17:38:25] [Client thread/INFO]: [CHAT] coopman616: yeah!!
+[17:38:25] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for Epic Club! Bar, DJ, Ice skating, private rooms, dancing, disco, chat + MUCH MORE
+[17:38:33] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I gtg
+[17:38:34] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: nuuu D:
+[17:38:40] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: be back in 3min
+[17:38:44] [Client thread/INFO]: [CHAT] Its_alyssa24: AND IF U DONT THINK THAT WE CAN SING IT FASTER THEN UR WRONG
+[17:38:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: oh yay
+[17:38:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:38:50] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I meant 30 min
+[17:38:50] [Client thread/INFO]: [CHAT] [Donator] usaaa: Penis
+[17:38:52] [Client thread/INFO]: [CHAT] Its_alyssa24: im doen
+[17:38:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: crap
+[17:38:53] [Client thread/INFO]: [CHAT] [Donator] usaaa: Im bored
+[17:38:54] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:38:54] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: XD
+[17:38:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:38:58] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: i gtg in 30 mins
+[17:39:03] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: ok
+[17:39:05] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Tpa for Epic Club! Bar, DJ, Ice skating, private rooms, dancing, disco, chat + MUCH MORE
+[17:39:05] [Client thread/INFO]: [CHAT] [Donator] usaaa: I gtg in 5 years
+[17:39:05] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: unu
+[17:39:08] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: D:
+[17:39:12] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: wait peeps dont tp
+[17:39:16] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:39:17] [Client thread/INFO]: [CHAT] skelyton_boss: I WANNA BE THE VERY BEST LIKE NO ONE EVER WAS DUN DUN DUN
+[17:39:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ima kiss her
+[17:39:21] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: >:D
+[17:39:21] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: should i kepp this place in watch when yo gone?
+[17:39:23] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: at spawn
+[17:39:26] [Client thread/INFO]: [CHAT] frostypolo2001: STAN :(
+[17:39:34] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Bulldog im kissing you
+[17:39:34] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: kiss me and. u will kiss the whole crowd
+[17:39:37] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: should i kepp this place in watch when yo gone?
+[17:39:40] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:39:40] [Client thread/INFO]: [CHAT] EddieMac13: this is horriable there are no heads to give
+[17:39:43] [Client thread/INFO]: [CHAT] Its_alyssa24: kiss who?!!!
+[17:39:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: So true... wait WHAT
+[17:39:48] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:39:49] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: COM ON NVM
+[17:39:50] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHHA
+[17:39:51] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: COM ON NVM
+[17:39:52] [Client thread/INFO]: [CHAT] LonelyWolfPuppy: Uhm, is there a list of rules or something I can read?
+[17:39:55] [Client thread/INFO]: [CHAT] shocker1001: .....
+[17:39:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:40:00] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: purplegrenade321
+[17:40:00] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME !
+[17:40:02] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: should i kepp this place in watch when yo gone?
+[17:40:06] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME ! ON MY SERVER AND BE ON YOUTUBE!
+[17:40:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: What if there are fricken not-hawties in the crowd?!
+[17:40:13] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: its okay toxic
+[17:40:15] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:40:17] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: ok
+[17:40:17] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:40:19] [Client thread/INFO]: [CHAT] shocker1001: LAG?
+[17:40:20] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME ! ON MY SERVER AND BE ON YOUTUBE
+[17:40:20] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: xD
+[17:40:26] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME ! ON MY SERVER AND BE ON YOUTUBE!
+[17:40:27] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: done
+[17:40:29] [Client thread/INFO]: [CHAT] shocker1001: RED YOU LAGGING?
+[17:40:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: wait nvm
+[17:40:31] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: NOT DONE
+[17:40:33] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: wait that's good,listen ready?
+[17:40:37] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: yeah
+[17:40:43] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: THERE WORKING NOW SORRY
+[17:40:45] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: THERE WORKING NOW SORRY
+[17:40:45] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: COME TO SPAWN AND KISS 100 ppl AT ONCE
+[17:40:50] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHHAA
+[17:40:51] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME ! ON MY SERVER AND BE ON YOUTUBE
+[17:40:54] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Crap!!!!!
+[17:40:55] [Client thread/INFO]: [CHAT] lilly326: :O
+[17:40:57] [Client thread/INFO]: [CHAT] Defiant04: TNO BULLDOGLOVER152
+[17:40:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:40:59] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:41:02] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: COME TO SPAWN TO WATCH ME KISS MY FIANCE
+[17:41:04] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: THERE WORKING NOW SORRY
+[17:41:09] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME ! ON MY SERVER AND BE ON YOUTUBE!
+[17:41:09] [Client thread/INFO]: [CHAT] coopman616: CAPTAIN AMIRACA SHEEP
+[17:41:10] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XDD
+[17:41:11] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: ppl i broke my shins
+[17:41:15] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!
+[17:41:17] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: xD
+[17:41:20] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ITS TOTEZ GREAT
+[17:41:24] [Client thread/INFO]: [CHAT] diamondsword790: i have no arm
+[17:41:27] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: hah IFELL OFF MY CHAUR
+[17:41:28] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!
+[17:41:34] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME ! ON MY SERVER AND BE ON YOUTUBE
+[17:41:36] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: JUST LIKE ME
+[17:41:40] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: ?
+[17:41:40] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: together forevz <3
+[17:41:41] [Client thread/INFO]: [CHAT] coopman616: is that good shocker1001
+[17:41:42] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!
+[17:41:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: aha
+[17:41:45] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:41:52] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: i fall out of mah chair all the time
+[17:41:54] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!
+[17:41:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:41:58] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I'm just twerkin and then
+[17:42:00] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!
+[17:42:01] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ...
+[17:42:02] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: what's going on what r undoing to me at the spawn
+[17:42:03] [Client thread/INFO]: [CHAT] kittenlover1943: any survival servers?
+[17:42:04] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I fall out
+[17:42:09] [Client thread/INFO]: [CHAT] Imagirl8: ashleyy
+[17:42:10] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:42:11] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: oh
+[17:42:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: aha
+[17:42:16] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!!
+[17:42:17] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: actually
+[17:42:17] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:42:17] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME ! ON MY SERVER AND BE ON YOUTUBE!
+[17:42:18] [Client thread/INFO]: [CHAT] Imagirl8: tp to me
+[17:42:25] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Just kissing
+[17:42:26] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I can talk while I dry my hair
+[17:42:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: thats all....
+[17:42:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: FOR NOW
+[17:42:31] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: i thought it was I CAME IN LIKE A WRECKING BALL!
+[17:42:32] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!
+[17:42:33] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: MEHEHEHEH
+[17:42:35] [Client thread/INFO]: [CHAT] HellurThere: TPA TO BOYARIANATOR FOR SKIN COMP
+[17:42:37] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: 0.0 I'm scared
+[17:42:38] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: NO ONE TELL HER WHAT IM DOING
+[17:42:43] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: AHHHHHHHH
+[17:42:44] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 NEW AUTOMATIC HEADSHOP
+[17:42:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: MEMEMEMEMEMEMEMEM
+[17:42:48] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!
+[17:42:56] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!!
+[17:42:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:43:04] [Client thread/INFO]: [CHAT] RyanDxxx: TPA TO ME TO PLAY THIS GAME WHERE YOU TEAM UP AND FIGHT ME ! ON MY SERVER AND BE ON YOUTUBE
+[17:43:05] [Client thread/INFO]: [CHAT] diamondsword790: GTFO
+[17:43:07] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: NO ONE
+[17:43:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: NO ONE EVER TELL!
+[17:43:10] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD IM SO DISTURBED BY THE SOUNDS
+[17:43:16] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: tell MEEE
+[17:43:21] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: NO ONE
+[17:43:22] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!
+[17:43:24] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: MEHEHHEHEHEHE
+[17:43:28] [Client thread/INFO]: [CHAT] kittenlover1943: any survival servers
+[17:43:30] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: EVERYONE
+[17:43:34] [Client thread/INFO]: [CHAT] Imagirl8: ashleyy
+[17:43:36] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: hehehehheeh
+[17:43:36] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 NEW AUTOMATIC HEADSHOP
+[17:43:46] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 NEW AUTOMATIC HEADSHOP
+[17:43:47] [Client thread/INFO]: [CHAT] Imagirl8: hi
+[17:43:53] [Client thread/INFO]: [CHAT] Imagirl8: teehee
+[17:43:57] [Client thread/INFO]: [CHAT] EddieMac13: TP FOR EPIC THEATRE!!! NEED WORKERS!!!!!<---L()()K!!!!
+[17:43:57] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD IM SO FRIKEN DISTURBED
+[17:43:57] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: if someone dares say a peep about what im doing...
+[17:43:57] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: TP 4 NEW AUTOMATIC HEADSHOP
+[17:43:59] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: PHEW
+[17:43:59] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:44:03] [Client thread/INFO]: [CHAT] Imagirl8: xD
+[17:44:04] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: poop
+[17:44:07] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: tell mEEG
+[17:44:11] [Client thread/INFO]: [CHAT] stream7503: nice
+[17:44:11] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: WHY DOES EVERY1 BE SO MEAN TO ME ON THIS CREATIVE SERVER EXCEPT PURPLE
+[17:44:16] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Have someone else tell ye
+[17:44:17] [Client thread/INFO]: [CHAT] coopman616: kmaster020
+[17:44:20] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: hey I'm not mean
+[17:44:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ik
+[17:44:28] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I don't even know u
+[17:44:29] [Client thread/INFO]: [CHAT] stream7503: me too
+[17:44:31] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: me?!
+[17:44:35] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:44:37] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: BULLDOGLOVER152-same
+[17:44:39] [Client thread/INFO]: [CHAT] coopman616: gg
+[17:44:40] [Client thread/INFO]: [CHAT] EmAAAA: toxic
+[17:44:41] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: You wanna GO babe?!
+[17:44:42] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I'm talking to toxic
+[17:44:43] [Client thread/INFO]: [CHAT] EddieMac13: i am not mean and idk who you even are :/
+[17:44:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:44:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: oh
+[17:44:45] [Client thread/INFO]: [CHAT] stream7503: hi pzdizzle
+[17:44:45] [Client thread/INFO]: [CHAT] EmAAAA: I am not mean to you :(
+[17:44:47] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: yes EmAAAA
+[17:44:48] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: :P
+[17:44:48] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: ps i love bulldogs aswell :D
+[17:44:50] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:44:50] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD DODO
+[17:44:52] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: i know
+[17:44:53] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: ps i love bulldogs aswell :D
+[17:44:56] [Client thread/INFO]: [CHAT] EmAAAA: lul
+[17:44:56] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I know!
+[17:45:00] [Client thread/INFO]: [CHAT] mineyman159: any skin comps
+[17:45:00] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:45:02] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: there so cute :O
+[17:45:07] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: everyone that i've never talked to is nice
+[17:45:10] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: there so CHUBBEHH
+[17:45:12] [Client thread/INFO]: [CHAT] stream7503: in outer space
+[17:45:15] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: yea
+[17:45:15] [Client thread/INFO]: [CHAT] EmAAAA: YEY :D
+[17:45:15] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO BOYARIANATOR FOR AWESOME SKIN
+[17:45:19] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: and lazy xD
+[17:45:22] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: miney
+[17:45:25] [Client thread/INFO]: [CHAT] HadesCurvex: TPA TO BOYARIANATOR FOR AWESOME SKIN COMP
+[17:45:25] [Client thread/INFO]: [CHAT] Imagirl8: ashleyy we r helping alyssa build an rp
+[17:45:27] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: watch me go :D
+[17:45:28] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD say I if u love bulldogs
+[17:45:30] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: but someone like HEROBRINE
+[17:45:30] [Client thread/INFO]: [CHAT] EmAAAA: But you just talked to me -.- Lol sorry I'm like trying to get annoying xD sorry
+[17:45:32] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I
+[17:45:33] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I
+[17:45:36] [Client thread/INFO]: [CHAT] stream7503: me too
+[17:45:37] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: I
+[17:45:37] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: he's mean
+[17:45:43] [Client thread/INFO]: [CHAT] stream7503: see ya there
+[17:45:43] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD THEN SAY I
+[17:45:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Especially the one that im doing something to right now
+[17:45:47] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: I
+[17:45:49] [Client thread/INFO]: [CHAT] diamondsword790: FUUUUUUUUUUUCCCCCCCCCCCCCCCCCCKKKKKK
+[17:45:51] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:45:53] [Client thread/INFO]: [CHAT] Imagirl8: yaa
+[17:45:53] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!
+[17:45:54] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: 0.0
+[17:46:01] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: so as Minecrafter
+[17:46:01] [Client thread/INFO]: [CHAT] [VIP] HerobrineTroll5: XD I
+[17:46:01] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:46:04] [Client thread/INFO]: [CHAT] shocker1001: .....
+[17:46:06] [Client thread/INFO]: [CHAT] [Herobrine] toxic35792: but he not on
+[17:46:10] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I'm so scare
+[17:46:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Don't be
+[17:46:16] [Client thread/INFO]: [CHAT] Imagirl8: u mean the thing on my plot?
+[17:46:17] [Client thread/INFO]: [CHAT] kittenlover1943: and suirvival servers
+[17:46:23] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: nah I'm good I'll stay scared
+[17:46:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Its actually not that bad
+[17:46:33] [Client thread/INFO]: [CHAT] kittenlover1943: any survival servers?
+[17:46:33] [Client thread/INFO]: [CHAT] EddieMac13: any head shops???
+[17:46:36] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD THEN WHY CANT U TELL ME
+[17:46:36] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: I've done it before
+[17:46:36] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:46:47] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: and why did u say "especially this one "
+[17:46:47] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: cuz i want to beat someone up if they tell u!
+[17:46:53] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:46:55] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: i meant you
+[17:46:55] [Client thread/INFO]: [CHAT] Imagirl8: k i will be at alyssas plot tp to me when ur ready
+[17:46:57] [Client thread/INFO]: [CHAT] shocker1001: what?
+[17:46:58] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: MEMEMEMEMMEMEMEMEE
+[17:47:00] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:47:01] [Client thread/INFO]: [CHAT] kittenlover1943: ANYONE HAVE A SURVIVAL SERVER?
+[17:47:02] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: AHHH
+[17:47:04] [Client thread/INFO]: [CHAT] shocker1001: yes
+[17:47:09] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: *slaps*
+[17:47:09] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Fine ill stop
+[17:47:13] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:47:13] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Aha just in time
+[17:47:16] [Client thread/INFO]: [CHAT] EddieMac13: HEY /MSG ME IF YOU HAVE A HEAD SHOP
+[17:47:19] [Client thread/INFO]: [CHAT] kittenlover1943: ANYONE HAVE A SURVIVAL SERVER? MSG ME
+[17:47:20] [Client thread/INFO]: [CHAT] hotbot3000: any rps
+[17:47:25] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: ur tweaking on me
+[17:47:25] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: i walked away just as you attempted to slap meh
+[17:47:31] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: ur twerkng on me
+[17:47:34] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Yep
+[17:47:35] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: :D
+[17:47:35] [Client thread/INFO]: [CHAT] kittenlover1943: M
+[17:47:35] [Client thread/INFO]: [CHAT] EmAAAA: Lol
+[17:47:36] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:47:40] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: AAAHHH
+[17:47:41] [Client thread/INFO]: [CHAT] kittenlover1943: ANYONE HAVE A SURVIVAL SERVER? MSG ME
+[17:47:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: #TwerkinFoDayz
+[17:47:52] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: *wipes butt germs off*
+[17:47:53] [Client thread/INFO]: [CHAT] kittenlover1943: M
+[17:47:56] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: WHO WANTS TO BE MY NEXT VICTIM
+[17:47:59] [Client thread/INFO]: [CHAT] kittenlover1943: ANYONE HAVE A SURVIVAL SERVER? MSG ME
+[17:48:01] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:48:01] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:48:03] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: hahahaha bulldog
+[17:48:03] [Client thread/INFO]: [CHAT] hotbot3000: ?
+[17:48:09] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!!!!
+[17:48:22] [Client thread/INFO]: [CHAT] mineyman159: TPA TO BoyArianator FOR DA BEST SKIN COMP EVER AND THE BEST PRIZES EVER~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[17:48:22] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: aei I get a nickname
+[17:48:22] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Stand behind the butt to be mah victim
+[17:48:26] [Client thread/INFO]: [CHAT] [Legend] KungFuKitty275: lol
+[17:48:28] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: No gays allowed xD
+[17:48:28] [Client thread/INFO]: [CHAT] hotbot3000: a victim for what
+[17:48:30] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!!!
+[17:48:36] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Not that gays are bad
+[17:48:38] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: but
+[17:48:39] [Client thread/INFO]: [CHAT] kittenlover1943: w
+[17:48:47] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: swag :D ppl call me bulldog or short now :D
+[17:48:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: aha
+[17:48:54] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!!
+[17:48:54] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:48:54] [Client thread/INFO]: [CHAT] PixelPrestigious: ???TPA FOR PIXEL ART???
+[17:48:55] [Client thread/INFO]: [CHAT] diamondsword790: MY SISTER SUCKS
+[17:49:00] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: makes mesh swag
+[17:49:00] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:49:04] [Client thread/INFO]: [CHAT] diamondsword790: MY SISTER IS A JERK
+[17:49:04] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: To be twerked hotbot
+[17:49:07] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!
+[17:49:12] [Client thread/INFO]: [CHAT] EmAAAA: ANY CLUBS OR SOMETHING FUN :/
+[17:49:23] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: Unknown Command type "help" for help
+[17:49:25] [Client thread/INFO]: [CHAT] xkdgx13: ANY CLUBS
+[17:49:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: No friggin victims. How ugly am i?
+[17:49:32] [Client thread/INFO]: [CHAT] PixelPrestigious: ???TPA FOR PIXEL ART!???
+[17:49:34] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: :D like bozz
+[17:49:35] [Client thread/INFO]: [CHAT] skelyton_boss: TP TO ME IF U WANNA HELP BUILD AN RP
+[17:49:45] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Unknown command. Type "/help" for help.
+[17:49:47] [Client thread/INFO]: [CHAT] PixelPrestigious: ???TPA FOR PIXEL ART???
+[17:49:47] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: my dogs name is boss
+[17:49:53] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: What eez it
+[17:49:55] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: like literally the name BOSS
+[17:49:56] [Client thread/INFO]: [CHAT] EddieMac13: BoyArianatar how did you get theses heads?
+[17:50:00] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ahahaha
+[17:50:00] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:50:16] [Client thread/INFO]: [CHAT] PixelPrestigious: ???TPA FOR PIXEL ART!???
+[17:50:16] [Client thread/INFO]: [CHAT] mineyman159: TPA TO BoyArianator FOR DA BEST SKIN COMP EVER AND THE BEST PRIZES EVER
+[17:50:16] [Client thread/INFO]: [CHAT] EmAAAA: ANYTHING FUN? ='(
+[17:50:20] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: [+] Join full creative worlds! Type /store
+[17:50:25] [Client thread/INFO]: [CHAT] skelyton_boss: TP TO ME IF U WANNA HELP BUILD AN RP!
+[17:50:29] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: yay
+[17:50:30] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!
+[17:50:44] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: Please wait 5 seconds between messages.
+[17:50:44] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Okay ima be twerkin the air
+[17:50:51] [Client thread/INFO]: [CHAT] EddieMac13: TPA BoyArianatar FOR EPIC SKIN COMP!!!
+[17:50:58] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Anyone can feel free to be mah victim xD
+[17:51:00] [Client thread/INFO]: [CHAT] skelyton_boss: TP TO ME IF U WANNA HELP BUILD AN RP!!
+[17:51:00] [Client thread/INFO]: [CHAT] PixelPrestigious: ???TPA FOR PIXEL ART???
+[17:51:00] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:51:02] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: I've seen "eating an apple likabozz
+[17:51:06] [Client thread/INFO]: [CHAT] kittenlover1943: TPA TO BoyArianator FOR EPIC SKIN COMP!
+[17:51:06] [Client thread/INFO]: [CHAT] shocker1001: winner goes first!!!
+[17:51:10] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!!!
+[17:51:18] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHA GUESS WHA
+[17:51:22] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: WHA
+[17:51:22] [Client thread/INFO]: [CHAT] BoyArianator: TPA TO ME FOR SKIN COMP WINNER GETS TO CHOOSE ANY GOD ITEM THEY WANT!!!
+[17:51:22] [Client thread/INFO]: [CHAT] kittenlover1943: F
+[17:51:29] [Client thread/INFO]: [CHAT] kittenlover1943: TPA TO BoyArianator FOR EPIC SKIN COMP!
+[17:51:29] [Client thread/INFO]: [CHAT] Lego_Phsyco: TPA TO BoyArianator FOR EPIC SKIN COMP!!!
+[17:51:33] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: IM WATCHING SPONGEVOV HES SINGIG CAMPFIRE SONG
+[17:51:41] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: :D
+[17:51:45] [Client thread/INFO]: [CHAT] diamondsword790: my turn
+[17:51:45] [Client thread/INFO]: [CHAT] shocker1001: gopack ready?
+[17:51:49] [Client thread/INFO]: [CHAT] LonelyWolfPuppy: Uhm, is there a list of rules or something I can read? .-.
+[17:51:52] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHAHA
+[17:51:57] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Oh, peeps true story:
+[17:52:00] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: this is so EPIC
+[17:52:00] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:52:00] [Client thread/INFO]: [CHAT] Request sent to BoyArianator.
+[17:52:07] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHAHAHAHAHAHAHHAAHHHA XD
+[17:52:07] [Client thread/INFO]: [CHAT] Imagirl8: what kind of rp is this
+[17:52:11] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: So i was listening to the radio and say something came on
+[17:52:18] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: And i got a text from mah crush
+[17:52:27] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: And she started singing say something
+[17:52:30] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: squid ward! *silence* GOOD!
+[17:52:37] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: And then she said that she IS LISTENING TO THAT SONG
+[17:52:45] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: it'll help it'll HELP IF U JUST SING ALLOONGG
+[17:52:45] [Client thread/INFO]: [CHAT] Request sent to BoyArianator.
+[17:52:48] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: AND IM LIKE OMFG ME TOO
+[17:52:56] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: AND THEN SHES LIKE WHAAA
+[17:52:59] [Client thread/INFO]: [CHAT] shocker1001: ??
+[17:53:03] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:53:03] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: *breaks guitar*
+[17:53:06] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: AND THEN IM LIKE I THINK THIS MEANS SOMEHTING
+[17:53:10] [Client thread/INFO]: [CHAT] hotbot3000: I'm board
+[17:53:11] [Client thread/INFO]: [CHAT] diamondsword790: (mily cyrus) *twerkterktwerktwerk*
+[17:53:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: And then i said gtg bai
+[17:53:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: xD
+[17:53:16] [Client thread/INFO]: [CHAT] Teleportation enabled.
+[17:53:18] [Client thread/INFO]: [CHAT] hotbot3000: theres nothing to do
+[17:53:21] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: Spongebob is not gay -_-
+[17:53:33] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Woahahah
+[17:53:34] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Enderrr
+[17:53:35] [Client thread/INFO]: [CHAT] [Donator] CCAEagle: ''I can do all things though Christ Jesus''
+[17:53:38] [Client thread/INFO]: [CHAT] Gamer_Dude_007: anyhead shops?!!!!!!!!!!????
+[17:53:41] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: AMEN CCA
+[17:53:43] [Client thread/INFO]: [CHAT] mineyman159: let me out
+[17:53:43] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: :D
+[17:53:48] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAH knew this guy who knew this guy who knew this guys COUSIN
+[17:53:58] [Client thread/INFO]: [CHAT] coopman616: gtg be on in a bit
+[17:53:58] [Client thread/INFO]: [CHAT] Gamer_Dude_007: anyhead shops say GAMER
+[17:54:13] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:54:13] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: HAHAHAHAHAHAHAHHAHAHAHAHAHAHHA
+[17:54:13] [Client thread/INFO]: [CHAT] coopman616: I LUV GFIRLS!!
+[17:54:13] [Client thread/INFO]: [CHAT] ALEX9107801: gamer
+[17:54:13] [Client thread/INFO]: [CHAT] mineyman159: let me out~
+[17:54:13] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: WHAT WAS HIS MOTHERS SISTERS DOGS FRIENDS NEIGHBORS NAME BULLDOG
+[17:54:22] [Client thread/INFO]: [CHAT] diamondsword790: pleaase
+[17:54:22] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: HUH
+[17:54:22] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:54:26] [Client thread/INFO]: [CHAT] mineyman159: any skin comps
+[17:54:26] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: XD
+[17:54:30] [Client thread/INFO]: [CHAT] diamondsword790: my turn
+[17:54:32] [Client thread/INFO]: [CHAT] lilly326: diamond?
+[17:54:39] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Who wants to hear another true story
+[17:54:43] [Client thread/INFO]: [CHAT] shocker1001: dude
+[17:54:50] [Client thread/INFO]: [CHAT] lilly326: Wheres TigerLily456
+[17:54:51] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: my sisters friends moms uncles grandsons cousins fish died.and yes it was tragic
+[17:54:52] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: No one? okay
+[17:54:55] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: e
+[17:55:15] [Client thread/INFO]: [CHAT] diamondsword790: give me the derp diamond head PLEASE I HAVE TO GO
+[17:55:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: omg...
+[17:55:15] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:55:15] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: XD
+[17:55:15] [Client thread/INFO]: [CHAT] jsol_o: who has head shop
+[17:55:15] [Client thread/INFO]: [CHAT] Forrest257: ANY HEADSHOPS?! MSG ME
+[17:55:15] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: Bulldog why didnt you tell me?!!!! IM CRYING NOW WHYYY
+[17:55:15] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: B) swag
+[17:55:21] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: THAT FISH WAS MY BEST FRIEND
+[17:55:29] [Client thread/INFO]: [CHAT] eirbourne: POOR FISH
+[17:55:34] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: His name was Charles the 3rd...
+[17:55:39] [Client thread/INFO]: [CHAT] BULLDOGLOVER152: squid wards in a sumbrero
+[17:55:39] [Client thread/INFO]: [CHAT] [Legend] ~Fish: IM ALIVE
+[17:55:39] [Client thread/INFO]: [CHAT] Imagirl8: kk
+[17:55:39] [Client thread/INFO]: [CHAT] [Donator] purplegrenade321: ;O;
+[17:55:45] [Client thread/INFO]: Stopping!

@@ -1,0 +1,174 @@
+[08:38:18] [main/INFO]: Setting user: TheDiamondPicks
+[08:38:18] [main/INFO]: (Session ID is token:27b0b5de8525408b89ae469c0575b9bc:a05667a521154bc88bbb527426a047b5)
+[08:38:19] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:38:21] [Client thread/INFO]: Reloading ResourceManager: Default
+[08:38:23] [Sound Library Loader/INFO]: Sound engine started
+[08:38:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:38:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:38:50] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[08:38:54] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[08:38:54] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[08:38:54] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[08:38:54] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[08:38:55] [Client thread/INFO]: [CHAT]
+[08:39:03] [Client thread/INFO]: [CHAT] [Legend] ColeQM: i am active member now :Da
+[08:39:04] [Client thread/INFO]: [CHAT] [Herobrine] FlipYoPancakes: no
+[08:39:07] [Client thread/INFO]: [CHAT] [Herobrine] FlipYoPancakes: so dont be a dick
+[08:39:15] [Client thread/INFO]: [CHAT] [Legend] ColeQM: i meant to /fly again :c
+[08:39:18] [Client thread/INFO]: [CHAT] Blue99wolf: ah. the lowwblood is on.
+[08:39:18] [Client thread/INFO]: [CHAT] Other players are now invisible!
+[08:39:25] [Client thread/INFO]: [CHAT] Players are now visible again!
+[08:39:26] [Client thread/INFO]: [CHAT] You may only use the clock once every 10 seconds!
+[08:39:30] [Client thread/INFO]: [CHAT] Blue99wolf: and flip
+[08:39:33] [Client thread/INFO]: [CHAT] [Herobrine] FlipYoPancakes: what
+[08:39:34] [Client thread/INFO]: [CHAT] [Premium] Mr_Davy_Jones: hey reecy
+[08:39:41] [Client thread/INFO]: [CHAT] [+] Purchase perks like flying and fireworks! Type /store
+[08:39:43] [Client thread/INFO]: [CHAT] Murray_Mint_Pro: http://www.youtube.com/watch?v=G36R5bQyalw plz go here its mah freind and his girlfreind there reall
+[08:39:46] [Client thread/INFO]: [CHAT] [Herobrine] ReecyNightshadow: ^-^ hai Davy
+[08:39:48] [Client thread/INFO]: [CHAT] Murray_Mint_Pro: good and they will give a random sub a prize
+[08:39:50] [Client thread/INFO]: [CHAT] Blue99wolf: all ma friends are on ^-^
+[08:39:55] [Client thread/INFO]: [CHAT] Murray_Mint_Pro: and advertise there channel on utube
+[08:39:58] [Client thread/INFO]: [CHAT]
+[08:40:13] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[08:40:13] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[08:40:13] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[08:40:14] [Client thread/INFO]: [CHAT]
+[08:40:14] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:40:15] [Client thread/INFO]: [CHAT] [Legend] ColeQM: `/mods
+[08:40:18] [Client thread/INFO]: [CHAT] piggy583: I GOT SCREEN SHOTS OF A GUY HACKING IN SUMO!
+[08:40:29] [Client thread/INFO]: [CHAT] piggy583: NO KNOCKBACK!!!!
+[08:40:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.death
+[08:40:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:mob.cow.death
+[08:40:34] [Client thread/INFO]: [CHAT]
+[08:40:37] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[08:40:37] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[08:40:38] [Client thread/INFO]: [CHAT]
+[08:40:40] [Client thread/INFO]: [CHAT] [Legend] ColeQM: how do you get a creenshot of that?
+[08:40:41] [Client thread/INFO]: [CHAT] piggy583: ANY ADMINS! OR MODS ADD ME ON SKYPE AND I WELL SEND PICS
+[08:40:41] [Client thread/INFO]: [CHAT] [+] Purchase pets that follow you around :D Type /store
+[08:40:41] [Client thread/INFO]: [CHAT] MeJinxx: liestening to timber
+[08:40:43] [Client thread/INFO]: [CHAT] Blue99wolf: ok im good ^-^
+[08:40:48] [Client thread/INFO]: [CHAT] [Cool] bearpaw05: Hey Reecy! ^3^
+[08:40:49] [Client thread/INFO]: [CHAT] Blue99wolf: hi reecy :]
+[08:40:53] [Client thread/INFO]: [CHAT] piggy583: I was spamming screen shot while hitting him :P
+[08:40:54] [Client thread/INFO]: [CHAT] [Legend] ColeQM: do /mods
+[08:40:57] [Client thread/INFO]: [CHAT]
+[08:41:14] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[08:41:14] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[08:41:14] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[08:41:15] [Client thread/INFO]: [CHAT]
+[08:41:15] [Client thread/INFO]: [CHAT] You have no new mail.
+[08:41:15] [Client thread/INFO]: [CHAT] [VIP] smeghead333: Cease all building
+[08:41:15] [Client thread/INFO]: [CHAT] abba001: TPA to me for a epic SKIN KOMP 1/6
+[08:41:17] [Client thread/INFO]: [CHAT] [Herobrine] LeFinn: aww
+[08:41:18] [Client thread/INFO]: [CHAT] kyrsharky: <ray> ryan were are you
+[08:41:20] [Client thread/INFO]: [CHAT] Ernster24: NO MORE PEOPLE LEFT
+[08:41:20] [Client thread/INFO]: [CHAT] karatenic: <~Michelle~> *Eyes go normal* I'm sorry... *Faints*
+[08:41:20] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[08:41:24] [Client thread/INFO]: [CHAT] PIGKING919: TPA FOR THE MOST BEST SKIN COMP EVER LOADS OF HEADS TO WIN TPA TPA NOW========================l()()K
+[08:41:24] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> I know you needed blood but it was just a kid
+[08:41:24] [Client thread/INFO]: [CHAT] [VIP] smeghead333: Judgin' time :3
+[08:41:28] [Client thread/INFO]: [CHAT] Supermaxh10: TPA TO US FOR EPIC HEADS SKIN COMP
+[08:41:30] [Client thread/INFO]: [CHAT] PIGYGIRL393: TPA TO PIGKING19 FOR EPIC SKIN COMP---------------L()()k
+[08:41:31] [Client thread/INFO]: [CHAT] Mollymoo555: get in one side each
+[08:41:36] [Client thread/INFO]: [CHAT] Ernster24: NO MORE PEOPLE LEFT
+[08:41:38] [Client thread/INFO]: [CHAT] PIGKING919: TPA FOR THE MOST BEST SKIN COMP EVER LOADS OF HEADS TO WIN TPA TPA NOW========================l()()K
+[08:41:38] [Client thread/INFO]: [CHAT] ehatton8: WHO WHANTS MY PHONE NUMBER?
+[08:41:39] [Client thread/INFO]: [CHAT] LuukA22: (Lise) *turns normal in a human*
+[08:41:45] [Client thread/INFO]: [CHAT] grensie_b: sexy skin abba001
+[08:41:46] [Client thread/INFO]: [CHAT] kyrsharky: <ray> ryan
+[08:41:47] [Client thread/INFO]: [CHAT] PIGYGIRL393: TPA TO PIGKING19 FOR EPIC SKIN COMP---------------L()()k
+[08:41:51] [Client thread/INFO]: [CHAT] karatenic: <~Michelle~> *Lays on ground*
+[08:41:52] [Client thread/INFO]: [CHAT] ehatton8: WHO WHANTS MY PHONE NUMBER?! AND EMAIL!!
+[08:41:54] [Client thread/INFO]: [CHAT] [VIP] smeghead333: Nice little schoolhouse, and I like how you made the desk and the flag outside
+[08:41:56] [Client thread/INFO]: [CHAT] 2005Viki: TPA TO MY HIGHSCOOL RP I NEED 3 GIRLS AND I NEED 3 BOYS NEEDED!
+[08:41:56] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: >>>TP TO ME FOR HUNGERGAMES: MINIGAME EDITION, WINNER GETS MUCH GOD ITEMS! 3/6!<<<
+[08:41:56] [Client thread/INFO]: [CHAT] abba001: TPA to me for a epic SKIN KOMP 1/6
+[08:41:56] [Client thread/INFO]: [CHAT] LuukA22: (Lise) i am normal i am not a vamp
+[08:41:59] [Client thread/INFO]: [CHAT] Ernster24: NO MORE PEOPLE NEEDED FOR SKIN CONTEST
+[08:41:59] [Client thread/INFO]: [CHAT] [Herobrine] LeFinn: :p
+[08:42:02] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Herobrine?
+[08:42:06] [Client thread/INFO]: [CHAT] ehatton8: WHO WHANTS MY PHONE NUMBER?! AND EMAIL!!
+[08:42:10] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> wth
+[08:42:12] [Client thread/INFO]: [CHAT] LuukA22: (Lise) i am normal i am not a vamp...
+[08:42:13] [Client thread/INFO]: [CHAT] Mollymoo555: yes
+[08:42:15] [Client thread/INFO]: [CHAT] Ernster24: WTF
+[08:42:15] [Client thread/INFO]: [CHAT] IamSkytheKid: TPA TO ME FOR EPIC HEAD/GOD SHOP
+[08:42:16] [Client thread/INFO]: [CHAT] TintinandSnowy67: tpa
+[08:42:16] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: >>>TP TO ME FOR HUNGERGAMES: MINIGAME EDITION, WINNER GETS MUCH GOD ITEMS! 3/6!<<<
+[08:42:17] [Client thread/INFO]: [CHAT] [VIP] roloyolo246: EHATTON8 WTF!
+[08:42:21] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[08:42:23] [Client thread/INFO]: [CHAT] karatenic: <~Michelle~> *Wakes up* She's okay...
+[08:42:26] [Client thread/INFO]: [CHAT] night_hawk176: TPA FOX VS WOLVES RP
+[08:42:28] [Client thread/INFO]: [CHAT] ehatton8: what
+[08:42:28] [Client thread/INFO]: [CHAT] Ernster24: clone
+[08:42:29] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> ok...
+[08:42:30] [Client thread/INFO]: [CHAT] LuukA22: (Lise) i am normal i am not a vamp...
+[08:42:30] [Client thread/INFO]: [CHAT] abba001: TPA to me for a epic SKIN KOMP 2/6
+[08:42:30] [Client thread/INFO]: [CHAT] [VIP] roloyolo246: idk :P
+[08:42:35] [Client thread/INFO]: [CHAT] [VIP] smeghead333: This is a cool book. I like the creativity, you didn't decide to just build a typical school
+[08:42:36] [Client thread/INFO]: [CHAT] ehatton8: :P
+[08:42:37] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> So Lise
+[08:42:40] [Client thread/INFO]: [CHAT] karatenic: <~Michelle~> *Wakes up* I just took most of her blood.... That's all..
+[08:42:41] [Client thread/INFO]: [CHAT] billbobbert: no
+[08:42:42] [Client thread/INFO]: [CHAT] LuukA22: (Lise) ?
+[08:42:44] [Client thread/INFO]: [CHAT] kyrsharky: <ray> michelle plz dont bite me
+[08:42:48] [Client thread/INFO]: [CHAT] IamSkytheKid: TPA TO ME FOR EPIC HEAD/GOD SHOP
+[08:42:50] [Client thread/INFO]: [CHAT] Diamond100403: TPA FOR EPIC SKIN COMP
+[08:42:51] [Client thread/INFO]: [CHAT] speelpijn: >>>>>>>>TPA FOR FREE HEADS, Girls only<<<<<<<<<<<
+[08:42:53] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Ok we have the new role
+[08:43:01] [Client thread/INFO]: [CHAT] Akilles2003: ------>TP TO ME STRIP CLUB<------
+[08:43:01] [Client thread/INFO]: [CHAT] [VIP] smeghead333: Diamond goes to LeFinn, and Edge gets Emerald for creativity
+[08:43:03] [Client thread/INFO]: [CHAT] coolbro678220: hi
+[08:43:04] [Client thread/INFO]: [CHAT] karatenic: <~Michelle~> Ray I'm good this girl Just gave me some of hers...
+[08:43:06] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Ray you are a werewolf
+[08:43:06] [Client thread/INFO]: [CHAT] [Herobrine] LeFinn: rtvybunoipm p.[
+[08:43:07] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: >>>TP TO ME FOR HUNGERGAMES: MINIGAME EDITION, WINNER GETS MUCH GOD ITEMS! 4/6!<<<
+[08:43:08] [Client thread/INFO]: [CHAT] Supermaxh10: WHY ARE YOU CALLED PIGKING919 LIKE MY FREIND
+[08:43:12] [Client thread/INFO]: [CHAT] abba001: TPA to me for a epic SKIN KOMP 4/6
+[08:43:17] [Client thread/INFO]: [CHAT] Akilles2003: ------>TP TO ME STRIP CLUB<------
+[08:43:21] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[08:43:23] [Client thread/INFO]: [CHAT] predatorsoul: tp for troll house
+[08:43:24] [Client thread/INFO]: [CHAT] Mollymoo555: i said yes a min a go
+[08:43:25] [Client thread/INFO]: [CHAT] [Legend] EDGEXxDarkRage: Do I break this book now?
+[08:43:26] [Client thread/INFO]: [CHAT] [VIP] smeghead333: Destroy yo bildz
+[08:43:27] [Client thread/INFO]: [CHAT] kyrsharky: <ray> michelle are you sure
+[08:43:29] [Client thread/INFO]: [CHAT] lily2469: can all u guys teleport to me then read AT THE TOP OF ZOMBIE
+[08:43:31] [Client thread/INFO]: [CHAT] karatenic: <~Michelle~> Mm.. Hi.. Sorry
+[08:43:38] [Client thread/INFO]: [CHAT] LuukA22: (Lise) hi
+[08:43:42] [Client thread/INFO]: [CHAT] ehatton8: ahh its mario
+[08:43:47] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Hi Lise
+[08:43:47] [Client thread/INFO]: [CHAT] abba001: TPA to me for a epic SKIN KOMP 5/6
+[08:43:51] [Client thread/INFO]: [CHAT] LuukA22: (Lise) hi
+[08:43:52] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: >>>TP TO ME FOR HUNGERGAMES: MINIGAME EDITION, WINNER GETS MUCH GOD ITEMS! 5/6!<<<
+[08:43:57] [Client thread/INFO]: [CHAT] grensie_b: i have god 2 heads :P
+[08:44:01] [Client thread/INFO]: [CHAT] kyrsharky: <ray> hi lise
+[08:44:02] [Client thread/INFO]: [CHAT] predatorsoul: lol
+[08:44:06] [Client thread/INFO]: [CHAT] boris98aa: TPA FOR AWESOME PARKOUR
+[08:44:07] [Client thread/INFO]: [CHAT] LuukA22: (Lise) hi...
+[08:44:07] [Client thread/INFO]: [CHAT] Akilles2003: ------>TP TO ME STRIP CLUB<------
+[08:44:11] [Client thread/INFO]: [CHAT] Diamond100403: TPA FOR EPIC SKIN COMP!
+[08:44:11] [Client thread/INFO]: [CHAT] abba001: TPA to me for a epic SKIN KOMP 4/6
+[08:44:13] [Client thread/INFO]: [CHAT] Mollymoo555: the topik is to build your skin
+[08:44:14] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Dammit I need blood
+[08:44:15] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: OKE, WE ARE FULL
+[08:44:15] [Client thread/INFO]: [CHAT] karatenic: <~Michelle~> *Pushes ray towards her* Goodluck *smiles and winks*
+[08:44:15] [Client thread/INFO]: [CHAT] [Legend] EDGEXxDarkRage: i crashed
+[08:44:17] [Client thread/INFO]: [CHAT] [Legend] EDGEXxDarkRage: Sorry
+[08:44:21] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[08:44:21] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: DO YOU ALL KNOW WHAT TO DO?
+[08:44:22] [Client thread/INFO]: [CHAT] Mollymoo555: goo
+[08:44:25] [Client thread/INFO]: [CHAT] [PlotMe] This plot is now yours. Use /plotme home to get to it
+[08:44:25] [Client thread/INFO]: [CHAT] night_hawk176: TPA FOX VS WOLVES RP
+[08:44:26] [Client thread/INFO]: [CHAT] Akilles2003: ------>TP TO ME STRIP CLUB<------
+[08:44:27] [Client thread/INFO]: [CHAT] HostileMinecraft: NOPE
+[08:44:28] [Client thread/INFO]: [CHAT] boris98aa: TPA FOR AWESOME PARKOUR !!!!!!!!!!!!
+[08:44:30] [Client thread/INFO]: [CHAT] predatorsoul: yep
+[08:44:31] [Client thread/INFO]: [CHAT] Westy3634: yes
+[08:44:37] [Client thread/INFO]: [CHAT] ehatton8: IM ON AG
+[08:44:38] [Client thread/INFO]: [CHAT] HostileMinecraft: I DON'T
+[08:44:42] [Client thread/INFO]: [CHAT] 2005Viki: TPA TO MY HIGHSCOOL RP I NEED 5 GIRLS AND I NEED 5 BOYS NEEDED PLS!
+[08:44:42] [Client thread/INFO]: [CHAT] LuukA22: (Lise) btw *wishpers i am not a vamp she mised*
+[08:44:43] [Client thread/INFO]: [CHAT] night_hawk176: ------------------------->TPA FOX VS WOLVES RP
+[08:44:44] [Client thread/INFO]: [CHAT] Diamond100403: TPA FOR EPIC SKIN COMP
+[08:44:46] [Client thread/INFO]: [CHAT] lily2469: =======TPA to me to adopt suzie the zombie==========

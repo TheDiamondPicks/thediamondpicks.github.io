@@ -1,0 +1,1633 @@
+[08:56:50] [main/INFO]: Setting user: TheDiamondPicks
+[08:56:50] [main/INFO]: (Session ID is token:834ccf2d528343028504a45dd5ab78ec:a05667a521154bc88bbb527426a047b5)
+[08:56:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:56:53] [Client thread/INFO]: Reloading ResourceManager: Default
+[08:56:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:56:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:56:56] [Sound Library Loader/INFO]: Sound engine started
+[08:57:02] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[08:57:05] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[08:57:05] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[08:57:05] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[08:57:05] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[08:57:06] [Client thread/INFO]: [CHAT]
+[08:57:06] [Client thread/INFO]: [CHAT] You have no new mail.
+[08:57:06] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[08:57:08] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: The reminds me when maddie was once a cat
+[08:57:08] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Hey maddie!
+[08:57:10] [Skin downloader: http://skins.minecraft.net/MinecraftSkins/DiamondBoss0602.png/ERROR]: Couldn't download http texture
+java.net.SocketException: Unexpected end of file from server
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.7.0_45]
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source) ~[?:1.7.0_45]
+	at bql.run(SourceFile:81) [1.7.4.jar:?]
+[08:57:13] [Client thread/INFO]: [CHAT] [Legend] maddieself: Hi
+[08:57:13] [Client thread/INFO]: [CHAT] Captain_Sausage: <dylan> we should hang out more often i'm a wolf too
+[08:57:15] [Client thread/INFO]: [CHAT] MissySparkles1: afk
+[08:57:15] [Client thread/INFO]: [CHAT] magnusXD123: :D
+[08:57:16] [Client thread/INFO]: [CHAT] sweetkitty234: TPA FOR AN EPIC SKIN COMP!
+[08:57:17] [Client thread/INFO]: [CHAT] CreeperEthan0618: tpa for skin comp 5/6+hall of fame
+[08:57:18] [Client thread/INFO]: [CHAT] puppylove1004: <Amy> Mabye a true love's Kiss will do somthing Ryan...
+[08:57:18] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: She was a freak then
+[08:57:19] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[08:57:19] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: NO
+[08:57:20] [Client thread/INFO]: [CHAT] zschreiner: Jake: *goes upstairs*
+[08:57:20] [Client thread/INFO]: [CHAT] piperjoey: tp to dinosaurs7 for epic skin comp!!!
+[08:57:24] [Client thread/INFO]: [CHAT] Sniperkyler: tpa to have sex with me im a boy plz
+[08:57:24] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: *No Offence
+[08:57:25] [Client thread/INFO]: [CHAT] MissAwesomekidd: Tpa To CheeseHead3872 For an AWESOME RP!
+[08:57:27] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *doesnt notice jake*
+[08:57:28] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[08:57:29] [Client thread/INFO]: [CHAT] louisshaw: tpa for skin comp
+[08:57:30] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!
+[08:57:30] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: That came out wrong
+[08:57:34] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: O-o
+[08:57:35] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<H-how did you know
+[08:57:35] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: can we all have silence for the people who died in the columbia shooting today?
+[08:57:38] [Client thread/INFO]: [CHAT] [Legend] maddieself: SHUT UP PJ
+[08:57:39] [Client thread/INFO]: [CHAT] sweetkitty234: TPA FOR AN EPIC SKIN COMP!2/8!!
+[08:57:39] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[08:57:40] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Pj!
+[08:57:40] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[08:57:41] [Client thread/INFO]: [CHAT] wolfmine2057: TP TO DINOSAURS7 for epic skin comp
+[08:57:41] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: no
+[08:57:41] [Client thread/INFO]: [CHAT] morningstar44: TPA TO SWEETKITTY FOR EPIC SKIN COMP BIG PRIZES
+[08:57:44] [Client thread/INFO]: [CHAT] m76n: TP TO ME FOR AWSOME CLUB
+[08:57:44] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: hi wut
+[08:57:46] [Client thread/INFO]: [CHAT] Connett: lol
+[08:57:50] [Client thread/INFO]: [CHAT] sweetkitty234: TPA FOR AN EPIC SKIN COMP!2/8!!
+[08:57:51] [Client thread/INFO]: [CHAT] MissySparkles1: back
+[08:57:51] [Client thread/INFO]: [CHAT] wolfmine2057: TP TO DINOSAURS7 for epic skin comp
+[08:57:52] [Client thread/INFO]: [CHAT] MissAwesomekidd: Tpa To CheeseHead3872 For an AWESOME RP!
+[08:57:54] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Can i tpa to u?
+[08:57:54] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[08:57:56] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *flies to top of roof with jet pack*
+[08:57:57] [Client thread/INFO]: [CHAT] kyrsharky: <ray> yea what amy said ryan
+[08:57:57] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: nah well pass tigermineing
+[08:57:58] [Client thread/INFO]: [CHAT] zschreiner: Jake: *starts to break the emerald out of the case*
+[08:57:58] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: ooo
+[08:57:59] [Client thread/INFO]: [CHAT] louisshaw: tpa for skin comp
+[08:57:59] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[08:58:00] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Yeah so
+[08:58:00] [Client thread/INFO]: [CHAT] tiernita6: TPA----FOR---EPIC----SKIN---COMPETITION!
+[08:58:02] [Client thread/INFO]: [CHAT] LisaLover300: TPA FOR ADOPTION CENTER
+[08:58:02] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: *soz
+[08:58:03] [Client thread/INFO]: [CHAT] piperjoey: tp to dinosaurs7 for eic skin comp!!!
+[08:58:06] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: dere
+[08:58:06] [Client thread/INFO]: [CHAT] [Herobrine] ~PENISTASTESGOOD: WUT SHE SAID
+[08:58:10] [Client thread/INFO]: [CHAT] Captain_Sausage: dylan sooooooooooooo... i guess you whant to hang out more?!
+[08:58:10] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> What?
+[08:58:12] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[08:58:13] [Client thread/INFO]: [CHAT] MsPinkCrafter: TP TO HELO MY BUILD A HIGH SCHOOL RP
+[08:58:13] [Client thread/INFO]: [CHAT] DeadHell1126: ah lag
+[08:58:13] [Client thread/INFO]: [CHAT] sweetkitty234: TPA FOR AN EPIC SKIN COMP!2/8!!
+[08:58:13] [Client thread/INFO]: [CHAT] crafteromundial: ((((((TPA TO TPF_123 OR ME FOR A TOWNY RP+and robbers )))))))()()()()()()()()()()()(\
+[08:58:15] [Client thread/INFO]: [CHAT] thephoenix77: who in the fuck is PJ talking to
+[08:58:16] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: msg mike9 hahahahah
+[08:58:16] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[08:58:17] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[08:58:17] [Client thread/INFO]: [CHAT] zschreiner: Jake: now we run
+[08:58:20] [Client thread/INFO]: [CHAT] nikki582: ANY CLUBS
+[08:58:20] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *hears breaking glass* what the emerald
+[08:58:21] [Client thread/INFO]: [CHAT] spychiken81: Ok who has a redstone clock
+[08:58:22] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Oops
+[08:58:23] [Client thread/INFO]: [CHAT] louisshaw: TPA FOR SKIN COMP
+[08:58:24] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Lol
+[08:58:24] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[08:58:25] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 3/10!!!
+[08:58:25] [Client thread/INFO]: [CHAT] puppylove1004: <Amy> RAY STOP FOLLOWING ME!!!!!
+[08:58:26] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Hold on
+[08:58:27] [Client thread/INFO]: [CHAT] JakeAndyNic: I got a green
+[08:58:27] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*scared*Sure
+[08:58:28] [Client thread/INFO]: [CHAT] MsPinkCrafter: TP TO HELP ME BUILD A HIGH SCHOOL RP
+[08:58:29] [Client thread/INFO]: [CHAT] TPF_123: TPA ME OR CRAFTER FOR AN EPIC TOWN RP ROLE'S JOBS LOTS
+[08:58:30] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[08:58:31] [Client thread/INFO]: [CHAT] sweetkitty234: TPA FOR AN EPIC SKIN COMP!3/8!!
+[08:58:31] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Now
+[08:58:33] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[08:58:33] [Client thread/INFO]: [CHAT] redrath73: (lizzy0 we sode do some thing
+[08:58:33] [Client thread/INFO]: [CHAT] loulou2136: dragon
+[08:58:34] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[08:58:34] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: Im board
+[08:58:36] [Client thread/INFO]: [CHAT] MissAwesomekidd: Tpa To CheeseHead3872 For HEROBRINE/WARRIOR/CAMPING RP <<LOTS OF ROLES>>
+[08:58:37] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwisperx ryan you can do it
+[08:58:38] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[08:58:40] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: bored*
+[08:58:43] [Client thread/INFO]: [CHAT] Sniperkyler: GIRLS HAVE SEX WITH ME PLZ
+[08:58:44] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> What?
+[08:58:45] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: idc
+[08:58:45] [Client thread/INFO]: [CHAT] sweetkitty234: TPA FOR AN EPIC SKIN COMP!3/8!!
+[08:58:46] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[08:58:47] [Client thread/INFO]: [CHAT] Captain_Sausage: <dylan> don't be scared
+[08:58:52] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<Gotta Go
+[08:58:53] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[08:58:53] [Client thread/INFO]: [CHAT] TPF_123: TPA ME OR CRAFTER FOR AN EPIC TOWN RP ROLE'S JOBS LOTS
+[08:58:53] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[08:58:55] [Client thread/INFO]: [CHAT] ElineBare: TPA DeathriderMC FOR AWESOOMEE SIN COMPETITION!!! COME JOIN THE DEATH ARMY!!!
+[08:58:56] [Client thread/INFO]: [CHAT] louisshaw: TPA FOR SKIN COMP
+[08:58:58] [Client thread/INFO]: [CHAT] [Donator] mike9237809: TPA Tigers
+[08:58:59] [Client thread/INFO]: [CHAT] JakeAndyNic: creeper ethan I am stuck in first comp booth
+[08:59:00] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwisperx ture loves first kiss to michelle
+[08:59:00] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> what where did he go
+[08:59:02] [Client thread/INFO]: [CHAT] zschreiner: Jake: *hiides in secret room*
+[08:59:05] [Client thread/INFO]: [CHAT] masteraviator77: ANYBODY WHO NEEDS A PLACE TO LIVE YOU CAN TP
+[08:59:05] [Client thread/INFO]: [CHAT] TPF_123: TPA ME OR CRAFTER FOR AN EPIC TOWN RP ROLE'S JOBS LOTS
+[08:59:06] [Client thread/INFO]: [CHAT] Captain_Sausage: see ya...................
+[08:59:07] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: are u like 5 or something u can spell bored
+[08:59:09] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> *Disapiers*
+[08:59:10] [Client thread/INFO]: [CHAT] ExitSign1600: gOT KICKED FOR SPAM ;(
+[08:59:12] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!!
+[08:59:13] [Client thread/INFO]: [CHAT] Sniperkyler: GILS TPA TO HAVE SEX WITH ME PLZ
+[08:59:13] [Client thread/INFO]: [CHAT] loulou2136: ok
+[08:59:16] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[08:59:17] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[08:59:18] [Client thread/INFO]: [CHAT] [Donator] mike9237809: Who?
+[08:59:21] [Client thread/INFO]: [CHAT] RosieSkull: TPA FOR AWESOME HEROBRINE RP TPA TO CHEESEHEAD!!!!!!!!!
+[08:59:22] [Client thread/INFO]: [CHAT] sweetkitty234: TPA FOR AN EPIC SKIN COMP!3/8!!
+[08:59:23] [Client thread/INFO]: [CHAT] AarexTiaokhiao: I'm back!
+[08:59:24] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[08:59:28] [Client thread/INFO]: [CHAT] ElineBare: TPA DeathriderMC FOR AWESOOMEE SIN COMPETITION!!! COME JOIN THE DEATH ARMY!!!
+[08:59:30] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[08:59:33] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *walks around the looks at the plan and locks the door*
+[08:59:34] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwisperx amy
+[08:59:35] [Client thread/INFO]: [CHAT] Captain_Sausage: that whent tarrible im such a geek
+[08:59:36] [Client thread/INFO]: [CHAT] [Donator] Tizi2003: Simsonsg12 where are my heads???
+[08:59:39] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[08:59:41] [Client thread/INFO]: [CHAT] sweetkitty234: TPA FOR AN EPIC SKIN COMP!3/8!!
+[08:59:41] [Client thread/INFO]: [CHAT] [Donator] Tizi2003: Simsonsg12 where are my heads???
+[08:59:43] [Client thread/INFO]: [CHAT] louisshaw: TPA FOR SKIN COMP
+[08:59:44] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[08:59:45] [Client thread/INFO]: [CHAT] puppylove1004: <Amy> RAY STOP FOLLOWING ME!!!!!
+[08:59:45] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[08:59:45] [Client thread/INFO]: [CHAT] MissAwesomekidd: Tpa To CheeseHead3872 For HEROBRINE/WARRIOR/CAMPING RP <<LOTS OF ROLES>>
+[08:59:46] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: oops
+[08:59:47] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[08:59:48] [Client thread/INFO]: [CHAT] adamfastic: iLoveButterBro i found 1
+[08:59:48] [Client thread/INFO]: [CHAT] sparkydial: XD
+[08:59:49] [Client thread/INFO]: [CHAT] ElineBare: TPA DeathriderMC FOR AWESOOMEE SIN COMPETITION!!! COME JOIN THE DEATH ARMY!!!
+[08:59:50] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Kicked
+[08:59:51] [Client thread/INFO]: [CHAT] kyrsharky: <ray> okay
+[08:59:52] [Client thread/INFO]: [CHAT] llcreeperll876: WHAT COMMAND DO U USE TO GET CUSTOME HEAD
+[08:59:52] [Client thread/INFO]: [CHAT] [Donator] Tizi2003: Simsonsg12 where are my heads???
+[08:59:55] [Client thread/INFO]: [CHAT] TPF_123: TPA ME OR CRAFTER FOR AN EPIC TOWN RP ROLE'S JOBS LOTS
+[08:59:56] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:00:00] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Hehe
+[09:00:00] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*turns wolfie and howls*
+[09:00:01] [Client thread/INFO]: [CHAT] RetroZombie152: tp to me
+[09:00:04] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:00:05] [Client thread/INFO]: [CHAT] PvPdog: tpa to me for Epic castle
+[09:00:05] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Bla
+[09:00:06] [Client thread/INFO]: [CHAT] Captain_Sausage: *cries* lizzy <dylan>
+[09:00:07] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[09:00:09] [Client thread/INFO]: [CHAT] [Donator] Tizi2003: Simsonsg12 where are my heads???
+[09:00:10] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Wait
+[09:00:11] [Client thread/INFO]: [CHAT] zschreiner: Jake: *hides emerald in secret room and trys to sneak out of the base*
+[09:00:12] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Wolves
+[09:00:13] [Client thread/INFO]: [CHAT] kkira333: *--*--*--*TPA FOR AMAZING BUILDING CHALLENGE!*--*--*--*
+[09:00:14] [Client thread/INFO]: [CHAT] [Premium] callymac5: :P
+[09:00:15] [Client thread/INFO]: [CHAT] ElineBare: TPA DeathriderMC FOR AWESOOMEE SIN COMPETITION!!! COME JOIN THE DEATH ARMY!!!
+[09:00:17] [Client thread/INFO]: [CHAT] llcreeperll876: WHAT COMMAND DO U USE TO GET CUSTOME HEAD
+[09:00:17] [Client thread/INFO]: [CHAT] PvPdog: TPA TO ME FOR EPIC CASTLE!!!!!!!
+[09:00:17] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[09:00:20] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Wynter I gots to tell you somthing
+[09:00:21] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: the floor will be black wool
+[09:00:21] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:00:21] [Client thread/INFO]: [CHAT] redrath73: (lizzy0 what?
+[09:00:22] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> of course jake wants to do it on his own
+[09:00:23] [Client thread/INFO]: [CHAT] wolfmine2057: hi piper joey
+[09:00:23] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Fantastic...
+[09:00:24] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: where am I?
+[09:00:25] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Wha
+[09:00:25] [Client thread/INFO]: [CHAT] brocko2: Tpa for awesome towny roleplay Lots of jobs!
+[09:00:26] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 3/10!!!
+[09:00:27] [Client thread/INFO]: [CHAT] Captain_Sausage: come
+[09:00:28] [Client thread/INFO]: [CHAT] ElineBare: TPA DeathriderMC FOR AWESOOMEE SKIN COMPETITION!!! COME JOIN THE DEATH ARMY!!!
+[09:00:28] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[09:00:28] [Client thread/INFO]: [CHAT] louisshaw: TPA FOR SKIN COMP
+[09:00:31] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Wait
+[09:00:31] [Client thread/INFO]: [CHAT] wolfmine2057: hi piper joey
+[09:00:31] [Client thread/INFO]: [CHAT] crafteromundial: ((((((TPA TO TPF_123 OR ME FOR A TOWNY RP+and robbers )))))))()()()()()()()()()()()(\
+[09:00:32] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[09:00:33] [Client thread/INFO]: [CHAT] [Premium] callymac5: .
+[09:00:39] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:00:41] [Client thread/INFO]: [CHAT] wasupdummy: where am i
+[09:00:43] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[09:00:44] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[09:00:44] [Client thread/INFO]: [CHAT] Captain_Sausage: do you date someone?
+[09:00:45] [Client thread/INFO]: [CHAT] TPF_123: TPA ME OR CRAFTER FOR AN EPIC TOWN RP ROLE'S JOBS LOTS
+[09:00:47] [Client thread/INFO]: [CHAT] Wolf10264: TPA FOR A SKIN COMP!!!!!!
+[09:00:47] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Ok
+[09:00:47] [Client thread/INFO]: [CHAT] puppylove1004: <Amy> -Ship Shafets into a Dragon-
+[09:00:48] [Client thread/INFO]: [CHAT] Twigdew: Everyone is steve?
+[09:00:49] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:00:49] [Client thread/INFO]: [CHAT] kingchar23: I HATE MY SKIN
+[09:00:50] [Client thread/INFO]: [CHAT] [Donator] mike9237809: xD
+[09:00:52] [Client thread/INFO]: [CHAT] zschreiner: Jake: *ducks into hiding*
+[09:00:53] [Client thread/INFO]: [CHAT] ajs_gamer_101: why is this cool
+[09:00:53] [Client thread/INFO]: [CHAT] theman246: i like you
+[09:00:54] [Client thread/INFO]: [CHAT] PvPdog: lol
+[09:00:59] [Client thread/INFO]: [CHAT] louisshaw: Tpaaccept
+[09:00:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:01:01] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:01:02] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[09:01:04] [Client thread/INFO]: [CHAT] magnusXD123: can i build it heer
+[09:01:08] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[09:01:09] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: floor black woo;
+[09:01:10] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:01:11] [Client thread/INFO]: [CHAT] boomerangbro10: ANYONE with a building comp looking for players msg me!!!!!1!11111one!
+[09:01:11] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: floor black wool
+[09:01:11] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> and there the villian right there.... hi jake
+[09:01:14] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Awsome
+[09:01:14] [Client thread/INFO]: [CHAT] Captain_Sausage: g2g
+[09:01:16] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 4/10!!!
+[09:01:17] [Client thread/INFO]: [CHAT] Wolf10264: TPA FOR A SKIN COMP!!!!!!
+[09:01:17] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *hears noises down* Hmm what is that? *sees enter* oh god...
+[09:01:18] [Client thread/INFO]: [CHAT] IMAFRUITYPEAR: TPA FOR HEAD SHOP! Please Donate Heads If You Feel! <----------------------------- L()()K
+[09:01:21] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Hehe
+[09:01:21] [Client thread/INFO]: [CHAT] Minecraftpilot1: KK
+[09:01:21] [Client thread/INFO]: [CHAT] kkira333: *--*--*--*TPA FOR AMAZING BUILDING CHALLENGE!*--*--*--*
+[09:01:21] [Client thread/INFO]: [CHAT] redrath73: aww k bye
+[09:01:24] [Client thread/INFO]: [CHAT] zschreiner: hello spy
+[09:01:25] [Client thread/INFO]: [CHAT] theman246: grace ad me to the call
+[09:01:27] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[09:01:30] [Client thread/INFO]: [CHAT] toplessmill: n00b
+[09:01:31] [Client thread/INFO]: [CHAT] crafteromundial: ((((((TPA TO TPF_123 OR ME FOR A TOWNY RP+and robbers )))))))()()()()()()()()()()()(\
+[09:01:31] [Client thread/INFO]: [CHAT] rascalmom20: ANY BUILDING COMPS? -=-=-=-=-=
+[09:01:31] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:01:32] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsleepx
+[09:01:35] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: DONT judge it
+[09:01:36] [Client thread/INFO]: [CHAT] Wolf10264: TPA FOR A SKIN COMP!!!!!!
+[09:01:40] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> Its locked..
+[09:01:40] [Client thread/INFO]: [CHAT] ElineBare: TPA DeathriderMC FOR AWESOOMEE SKIN COMPETITION!!! COME JOIN THE DEATH ARMY!!!
+[09:01:41] [Client thread/INFO]: [CHAT] toplessmill: nub
+[09:01:44] [Client thread/INFO]: [CHAT] Dinosaurs7: TPA FOR A SKIN COMP!!!!!!
+[09:01:45] [Client thread/INFO]: [CHAT] WhiteWolf1604: ****TPA TO ME FOR AN EPIC CLUB****
+[09:01:45] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> u could call me by my name i do have one
+[09:01:53] [Client thread/INFO]: [CHAT] Simsonsg12: TPA AWSOME HEAD SHOP L@@@@@@@@@@@@@K
+[09:01:54] [Client thread/INFO]: [CHAT] [Legend] g10f0r3ver: TPA FOR RANDOM ITEM PARTY!!!!!!!
+[09:01:57] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: DONT JUDGE IT WYNTER
+[09:01:59] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Hey scribble!
+[09:02:01] [Client thread/INFO]: [CHAT] miaclaire250: TP IF U WANT TO ADOPT ME
+[09:02:01] [Client thread/INFO]: [CHAT] rascalmom20: ANY BUILDING COMPS? -=-=-=-=-=
+[09:02:01] [Client thread/INFO]: [CHAT] CreeperEthan0618: tpa for skin comp 0/6+hall of fame
+[09:02:03] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Ok
+[09:02:08] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: ha I remember
+[09:02:09] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:02:09] [Client thread/INFO]: [CHAT] Captain_Sausage: <dylan> turns wolf
+[09:02:10] [Client thread/INFO]: [CHAT] zschreiner: Jake: oh i could come up with a bunch of names for you, spy
+[09:02:11] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP<--*&^%$#@!
+[09:02:12] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsleepx
+[09:02:13] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: who are you?
+[09:02:13] [Client thread/INFO]: [CHAT] toplessmill: :llimssepot
+[09:02:15] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> *Said to himself* What am gnna do
+[09:02:16] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:02:17] [Client thread/INFO]: [CHAT] Minecraftpilot1: TPA me 4 a epic best firework show ever!!!!!!!!!!!
+[09:02:19] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Hehe
+[09:02:22] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:02:22] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*turns human then wolf gain like WUUTTT*
+[09:02:23] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!1 girl left and many boys!
+[09:02:24] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP0/7 TPA<--*&^%$#@!
+[09:02:27] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *sarcastic* im touched
+[09:02:28] [Client thread/INFO]: [CHAT] Isabelahlstrom: help
+[09:02:31] [Client thread/INFO]: [CHAT] superdoobilygirl: TPA FOR A AWSOME CLUB -S*X ROOMS DANCE FLOOR POOLS AND MORE!-
+[09:02:31] [Client thread/INFO]: [CHAT] [Legend] g10f0r3ver: TPA TO WIN RANDOM ITEMS
+[09:02:32] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Scribble!!
+[09:02:34] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *shouts* Is anyone down there????
+[09:02:35] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: what?
+[09:02:38] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:02:38] [Client thread/INFO]: [CHAT] [Legend] g10f0r3ver: TPA TO WIN RANDOM ITEMS!!!!! OMG OMG OMG!!!! :d
+[09:02:42] [Client thread/INFO]: [CHAT] crafteromundial: ((((((TPA TO TPF_123 OR ME FOR A TOWNY RP+and robbers )))))))()()()()()()()()()()()(\
+[09:02:44] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *wispers* lizzy
+[09:02:45] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsleepx
+[09:02:45] [Client thread/INFO]: [CHAT] Sweet_Hearts: come 2 my skin comp
+[09:02:46] [Client thread/INFO]: [CHAT] zschreiner: Jake: so i suppose your here to get the emerald back?
+[09:02:46] [Client thread/INFO]: [CHAT] MasterMine72: [DEADFAC] <:
+[09:02:46] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Hi
+[09:02:49] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> *Said to himself* Should I bite her of kiss her... hard decision
+[09:02:50] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:02:50] [Client thread/INFO]: [CHAT] lilpug2000: TPA TO superjosh2013 FOR AN EPIC HEAD SHOP!
+[09:02:51] [Client thread/INFO]: [CHAT] [Premium] TobyTurner22703: -_- stupid skin migration
+[09:02:51] [Client thread/INFO]: [CHAT] [Legend] g10f0r3ver: TPA TO WIN RANDOM ITEMS!!!!! OMG OMG OMG!!!! :d
+[09:02:54] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: who are you?
+[09:02:56] [Client thread/INFO]: [CHAT] crazybot916: brb
+[09:03:02] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:03:03] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*howls again*
+[09:03:03] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Who when where
+[09:03:03] [Client thread/INFO]: [CHAT] IMAFRUITYPEAR: TPA FOR HEAD SHOP! Please Donate Heads If You Feel! <----------------------------- L()()K
+[09:03:03] [Client thread/INFO]: [CHAT] louisshaw: i cant accept
+[09:03:06] [Client thread/INFO]: [CHAT] reederkids: ...... /plotme auto
+[09:03:09] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> how did u kno?
+[09:03:10] [Client thread/INFO]: [CHAT] CreeperEthan0618: tpa for skin comp 2/6+hall of fame
+[09:03:10] [Client thread/INFO]: [CHAT] adamfastic: iLoveButterBro tpa
+[09:03:12] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:03:13] [Client thread/INFO]: [CHAT] lilpug2000: TPA TO superjosh2013 FOR AN EPIC HEAD SHOP!
+[09:03:13] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Crap
+[09:03:14] [Client thread/INFO]: [CHAT] [Premium] TobyTurner22703: LL MY HEADS IN MY HEAD SHOP ARE STEVES?!!! WTF
+[09:03:15] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Hold on
+[09:03:16] [Client thread/INFO]: [CHAT] [VIP] fatcatgizmo: TobyTurner22703 ikr almost everyone to me looks like steve
+[09:03:17] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:03:19] [Client thread/INFO]: [CHAT] rascalmom20: ANY BUILDING COMPS? -=-=-=-=-=
+[09:03:22] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!1 girl left and 3 boys! We need Gods too!!
+[09:03:23] [Client thread/INFO]: [CHAT] AarexTiaokhiao: GET BACK THE WORK
+[09:03:24] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Im PJ Horrible cat
+[09:03:25] [Client thread/INFO]: [CHAT] RosieSkull: HEY EVERYONE TPA TO CheeseHead3872 FOR AWESOME CAMP/HEROBRINE/WARRIOR RP!!!!!!!!!!!!
+[09:03:27] [Client thread/INFO]: [CHAT] zschreiner: Jake: so i suppose your here to get the emerald back?
+[09:03:34] [Client thread/INFO]: [CHAT] [Premium] TobyTurner22703: FUCK SKIN MIGRATION
+[09:03:37] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> I heard you, but how did you get down there, its locked?
+[09:03:40] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:03:41] [Client thread/INFO]: [CHAT] [Legend] g10f0r3ver: 3 2 1 GO
+[09:03:43] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:03:43] [Client thread/INFO]: [CHAT] cherrylo101: ikr @tobyturner
+[09:03:44] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:03:46] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:03:47] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: TP TO ME FOR SKIN COMP
+[09:03:48] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsleepx zzzzzzzzzzzzzz
+[09:03:48] [Client thread/INFO]: [CHAT] masteraviator77: ANYBODY WHO NEEDS A PLACE TO LIVE YOU CAN TP
+[09:03:48] [Client thread/INFO]: [CHAT] ElineBare: K
+[09:03:51] [Client thread/INFO]: [CHAT] lilpug2000: TPA TO superjosh2013 FOR AN EPIC HEAD SHOP!
+[09:03:52] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: PJ!!!
+[09:03:54] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!1 girl left and 3 boys! We need Gods too!!
+[09:03:54] [Client thread/INFO]: [CHAT] [Premium] TobyTurner22703: -_-
+[09:03:56] [Client thread/INFO]: [CHAT] [Legend] g10f0r3ver: grab grab grab!
+[09:03:56] [Client thread/INFO]: [CHAT] rascalmom20: ANY BUILDING COMPS? -=-=-=-=-=
+[09:03:58] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> ok heres the thing give me back the emerald back and i wont kick ur butt
+[09:04:01] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:04:01] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:04:02] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Wut
+[09:04:05] [Client thread/INFO]: [CHAT] XtremeMalice: TPA TO ME FOR EPIC/SKILLS/POWERS TOWN RP BOYS AND GIRLS NEEDED
+[09:04:06] [Client thread/INFO]: [CHAT] HLW2003: omg everyone is steve >.<
+[09:04:06] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: WUTR
+[09:04:06] [Client thread/INFO]: [CHAT] Landrik: have yare head's bake azboys13
+[09:04:07] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:04:11] [Client thread/INFO]: [CHAT] Isabelahlstrom: thanks
+[09:04:12] [Client thread/INFO]: [CHAT] [Legend] g10f0r3ver: GRAB IT TBNR!
+[09:04:16] [Client thread/INFO]: [CHAT] skythekiders1: SAY 1 IF I CAN TP TO U?
+[09:04:18] [Client thread/INFO]: [CHAT] ninjasep: TP FOR A GOD ITEM SHOP
+[09:04:18] [Client thread/INFO]: [CHAT] Brandonchap1212: Is anybody doin a building comp?
+[09:04:19] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: IM JUDGING YOU!!!
+[09:04:19] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:04:19] [Client thread/INFO]: [CHAT] zschreiner: Jake: i would like to see you try *room gets darker and colder*
+[09:04:19] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:04:22] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: o.o
+[09:04:22] [Client thread/INFO]: [CHAT] rascalmom20: ANY BUILDING COMPS? -=-=-=-=-=
+[09:04:23] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: wut
+[09:04:23] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*turns human again*
+[09:04:25] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: brb
+[09:04:26] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Why
+[09:04:26] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: TP TO ME FOR SKIN COMP
+[09:04:28] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: when
+[09:04:29] [Client thread/INFO]: [CHAT] Paige_bond007: <3a
+[09:04:32] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: ?
+[09:04:32] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: idk?
+[09:04:33] [Client thread/INFO]: [CHAT] mastercreeper3: by the power of the banana if u think StarryLeader09 and sparkydial should not be joint in marrige
+[09:04:35] [Client thread/INFO]: [CHAT] ninjasep: TP FOR A GOD ITEM SHOP!!!!!!
+[09:04:35] [Client thread/INFO]: [CHAT] crafteromundial: ((((((TPA TO TPF_123 OR ME FOR A TOWNY RP+and robbers )))))))()()()()()()()()()()()(\
+[09:04:36] [Client thread/INFO]: [CHAT] Cutiequake: *afk*
+[09:04:37] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *shouts* Is anything wrong?
+[09:04:38] [Client thread/INFO]: [CHAT] deadloxs3: hi
+[09:04:38] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: What
+[09:04:39] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *shivers* what the im never cold
+[09:04:40] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:04:42] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: I dun get it
+[09:04:44] [Client thread/INFO]: [CHAT] mastercreeper3: speak now or forever hold ur peace
+[09:04:46] [Client thread/INFO]: [CHAT] VanVirgil: say all ZUPARDUPAR SPAWN to YOUTUBE
+[09:04:47] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Wolves
+[09:04:47] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: Im afk up here then
+[09:04:48] [Client thread/INFO]: [CHAT] louisshaw: SOORY IT WONT LET ME
+[09:04:48] [Client thread/INFO]: [CHAT] rascalmom20: ANY BUILDING COMPS? -=-=-=-=-=
+[09:04:49] [Client thread/INFO]: [CHAT] WhiteWolf1604: ****TPA TO ME FOR AN EPIC CLUB****
+[09:04:50] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Its too much for a tiny brain
+[09:04:51] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:04:52] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Nvm
+[09:04:53] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:04:54] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:04:54] [Client thread/INFO]: [CHAT] ninjasep: TP FOR A GOD ITEM SHOP!!!!!!
+[09:04:56] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:04:56] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:05:02] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:05:03] [Client thread/INFO]: [CHAT] zschreiner: *dissapears into shadows* *whispers are heard around the room* watch your back spy
+[09:05:04] [Client thread/INFO]: [CHAT] mastercreeper3: k no one u may kiss the bride
+[09:05:07] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsleepx zzzzzzzzzzzzzz
+[09:05:08] [Client thread/INFO]: [CHAT] XtremeMalice: TPA TO ME FOR EPIC/SKILLS/POWERS TOWN RP BOYS AND GIRLS NEEDED
+[09:05:08] [Client thread/INFO]: [CHAT] [Donator] mike9237809: Whats Is This Floor Tigers?
+[09:05:14] [Client thread/INFO]: [CHAT] louisshaw: try npw
+[09:05:15] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *shouts* Is anything wrong?
+[09:05:15] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> *sleeps*
+[09:05:15] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: quartz
+[09:05:17] [Client thread/INFO]: [CHAT] ninjasep: TP FOR A GOD ITEM SHOP WITH EPIC SPEED ITEMS!!!!
+[09:05:18] [Client thread/INFO]: [CHAT] Paige_bond007: <3
+[09:05:19] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: If you heard about The assassin thing He did hire us
+[09:05:22] [Client thread/INFO]: [CHAT] mastercreeper3: lol
+[09:05:22] [Client thread/INFO]: [CHAT] rascalmom20: ANY BUILDING COMPS? -=-=-=-=-=
+[09:05:23] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *cant find jake* this is new
+[09:05:23] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:05:23] [Client thread/INFO]: [CHAT] XtremeMalice: TPA TO ME FOR EPIC/SKILLS/POWERS TOWN RP BOYS AND GIRLS NEEDED
+[09:05:26] [Client thread/INFO]: [CHAT] Brandonchap1212: LET ME OUT
+[09:05:29] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:05:30] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: Im not an idiot I know your trapping me
+[09:05:33] [Client thread/INFO]: [CHAT] jarredator: TPA TO ME IF YOU WANT YO HELP ME BUILD AN RP
+[09:05:35] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: crap
+[09:05:36] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: TP TO ME FOR SKIN COMP 2 slots left
+[09:05:37] [Client thread/INFO]: [CHAT] Tmcrow: i want Jonathan
+[09:05:37] [Client thread/INFO]: [CHAT] CheeseHead3872: tell cherrylo101 Get a Lightning Warrior suit in the hopper
+[09:05:39] [Client thread/INFO]: [CHAT] superjosh2013: tp to me for an awesome head shop!!!
+[09:05:42] [Client thread/INFO]: [CHAT] [Premium] XxSnickerzxX: ./ignore Kittykatcute
+[09:05:43] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwoke upx
+[09:05:43] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:05:44] [Client thread/INFO]: [CHAT] zschreiner: *violet is absorbed into shadows and appears at spy base*
+[09:05:45] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: taht why Im never afka round u guyz
+[09:05:46] [Client thread/INFO]: [CHAT] louisshaw: TPA FOR SKIN COMP TRY NOW
+[09:05:48] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: *that
+[09:05:49] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*wolf again howls loudly and hears no reply*
+[09:05:51] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: *afk
+[09:05:52] [Client thread/INFO]: [CHAT] CreeperEthan0618: tpa for skin comp 0/6+hall of fame
+[09:05:52] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Hehe
+[09:05:53] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DANNY FOR AN EPIC SKIN COMP<----LOOK
+[09:05:53] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: hehe
+[09:05:54] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *shouts* Is anything wrong? Hello?????
+[09:05:54] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: *guys
+[09:05:59] [Client thread/INFO]: [CHAT] jarredator: TPA TO ME IF YOU WANT YOu HELP ME BUILD AN RP
+[09:06:00] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:06:01] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: You heard about the thing with Queeb eh...
+[09:06:03] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:06:08] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:06:09] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: haha
+[09:06:09] [Client thread/INFO]: [CHAT] The_Wig_: <Luke> Hey
+[09:06:10] [Client thread/INFO]: [CHAT] Karocks: TPA TO BE BUILT AS A STATUE
+[09:06:10] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DANNY FOR AN EPIC SKIN COMP<----LOOK
+[09:06:10] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:06:11] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:06:16] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwalk thinking about stuffx
+[09:06:17] [Client thread/INFO]: [CHAT] pezzzer12: no i will put a hole in the roof
+[09:06:17] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[09:06:19] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*HUMAN*
+[09:06:20] [Client thread/INFO]: [CHAT] zschreiner: Jake: whisperes are heard in lizzys ear* go away
+[09:06:21] [Client thread/INFO]: [CHAT] bongoforbirds: Dicks you leave me in here
+[09:06:23] [Client thread/INFO]: [CHAT] jarredator: TPA TO ME IF YOU WANT YOu HELP ME BUILD AN RP
+[09:06:24] [Client thread/INFO]: [CHAT] [Donator] flufflepuff_pony: lagggggggggggg
+[09:06:26] [Client thread/INFO]: [CHAT] skythekiders1: DUDE LET ME OUT
+[09:06:27] [Client thread/INFO]: [CHAT] HLW2003: lag
+[09:06:31] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwalking thinking about stuffx
+[09:06:32] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *shouts* Is anything wrong? Hello????? VIOLET????
+[09:06:34] [Client thread/INFO]: [CHAT] CreeperEthan0618: tpa for skin comp 0/6+hall of fame
+[09:06:39] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:06:40] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> WHAT THE HECK! something is wrong
+[09:06:42] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Hehe
+[09:06:42] [Client thread/INFO]: [CHAT] ransomguest: Logiebear2003
+[09:06:45] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: Im boxing the air
+[09:06:47] [Client thread/INFO]: [CHAT] [VIP] roloyolo246: *
+[09:06:51] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: hey guy thts invisble in the second slot become uninvisable
+[09:06:52] [Client thread/INFO]: [CHAT] deadgamingify: TPA FOR HEAD SHOP
+[09:06:54] [Client thread/INFO]: [CHAT] [VIP] roloyolo246: *Dies*
+[09:06:54] [Client thread/INFO]: [CHAT] louisshaw: any skin comp
+[09:06:55] [Client thread/INFO]: [CHAT] Charliskyman:
+[09:06:55] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: k thanx
+[09:06:56] [Client thread/INFO]: [CHAT] [VIP] roloyolo246: *died*
+[09:07:00] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *goes to seceret room*
+[09:07:01] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:07:01] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: *Cough* *cough*
+[09:07:02] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP
+[09:07:02] [Client thread/INFO]: [CHAT] WhiteWolf1604: *****TPA TO ME FOR AN EPIC CLUB*****
+[09:07:06] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: no one cares scribble
+[09:07:07] [Client thread/INFO]: [CHAT] ianbiro: L()()K ----> TP FOR SKIN COMP !!!!!!!
+[09:07:09] [Client thread/INFO]: [CHAT] deadgamingify: TPA FOR HEAD SHOP
+[09:07:10] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:07:11] [Client thread/INFO]: [CHAT] pezzzer12: tpa for a awesome cops vs robbers
+[09:07:12] [Client thread/INFO]: [CHAT] skythekiders1: SOMEBODY HELP!!!!!!!!!
+[09:07:13] [Client thread/INFO]: [CHAT] ianbiro: L()()K ----> TP FOR SKIN COMP !!!!!!!
+[09:07:13] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: *Cough* *cough* RETARD HYDG DEYNMD@ *cough*]
+[09:07:16] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *shouts* Is anything wrong? Hello????? VIOLET???? Im getting a little worried!
+[09:07:17] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:07:17] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:07:20] [Client thread/INFO]: [CHAT] roboticbanana: uhhh sure
+[09:07:21] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:07:21] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!! PLS TPAA
+[09:07:21] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: dib't be a dick about it
+[09:07:23] [Client thread/INFO]: [CHAT] HLW2003:         ????????????????TPA TO CHEESEHEAD FOR EPIC RP!!!!!!!!!!!?????????????????????
+[09:07:24] [Client thread/INFO]: [CHAT] [Premium] XxSnickerzxX: okai
+[09:07:24] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: *don't
+[09:07:25] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Michelle
+[09:07:25] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:07:27] [Client thread/INFO]: [CHAT] ianbiro: L()()K ----> TP FOR SKIN COMP !!!!!!!
+[09:07:27] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:07:27] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: ha'
+[09:07:29] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:07:31] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Fail eh?
+[09:07:34] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Are u talking about yourself PJ
+[09:07:34] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:07:36] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: dont be an idiot
+[09:07:38] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*wolf form again lol*
+[09:07:39] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Hehe
+[09:07:39] [Client thread/INFO]: [CHAT] Dark_FlowerPower: SHUT UP!!!!!!!!!!!!!!!!!!!!
+[09:07:40] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Body goes frozen
+[09:07:41] [Client thread/INFO]: [CHAT] HLW2003: LAGGG
+[09:07:41] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwalking thinking about stuffx
+[09:07:44] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:07:46] [Client thread/INFO]: [CHAT] rascalmom20: 4
+[09:07:47] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: who me or your face?
+[09:07:48] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> *Body goes frozen*
+[09:07:48] [Client thread/INFO]: [CHAT] skythekiders1: HAI
+[09:07:50] [Client thread/INFO]: [CHAT] YoloTwisted: MSG ME IF YOU WANNA PLAY ON A PRIVATE SERVER WITH ME ?
+[09:07:52] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Water slide! ^_^
+[09:07:54] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *sits on bed* whats happening to jake *yawns and goes to sleep*
+[09:07:55] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *shouts* Is anything wrong? Hello????? VIOLET???? Im getting a little worried!
+[09:07:56] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: *pat pat* Sure wynter
+[09:07:59] [Client thread/INFO]: [CHAT] Simsonsg12: TPA SKIN COMP 0/6
+[09:08:01] [Client thread/INFO]: [CHAT] louisshaw: help
+[09:08:02] [Client thread/INFO]: [CHAT] [Legend] ben123111: TP FOR HACKED ARMOUR THAT GIVES YOU SPEED AND JUMP BOOST! LOOK IN THE HOPPER AND TAKE THEM! FREE!!!!
+[09:08:02] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:08:06] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:08:06] [Client thread/INFO]: [CHAT] RosieSkull: TPA TO DANNYCANADIAN FOR AN AWESOME SKIN COMP!!!!!!!!!!!!!!!!!!!!<--------------------
+[09:08:07] [Client thread/INFO]: [CHAT] ianbiro: L()()K ----> TP FOR SKIN COMP !!!!!!!
+[09:08:08] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: wow suck a great come back...
+[09:08:08] [Client thread/INFO]: [CHAT] [Legend] ben123111: TP FOR HACKED ARMOUR THAT GIVES YOU SPEED AND JUMP BOOST! LOOK IN THE HOPPER AND TAKE THEM! FREE!!!!
+[09:08:09] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:08:10] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwalking thinking about stuffx
+[09:08:12] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:08:12] [Client thread/INFO]: [CHAT] Simsonsg12: TPA SKIN COMP 0/6
+[09:08:13] [Client thread/INFO]: [CHAT] ring_of_fire2416: ^,_,^
+[09:08:13] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:08:15] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: No
+[09:08:15] [Client thread/INFO]: [CHAT] [Premium] ~ItsMeow: Shutup :T
+[09:08:16] [Client thread/INFO]: [CHAT] deadgamingify: TPA FOR HEAD SHOP
+[09:08:17] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Wait
+[09:08:18] [Client thread/INFO]: [CHAT] Karocks: TPA TO BE BUILT AS A STATUE
+[09:08:19] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: >:D
+[09:08:19] [Client thread/INFO]: [CHAT] [VIP] fatcatgizmo: aka troll hoppe
+[09:08:21] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:08:21] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: You just suck at sucking
+[09:08:22] [Client thread/INFO]: [CHAT] zschreiner: Jake: *lays in bed and skin starts to heats up and smoke*
+[09:08:23] [Client thread/INFO]: [CHAT] [VIP] fatcatgizmo: hopper*
+[09:08:24] [Client thread/INFO]: [CHAT] ianbiro: L()()K ----> TP FOR SKIN COMP !!!!!!!
+[09:08:25] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: dildos!
+[09:08:25] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:08:26] [Client thread/INFO]: [CHAT] FallinGrape: tp to look at cat shit
+[09:08:26] [Client thread/INFO]: [CHAT] WhiteWolf1604: ******TPA TO ME FOR AN AWESOME CLUB******
+[09:08:27] [Client thread/INFO]: [CHAT] lilpug2000: LOOKING FOR PEOPLE TO WROK IN MY HEAD SHOP PVM ME I NEED HELP
+[09:08:29] [Client thread/INFO]: [CHAT] louisshaw: ianbro help
+[09:08:29] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 1/7 TPA<--*&^%$#@!
+[09:08:30] [Client thread/INFO]: [CHAT] mariocn: -=-=-=-=-=TPA COPS AND ROBBERS RPG---==-
+[09:08:30] [Client thread/INFO]: [CHAT] lightcraft1229: TPA IF U WANT TO BE MARRIED
+[09:08:34] [Client thread/INFO]: [CHAT] Charliskyman:
+[09:08:34] [Client thread/INFO]: [CHAT] TPF_123: TPA FOR AN EPIC TOWN RP THERES JOBS BUIDLING'S LOTS OF THINGS
+[09:08:36] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: and you should talk?
+[09:08:37] [Client thread/INFO]: [CHAT] Ivan_2013: tpa to me for a awesome high school rp 2 boys and 3 girls there is a prom! <----L()()K!!!!!
+[09:08:37] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:08:38] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:08:39] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:08:40] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:08:41] [Client thread/INFO]: [CHAT] YoloTwisted: MSG ME IF YOU WANNA PLAY ON A PRIVATE SERVER WITH ME ?
+[09:08:42] [Client thread/INFO]: [CHAT] lilpug2000: LOOKING FOR PEOPLE TO WROK IN MY HEAD SHOP PVM ME I NEED HELP
+[09:08:44] [Client thread/INFO]: [CHAT] Karocks: TPA FOR YOUR SKIN TO BE BUILT
+[09:08:44] [Client thread/INFO]: [CHAT] Simsonsg12: TPA SKIN COMP 0/6 EPIC WALL OF FAME AND HEADS
+[09:08:46] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *sleeps*
+[09:08:47] [Client thread/INFO]: [CHAT] [Legend] ben123111: try again
+[09:08:47] [Client thread/INFO]: [CHAT] lightcraft1229: TPA FOR MARRIAGE
+[09:08:50] [Client thread/INFO]: [CHAT] zschreiner: Jake: *secret room turns pitch black and shadows are absorbed into Jake*
+[09:08:52] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: Im gonna do /ignore TigersMineing
+[09:08:53] [Client thread/INFO]: [CHAT] [Legend] ben123111: that happends sometimes
+[09:08:53] [Client thread/INFO]: [CHAT] minecraftrox83: tpa to go through my maze! whoever completes it will get on the wall of winners!
+[09:08:56] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:08:56] [Client thread/INFO]: [CHAT] lilpug2000: LOOKING FOR PEOPLE TO WROK IN MY HEAD SHOP PVM ME I NEED HELP
+[09:08:58] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:08:58] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC THEME PARK!!!!!!!!!
+[09:08:58] [Client thread/INFO]: [CHAT] YoloTwisted: MSG ME IF YOU WANNA PLAY ON A PRIVATE SERVER WITH ME ?
+[09:08:59] [Client thread/INFO]: [CHAT] TPF_123: TPA FOR AN EPIC TOWN RP THERES JOBS BUIDLING'S LOTS OF THINGS AND AFTER RP WE GET TO GO TO HEAD SHOP
+[09:09:03] [Client thread/INFO]: [CHAT] [Legend] ben123111: TP FOR HACKED ARMOUR THAT GIVES YOU SPEED AND JUMP BOOST! LOOK IN THE HOPPER AND TAKE THEM! FREE!!!!
+[09:09:03] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:09:04] [Client thread/INFO]: [CHAT] Simsonsg12: TPA SKIN COMP 0/6 EPIC WALL OF FAME AND HEADS
+[09:09:06] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: considering you have the word nuts in your name
+[09:09:06] [Client thread/INFO]: [CHAT] The_Gamma_Gamer: and i hin ifb ibfj gahs hgasdhfjgfhjagjfghsdjfgasdjfasldf
+[09:09:07] [Client thread/INFO]: [CHAT] masteraviator77: ANYBODY WHO NEEDS A PLACE TO LIVE YOU CAN TP
+[09:09:08] [Client thread/INFO]: [CHAT] Karocks: TPA TO BE BUILT ONLY ACCEPTING THE FIRST
+[09:09:09] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:09:09] [Client thread/INFO]: [CHAT] ianbiro: L()()K ----> TP FOR SKIN COMP !!!!!!! 2/6
+[09:09:11] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: justin beiber got arreste dthen bailed out after 5 hours
+[09:09:11] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Ha
+[09:09:13] [Client thread/INFO]: [CHAT] mariocn: -==----==-==-TPA COPS AND ROBBERS RPG--==-=-=-=--
+[09:09:14] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: It's a trap chest -_-
+[09:09:15] [Client thread/INFO]: [CHAT] The_Gamma_Gamer: and i hin ifb ibfj gahs s
+[09:09:16] [Client thread/INFO]: [CHAT] RosieSkull: TPA TO DANNY FOR AN AWESOME SKIN COMP!!!!!!!!!!!!<-------------!@@$%%*&$^&689^(^%^
+[09:09:17] [Client thread/INFO]: [CHAT] BBDumpling: tp me now
+[09:09:17] [Client thread/INFO]: [CHAT] blockmaster956: TP FOR C-R-E-E-P-Y-P-A-S-T-A RP
+[09:09:17] [Client thread/INFO]: [CHAT] Simsonsg12: TPA SKIN COMP 0/6 EPIC WALL OF FAME AND HEADS
+[09:09:17] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: hehe
+[09:09:18] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: Im not touching it
+[09:09:19] [Client thread/INFO]: [CHAT] crazybot916: ...
+[09:09:23] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *shouts* Is anything wrong? Hello????? VIOLET???? I cant find you!
+[09:09:24] [Client thread/INFO]: [CHAT] lilpug2000: LOOKING FOR PEOPLE TO WROK IN MY HEAD SHOP TPA TO ME I NEED HELP
+[09:09:24] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:09:25] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Thats Why I SAID DONT OPEN
+[09:09:25] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *has a nightmare about jake and dad wispers* no *screams*
+[09:09:26] [Client thread/INFO]: [CHAT] Sugarplum589: -_-
+[09:09:28] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:09:28] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: justin beiber got arreste dthen bailed out after 5 hours
+[09:09:29] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> ....
+[09:09:29] [Client thread/INFO]: [CHAT] louisshaw: TPA FOR SKIN COMP
+[09:09:30] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: it IS
+[09:09:31] [Client thread/INFO]: [CHAT] lightcraft1229: TPA FOR MARRIAGE
+[09:09:31] [Client thread/INFO]: [CHAT] TPF_123: TPA FOR AN EPIC TOWN RP THERES JOBS BUIDLING'S LOTS OF THINGS AND AFTER RP WE GET TO GO TO
+[09:09:33] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*wolf**gnaws on a mouse*
+[09:09:33] [Client thread/INFO]: [CHAT] ianbiro: L()()K ----> TP FOR SKIN COMP !!!!!!! 3/6
+[09:09:35] [Client thread/INFO]: [CHAT] [Legend] ben123111: try again
+[09:09:35] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Lol
+[09:09:36] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:09:36] [Client thread/INFO]: [CHAT] Dark_FlowerPower: TPA FOR EPIC SKIN COMP WINNER GETS TO STAY ON MY PLOT
+[09:09:37] [Client thread/INFO]: [CHAT] masteraviator77: ANYBODY WHO NEEDS A PLACE TO LIVE YOU CAN TP
+[09:09:38] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 4/7 TPA<--*&^%$#@!
+[09:09:39] [Client thread/INFO]: [CHAT] lilpug2000: LOOKING FOR PEOPLE TO WROK IN MY HEAD SHOP TPA TO ME I NEED HELP
+[09:09:41] [Client thread/INFO]: [CHAT] [Legend] ben123111: that happends some times Rainbowcat224
+[09:09:42] [Client thread/INFO]: [CHAT] Wendyam: LOOK--->TPA TO DannyCandian FOR AN EPIC SKIN COMP<----LOOK
+[09:09:42] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: no rlly
+[09:09:46] [Client thread/INFO]: [CHAT] [Legend] ben123111: ring_of_fire2416*
+[09:09:46] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Did Wynter Get kicked>>
+[09:09:47] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: I hear justin bieber had sex with 13 squerils
+[09:09:48] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:09:48] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: *??
+[09:09:49] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:09:49] [Client thread/INFO]: [CHAT] lightcraft1229: TPA FOR MARRIAGE OR TPA TO masteraviator77
+[09:09:51] [Client thread/INFO]: [CHAT] zschreiner: Jake: *lava starts to rise and surround jake*
+[09:09:51] [Client thread/INFO]: [CHAT] DannyCandian: -->!@#$%^&*L<><>K C<><>L SKIN C<>MP 6/7 TPA<--*&^%$#@!
+[09:09:52] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: ya
+[09:09:52] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:09:55] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 0/6 L@@@@@@@@@@@@@K
+[09:09:55] [Client thread/INFO]: [CHAT] The_Wig_: <Luke> WAKE UP!!
+[09:09:56] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: hold on dude just a sec
+[09:09:58] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: 13!
+[09:09:58] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwalking thinking about stuffx
+[09:10:00] [Client thread/INFO]: [CHAT] BoyArianator: TPA FOR AWESOME HEAD SHOP!!!!!!!! <---- L()()K
+[09:10:01] [Client thread/INFO]: [CHAT] HLW2003: im coold
+[09:10:02] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: ...13...
+[09:10:04] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: I think its a rumor
+[09:10:06] [Client thread/INFO]: [CHAT] cheergirl555: Justin Beiber was arrested!!!!<<<<<<<<<<
+[09:10:07] [Client thread/INFO]: [CHAT] Charliskyman: If you need help call me
+[09:10:08] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: WHAT THE FA-
+[09:10:09] [Client thread/INFO]: [CHAT] bartvdsande: ?
+[09:10:10] [Client thread/INFO]: [CHAT] XUniverse_LoveX: TPA FOR RESTURANT
+[09:10:10] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: thts why it should be Justin Beaver
+[09:10:12] [Client thread/INFO]: [CHAT] louisshaw: TPA FOR A SKIN COMP
+[09:10:12] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:10:14] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:10:14] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 0/6 L@@@@@@@@@@@@@K
+[09:10:15] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *wakes up with shock* what the luke?
+[09:10:16] [Client thread/INFO]: [CHAT] WhiteWolf1604: TPA TO ME FOR A NIGHTCLUB
+[09:10:19] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: He as arrested for being gay
+[09:10:19] [Client thread/INFO]: [CHAT] kallum72: tpa for epic skin compition
+[09:10:20] [Client thread/INFO]: [CHAT] ExplodingLava: It should be Just a Beaver
+[09:10:21] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Whats Wrong with that dude?"
+[09:10:22] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[09:10:23] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> What can I do
+[09:10:23] [Client thread/INFO]: [CHAT] [Legend] ~ItsG10: hi
+[09:10:25] [Client thread/INFO]: [CHAT] pup75: justin beiber was stupid thats why hes in jail
+[09:10:25] [Client thread/INFO]: [CHAT] [Legend] ben123111: TP FOR HACKED ARMOUR THAT GIVES YOU SPEED AND JUMP BOOST! LOOK IN THE HOPPER AND TAKE THEM! FREE!!!!
+[09:10:26] [Client thread/INFO]: [CHAT] louisshaw: tpaaccepet
+[09:10:27] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:10:27] [Client thread/INFO]: [CHAT] Flesh2Death: Pika Pika Pika Pikachuu!
+[09:10:27] [Client thread/INFO]: [CHAT] XUniverse_LoveX: TPA FOR RESTURANT
+[09:10:28] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: he looks like a Girl
+[09:10:30] [Client thread/INFO]: [CHAT] sparkydial: o.o
+[09:10:32] [Client thread/INFO]: [CHAT] The_Wig_: <Luke> You were screaming!!
+[09:10:34] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: He has hygene issues Justin Bieber
+[09:10:34] [Client thread/INFO]: [CHAT] toplessmill: justin bieber got arrested by peeing in a fantasy resturant, spitting on people, and racing
+[09:10:34] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: your added charliskyman!!
+[09:10:35] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[09:10:36] [Client thread/INFO]: [CHAT] CheeseHead3872: Brb
+[09:10:36] [Client thread/INFO]: [CHAT] [Donator] flufflepuff_pony: Msg me if u hate justen biber
+[09:10:37] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwalking thinking about stuffx
+[09:10:39] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 0/6 L@@@@@@@@@@@@@K
+[09:10:41] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: No he was arrested for drag racing and being drugged
+[09:10:41] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: and his sucks his own dildo
+[09:10:44] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: >:) JB = Gay
+[09:10:44] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> i was? wait why are u here
+[09:10:48] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: No he was arrested for drag racing and being drugged
+[09:10:48] [Client thread/INFO]: [CHAT] CheeseHead3872: Back
+[09:10:52] [Client thread/INFO]: [CHAT] Brookwheel: hi
+[09:10:52] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 1/6 L@@@@@@@@@@@@@K
+[09:10:53] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[09:10:56] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Wait
+[09:10:59] [Client thread/INFO]: [CHAT] The_Wig_: <Luke> I found it...
+[09:11:00] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Were missing wynter
+[09:11:06] [Client thread/INFO]: [CHAT] Tmcrow: ya
+[09:11:08] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: they found drugs while him and 3 hookers where making lov
+[09:11:09] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: he was smokin pot and mariwana
+[09:11:09] [Client thread/INFO]: [CHAT] [Legend] maddieself: --> AFK
+[09:11:10] [Client thread/INFO]: [CHAT] Flesh2Death: Pika Pika Pika Pikachuu!
+[09:11:10] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:11:12] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!! PLS TPAA
+[09:11:12] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Crap what did I do
+[09:11:16] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: k ur added charliskyman
+[09:11:17] [Client thread/INFO]: [CHAT] zschreiner: Jake: *sits down in mall*
+[09:11:19] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[09:11:20] [Client thread/INFO]: [CHAT] [Donator] flufflepuff_pony: ME HATE JUSTEN BEBER
+[09:11:20] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 2/6 L@@@@@@@@@@@@@K
+[09:11:22] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *i need to time to think alone plz leave
+[09:11:24] [Client thread/INFO]: [CHAT] Brookwheel: how r u
+[09:11:25] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: beber
+[09:11:26] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: ....
+[09:11:27] [Client thread/INFO]: [CHAT] Tmcrow: holy lag
+[09:11:30] [Client thread/INFO]: [CHAT] [Premium] ~BritishGamer: XD
+[09:11:33] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[09:11:33] [Client thread/INFO]: [CHAT] makeupbymacella: BUT JB WAS ONLY IN JAIL FOR LIKE A DAY
+[09:11:35] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Hookers...
+[09:11:36] [Client thread/INFO]: [CHAT] [Legend] ben123111: TBone123VA try again it glitches sometimes
+[09:11:38] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:11:38] [Client thread/INFO]: [CHAT] katelyn66: MSG ME IF U HAVE A SERVER I CAN BE A OP/MOD ON PL
+[09:11:39] [Client thread/INFO]: [CHAT] xSakura201: Pikachu pika pi Pikachu pika pi
+[09:11:39] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!! PLS TPAA
+[09:11:39] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *walks back to base*
+[09:11:40] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 2/6 L@@@@@@@@@@@@@K
+[09:11:40] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: are gay
+[09:11:41] [Client thread/INFO]: [CHAT] [Premium] TobyTurner22703: XD
+[09:11:42] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:11:45] [Client thread/INFO]: [CHAT] louisshaw: MY FUCKING COMPUTER IS FUCKED UP I CANT ACCEPT THE TPAS RRRRRRRRRRRRR
+[09:11:47] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> *Body goes in ice*
+[09:11:49] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: 1 rule tho dont grief
+[09:11:50] [Client thread/INFO]: [CHAT] blockmaster956: come over here
+[09:11:52] [Client thread/INFO]: [CHAT] [Legend] ben123111: TBone123VA try again it glitches sometimes
+[09:11:54] [Client thread/INFO]: [CHAT] katelyn66: MSG ME IF U HAVE A SERVER I CAN BE A OP/MOD ON PLZ
+[09:11:56] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 3/6 L@@@@@@@@@@@@@K#]
+[09:11:59] [Client thread/INFO]: [CHAT] [Premium] ~ItsChris: XD
+[09:11:59] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> uh hi lizzy
+[09:12:00] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: O-O What The F@#$ Is wrong with him
+[09:12:00] [Client thread/INFO]: [CHAT] TBone123VA: I DID LIKE 6 TIMES!!!!!!!!!!!!!
+[09:12:03] [Client thread/INFO]: [CHAT] [Legend] ben123111: g10f0r3ver
+[09:12:05] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsiting and thinkingx
+[09:12:05] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:12:05] [Client thread/INFO]: [CHAT] [Legend] ben123111: hi
+[09:12:06] [Client thread/INFO]: [CHAT] [Premium] ~ItsChris: idk
+[09:12:08] [Client thread/INFO]: [CHAT] lilpug2000: LOOKING FOR PEOPLE TO WROK IN MY HEAD SHOP TPA TO ME I NEED HELP
+[09:12:09] [Client thread/INFO]: [CHAT] Tommyboy202010: hi
+[09:12:11] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> MY GOD HOW DID I GET HERE!?
+[09:12:13] [Client thread/INFO]: [CHAT] [Premium] wyntergrace3: Sorry about that
+[09:12:18] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: ima build a house k
+[09:12:19] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: lel
+[09:12:20] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 3/6 L@@@@@@@@@@@@@K
+[09:12:21] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsiting and thinkingx
+[09:12:22] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Wait
+[09:12:22] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> i dont kno
+[09:12:22] [Client thread/INFO]: [CHAT] Sniperkyler: TPA TO HAVE SEX PS IM A BOY
+[09:12:24] [Client thread/INFO]: [CHAT] [Premium] wyntergrace3: Eww
+[09:12:24] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Wynter
+[09:12:24] [Client thread/INFO]: [CHAT] masteraviator77: ANYBODY WHO NEEDS A PLACE TO LIVE YOU CAN TP
+[09:12:25] [Client thread/INFO]: [CHAT] Grooviecole11: Tpa if you wanna help make a herobrine rp
+[09:12:26] [Client thread/INFO]: [CHAT] bongoforbirds: You dick you leave me down here
+[09:12:27] [Client thread/INFO]: [CHAT] skythekiders1: say 1 if u have an amusment park
+[09:12:30] [Client thread/INFO]: [CHAT] [Premium] wyntergrace3: What
+[09:12:31] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: I wanna Show U somthing
+[09:12:33] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:12:34] [Client thread/INFO]: [CHAT] louisshaw: AM I SPEELING IT WRONG
+[09:12:35] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!! PLS TPAA
+[09:12:37] [Client thread/INFO]: [CHAT] [Premium] wyntergrace3: What
+[09:12:38] [Client thread/INFO]: [CHAT] lilpug2000: LOOKING FOR PEOPLE TO WROK IN MY HEAD SHOP TPA TO ME I NEED HELP
+[09:12:40] [Client thread/INFO]: [CHAT] avery39499: -=-TPA FOR EPIC CLUB WE GOT EVERYTHING<------------------L()()()()K
+[09:12:41] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:12:41] [Client thread/INFO]: [CHAT] Sniperkyler: TPA TO MY TO HAVE SEX IM A BOP
+[09:12:41] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 3/6 L@@@@@@@@@@@@@K
+[09:12:44] [Client thread/INFO]: [CHAT] zschreiner: Jake: *whispers are heard in violets ear* watch your back*
+[09:12:45] [Client thread/INFO]: [CHAT] [Premium] ~SexualTeacher: pp, have weird names these days gosh...
+[09:12:45] [Client thread/INFO]: [CHAT] masteraviator77: ANYBODY WHO NEEDS A PLACE TO LIVE YOU CAN TP
+[09:12:46] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsiting and thinkingx
+[09:12:46] [Client thread/INFO]: [CHAT] katelyn66: MSG ME IF U HAVE A SERVER I CAN BE A OP/MOD ON PLZ
+[09:12:46] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:12:47] [Client thread/INFO]: [CHAT] MissySparkles1: >Anna<*turns human*
+[09:12:48] [Client thread/INFO]: [CHAT] [Premium] ~ItsPJ: Come to creative 3, I made somthing EPIC
+[09:12:50] [Client thread/INFO]: [CHAT] TPF_123: TPA FOR AN EPIC TOWN RP THERES JOBS BUIDLING'S LOTS OF THINGS AND AFTER RP WE GET TO GO TO
+[09:12:51] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: hey charlisky
+[09:12:52] [Client thread/INFO]: [CHAT] [Premium] ~SexualTeacher: ppl have weird names these days gosh...
+[09:12:53] [Client thread/INFO]: [CHAT] [Premium] wyntergrace3: Ok
+[09:12:54] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> i need help something is goin on with jake
+[09:12:55] [Client thread/INFO]: [CHAT] [Donator] scribblenuts64: *thinks* plz be boobs plz be boobs plz be boobs*
+[09:13:00] [Client thread/INFO]: [CHAT] [Premium] wyntergrace3: Brb
+[09:13:00] [Client thread/INFO]: [CHAT] [Legend] g10f0r3ver: Grooviecole11 add me i wanna help
+[09:13:03] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 3/6 L@@@@@@@@@@@@@K
+[09:13:03] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *crawls up* It is?
+[09:13:04] [Client thread/INFO]: [CHAT] nikki582: ANy SEX CLUBS
+[09:13:04] [Client thread/INFO]: [CHAT] Grooviecole11: kk
+[09:13:05] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:13:06] [Client thread/INFO]: [CHAT] [Premium] ~SexualTeacher: ppl have weird names these days gosh...
+[09:13:08] [Client thread/INFO]: [CHAT] skythekiders1: WHO HAS AN AMUSMENT PARK MSG ME SAYING 14
+[09:13:14] [Client thread/INFO]: [CHAT] FallinGrape: tp to be in the biggest family in minecraft!
+[09:13:17] [Client thread/INFO]: [CHAT] IMAFRUITYPEAR: TPA FOR HEAD SHOP! Please Donate Heads If You Feel! <----------------------------- L()()K
+[09:13:21] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 3/6 L@@@@@@@@@@@@@K
+[09:13:23] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsiting and thinkingx
+[09:13:25] [Client thread/INFO]: [CHAT] katelyn66: MSG ME IF U HAVE A SERVER I CAN BE A OP/MOD ON PLZ
+[09:13:25] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:13:36] [Client thread/INFO]: [CHAT] Wendyam: GG!
+[09:13:39] [Client thread/INFO]: [CHAT] ring_of_fire2416: akward silence...
+[09:13:39] [Client thread/INFO]: [CHAT] asleggs: TPA TO pezzzer12 FOR A COPS AND ROBBERS RP ITS AWSOME
+[09:13:41] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: i used to have a skin i dont know what happened
+[09:13:46] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xsiting and thinkingx
+[09:13:46] [Client thread/INFO]: [CHAT] [Premium] ~SexualTeacher: i gtg by3
+[09:13:47] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> i had a dream about something going into jake
+[09:13:47] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:13:49] [Client thread/INFO]: [CHAT] Simsonsg12: TPA TO MEH FOR SKIN COMP 3/6 L@@@@@@@@@@@@@K
+[09:13:50] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx
+[09:13:54] [Client thread/INFO]: [CHAT] stylgar99: afk
+[09:13:55] [Client thread/INFO]: [CHAT] [Legend] maddieself: PJ!
+[09:13:55] [Client thread/INFO]: [CHAT] MrButterGod22: ----> L[][]K ----> #TY'S FOOT! <---- L[][]K <----
+[09:13:56] [Client thread/INFO]: [CHAT] [Premium] ~SexualTeacher: i gtg by3
+[09:13:59] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> Oh my... *thinks* I thought I was the only one!
+[09:14:07] [Client thread/INFO]: [CHAT] [Premium] TobyTurner22703: by3
+[09:14:07] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:14:09] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> what?
+[09:14:10] [Client thread/INFO]: [CHAT] asleggs: TPA TO pezzzer12 FOR A COPS AND ROBBERS RP ITS AWSOME
+[09:14:10] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwalking thinking about stuffx
+[09:14:12] [Client thread/INFO]: [CHAT] Simsonsg12: LAST PLAYER
+[09:14:12] [Client thread/INFO]: [CHAT] Sniperkyler: OVER HERE
+[09:14:15] [Client thread/INFO]: [CHAT] TPF_123: TPA FOR AN EPIC TOWN RP THERES JOBS BUIDLING'S LOTS OF THINGS AND AFTER RP WE GET TO GO TO
+[09:14:17] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:14:19] [Client thread/INFO]: [CHAT] goat04: TPA TO ME FOR AMAZING HEAD SHOP :3 (_()()K
+[09:14:23] [Client thread/INFO]: [CHAT] skythekiders1: yeah
+[09:14:26] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> no...nothing..
+[09:14:34] [Client thread/INFO]: [CHAT] IMAFRUITYPEAR: TPA FOR HEAD SHOP! Please Donate Heads If You Feel! <----------------------------- L()()K
+[09:14:34] [Client thread/INFO]: [CHAT] skythekiders1: go to your plot and i will tp
+[09:14:35] [Client thread/INFO]: [CHAT] Simsonsg12: LAST PLAYER
+[09:14:37] [Client thread/INFO]: [CHAT] asleggs: TPA TO pezzzer12 FOR A COPS AND ROBBERS RP ITS AWSOME BEST IN THE SERVER
+[09:14:40] [Client thread/INFO]: [CHAT] XzMC_MINERzX: omg
+[09:14:41] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: gtg for a sec brb
+[09:14:42] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:14:44] [Client thread/INFO]: [CHAT] louisshaw: TPA FOR STIPCLUB
+[09:14:45] [Client thread/INFO]: [CHAT] stylgar99: hi
+[09:14:46] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[09:14:47] [Client thread/INFO]: [CHAT] The_Wig_: <Luke> GET AWAY!!
+[09:14:48] [Client thread/INFO]: [CHAT] crafteromundial: ((((((TPA TO TPF_123 OR ME FOR A TOWNY RP+and robbers )))))))()()()()()()()()()()()(\
+[09:14:48] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!! PLS TPAA
+[09:14:49] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> um ok? i was goin to go to the base and find stuff out
+[09:14:50] [Client thread/INFO]: [CHAT] pezzzer12: tpa mario or me for a epic cops vs robbers
+[09:14:52] [Client thread/INFO]: [CHAT] XUniverse_LoveX: TPA FOR RESTURNAT
+[09:14:55] [Client thread/INFO]: [CHAT] Sweet_Hearts: come get married or do a skin comp
+[09:14:55] [Client thread/INFO]: [CHAT] Simsonsg12: LAST PLAYER
+[09:14:57] [Client thread/INFO]: [CHAT] YaroGermiani: why
+[09:14:57] [Client thread/INFO]: [CHAT] Sniperkyler: READ THIS SIGN SEXY PLZ
+[09:14:59] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 0/10!!!
+[09:15:00] [Client thread/INFO]: [CHAT] XUniverse_LoveX: TPA FOR RESTURANT
+[09:15:02] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:15:03] [Client thread/INFO]: [CHAT] zschreiner: Jake: *sits at top of mall*
+[09:15:05] [Client thread/INFO]: [CHAT] Fox1121211: TPA TO ME FOR EPIC HEAD SHOP!!!
+[09:15:07] [Client thread/INFO]: [CHAT] tuvab2005: TPA FOR EPIC SKIN COMP!
+[09:15:10] [Client thread/INFO]: [CHAT] asleggs: TPA TO pezzzer12 FOR A COPS AND ROBBERS RP ITS AWSOME BEST IN THE SERVER
+[09:15:12] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!! PLEASE!!!!!!
+[09:15:13] [Client thread/INFO]: [CHAT] Simsonsg12: LAST PLAYER FOR SKIN COMP
+[09:15:13] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> no. DO NOT FIND THE...*oops, almost said it*
+[09:15:15] [Client thread/INFO]: [CHAT] hippie030: Ocg trickytwist
+[09:15:16] [Client thread/INFO]: [CHAT] goat04: TPA TO ME FOR EPIC HEAD SHOP (_()()K
+[09:15:16] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:15:22] [Client thread/INFO]: [CHAT] BoyArianator: TPA FOR AWESOME HEAD SHOP!!!!!!!! <---- L()()K
+[09:15:23] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:15:26] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xwalking thinking about stuffx
+[09:15:29] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 0/10!!!
+[09:15:31] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:15:31] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa 4 a noob house that i will let u grief first person to gets here gets 2 grief
+[09:15:32] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:15:33] [Client thread/INFO]: [CHAT] cherrylo101: TPA TO simonsg12 FOR A SKIN COMP ONE MORE PERSON
+[09:15:34] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:15:35] [Client thread/INFO]: [CHAT] MrButterGod22: ----> L[][]K ----> #TY'S FOOT! <---- L[][]K <----
+[09:15:35] [Client thread/INFO]: [CHAT] robochicken11: MA SKINE!
+[09:15:38] [Client thread/INFO]: [CHAT] Simsonsg12: STARTING IN 10 SECONDS
+[09:15:44] [Client thread/INFO]: [CHAT] LuigiGTA: <<Ryan>> Michelle?
+[09:15:44] [Client thread/INFO]: [CHAT] BoyArianator: TPA FOR AWESOME HEAD SHOP!!!!!!!! <---- L()()K
+[09:15:44] [Client thread/INFO]: [CHAT] Sniperkyler: YOUR SO SEXY HOT CUTE SEXER THAN MY GIRL FREND
+[09:15:45] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 0/10!!!
+[09:15:46] [Client thread/INFO]: [CHAT] Fox1121211: TPA TO ME FOR EPIC HEAD SHOP!!! 28 HEADS AND MORE COMING!
+[09:15:50] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:15:52] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:15:53] [Client thread/INFO]: [CHAT] kyrsharky: <ray> xclimbes treex
+[09:15:53] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa 4 a noob house that i will let u grief first person to gets here gets 2 grief
+[09:15:54] [Client thread/INFO]: [CHAT] Fox1121211: TPA TO ME FOR EPIC HEAD SHOP!!! 28 HEADS AND MORE COMING!!!!!
+[09:15:58] [Client thread/INFO]: [CHAT] skythekiders1: ok u added
+[09:15:59] [Client thread/INFO]: [CHAT] ransomguest: What are these
+[09:16:05] [Client thread/INFO]: [CHAT] zschreiner: Jake: *sits wiith feet over the ledge* ahh the emerald, the only thing that can stop me
+[09:16:07] [Client thread/INFO]: [CHAT] [Legend] maddieself: QUEEB?
+[09:16:08] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:16:08] [Client thread/INFO]: [CHAT] YaroGermiani: Y[]L[]
+[09:16:11] [Client thread/INFO]: [CHAT] [Donator] mike9237809: ANY GOD SHOPS?
+[09:16:11] [Client thread/INFO]: [CHAT] TPF_123: TPA FOR AN EPIC TOWN RP THERES JOBS BUIDLING'S LOTS OF THINGS AND AFTER RP WE GET TO GO TO
+[09:16:12] [Client thread/INFO]: [CHAT] BoyArianator: TPA FOR AWESOME HEAD SHOP!!!!!!!! 30+HEADS! <---- L()()K
+[09:16:14] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!! PLS TPAA
+[09:16:17] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa 4 a noob house that i will let u grief first person to gets here gets 2 grief
+[09:16:18] [Client thread/INFO]: [CHAT] skythekiders1: ok
+[09:16:20] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> hmm *walks backwards and hits the lever and opens the seceret door to the lab* what the
+[09:16:21] [Client thread/INFO]: [CHAT] HLW2003: <**Makayla**>
+[09:16:25] [Client thread/INFO]: [CHAT] zschreiner: Jake: nows is the day i finally destroy this piece of junk
+[09:16:27] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:16:27] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:16:29] [Client thread/INFO]: [CHAT] The_Wig_: <Luke> OR SO YOU TOUGHT
+[09:16:31] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> no. DO NOT FIND THE...*NOOOOOOOOOOO*
+[09:16:39] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx
+[09:16:41] [Client thread/INFO]: [CHAT] Op_Vortex01: p h
+[09:16:41] [Client thread/INFO]: [CHAT] BoyArianator: TPA FOR AWESOME HEAD SHOP!!!!!!!! 30+HEADS!
+[09:16:41] [Client thread/INFO]: [CHAT] AppleBIoom: im apple
+[09:16:44] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:16:47] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> lizzy what is this plz
+[09:16:49] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: there we go i have a skin
+[09:16:51] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 0/10!!!
+[09:16:52] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:16:55] [Client thread/INFO]: [CHAT] zschreiner: Jake: *shadows cover luke and he appears back at spy base*
+[09:16:56] [Client thread/INFO]: [CHAT] EpicCreeperGirl: lol
+[09:16:57] [Client thread/INFO]: [CHAT] Simsonsg12: NO ARMOUR
+[09:16:59] [Client thread/INFO]: [CHAT] crafteromundial: ((((((TPA TO TPF_123 OR ME FOR A TOWNY RP+and robbers )))))))()()()()()()()()()()()(\
+[09:17:03] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> lizzy what is this place
+[09:17:03] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> *sigh*Read...
+[09:17:03] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:17:03] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:17:05] [Client thread/INFO]: [CHAT] ninjakirby115: tpa 4 a patato!!!! O.O
+[09:17:08] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: nice dude!
+[09:17:08] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:17:13] [Client thread/INFO]: [CHAT] BoyArianator: TPA FOR AWESOME HEAD SHOP!!!!!!!! 30+HEADS!
+[09:17:13] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:17:23] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> this is..... AWESOME!
+[09:17:23] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx
+[09:17:24] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:17:29] [Client thread/INFO]: [CHAT] zschreiner: Jake: *holds emerald in hand and hand starts to glow black*
+[09:17:29] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:17:30] [Client thread/INFO]: [CHAT] giantsrule1217: a building
+[09:17:31] [Client thread/INFO]: [CHAT] asleggs: <<Jimmy Casket>>
+[09:17:37] [Client thread/INFO]: [CHAT] The_Wig_: >Luke> What happened??
+[09:17:39] [Client thread/INFO]: [CHAT] Ellapelle: <Lizzy> I have more..
+[09:17:40] [Client thread/INFO]: [CHAT] ClockworkPhantom: Tpa to me for a Bridge..
+[09:17:48] [Client thread/INFO]: [CHAT] EduSlime2001: HIIIII!!!!!!!!!!!
+[09:17:49] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:17:50] [Client thread/INFO]: [CHAT] XUniverse_LoveX: TPA FOR RESTURANT
+[09:17:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:17:59] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:18:00] [Client thread/INFO]: [CHAT] ClockworkPhantom: And a nice sight to see :D
+[09:18:01] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:18:02] [Client thread/INFO]: [CHAT] kanzkiller: hey guys tpa to me for an AWESOME skin comp. reword will be heads and name on WALL OF FAME!!
+[09:18:02] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: hey do think my skin is cool charliskyman?
+[09:18:03] [Client thread/INFO]: [CHAT] pezzzer12: ok then ellie
+[09:18:03] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:18:05] [Client thread/INFO]: [CHAT] giantsrule1217: 8
+[09:18:07] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:18:09] [Client thread/INFO]: [CHAT] shredder270: tpa brookwheel
+[09:18:10] [Client thread/INFO]: [CHAT] ellieg05: yea
+[09:18:11] [Client thread/INFO]: [CHAT] DoMoPie25: Wha????????????/
+[09:18:11] [Client thread/INFO]: [CHAT] MrButterGod22: ----> L[][]K ----> #TY'S FOOT! <---- L[][]K <----
+[09:18:15] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:18:16] [Client thread/INFO]: [CHAT] goat04: TPA TO ME FOR AMAZING HEAD SHOP NOW !!!!!!!!!!
+[09:18:20] [Client thread/INFO]: [CHAT] Op_Vortex01: -------LOOK SUPER AWSOME EPIC CLUB CALLED THE MODERN CLUB THERES HOT OR NO ALSO NEED STRIPPERS LOOK-
+[09:18:22] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:18:23] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA FOR EPIC SKIN COMP!
+[09:18:27] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:18:28] [Client thread/INFO]: [CHAT] kanzkiller: hey guys tpa to me for an AWESOME skin comp. reword will be heads and name on WALL OF FAME!!
+[09:18:29] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *sorry got disconected
+[09:18:29] [Client thread/INFO]: [CHAT] Simsonsg12: GO UP ALL PLAYERS
+[09:18:30] [Client thread/INFO]: [CHAT] [Legend] ben123111: TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!!
+[09:18:32] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:18:34] [Client thread/INFO]: [CHAT] BBDumpling: could u build a employee buildin in the back
+[09:18:35] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!!! PLEASE!!!!!!!!!!
+[09:18:36] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA FOR EPIC SKIN COMP!
+[09:18:36] [Client thread/INFO]: [CHAT] TPF_123: TPA FOR AN EPIC TOWN RP THERES JOBS BUIDLING'S LOTS OF THINGS AND AFTER RP WE GET TO GO TO
+[09:18:36] [Client thread/INFO]: [CHAT] [Legend] ben123111: TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 0/7
+[09:18:37] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:18:38] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:18:42] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:18:44] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> i need to go
+[09:18:46] [Client thread/INFO]: [CHAT] kanzkiller: hey guys tpa to me for an AWESOME skin comp. reword will be heads and name on WALL OF FAME!!
+[09:18:47] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:18:48] [Client thread/INFO]: [CHAT] goat04: TPA TO ME FOR AMAZING HEAD SHOP PLEANTY TO CHOOSE
+[09:18:50] [Client thread/INFO]: [CHAT] nathan2202: sd
+[09:18:53] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:18:53] [Client thread/INFO]: [CHAT] ClockworkPhantom: Its a small tourist attraction
+[09:18:54] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:18:56] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 0/10!!!
+[09:18:58] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:18:58] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:19:00] [Client thread/INFO]: [CHAT] zschreiner: Jake: *hand starts to glow black and shadows start to cover the emerald*
+[09:19:00] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:19:00] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!! PLS TPAA
+[09:19:01] [Client thread/INFO]: [CHAT] ClockworkPhantom: Basically... It looks nice for the scenery
+[09:19:04] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *walks out of base*
+[09:19:04] [Client thread/INFO]: [CHAT] RockingKitty888: tpa BoyArianator
+[09:19:04] [Client thread/INFO]: [CHAT] goat04: OVER 20 HEADS JUST TPA NOW!!!!!!
+[09:19:06] [Client thread/INFO]: [CHAT] kanzkiller: hey guys tpa to me for an AWESOME skin comp. reword will be heads and name on WALL OF FAME!!
+[09:19:07] [Client thread/INFO]: [CHAT] YaroGermiani: yes
+[09:19:10] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:19:11] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:19:11] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:19:12] [Client thread/INFO]: [CHAT] Op_Vortex01: -------LOOK SUPER AWSOME EPIC CLUB CALLED THE MODERN CLUB THERES HOT OR NO ALSO SEX ROOMS ARE HIDDEN
+[09:19:13] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~0~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 0/7~~0~~
+[09:19:13] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:19:14] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA TO ADOPT A CHICKEN
+[09:19:15] [Client thread/INFO]: [CHAT] asleggs: <<Jimmy Casket>> hi i am jimmy casket do you want to know my secret
+[09:19:16] [Client thread/INFO]: [CHAT] Mikeytnt: I NEED SOMEOnE TO HELP ME BUILD A HEADSHOP TPA!!!!!!!! PLS TPAA
+[09:19:16] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:19:17] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx 1 GIRL NEEDED AND 2 BOYS xXXx
+[09:19:18] [Client thread/INFO]: [CHAT] ixXEzioXxi: TPA FOR A FREAKIN SKIN COMP OF AWESOMENESS
+[09:19:19] [Client thread/INFO]: [CHAT] Simsonsg12: GO UP LOOFEY
+[09:19:19] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA TO ADOPT A CHICKEN
+[09:19:20] [Client thread/INFO]: [CHAT] CreeperEthan0618: aawww
+[09:19:20] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!!! PLEASE!!!!!!!!!!
+[09:19:21] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:19:23] [Client thread/INFO]: [CHAT] skullracer18: TPA FOR A SERVER IP
+[09:19:23] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 0/7~~
+[09:19:23] [Client thread/INFO]: [CHAT] goat04: TPA TO ME NOW TPA TO ME NOW FOR AMAZING HEAD SHOP!!!!!!!
+[09:19:25] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:19:27] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:19:27] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: TPA TO ADOPT A CHICKEN
+[09:19:28] [Client thread/INFO]: [CHAT] ccornejo: who wants me to help him building something?
+[09:19:29] [Client thread/INFO]: [CHAT] kanzkiller: hey guys tpa to me for an AWESOME skin comp. reword will be heads and name on WALL OF FAME!!
+[09:19:29] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:19:30] [Client thread/INFO]: [CHAT] zschreiner: Jake: *emerlad starts to crack*
+[09:19:31] [Client thread/INFO]: [CHAT] Op_Vortex01: -------LOOK SUPER AWSOME EPIC CLUB CALLED THE MODERN CLUB THERES HOT OR NO ALSO SEX ROOMS ARE HIDDEN
+[09:19:31] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 1/10!!!
+[09:19:33] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:19:33] [Client thread/INFO]: [CHAT] skullracer18: TPA FOR A SERVER IP
+[09:19:34] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:19:36] [Client thread/INFO]: [CHAT] hannahv09: HELP ME!!
+[09:19:37] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:19:40] [Client thread/INFO]: [CHAT] YaroGermiani: fuck
+[09:19:42] [Client thread/INFO]: [CHAT] deadloxs3: hi
+[09:19:46] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 1/7~~
+[09:19:46] [Client thread/INFO]: [CHAT] YoloTwisted: k
+[09:19:47] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!!! PLEASE!!!!!!!!!!
+[09:19:48] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:19:49] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:19:50] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 1/7~~
+[09:19:52] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: the weirdist thing just happened on my lptp
+[09:19:54] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:19:58] [Client thread/INFO]: [CHAT] skullracer18: TPA FOR A SERVER IP
+[09:20:00] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 0/6
+[09:20:01] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> i cant beleive this lizzy made a thing that can make good ppl evil all we need is the e
+[09:20:01] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 1/7~~
+[09:20:02] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 1/7~~
+[09:20:03] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:20:08] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!!! PLEASE!!!!!!!!!!
+[09:20:08] [Client thread/INFO]: [CHAT] ninjakirby115: am i steve
+[09:20:11] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 2 tuvab2005 4 A Awesome Skin Comp--
+[09:20:13] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:20:13] [Client thread/INFO]: [CHAT] hannahv09: IM FINE KNOW
+[09:20:14] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:20:15] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> emerald
+[09:20:15] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:20:16] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 0/6
+[09:20:17] [Client thread/INFO]: [CHAT] skullracer18: TPA FOR A SERVER IP
+[09:20:20] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:20:21] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:20:22] [Client thread/INFO]: [CHAT] goat04: TPA TO ME NOW!!!!!! FOR AMAZING HEAD SHOP PLENTY OF HEADS TO CHOOSE FROM!!!!!
+[09:20:22] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:20:25] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 1/7~~
+[09:20:26] [Client thread/INFO]: [CHAT] ninjakirby115: crazy am i steve]
+[09:20:26] [Client thread/INFO]: [CHAT] tyler4: say 123 if u have a club
+[09:20:27] [Client thread/INFO]: [CHAT] pezzzer12: if you are here stand by the person you want to be
+[09:20:34] [Client thread/INFO]: [CHAT] ellieg05: k
+[09:20:36] [Client thread/INFO]: [CHAT] skythekiders1: hannahv09 tp back
+[09:20:38] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:20:39] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:20:41] [Client thread/INFO]: [CHAT] hannahv09: KK
+[09:20:41] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:20:42] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 2 tuvab2005 4 A Awesome Skin Comp--
+[09:20:44] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:20:44] [Client thread/INFO]: [CHAT] goat04: TPA NOW FOR AMAZING HEADS!!!!! SO EPIC U CANT BELIEVE
+[09:20:46] [Client thread/INFO]: [CHAT] Sniperkyler: LIC LIC LIC MMMM
+[09:20:47] [Client thread/INFO]: [CHAT] lily860: wait
+[09:20:49] [Client thread/INFO]: [CHAT] FallinGrape: who wants to skype msg me!
+[09:20:49] [Client thread/INFO]: [CHAT] [Legend] SamTatBaker: *eats seeds
+[09:20:49] [Client thread/INFO]: [CHAT] kanzkiller: hey guys tpa me for an awesome skin comp winner gets dree heads and name on wall of fame
+[09:20:53] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 0/6 WINNER GETS A PRIZE
+[09:20:54] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!!! PLEASE!!!!!!!!!!
+[09:20:56] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *sees jake and flies up and takes the emerald*
+[09:20:56] [Client thread/INFO]: [CHAT] asleggs: TPA TO pezzzer12 FOR A COPS AND ROBBERS RP ITS AWSOME BEST IN THE SERVER dont miss out
+[09:20:57] [Client thread/INFO]: [CHAT] DoMoPie25: hu??
+[09:20:58] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 2 tuvab2005 4 A Epic Skin Comp--
+[09:20:59] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE!!!!!!!!!!!!!!
+[09:21:00] [Client thread/INFO]: [CHAT] TPF_123: TPA FOR AN EPIC TOWN RP THERES JOBS BUIDLING'S LOTS OF THINGS AND AFTER RP WE GET TO GO TO
+[09:21:00] [Client thread/INFO]: [CHAT] [Legend] ~chicken: *eats seeds
+[09:21:03] [Client thread/INFO]: [CHAT] zschreiner: Jake: *shadows start to pull on the emerald making tiny cracks*
+[09:21:04] [Client thread/INFO]: [CHAT] seifthecool: guys do my map from the beginning
+[09:21:05] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:21:06] [Client thread/INFO]: [CHAT] goat04: TPA TPA NOW TO ME FOR EPICNESS OF HEADS
+[09:21:07] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:21:08] [Client thread/INFO]: [CHAT] [Legend] ~chicken: *Tamed
+[09:21:08] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx 1 GIRL NEEDED AND 2 BOYS xXXx HEROBRINE NEEDED xXXx
+[09:21:13] [Client thread/INFO]: [CHAT] mauishark: ok
+[09:21:13] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:21:17] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE!!!!!!!!!!!!!!
+[09:21:18] [Client thread/INFO]: [CHAT] Egillbreki: =_=TPA FOR A SKIN COMP WINNER GET'S DOD STUFF AND WALL OF FAME=_=
+[09:21:18] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *goes to base*
+[09:21:20] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 0/6 WINNER GETS A PRIZE
+[09:21:20] [Client thread/INFO]: [CHAT] noraskalerud: ./tpa Egillbreki or./tpa skelki1 for EPIC SKIN COMP
+[09:21:20] [Client thread/INFO]: [CHAT] Simsonsg12: FOLLOW ME WINNER
+[09:21:23] [Client thread/INFO]: [CHAT] lily860: im back
+[09:21:23] [Client thread/INFO]: [CHAT] DeadHell1126: ahhhhhhhhhhh I need to go peeeee so fucking badly ahhhhhhhhhhhhhhhhhhhhhhhhhhh
+[09:21:24] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:21:25] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:21:29] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:21:29] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:21:32] [Client thread/INFO]: [CHAT] Fox1121211: Say 112 if you have a head shop!
+[09:21:32] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:21:33] [Client thread/INFO]: [CHAT] noraskalerud: ./tpa Egillbreki or./tpa skelki1 for EPIC SKIN COMP
+[09:21:33] [Client thread/INFO]: [CHAT] skythekiders1: do i have a diffrent skin to u?
+[09:21:34] [Client thread/INFO]: [CHAT] [Donator] mike9237809: Tigers
+[09:21:34] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:21:34] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 0/6 WINNER GETS A PRIZE DO /TPA SKELKI!
+[09:21:35] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE!!!!!!!!!!!!!!
+[09:21:36] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 2 tuvab2005 4 A Epic Skin Comp--
+[09:21:37] [Client thread/INFO]: [CHAT] Eli702: if you have a server that i could be a adaim on plz
+[09:21:37] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!! WHOEVER WINS GETS SKY's HEAD!!!!!!!!!!!!
+[09:21:41] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:21:41] [Client thread/INFO]: [CHAT] Sweet_Hearts: hi nice hme
+[09:21:41] [Client thread/INFO]: [CHAT] Egillbreki: =_=TPA FOR A SKIN COMP WINNER GET'S DOD STUFF AND WALL OF FAME=_=
+[09:21:43] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:21:43] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!
+[09:21:45] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:21:46] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:21:49] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:21:51] [Client thread/INFO]: [CHAT] zschreiner: Jake: damn her, she wll pay
+[09:21:52] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!
+[09:21:52] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:21:55] [Client thread/INFO]: [CHAT] Sweet_Hearts: home
+[09:21:56] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:21:58] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 3/6 WINNER GETS A PRIZE DO /TPA SKELKI1
+[09:21:59] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:22:01] [Client thread/INFO]: [CHAT] kanzkiller: tpa for aweso,e skin comp winnergets head and wall of fame
+[09:22:02] [Client thread/INFO]: [CHAT] BBDumpling: cool place izzy
+[09:22:04] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:22:06] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:22:07] [Client thread/INFO]: [CHAT] Eli702: if you have a server that i could be a adaim on plz msg me
+[09:22:07] [Client thread/INFO]: [CHAT] zschreiner: Jake: *air around violet starts to get colder by the second*
+[09:22:11] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx 1 GIRL NEEDED AND 2 BOYS xXXx HEROBRINE NEEDED xXXx
+[09:22:11] [Client thread/INFO]: [CHAT] Fox1121211: Say 112 if you have a head shop!!!!!!!!!!!!!!!!
+[09:22:11] [Client thread/INFO]: [CHAT] CheeseHead3872: Everybody left D:
+[09:22:13] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:22:13] [Client thread/INFO]: [CHAT] Izzy3101: its not mine
+[09:22:14] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!!
+[09:22:14] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:22:16] [Client thread/INFO]: [CHAT] Sniperkyler: what
+[09:22:17] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!
+[09:22:18] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:22:19] [Client thread/INFO]: [CHAT] Brandonchap1212: TPA TO ME FOR AN EPIC SKIN COMPETITION!!!!!!!!!!!
+[09:22:19] [Client thread/INFO]: [CHAT] [Donator] mike9237809: Tigers
+[09:22:19] [Client thread/INFO]: [CHAT] Karocks: TPA TO BE BUILT AS A STATUE
+[09:22:20] [Client thread/INFO]: [CHAT] asleggs: TPA TO pezzzer12 FOR A COPS AND ROBBERS RP ITS AWSOME BEST IN THE SERVER dont miss out
+[09:22:21] [Client thread/INFO]: [CHAT] goat04: :(
+[09:22:21] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> there *puts emerald into machine and turn it on and sets it to hit jake and turn him go
+[09:22:22] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:22:23] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: AFK
+[09:22:25] [Client thread/INFO]: [CHAT] HLW2003: <<*Shakira*>>
+[09:22:27] [Client thread/INFO]: [CHAT] kanzkiller: tpa for skin comp
+[09:22:28] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:22:31] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:22:35] [Client thread/INFO]: [CHAT] zschreiner: Jake: *widens eyes* NO!
+[09:22:36] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:22:38] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> good*
+[09:22:39] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!! if you dont get tpaed try again!
+[09:22:40] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:22:40] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:22:40] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:22:40] [Client thread/INFO]: [CHAT] tahjhaddad: Skin Comptition ! Win name on hall of fame and Head !! TPA me Or Kanzkiller
+[09:22:43] [Client thread/INFO]: [CHAT] Eli702: if you have a server that i could be a adaim on plz msg me
+[09:22:45] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!
+[09:22:46] [Client thread/INFO]: [CHAT] Pigmanzombie14: w
+[09:22:47] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:22:47] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:22:48] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx 1 GIRL NEEDED AND 2 BOYS xXXx HEROBRINE NEEDED xXXx
+[09:22:49] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:22:52] [Client thread/INFO]: [CHAT] vaporiser12: tp to me kanzkilleror tahjhaddad for skin comp!!!
+[09:22:53] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:22:54] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 1/10!!!
+[09:22:55] [Client thread/INFO]: [CHAT] zschreiner: Jake: *creates shield around himself*
+[09:22:56] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!!! PLEASE!!!!!!!!!!
+[09:22:56] [Client thread/INFO]: [CHAT] Fox1121211: Say 112 if you have a head shop!!!!!!!!!!!!!!!!!
+[09:22:58] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:23:01] [Client thread/INFO]: [CHAT] bartvdsande: TPA FOR AN AWSOME SKIN COMP
+[09:23:01] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> plz work i wan tjake back
+[09:23:01] [Client thread/INFO]: [CHAT] vaporiser12: tp to me kanzkilleror tahjhaddad for skin comp!!!
+[09:23:02] [Client thread/INFO]: [CHAT] [Donator] mylifeaslemonade: everyone is steve, so why are you doing a skin comp
+[09:23:04] [Client thread/INFO]: [CHAT] mastercreeper3: O_O
+[09:23:04] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:23:04] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:23:05] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!! if you dont get tpaed try again!
+[09:23:06] [Client thread/INFO]: [CHAT] MsPinkCrafter: LOL
+[09:23:07] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:23:07] [Client thread/INFO]: [CHAT] CheeseHead3872: Tpa to me for a Herobrine/Warrior/Element RP!!2 boys left and many Gods!!
+[09:23:10] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:23:11] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:23:12] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx 1 GIRL NEEDED AND 2 BOYS xXXx HEROBRINE NEEDED xXXx
+[09:23:12] [Client thread/INFO]: [CHAT] NinjaJray: Tpa to pezz for cops and robber <-------- LOOK HERE
+[09:23:15] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 4/7~~
+[09:23:23] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!! if you dont get tpaed try again!
+[09:23:24] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 4/7~~
+[09:23:24] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 2 tuvab2005 4 A Epic Skin Comp--
+[09:23:24] [Client thread/INFO]: [CHAT] bartvdsande: ----------------TPA FOR AN AWSOME SKIN COMP
+[09:23:25] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:23:25] [Client thread/INFO]: [CHAT] vaporiser12: tp to me kanzkilleror tahjhaddad for skin comp!!!
+[09:23:25] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:23:26] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:23:26] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *goes outside to see if worked*
+[09:23:26] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 2 tuvab2005 4 A Epic Skin Comp--
+[09:23:32] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!
+[09:23:32] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:23:33] [Client thread/INFO]: [CHAT] NinjaJray: Tpa to pezz for cops and robber <-------- LOOK HERE
+[09:23:34] [Client thread/INFO]: [CHAT] Eli702: if you have a server that i could be a adaim on plz
+[09:23:36] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 4/7~~
+[09:23:37] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 4/7~~
+[09:23:38] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 0/10!!!
+[09:23:38] [Client thread/INFO]: [CHAT] zschreiner: Jake: *shield explodes from machine causing me to explode*
+[09:23:42] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:23:42] [Client thread/INFO]: [CHAT] ellieg05: TPA TO pezzzer12 FOR A EPIC GAME OF COPS AND ROBBERS
+[09:23:42] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:23:43] [Client thread/INFO]: [CHAT] vaporiser12: tp to me kanzkilleror tahjhaddad for skin comp!!!
+[09:23:44] [Client thread/INFO]: [CHAT] ZobTheSlayer: Bold
+[09:23:50] [Client thread/INFO]: [CHAT] Eli702: if you have a server that i could be a mod/op on plz
+[09:23:50] [Client thread/INFO]: [CHAT] bartvdsande: ----------------TPA FOR AN AWSOME SKIN COMP
+[09:23:50] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!!! PLEASE!!!!!!!!!!
+[09:23:51] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!! if you dont get tpaed try again!
+[09:23:52] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:23:53] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 5/7~~
+[09:23:55] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:23:56] [Client thread/INFO]: [CHAT] pezzzer12: tpa if you want to be in my cops vs robbers
+[09:23:57] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:23:57] [Client thread/INFO]: [CHAT] Simsonsg12: LuigiGTA
+[09:23:58] [Client thread/INFO]: [CHAT] zschreiner: Jake: *lays unconcious on the ground*
+[09:23:58] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 5/7~~
+[09:23:59] [Client thread/INFO]: [CHAT] Sniperkyler: i love you sexy
+[09:23:59] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:23:59] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 3/6 WINNER GETS A PRIZE DO /TPA SKELKI1
+[09:24:02] [Client thread/INFO]: [CHAT] DeadHell1126: PLEASE /MSG ME IF YOU HAVE A SERVER THAT I CAN BE OP/MOD ON!!!!!!!!! PLEASE!!!!!!!!!!
+[09:24:03] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> JAKE! *runs to him*
+[09:24:03] [Client thread/INFO]: [CHAT] Karocks: TPA TO BE BUILT AS A STATUE
+[09:24:04] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:24:05] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:24:05] [Client thread/INFO]: [CHAT] NinjaJray: Tpa to pezz for cops and robber <-------- LOOK HERE
+[09:24:06] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 5/7~~
+[09:24:06] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 5/6 WINNER GETS A PRIZE DO /TPA SKELKI1
+[09:24:07] [Client thread/INFO]: [CHAT] cutiekayla101: TPA FOR HUGE GODITEMS / HEAD SHOP 5 HEADS FREE MAX!
+[09:24:07] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 5/7~~
+[09:24:09] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 0/10!!!
+[09:24:09] [Client thread/INFO]: [CHAT] BBDumpling: wow
+[09:24:09] [Client thread/INFO]: [CHAT] ellieg05: TPA TO pezzzer12 FOR A EPIC GAME OF COPS AND ROBBERS
+[09:24:11] [Client thread/INFO]: [CHAT] [Legend] ben123111: &11
+[09:24:12] [Client thread/INFO]: [CHAT] skythekiders1: u fine lol
+[09:24:13] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 5/7~~
+[09:24:16] [Client thread/INFO]: [CHAT] bartvdsande: ----------------TPA FOR AN AWSOME SKIN COMP 1/8
+[09:24:17] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:24:17] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 4/7~~
+[09:24:17] [Client thread/INFO]: [CHAT] EpicCreeperGirl: soo cool
+[09:24:18] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:24:19] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> jake?!
+[09:24:19] [Client thread/INFO]: [CHAT] goat04: I HAVE NO DEFULT SKIN
+[09:24:20] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:24:20] [Client thread/INFO]: [CHAT] Wendyam: TPA TO tuvab2005 FOR AN EPIC SKIN COMP!---___-___LOOK!!!
+[09:24:21] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!<><><><><><>L()()K<><><><><>
+[09:24:25] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: not afk anymre
+[09:24:25] [Client thread/INFO]: [CHAT] zschreiner: Jake: *eyes open pitch black and blakc smoke comes out of mouth*
+[09:24:26] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 5/6 WINNER GETS A PRIZE DO /TPA SKELKI1
+[09:24:28] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY 0/10!!!
+[09:24:29] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!! if you dont get tpaed try again!
+[09:24:31] [Client thread/INFO]: [CHAT] bartvdsande: ----------------TPA FOR AN AWSOME SKIN COMP 1/8
+[09:24:32] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:24:34] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:24:36] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:24:38] [Client thread/INFO]: [CHAT] tuvab2005: TPA TO ME FOR EPIC SKIN COMP!
+[09:24:40] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *steps back* what the
+[09:24:40] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 5/6 WINNER GETS A PRIZE DO /TPA SKELKI1
+[09:24:41] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 4/7~~
+[09:24:44] [Client thread/INFO]: [CHAT] sammybe: get out
+[09:24:44] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!<><><><><><>L()()K<><><><><>
+[09:24:50] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 6/7~~
+[09:24:51] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 6/7~~
+[09:24:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:24:54] [Client thread/INFO]: [CHAT] goat04: I HAVE NO DEFULT SKIN
+[09:24:56] [Client thread/INFO]: [CHAT] asleggs: TPA TO pezzzer12 FOR A COPS AND ROBBERS RP ITS AWSOME BEST IN THE SERVER dont miss out
+[09:24:56] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 5/7~~
+[09:24:56] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!! if you dont get tpaed try again!
+[09:24:59] [Client thread/INFO]: [CHAT] goldenboyzx: =-=-=-=-=-=-=-=-=-TPA FOR SKIN COMP-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[09:25:00] [Client thread/INFO]: [CHAT] hannahv09: TPA 2 ADOPED ME!!
+[09:25:00] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:25:01] [Client thread/INFO]: [CHAT] The_Wig_: <Luke> WHAT HAVE YOU DONE?
+[09:25:03] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:25:04] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY!!!!!!!!
+[09:25:04] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!<><><><><><>L()()K<><><><><>
+[09:25:05] [Client thread/INFO]: [CHAT] zschreiner: Jake: *screams out in pain then eyes close and mouth shuts*
+[09:25:09] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:25:10] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> wait that looks like my dads powers my dads alive?
+[09:25:14] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 3/7~~
+[09:25:14] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: 69.175.28.237 need staf
+[09:25:15] [Client thread/INFO]: [CHAT] Brookwheel: TPA TO ME FOR A EPIC AMUSEMENT PARK!!!!!!!! if you dont get tpaed try again!
+[09:25:16] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: 69.175.28.237 need staf
+[09:25:17] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:25:25] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:25:28] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:25:28] [Client thread/INFO]: [CHAT] jarredator: TPA TO ME IF YOU WANT YOu HELP ME BUILD AN RP
+[09:25:28] [Client thread/INFO]: [CHAT] hannahv09: MSG ME TO ADOPED ME!!
+[09:25:29] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY!!!!!!!!
+[09:25:29] [Client thread/INFO]: [CHAT] [Legend] ben123111: ~~TPA FOR EPIC BUDDER SKIN COMP!! WINNER WINNER GETS THERE OWEN HEAD!!! 6/7~~
+[09:25:32] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *sits by jake and puts hand on him*
+[09:25:33] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: mik
+[09:25:33] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:25:34] [Client thread/INFO]: [CHAT] thrashers22: hi
+[09:25:35] [Client thread/INFO]: [CHAT] [Donator] TigersMineing: mike
+[09:25:37] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:25:39] [Client thread/INFO]: [CHAT] hannahv09: MSG ME TO ADOPED ME!! IM 12 AND A GIRL
+[09:25:40] [Client thread/INFO]: [CHAT] LuTheCreeper: TPA TO SKELKI1 FOR AMAZING SKIN COMP!!!!<><><><><><>L()()K<><><><><>
+[09:25:41] [Client thread/INFO]: [CHAT] letgomybacon: t/msg z
+[09:25:42] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:25:43] [Client thread/INFO]: [CHAT] lourencoabecasis: TPA ME FOR AN AWESOME SKIN COMP!!!
+[09:25:45] [Client thread/INFO]: [CHAT] NinjaJray: Tpa to pezz for cops and robber <-------- LOOK HERE
+[09:25:47] [Client thread/INFO]: [CHAT] jarredator: TPA TO ME IF YOU WANT YOu HELP ME BUILD AN RP
+[09:25:47] [Client thread/INFO]: [CHAT] thrashers22: say 123 if u have a head shop
+[09:25:50] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:25:54] [Client thread/INFO]: [CHAT] WayAwesomer: TPA for a parkour racetrack!!!!!!\
+[09:25:54] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *wipers* plz work
+[09:25:55] [Client thread/INFO]: [CHAT] IMAFRUITYPEAR: 123
+[09:25:55] [Client thread/INFO]: [CHAT] hannahv09: MSG ME TO ADOPED ME!! IM 12 AND A GIRL
+[09:25:55] [Client thread/INFO]: [CHAT] asleggs: TPA TO pezzzer12 FOR A COPS AND ROBBERS RP ITS AWSOME BEST IN THE SERVER dont miss out need cops
+[09:25:56] [Client thread/INFO]: [CHAT] Eli702: if you have a server that i could be a mod/op on plz
+[09:25:56] [Client thread/INFO]: [CHAT] lourencoabecasis: TPA ME FOR AN AWESOME SKIN COMP!!!
+[09:25:56] [Client thread/INFO]: [CHAT] zschreiner: Jake: *skn is a cold as ice*
+[09:25:59] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY!!!!!!!!
+[09:26:04] [Client thread/INFO]: [CHAT] TBone123VA: TPA FOR FREE BUILD ON MY PLOT IF I DON'T ACCEPT TRY AGAIN!!!!!!!!!!!!!!!!!!!!!!!!
+[09:26:05] [Client thread/INFO]: [CHAT] jarredator: TPA TO ME IF YOU WANT YOu HELP ME BUILD AN RP
+[09:26:06] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[09:26:06] [Client thread/INFO]: [CHAT] IMAFRUITYPEAR: TPA FOR HEAD SHOP! Please Donate Heads If You Feel! <----------------------------- L()()K
+[09:26:14] [Client thread/INFO]: [CHAT] Rainbowcat224: TPA FOR CLUB, WE HAVE A POOL, BAR, DANCEFLOOR AND MORE
+[09:26:15] [Client thread/INFO]: [CHAT] gangstaboy90: cept
+[09:26:15] [Client thread/INFO]: [CHAT] DeathriderMC: TPA 2 ME 4 EPIC SKIN CONTEST WINNERS NAME GOS ON WALL OF FAME AND GETS 2 JOIN THE DEATH ARMY!!!!!!!!
+[09:26:16] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:26:16] [Client thread/INFO]: [CHAT] NinjaJray: Tpa to pezz for cops and robber <-------- LOOK HERE
+[09:26:20] [Client thread/INFO]: [CHAT] hannahv09: MSG ME TO ADOPED ME!! IM 12 AND A GIRL
+[09:26:21] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 5/6 WINNER GETS A PRIZE DO /TPA SKELKI1
+[09:26:22] [Client thread/INFO]: [CHAT] jarredator: TPA TO ME IF YOU WANT YOu HELP ME BUILD AN RP
+[09:26:31] [Client thread/INFO]: [CHAT] lily860: tpa to me for an awesome dogs vs cats RP! we have lots of roles!
+[09:26:32] [Client thread/INFO]: [CHAT] NinjaJray: Tpa to pezz for cops and robber <-------- LOOK HERE
+[09:26:33] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *hand starts to glow* huh?
+[09:26:37] [Client thread/INFO]: [CHAT] Dark_FlowerPower: O_o
+[09:26:37] [Client thread/INFO]: [CHAT] jarredator: TPA TO ME IF YOU WANT YOu HELP ME BUILD AN RP
+[09:26:38] [Client thread/INFO]: [CHAT] [VIP] killerbdunc: k
+[09:26:45] [Client thread/INFO]: [CHAT] zschreiner: Jake: *body starts to glow*
+[09:26:46] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 5/6 WINNER GETS A PRIZE DO /TPA SKELKI1
+[09:26:46] [Client thread/INFO]: [CHAT] Pugfarts123: ?
+[09:26:47] [Client thread/INFO]: [CHAT] The_Wig_: <Luke> What's happening??
+[09:26:50] [Client thread/INFO]: [CHAT] skelki1: TPA FOR EPIC SKIN COMP 5/6 WINNER GETS A PRIZE DO /TPA SKELKI1
+[09:26:51] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:26:53] [Client thread/INFO]: [CHAT] Dark_FlowerPower: -.-w
+[09:26:54] [Client thread/INFO]: [CHAT] Rainbowcat224: COME TO MY CLUB, WE HAVE A BAR, BOOTH AND A POOL AND MUCH MORE
+[09:27:01] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:27:02] [Client thread/INFO]: [CHAT] skythekiders1: DIS ONE
+[09:27:06] [Client thread/INFO]: [CHAT] LolaC231: LET ME OUT
+[09:27:07] [Client thread/INFO]: [CHAT] goat04: I DO NOT HAVE A DEFULT SKIN !!!!!!!!!!!!!
+[09:27:07] [Client thread/INFO]: [CHAT] CraftyBattle: <><><>TPA FOR AN EPIC SKIN COMP!!! WINNER GETS EPIC PRIZE!<><><>
+[09:27:13] [Client thread/INFO]: [CHAT] goat04: I DO NOT
+[09:27:14] [Client thread/INFO]: [CHAT] angelheart101: <- violet -> *eyes turn gold and wispers* mom...
+[09:27:16] [Client thread/INFO]: [CHAT] NinjaJray: yes got some peeps
+[09:27:21] [Client thread/INFO]: [CHAT] TBone123VA: TPA FOR FREE BUILD ON MY PLOT IF I DON'T ACCEPT TRY AGAIN!!!!!!!!!!!!
+[09:27:23] [Client thread/INFO]: [CHAT] BlueDragon1606: DO NOT TPA TO ME
+[09:27:29] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx
+[09:27:32] [Client thread/INFO]: [CHAT] skythekiders1: YAY
+[09:27:34] [Client thread/INFO]: [CHAT] Op_Vortex01: -__------LOOK SUPER EPIC CLUB CALLED THE MODERN CLUB HAS HOT OR NO SEX ROOKMS AND MORE NEED STRIPERS
+[09:27:35] [Client thread/INFO]: [CHAT] RamsPlayer11: how
+[09:27:35] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[09:27:36] [Client thread/INFO]: [CHAT] zschreiner: Jake: *gold glow starts to spread over body*
+[09:27:38] [Client thread/INFO]: [CHAT] Rainbowcat224: TPA FOR CLUB WITH POOL BAR AND MORE
+[09:27:42] [Client thread/INFO]: [CHAT] Izzy3101: ANYONE HAVE ANY CLUBS
+[09:27:44] [Client thread/INFO]: [CHAT] The_Gamma_Gamer: caps
+[09:27:44] [Client thread/INFO]: [CHAT] CraftyBattle: <><><>TPA FOR AN EPIC SKIN COMP!!! WINNER GETS EPIC PRIZE!<><><>
+[09:27:44] [Client thread/INFO]: [CHAT] NinjaJray: Tpa to pezz for cops and robber <-------- LOOK HERE
+[09:27:48] [Client thread/INFO]: [CHAT] Pigmanzombie14: tpa TO MY PLOT U CAN DO ANYTHIN U WANT : BUILD GRIEF PARTY
+[09:27:49] [Client thread/INFO]: [CHAT] trix100: xXXxTPA FOR AN HEROBRINE RPxXXx WE NEED HEROBRINE TO START xXXx NEED 3 BOYS xXXx
+[09:27:52] [Client thread/INFO]: [CHAT] Kairoxo: !!!!!!!!!!!!2 boys and herobrine needed for HEROBRINE RP!!!!!!!!!!!!!!
+[14:39:30] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[14:39:33] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:39:33] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[14:39:33] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[14:39:33] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:39:39] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[14:39:41] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:39:41] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[14:39:41] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[14:39:41] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:39:45] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[14:39:47] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:39:47] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[14:39:47] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[14:39:47] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:39:48] [Client thread/INFO]: [CHAT]
+[14:39:48] [Client thread/INFO]: [CHAT] You have no new mail.
+[14:39:48] [Client thread/INFO]: [CHAT] daverax: <Dan> Rachel lets go to the resurant now!
+[14:39:49] [Client thread/INFO]: [CHAT] MissAwesomekidd: Tpa TO asleggs for a herobrine RP!!!!!!!!!!
+[14:39:50] [Client thread/INFO]: [CHAT] 123_ecc: <Rachael> Ok one second i got to get something...
+[14:39:51] [Client thread/INFO]: [CHAT] Pookie4557: TPA TO ME OR UNCLETOBY 4 THE MOST AMAZING HEROBRINE RP
+[14:39:53] [Client thread/INFO]: [CHAT] BlueJet11: TPA FOR A AWESOME CLUB! {FOOD POOL SEX ROOMS HEAD SHOP/GOD SHOP PARKOUR MUSIC CHILL ROOM DANCE ROOM!
+[14:39:54] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR THE GRAND OPENING OF OUR CLUB
+[14:39:54] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: :I
+[14:39:57] [Client thread/INFO]: [CHAT] beybladekyle: TPA FOR HEAD SHOP
+[14:39:59] [Client thread/INFO]: [CHAT] superjosh2013: TP TO ME FOR AN AWESOME CLUB WITH SEX ROOMS AND STRIPPER ROOMS!!
+[14:40:00] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[14:40:00] [Client thread/INFO]: [CHAT] Delaney09: Cali: *Crys*
+[14:40:02] [Client thread/INFO]: [CHAT] BadgerKnight94: ----------TPA FOR A CLUB-----------
+[14:40:02] [Client thread/INFO]: [CHAT] Jomopl: plz
+[14:40:02] [Client thread/INFO]: [CHAT] UncleToby03: tp for herobrine rp its epic
+[14:40:03] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR THE GRAND OPENING OF OUR CLUB
+[14:40:04] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: no girl roles left *sob* ;-;
+[14:40:06] [Client thread/INFO]: [CHAT] asleggs: TPA FOR A EPIC HEROBRINE @RETURNS RP PART 2 THIER WILL BE DEATH/KIDDNAPING@ NEED BOYS
+[14:40:08] [Client thread/INFO]: [CHAT] maxman1268: TPA to me for a Ninja RP
+[14:40:09] [Client thread/INFO]: [CHAT] CaptainJomar: TP=TO=ME=OR=xJuliarockstarx=FOR=HEROBRINE=RP!!=(HAS POWERS)
+[14:40:09] [Client thread/INFO]: [CHAT] [Premium] xJuliarockstarx: Tpa 2 xJuliarockstarx or CaptainJomar Awesome Elemental/Herobrine rp
+[14:40:12] [Client thread/INFO]: [CHAT] BlueJet11: TPA FOR A AWESOME CLUB! {FOOD POOL SEX ROOMS HEAD SHOP/GOD SHOP PARKOUR MUSIC CHILL ROOM DANCE ROOM!
+[14:40:12] [Client thread/INFO]: [CHAT] TylerxNguyen23: tpa for a awesome club chat rooms dance floor and more HELP WANTED L{}{}K
+[14:40:18] [Client thread/INFO]: [CHAT] Pookie4557: TPA TO ME OR UNCLETOBY 4 THE MOST AMAZING HEROBRINE RP
+[14:40:18] [Client thread/INFO]: [CHAT] samtopia: TP TO asleggs FOR A HEROBRINE RETURNS RP!!!!!! NEED BOYS AND A LUCUS FOR HEROBRINE FAMILY!
+[14:40:22] [Client thread/INFO]: [CHAT] Cutiepie777524: (Class Annoucer) PLEAS GET READY FOR CLASS 3 HISTORY
+[14:40:27] [Client thread/INFO]: [CHAT] BlueJet11: TPA FOR A AWESOME CLUB! {FOOD POOL SEX ROOMS HEAD SHOP/GOD SHOP PARKOUR MUSIC CHILL ROOM DANCE ROOM!
+[14:40:27] [Client thread/INFO]: [CHAT] CaptainJomar: TP=TO=ME=OR=xJuliarockstarx=FOR=HEROBRINE/ELEMNTAL=RP!!=
+[14:40:28] [Client thread/INFO]: [CHAT] candy7150: GOD SHOPS MSG ME!
+[14:40:33] [Client thread/INFO]: [CHAT] Flesh2Death: Sombody adopt me
+[14:40:35] [Client thread/INFO]: [CHAT] superjosh2013: TP TO ME FOR AN AWESOME CLUB WITH SEX ROOMS AND STRIPPER ROOMS!!
+[14:40:35] [Client thread/INFO]: [CHAT] Grooviecole11: -------TPA FOR EPIC AND SCARY HEROBRINE RP--------
+[14:40:36] [Client thread/INFO]: [CHAT] Pookie4557: TPA TO ME OR UNCLETOBY 4 THE MOST AMAZING HEROBRINE RP
+[14:40:36] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR THE GRAND OPENING OF OUR CLUB
+[14:40:37] [Client thread/INFO]: [CHAT] Cutiepie777524: (Class Annoucer) PLEAS GET READY FOR CLASS 3 HISTORY
+[14:40:40] [Client thread/INFO]: [CHAT] daverax: <Dan>
+[14:40:42] [Client thread/INFO]: [CHAT] MissAwesomekidd: Tpa TO asleggs for a herobrine RP!!!!!!!!!!
+[14:40:51] [Client thread/INFO]: [CHAT] UncleToby03: tp for herobrine rp its epic
+[14:40:51] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: Tiger
+[14:40:53] [Client thread/INFO]: [CHAT] [Herobrine] jerkboy2006: herro
+[14:40:55] [Client thread/INFO]: [CHAT] BlueJet11: TPA FOR A AWESOME CLUB! {FOOD POOL SEX ROOMS HEAD SHOP/GOD SHOP PARKOUR MUSIC CHILL ROOM DANCE ROOM!
+[14:40:59] [Client thread/INFO]: [CHAT] kitkat559: !i!i!i Tpa for Herobrine Returns RolePlay Boys Needed i!i!i!
+[14:41:00] [Client thread/INFO]: [CHAT] [Herobrine] jerkboy2006: today i got a editing system
+[14:41:01] [Client thread/INFO]: [CHAT] Cutiepie777524: (Class Annoucer) CLASS 3 WILL START IN 1 MIN
+[14:41:01] [Client thread/INFO]: [CHAT] Grooviecole11: ---TPA FOR EPIC HEROBRINE RP---
+[14:41:04] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: why is there no girl roles left ;-;
+[14:41:05] [Client thread/INFO]: [CHAT] maxman1268: TPA to me for a Ninja RP
+[14:41:06] [Client thread/INFO]: [CHAT] asleggs: TPA FOR A EPIC HEROBRINE @RETURNS RP PART 2 THIER WILL BE DEATH/KIDDNAPING@ NEED 5 BOYS
+[14:41:08] [Client thread/INFO]: [CHAT] [Herobrine] jerkboy2006: and i cant fudging learn how to use it
+[14:41:09] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR THE GRAND OPENING OF OUR CLUB
+[14:41:09] [Client thread/INFO]: [CHAT] mpclark3: -_-
+[14:41:15] [Client thread/INFO]: [CHAT] Princess__Budder: GO TO TheBossGaming998'S HEAD SHOP AND SKIN COMP
+[14:41:16] [Client thread/INFO]: [CHAT] ponywonderland02: who hacks
+[14:41:20] [Client thread/INFO]: [CHAT] stevensilston: me
+[14:41:20] [Client thread/INFO]: [CHAT] daverax: <Dan> Rachel Lets go to the resturant
+[14:41:23] [Client thread/INFO]: [CHAT] samtopia: TP TO asleggs FOR A HEROBRINE RETURNS RP!!!!!! NEED BOYS AND A LUCUS FOR HEROBRINE FAMILY!
+[14:41:23] [Client thread/INFO]: [CHAT] kitkat559: !i!i!i Tpa for Herobrine Returns RolePlay 5 Boys Needed i!i!i!
+[14:41:30] [Client thread/INFO]: [CHAT] Grooviecole11: --> TPA TO EPIC HEROBRINE RP<--
+[14:41:31] [Client thread/INFO]: [CHAT] daverax: <Dan> Rachel Lets go to the resturant i reserved seats
+[14:41:34] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR THE GRAND OPENING OF OUR CLUB
+[14:41:36] [Client thread/INFO]: [CHAT] blokdude876: IS THERE ANY HEAD SHOPS HERE????????????
+[14:41:36] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: Tiger
+[14:41:38] [Client thread/INFO]: [CHAT] 123_ecc: <Rachael> *drawing* class time!
+[14:41:40] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: :I
+[14:41:40] [Client thread/INFO]: [CHAT] Findus_Cat: JAmes:
+[14:41:46] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[14:41:47] [Client thread/INFO]: [CHAT] BronyDude159: =-=-=-=TP TO
+[14:41:47] [Client thread/INFO]: [CHAT] kitkat559: !i!i!iTpa for Herobrine Returns RolePlay 5 Boys Neededi!i!i!
+[14:41:48] [Client thread/INFO]: [CHAT] DylanD_lax: hi
+[14:41:48] [Client thread/INFO]: [CHAT] agent559: ---------------->LOOK-------->TPA TO ME FOR KLUB FIYA<---------LOOK<------------------------
+[14:41:49] [Client thread/INFO]: [CHAT] emi0707: Kat: Hey, Jasmine. :D
+[14:41:49] [Client thread/INFO]: [CHAT] Cutiepie777524: (Mrs Jeffti) class show the periodic table in history
+[14:41:49] [Client thread/INFO]: [CHAT] Jomopl: did i win?
+[14:41:50] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR THE GRAND OPENING OF OUR CLUB
+[14:41:52] [Client thread/INFO]: [CHAT] mpclark3: -_-<------stich
+[14:41:53] [Client thread/INFO]: [CHAT] BlueJet11: TPA FOR A AWESOME CLUB! {FOOD POOL SEX ROOMS HEAD SHOP/GOD SHOP PARKOUR MUSIC CHILL ROOM DANCE ROOM!
+[14:41:54] [Client thread/INFO]: [CHAT] superjosh2013: TP TO ME FOR AN AWESOME CLUB WITH SEX ROOMS AND STRIPPER ROOMS!!
+[14:41:57] [Client thread/INFO]: [CHAT] blokdude876: IS THERE ANY HEAD SHOPS HERE????????????
+[14:41:58] [Client thread/INFO]: [CHAT] Pookie4557: TPA TO ME OR UNCLETOBY 4 THE MOST AMAZING HEROBRINE RP
+[14:42:10] [Client thread/INFO]: [CHAT] thadkoon: TPA TO ME FOR CLUB
+[14:42:15] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR AN EPID CLUB WITH SEX ROOMS
+[14:42:16] [Client thread/INFO]: [CHAT] Cutiepie777524: (Mrs Jeffti) when you are done put it in here
+[14:42:16] [Client thread/INFO]: [CHAT] BronyDude159: =-=-=-=TP TO AuchtoMel FOR AN EPIC RP=-=-=-=NEED BOYS
+[14:42:17] [Client thread/INFO]: [CHAT] Princess__Budder: GO TO TheBossGaming998'S HEAD SHOP AND SKIN COMP
+[14:42:20] [Client thread/INFO]: [CHAT] Grooviecole11: --TPA FOR EPIC HEROBRINE RP--
+[14:42:20] [Client thread/INFO]: [CHAT] zombiemegabunny: SOMEONE LEEEEEV
+[14:42:22] [Client thread/INFO]: [CHAT] BlueJet11: TPA FOR A AWESOME CLUB! {FOOD POOL SEX ROOMS HEAD SHOP/GOD SHOP PARKOUR MUSIC CHILL ROOM DANCE ROOM!
+[14:42:25] [Client thread/INFO]: [CHAT] MissAwesomekidd: Tpa TO asleggs for a herobrine RP!!!!!!!!!!
+[14:42:30] [Client thread/INFO]: [CHAT] Vilder8: Alice: All the light is finally gone
+[14:42:30] [Client thread/INFO]: [CHAT] daverax: <Dan> SRRY IM Late
+[14:42:33] [Client thread/INFO]: [CHAT] UncleToby03: tp for herobrine rp its epic
+[14:42:34] [Client thread/INFO]: [CHAT] DatBaccaHig: (Amy)8sits alone in class*
+[14:42:36] [Client thread/INFO]: [CHAT] Pookie4557: TPA TO ME OR UNCLETOBY 4 THE MOST AMAZING HEROBRINE RP
+[14:42:42] [Client thread/INFO]: [CHAT] buboybambam: .OLOLOLOL
+[14:42:45] [Client thread/INFO]: [CHAT] misskels: ====--TPA FOR AN EPIC BOOKSHOP INCLUDING i!i! Fifty Shades of Block Part 7 !i!i --====
+[14:42:46] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR AN EPID CLUB WITH SEX ROOMS
+[14:42:47] [Client thread/INFO]: [CHAT] CaptainJomar: TP=TO=ME=OR=xJuliarockstarx=FOR=HEROBRINE/ELEMNTAL=RP!!=
+[14:42:47] [Client thread/INFO]: [CHAT] plum0225: maker out
+[14:42:51] [Client thread/INFO]: [CHAT] Grooviecole11: TPA TO ME FOR EPIC HEROBRINE RP!!!!!
+[14:42:55] [Client thread/INFO]: [CHAT] [Premium] xJuliarockstarx: Tpa 2 xJuliarockstarx or CaptainJomar Awesome Elemental/Herobrine rp
+[14:42:56] [Client thread/INFO]: [CHAT] Findus_Cat: James:
+[14:43:00] [Client thread/INFO]: [CHAT] Lynzie_Bailey: tpa to maxman1268 for ninja RP so many places
+[14:43:05] [Client thread/INFO]: [CHAT] pacohernandez890: .
+[14:43:05] [Client thread/INFO]: [CHAT] CaptainJomar: TP=TO=ME=OR=xJuliarockstarx=FOR=HEROBRINE/ELEMNTAL=RP!!=
+[14:43:05] [Client thread/INFO]: [CHAT] emi0707: xD
+[14:43:06] [Client thread/INFO]: [CHAT] MissAwesomekidd: Tpa TO asleggs for a herobrine RP!!!!!!!!!!
+[14:43:07] [Client thread/INFO]: [CHAT] lilpug2000: LOOK----->TPA TO ME OR SUPERJOSH2013 FOR AN EPID CLUB WITH SEX ROOMS
+[14:43:10] [Client thread/INFO]: [CHAT] RainTRE: boys tpa 2 me
+[14:43:17] [Client thread/INFO]: [CHAT] Pookie4557: TPA TO ME OR UNCLETOBY 4 THE MOST AMAZING HEROBRINE RP NEED GIRLS
+[14:43:18] [Client thread/INFO]: [CHAT] stevensilston: TPA TO ME FOR AN AWESOME CAMPING ROLE PLAY
+[14:43:27] [Client thread/INFO]: [CHAT] Nazja: TPA FOR SEX
+[14:43:27] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[14:43:28] [Client thread/INFO]: [CHAT] BronyDude159: <<Elsa>>
+[14:43:30] [Client thread/INFO]: [CHAT] Cutiepie777524: (Mrs Jeffti) good class
+[14:43:30] [Client thread/INFO]: [CHAT] Findus_Cat: James: Shiiiiiiii-
+[14:43:32] [Client thread/INFO]: [CHAT] IMrNazz03: what u want
+[14:43:34] [Client thread/INFO]: [CHAT] Miuque1: TPA MIUQUE1 FOR HEAD SHOP! OVER 130+ HEADS <++++++++ L()()K L()()K L()()K L()()K L()()K
+[14:43:35] [Client thread/INFO]: [CHAT] UncleToby03: tp for herobrine rp its epic
+[14:43:37] [Client thread/INFO]: [CHAT] Nazja: TPA FOR SEX
+[14:43:38] [Client thread/INFO]: [CHAT] AuchtoMel: HEROBRINE ON asleggs FOLLOW ME
+[14:43:46] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[14:43:48] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:43:48] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[14:43:48] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[14:43:48] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:43:53] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[14:43:55] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:43:55] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[14:43:55] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[14:43:55] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[14:43:56] [Client thread/INFO]: [CHAT]
+[14:43:56] [Client thread/INFO]: [CHAT] You have no new mail.
+[14:43:57] [Client thread/INFO]: [CHAT] maxman1268: TPA to me for a Ninja RP
+[14:43:58] [Client thread/INFO]: [CHAT] stevensilston: TPA TO ME FOR AN AWESOME CAMPING ROLE PLAY
+[14:43:58] [Client thread/INFO]: [CHAT] Findus_Cat: James: *Groans*
+[14:43:59] [Client thread/INFO]: [CHAT] Cutiepie777524: (Class Annoucer) CLASS IS NOW DISSMISSED
+[14:44:06] [Client thread/INFO]: [CHAT] asleggs: <<Skyler>> *unconsous*
+[14:44:07] [Client thread/INFO]: [CHAT] CaptainJomar: TP=TO=ME=OR=xJuliarockstarx=FOR=HEROBRINE/ELEMNTAL=RP!!=
+[14:44:08] [Client thread/INFO]: [CHAT] NutellaMineChick: BestDiamondMiner
+[14:44:10] [Client thread/INFO]: [CHAT] misskels: ====--TPA FOR AN EPIC BOOKSHOP INCLUDING i!i! Fifty Shades of Block Part 7 !i!i --====
+[14:44:11] [Client thread/INFO]: [CHAT] [Premium] Lillylion65: bai
+[14:44:15] [Client thread/INFO]: [CHAT] shadyroxstar: Bai
+[14:44:15] [Client thread/INFO]: [CHAT] [Herobrine] Themakerdude: Dontjudgeit!
+[14:44:17] [Client thread/INFO]: [CHAT] bdg2001: ok
+[14:44:17] [Client thread/INFO]: [CHAT] AuchtoMel: Beccy:SKYLAR*Helps to tent
+[14:44:18] [Client thread/INFO]: [CHAT] UncleToby03: tp for herobrine rp its epic
+[14:44:18] [Client thread/INFO]: [CHAT] coolfile: bia
+[14:44:22] [Client thread/INFO]: [CHAT] maxman1268: TPA to me for a Ninja RP
+[14:44:22] [Client thread/INFO]: [CHAT] Frechn23: <anthony> that was dramatic
+[14:44:22] [Client thread/INFO]: [CHAT] stevensilston: TPA TO ME FOR AN AWESOME CAMPING ROLE PLAY
+[14:44:25] [Client thread/INFO]: [CHAT] TheDiamondPicks: head shops
+[14:44:30] [Client thread/INFO]: [CHAT] Grooviecole11: TPA FOR EPIC HEROBRINE RP!!!!!!!!!!
+[14:44:31] [Client thread/INFO]: [CHAT] beybladekyle: TPA FOR HEAD SHOP OVER 40 HEADS
+[14:44:32] [Client thread/INFO]: [CHAT] agent559: ok follow me
+[14:44:35] [Client thread/INFO]: [CHAT] misskels: ====--TPA FOR AN EPIC BOOKSHOP INCLUDING i!i! Fifty Shades of Block Part 7 !i!i --====
+[14:44:35] [Client thread/INFO]: [CHAT] Cutiepie777524: (Class Annoucer) LUNCH TIME
+[14:44:37] [Client thread/INFO]: [CHAT] [Premium] xJuliarockstarx: Tpa 2 xJuliarockstarx or CaptainJomar Awesome Elemental/HB rp
+[14:44:38] [Client thread/INFO]: [CHAT] 123_ecc: <Rachael> Wow im bored...
+[14:44:38] [Client thread/INFO]: [CHAT] Princess__Budder: TheBossGaming998
+[14:44:40] [Client thread/INFO]: [CHAT] koolme5: <<ADAM>> HHHHHYAH! *truns invisible*
+[14:44:41] [Client thread/INFO]: [CHAT] Request sent to beybladekyle.
+[14:44:42] [Client thread/INFO]: [CHAT] Pookie4557: TPA TO ME OR UNCLETOBY 4 THE MOST AMAZING HEROBRINE RP NEED GIRLS
+[14:44:44] [Client thread/INFO]: [CHAT] misskels: ====--TPA FOR AN EPIC BOOKSHOP INCLUDING i!i! Fifty Shades of Block Part 7 !i!i --====
+[14:44:45] [Client thread/INFO]: [CHAT] Cutiepie777524: (Class Annoucer) LUNCH TIME
+[14:44:47] [Client thread/INFO]: [CHAT] stevensilston: TPA TO ME FOR AN AWESOME CAMPING ROLE PLAY!
+[14:44:51] [Client thread/INFO]: [CHAT] BaconKidnaper15: TPA FOR SKIN COMPETITION 1/7
+[14:44:51] [Client thread/INFO]: [CHAT] daverax: <Dan> Rachel
+[14:44:52] [Client thread/INFO]: [CHAT] [SuperSoccer53 -> me] i Got one
+[14:44:52] [Client thread/INFO]: [CHAT] agent559: follow me
+[14:44:53] [Client thread/INFO]: [CHAT] Grooviecole11: >> BEST RP << TPA FOR HER(.)BRINE RP!!!! TPA TO ME NOW!
+[14:44:55] [Client thread/INFO]: [CHAT] [Donator] loadedarrow: TPA FOR AN ADOPTIONCENTER WITH A POOL AND PARK
+[14:44:55] [Client thread/INFO]: [CHAT] EnderGirl8: TPA TO BaconKidnaper15 FOR EPIC SKIN CONTEST!
+[14:45:01] [Client thread/INFO]: [CHAT] Findus_Cat: James: The heck happened?
+[14:45:01] [Client thread/INFO]: [CHAT] UncleToby03: tp for herobrine rp its epic
+[14:45:02] [Client thread/INFO]: [CHAT] asleggs: <<Skyler>> *wakes up* yes mama i will be down in a minit*
+[14:45:05] [Client thread/INFO]: [CHAT] Frechn23: <anthony> something is awefully strange around here
+[14:45:05] [Client thread/INFO]: [CHAT] MissAwesomekidd: <<Jessie>>
+[14:45:06] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[14:45:06] [Client thread/INFO]: [CHAT] TrueMoo920: rrrrrtttttyyyyyuuuuuiiiiioooooppppp
+[14:45:06] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: -=[Rp]=- Tpa for an Epic Camp Halfblood Role Play! Tpa QUick! Msg Tiger your role!
+[14:45:07] [Client thread/INFO]: [CHAT] Change24680: hello
+[14:45:07] [Client thread/INFO]: [CHAT] 123_ecc: <Rachael> Where?
+[14:45:08] [Client thread/INFO]: [CHAT] Grooviecole11: **ATENTION* TPA TO THIS EPIC HEROBRINE RP
+[14:45:08] [Client thread/INFO]: [CHAT] EnderGirl8: TPA TO BaconKidnaper15 FOR EPIC SKIN CONTEST!
+[14:45:09] [Client thread/INFO]: [CHAT] agent559: follow me
+[14:45:10] [Client thread/INFO]: [CHAT] koolme5: <<ADAM>> *reapears*
+[14:45:11] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: -=[Rp]=- Tpa for an Epic Camp Halfblood Role Play! Tpa QUick! Msg Tiger your role!
+[14:45:12] [Client thread/INFO]: [CHAT] [Donator] loadedarrow: TPA FOR AN ADOPTIONCENTER WITH A POOL AND PARK
+[14:45:13] [Client thread/INFO]: [CHAT] stevensilston: TPA TO ME FOR AN AWESOME CAMPING ROLE PLAY!!!!!!!
+[14:45:14] [Client thread/INFO]: [CHAT] daverax: <Dan> i bought u a rose
+[14:45:15] [Client thread/INFO]: [CHAT] asleggs: <<Skyler>> ow my head
+[14:45:15] [Client thread/INFO]: [CHAT] SuperSoccer53: \tpa BaconKidnaper15
+[14:45:16] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: -=[Rp]=- Tpa for an Epic Camp Halfblood Role Play! Tpa QUick! Msg Tiger your role!
+[14:45:16] [Client thread/INFO]: [CHAT] maxman1268: TPA to me for a Ninja RP
+[14:45:20] [Client thread/INFO]: [CHAT] UncleToby03: tp for herobrine rp its epic
+[14:45:21] [Client thread/INFO]: [CHAT] [Premium] ~Katniss: -=[Rp]=- Tpa for an Epic Camp Halfblood Role Play! Tpa QUick! Msg Tiger your role!
+[14:45:21] [Client thread/INFO]: [CHAT] PoolParty1215: dont come to me plz
+[14:45:21] [Client thread/INFO]: [CHAT] Delaney09: Rosie: What a beautiful day out! :D
+[14:45:23] [Client thread/INFO]: [CHAT] [Donator] loadedarrow: TPA FOR AN ADOPTIONCENTER WITH A POOL AND PARK
+[14:45:24] [Client thread/INFO]: [CHAT] mpclark3: is it time?
+[14:45:25] [Client thread/INFO]: [CHAT] emi0707: Kat: can I have one Blueberry ICEE please?
+[14:45:25] [Client thread/INFO]: [CHAT] thadkoon: TPA TO ME FOR CLUB
+[14:45:25] [Client thread/INFO]: [CHAT] Princess__Budder: TheBossGaming998
+[14:45:27] [Client thread/INFO]: [CHAT] [Herobrine] Themakerdude: ANY1 WANNA TRADE GOD ITEMS?!?!?!?!?!
+[14:45:29] [Client thread/INFO]: [CHAT] DEMONIC204: hanks
+[14:45:29] [Client thread/INFO]: [CHAT] AuchtoMel: Beccy:Hi matt
+[14:45:30] [Client thread/INFO]: [CHAT] [Donator] loadedarrow: TPA FOR AN ADOPTIONCENTER WITH A POOL AND PARK
+[14:45:31] [Client thread/INFO]: [CHAT] [Donator] loadedarrow: TPA FOR AN ADOPTIONCENTER WITH A POOL AND PARK
+[14:45:34] [Client thread/INFO]: [CHAT] Cutiepie777524: Mr.Sky) I am mr sky what would you like?
+[14:45:34] [Client thread/INFO]: [CHAT] [Herobrine] Themakerdude: ANY1 WANNA TRADE GOD ITEMS?!?!?!?!?!
+[14:45:35] [Client thread/INFO]: [CHAT] maxman1268: TPA to me for a Ninja RP
+[14:45:36] [Client thread/INFO]: [CHAT] daverax: <Dan> I reserved a seat
+[14:45:37] [Client thread/INFO]: [CHAT] PoolParty1215: DO NOT TP TO ME
+[14:45:38] [Client thread/INFO]: [CHAT] EnderGirl8: TPA TO BaconKidnaper15 FOR EPIC SKIN CONTEST!
+[14:45:40] [Client thread/INFO]: [CHAT] Princess__Budder: GO TO TheBossGaming998'S HEAD SHOP AND SKIN COMP
+[14:45:41] [Client thread/INFO]: [CHAT] glitchmaster507: Anyone have a head shop? Msg me
+[14:45:42] [Client thread/INFO]: [CHAT] misskels: ====--TPA FOR AN EPIC BOOKSHOP INCLUDING i!i! Fifty Shades of Block Part 7 !i!i --====
+[14:45:45] [Client thread/INFO]: [CHAT] TrueMoo920: `1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./
+[14:45:45] [Client thread/INFO]: [CHAT] UncleToby03: tp for herobrine rp its epic
+[14:45:46] [Client thread/INFO]: [CHAT] BaconKidnaper15: TPA FOR SKIN COMPETITION 2/7
+[14:45:46] [Client thread/INFO]: [CHAT] 123_ecc: <Rachael> *puts in hair*
+[14:45:47] [Client thread/INFO]: [CHAT] mpclark3: is it time?
+[14:45:48] [Client thread/INFO]: [CHAT] Mberth765: <Herobrine> Hahahahha
+[14:45:50] [Client thread/INFO]: [CHAT] stevensilston: TPA TO ME FOR AN AWESOME CAMPING ROLE PLAY!!!!!!! 1 guy left!!! 2 girls left!!!!
+[14:45:52] [Client thread/INFO]: [CHAT] Bqker16: t
+[14:45:56] [Client thread/INFO]: Stopping!

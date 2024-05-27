@@ -1,0 +1,142 @@
+[17:36:47] [main/INFO]: Setting user: TheDiamondPicks
+[17:36:47] [main/INFO]: (Session ID is token:8ff978bc3ddf4ce297a7ff2403a2abc2:a05667a521154bc88bbb527426a047b5)
+[17:36:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:36:59] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:37:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:37:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:37:05] [Sound Library Loader/INFO]: Sound engine started
+[17:38:57] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[17:39:09] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[17:39:09] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[17:39:09] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[17:39:09] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[17:39:20] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[17:39:20] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[17:39:20] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[17:39:28] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:40:24] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:41:27] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:42:31] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:42:31] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:42:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:42:32] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:42:39] [Sound Library Loader/INFO]: Sound engine started
+[17:43:33] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:44:33] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:45:18] [Client thread/INFO]: [CHAT] [PlotMe] No plot found
+[17:45:32] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:46:33] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:46:48] [Client thread/INFO]: [CHAT] ID: -148;-155 Owner: TheDiamondPicks Biome: Jungle
+[17:46:48] [Client thread/INFO]: [CHAT] Expire date: Never Finished: No Protected: No
+[17:46:48] [Client thread/INFO]: [CHAT] Helpers: Dwarfie_the_Axe, Minecraftpilot1, terminator3825, tom_con_rouls, dbwk090300, PhoenixKnight123, SandKToney, Mikeytnt, cherry22445, andretracy, Zebraprint554, johnbur12, candycane64, Miapup1018, MuddyDucky, CardiacSplash, bad, TheDiamondBoats, craftworld12, baystufinn01, PIGYGIRL393, bad_killer_ksa, MC_Gymnastics, jbhhik, ashwin143, FishFood6, Joe3365, AngelxofxAnime, SodaPoppinGurl, DirectionerDUH
+[17:47:33] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:48:34] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:49:44] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:50:46] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:50:46] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[17:50:47] [Client thread/INFO]: [CHAT] You have disabled all-chat.
+[17:51:45] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:52:15] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[17:52:29] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: grr berrgggrrr
+[17:52:29] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Ethan_Van88 For A Shipwreck/Herobrine/Powers Rp <---
+[17:52:29] [Client thread/INFO]: [CHAT] CorbleFruitJube: who wants to join clan fruit?, tpa if you do
+[17:52:29] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: Creeper,pig,chicken, idk, idk, idk, idk and idk
+[17:52:29] [Client thread/INFO]: [CHAT] [VIP] okashii_neko: There is a limit of four sorry
+[17:52:29] [Client thread/INFO]: [CHAT] tatoushka14: oh ok
+[17:52:30] [Client thread/INFO]: [CHAT] darkricechild: I DO
+[17:52:44] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: i passed you 3 times xD
+[17:52:44] [Client thread/INFO]: [CHAT] CorbleFruitJube: tpa
+[17:52:44] [Client thread/INFO]: [CHAT] nicethunder: TPA TO BE BUILT ON MY PLOT (tpa to be built on my plot!)
+[17:52:44] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 4 Cool Cats Club!-- *SO MUCH TO DO: Meet New People! Have Tons Of Fun!* =R u Bored? Cmon By= !
+[17:52:44] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:52:44] [Client thread/INFO]: [CHAT] [Premium] Falloutgurl13: ~*~*/tpa 4 an AWESOME club!~*~ Bar, Chatting, Dancing, Ice Skating, BRAND NEW CAFE + Way More!!
+[17:52:44] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: i ding dong ditched 3 times
+[17:52:59] [Client thread/INFO]: [CHAT] felipebeunk: tpa TO felipebeunk OR rafaelbeunk FOR an EPIC power FAMILY rp!!!!! NEED boys AND girls!!!!!
+[17:52:59] [Client thread/INFO]: [CHAT] jaid12345: meow
+[17:52:59] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: creeper
+[17:52:59] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: twerks infront of house xD
+[17:52:59] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: do you have skype
+[17:52:59] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: ?
+[17:53:01] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: pig
+[17:53:15] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: chicken
+[17:53:15] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: awh
+[17:53:15] [Client thread/INFO]: [CHAT] averysonic: tpa to Ethan_Van88 for a herobrine/shipwreck/powers rp needs 1 boy and 4 girls GIRLS PLS COME PLZ!
+[17:53:15] [Client thread/INFO]: [CHAT] rafaelbeunk: tpa TO rafaelbeunk OR felipebeunk FOR an EPIC power FAMILY rp!!! NEED boys AND girls!!!!!
+[17:53:15] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 4 Cool Cats Club!-- *SO MUCH TO DO: Meet New People! Have Tons Of Fun!* =R u Bored? Cmon By=
+[17:53:15] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: yeah
+[17:53:15] [Client thread/INFO]: [CHAT] felipebeunk: tpa TO felipebeunk OR rafaelbeunk FOR an EPIC power FAMILY rp!!!!! NEED boys AND girls!!!!!!
+[17:53:15] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: im gonna go eat
+[17:53:15] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: brb
+[17:53:15] [Client thread/INFO]: [CHAT] DeluxeMcchicken: i want peter plz
+[17:53:15] [Client thread/INFO]: [CHAT] Request sent to okashii_neko.
+[17:53:15] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: sorreh
+[17:53:30] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR
+[17:53:30] [Client thread/INFO]: [CHAT] averysonic: tpa to Ethan_Van88 for a herobrine/shipwreck/powers rp needs 1 boy and 4 girls GIRLS PLS COME PLZ
+[17:53:30] [Client thread/INFO]: [CHAT] felipebeunk: tpa TO felipebeunk OR rafaelbeunk FOR an EPIC power FAMILY rp!!!!! NEED boys AND girls!!!!!
+[17:53:30] [Client thread/INFO]: [CHAT] rafaelbeunk: tpa TO rafaelbeunk OR felipebeunk FOR an EPIC power FAMILY rp!!! NEED boys AND girls!!!!
+[17:53:30] [Client thread/INFO]: [CHAT] okashii_neko accepted your teleport request.
+[17:53:30] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[17:53:30] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[17:53:30] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR..
+[17:53:33] [Client thread/INFO]: [CHAT] darkricechild: =D
+[17:53:33] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR.
+[17:53:40] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR..
+[17:53:40] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR.
+[17:53:40] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 4 Cool Cats Club!-- *SO MUCH TO DO: Meet New People! Have Tons Of Fun!* =R u Bored? Cmon By= !
+[17:53:54] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: DAIMIT xD
+[17:53:54] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Ethan_Van88 For A Shipwreck/Herobrine/Powers Rp <--
+[17:53:54] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:53:54] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: we have no mascoot
+[17:53:54] [Client thread/INFO]: [CHAT] CorbleFruitJube: tpa if you want to join clan fruit
+[17:53:54] [Client thread/INFO]: [CHAT] averysonic: tpa to Ethan_Van88 for a herobrine/shipwreck/powers rp needs 4 girls GIRLS PLS COME PLZ
+[17:53:54] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: do /p clear
+[17:53:54] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 4 Cool Cats Club!-- *SO MUCH TO DO: Meet New People! Have Tons Of Fun!* =R u Bored? Cmon By=
+[17:53:54] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: wait
+[17:53:54] [Client thread/INFO]: [CHAT] [Premium] Falloutgurl13: ~*~*/tpa 4 an AWESOME club!~*~ Bar, Chatting, Dancing, Ice Skating, BRAND NEW CAFE + Way More!!!
+[17:53:56] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: i know ONE
+[17:53:56] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 4 Cool Cats Club!-- *SO MUCH TO DO: Meet New People! Have Tons Of Fun!* =R u Bored? Cmon By= !
+[17:54:09] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: twerk
+[17:54:09] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: XD
+[17:54:11] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: The Mascot ;D
+[17:54:11] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: bulldoglover152
+[17:54:11] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: is
+[17:54:12] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR..
+[17:54:24] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: A BULLDOG
+[17:54:24] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: x
+[17:54:24] [Client thread/INFO]: [CHAT] felipebeunk: tpa TO felipebeunk OR rafaelbeunk FOR an EPIC power FAMILY rp!!!!! NEED boys AND girls!!!!!!
+[17:54:24] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: D
+[17:54:24] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: xD
+[17:54:24] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: u ready for this
+[17:54:24] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR.
+[17:54:24] [Client thread/INFO]: [CHAT] [Premium] Falloutgurl13: ~*~*/tpa 4 an AWESOME club!~*~ Bar, Chatting, Dancing, Ice Skating, BRAND NEW CAFE + Way More!
+[17:54:24] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR..
+[17:54:24] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: yus
+[17:54:38] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: its are time now!
+[17:54:38] [Client thread/INFO]: [CHAT] rafaelbeunk: tpa TO rafaelbeunk OR felipebeunk FOR an EPIC power FAMILY rp!!! NEED boys AND girls!!!!!
+[17:54:38] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 4 Cool Cats Club!-- *SO MUCH TO DO: Meet New People! Have Tons Of Fun!* =R u Bored? Cmon By=
+[17:54:38] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR.
+[17:54:38] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: u with me!
+[17:54:38] [Client thread/INFO]: [CHAT] squirrel223: tp to me for a firework show
+[17:54:38] [Client thread/INFO]: [CHAT] averysonic: tpa to Ethan_Van88 for a herobrine/shipwreck/powers rp needs 3 boys and 4 girls GIRLS PLS COME PLZ
+[17:54:38] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: XD sure
+[17:54:52] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: Wait
+[17:54:52] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:54:52] [Client thread/INFO]: [CHAT] averysonic: tpa to Ethan_Van88 for a herobrine/shipwreck/powers rp needs 2 boys and 4 girls GIRLS PLS COME PLZ
+[17:54:52] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: then lets get to it
+[17:54:52] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR..
+[17:54:52] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: dis is mine
+[17:54:52] [Client thread/INFO]: [CHAT] [Herobrine] ~Sky: xD
+[17:54:52] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR.
+[17:54:52] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR..
+[17:54:52] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR.
+[17:54:52] [Client thread/INFO]: [CHAT] CorbleFruitJube: your in
+[17:55:08] [Client thread/INFO]: [CHAT] averysonic: tpa to Ethan_Van88 for a herobrine/shipwreck/powers rp needs 3 boys and 4 girls GIRLS PLS COME PLZ
+[17:55:08] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: wait where
+[17:55:08] [Client thread/INFO]: [CHAT] [VIP] BlueMoon7130: --Tpa 4 Cool Cats Club!-- *SO MUCH TO DO: Meet New People! Have Tons Of Fun!* =R u Bored? Cmon By= !
+[17:55:08] [Client thread/INFO]: [CHAT] [Premium] mtchun1: To Get 5 heads Of YOur Choice Then Beat This Amazing Super Long Hard PARKOUR..
+[17:55:08] [Client thread/INFO]: [CHAT] averysonic: tpa to Ethan_Van88 for a herobrine/shipwreck/powers rp needs 2 boys and 4 girls GIRLS PLS COME PLZ
+[17:55:09] [Client thread/INFO]: [CHAT] squirrel223: tpto me for a firework show
+[17:55:23] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: dan
+[17:55:37] [Client thread/INFO]: [CHAT] averysonic: tpa to Ethan_Van88 for a herobrine/shipwreck/powers rp needs 3 boys and 4 girls GIRLS PLS COME PLZ!!
+[17:55:37] [Client thread/INFO]: [CHAT] [Donator] ~BULLamaHD: i wanna do a REMIIXX
+[17:55:38] [Client thread/INFO]: [CHAT] [Premium] Falloutgurl13: --Tpa 4 Cool Cats Club!-- *SO MUCH TO DO; Meet New People; Dance; Swim; Eat; Chat+Mo! =Cmon By!=

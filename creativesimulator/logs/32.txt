@@ -1,0 +1,1235 @@
+[18:36:48] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[18:36:48] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[18:36:48] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[18:37:30] [Client thread/INFO]: [CHAT] CardiacSplash has requested to teleport to you.
+[18:37:30] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[18:37:30] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[18:37:30] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[18:37:40] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[18:37:43] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:38:44] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:39:44] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:40:44] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:41:02] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[18:41:05] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[18:41:12] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!
+[18:41:13] [Client thread/INFO]: [CHAT] feezi2468: tme home
+[18:41:14] [Client thread/INFO]: [CHAT] TheLegendofChris: I choose max
+[18:41:18] [Client thread/INFO]: [CHAT] pancakelover001: tpa for a awesome hs/prom/power!
+[18:41:21] [Client thread/INFO]: [CHAT] Smile58223: ====tpa for epic RP (role play)==== camping addition!!!!!!!!!
+[18:41:22] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Brainy i thought you were a girl
+[18:41:27] [Client thread/INFO]: [CHAT] xOleee: OMg my texture is awesome
+[18:41:30] [Client thread/INFO]: [CHAT] TheDiamondPicks: anyone with head grabber
+[18:41:31] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: How L:
+[18:41:37] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!
+[18:41:43] [Client thread/INFO]: [CHAT] lillypearl: message
+[18:41:44] [Client thread/INFO]: [CHAT] xOleee: its my turn
+[18:41:44] [Client thread/INFO]: [CHAT] Zig407: I am capable of doing things by myself
+[18:41:45] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:41:47] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Your old skin
+[18:41:49] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)
+[18:41:52] [Client thread/INFO]: [CHAT] [SatriaPanca -> me] u want to make a headshoP?
+[18:41:54] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <--
+[18:41:55] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Hey
+[18:41:56] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: Oh... :P
+[18:41:58] [Client thread/INFO]: [CHAT] [Donator] BudderJC: BRB
+[18:41:59] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: :P
+[18:41:59] [Client thread/INFO]: [CHAT] xOleee: Nicholas_NZ t or d
+[18:42:00] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)!
+[18:42:02] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: Well
+[18:42:03] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: XD
+[18:42:03] [Client thread/INFO]: [CHAT] Zig407: and what do u mean server groups?
+[18:42:11] [Client thread/INFO]: [CHAT] Zig407: tell meh
+[18:42:15] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!
+[18:42:20] [Client thread/INFO]: [CHAT] xOleee: i dare you.. to eat someone's soks
+[18:42:26] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)!!
+[18:42:28] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <----
+[18:42:30] [Client thread/INFO]: [CHAT] Zig407: well?
+[18:42:31] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Socks*
+[18:42:36] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)
+[18:42:38] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!
+[18:42:45] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:42:49] [Client thread/INFO]: [CHAT] Zig407: what benefits from that?
+[18:42:49] [Client thread/INFO]: [CHAT] xOleee: DIS TExture is awesome! i looks like assasin creen
+[18:42:57] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Petlover want to be premium brotherandsister
+[18:42:58] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <---
+[18:43:01] [Client thread/INFO]: [CHAT] Zig407: and what do they ppay you?
+[18:43:12] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Petlover want to be premium brother and sister
+[18:43:14] [Client thread/INFO]: [CHAT] [Premium] petlover12: lol crafter
+[18:43:15] [Client thread/INFO]: [CHAT] xOleee: AW YEAH!
+[18:43:15] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)!
+[18:43:16] [Client thread/INFO]: [CHAT] [Donator] BudderJC: Back
+[18:43:18] [Client thread/INFO]: [CHAT] [me -> crafter3201] do you want to work at a head shop
+[18:43:18] [Client thread/INFO]: [CHAT] Zig407: real money?
+[18:43:19] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Lol
+[18:43:27] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)
+[18:43:30] [Client thread/INFO]: [CHAT] [Premium] crafter3201: Want to
+[18:43:32] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!!!
+[18:43:35] [Client thread/INFO]: [CHAT] xOleee: Nicholas_NZ wanna play oitc with me
+[18:43:36] [Client thread/INFO]: [CHAT] Zig407: and who is the 'leader' of this group
+[18:43:46] [Client thread/INFO]: [CHAT] xOleee: Nicholas_NZ wanna play oitc with me?
+[18:43:46] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:43:52] [Client thread/INFO]: [CHAT] [me -> crafter3201] do you want to work for me
+[18:43:53] [Client thread/INFO]: [CHAT] xOleee: do /server oitc
+[18:44:08] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[18:44:09] [Client thread/INFO]: [CHAT] lorion2001: here boss
+[18:44:16] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)!
+[18:44:32] [Client thread/INFO]: [CHAT] [Premium] petlover12: i knew it crafter XD
+[18:44:37] [Client thread/INFO]: [CHAT] Zig407: so
+[18:44:46] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:44:49] [Client thread/INFO]: [CHAT] Zig407: and who is the 'leader' of this group
+[18:44:53] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[18:44:55] [Client thread/INFO]: [CHAT] lorion2001: is it good?
+[18:45:03] [Client thread/INFO]: [CHAT] pancakelover001: HI
+[18:45:04] [Client thread/INFO]: [CHAT] Request sent to crafter3201.
+[18:45:04] [Client thread/INFO]: [CHAT] [Premium] petlover12: first brother and sis so.....then crush
+[18:45:10] [Client thread/INFO]: [CHAT] lorion2001: YAY =D
+[18:45:12] [Client thread/INFO]: [CHAT] Zig407: and why would you ban me?
+[18:45:12] [Client thread/INFO]: [CHAT] crafter3201 accepted your teleport request.
+[18:45:19] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: gay
+[18:45:20] [Client thread/INFO]: [CHAT] SatriaPanca: imbored
+[18:45:21] [Client thread/INFO]: [CHAT] Zig407: and how
+[18:45:23] [Client thread/INFO]: [CHAT] pancakelover001: u betta be ....
+[18:45:34] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)
+[18:45:35] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: What happened last night that needs apologizin :I
+[18:45:40] [Client thread/INFO]: [CHAT] [Premium] crafter3201: How did you make me tp to you
+[18:45:40] [Client thread/INFO]: [CHAT] Zig407: This is so intimidating
+[18:45:46] [Client thread/INFO]: [CHAT] kittyrox9: tpa for The Kat Kafe!
+[18:45:47] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:45:53] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!!
+[18:45:57] [Client thread/INFO]: [CHAT] [me -> crafter3201] tpahere
+[18:45:59] [Client thread/INFO]: [CHAT] Zig407: I am sick you know
+[18:46:02] [Client thread/INFO]: [CHAT] lorion2001: what will we call the restaurant
+[18:46:06] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!
+[18:46:08] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <--- :D
+[18:46:18] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!!
+[18:46:19] [Client thread/INFO]: [CHAT] kittyrox9: tpa for The Kat Kafe! Please come!
+[18:46:20] [Client thread/INFO]: [CHAT] hannahranna: any head shops or skin comps
+[18:46:22] [Client thread/INFO]: [CHAT] Zig407: with larengitis
+[18:46:28] [Client thread/INFO]: [CHAT] hannahranna: any head shops or skin comps! (caps)
+[18:46:34] [Client thread/INFO]: [CHAT] kittyrox9: tpa for The Kat Kafe!
+[18:46:36] [Client thread/INFO]: [CHAT] hannahranna: ANY HEAD SHOPS OR SKIN COMPS! (caps pratection)
+[18:46:40] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!
+[18:46:43] [Client thread/INFO]: [CHAT] HundredMenSlayer: lol kittyrox9 really bad
+[18:46:50] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)!
+[18:46:51] [Client thread/INFO]: [CHAT] kittyrox9: what?
+[18:46:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:47:11] [Client thread/INFO]: [CHAT] lillypearl: can i be helper
+[18:47:15] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <---
+[18:47:19] [Client thread/INFO]: [CHAT] Zig407: questions again
+[18:47:22] [Client thread/INFO]: [CHAT] lorion2001: can i get rid of the ladder?
+[18:47:22] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!!
+[18:47:24] [Client thread/INFO]: [CHAT] HundredMenSlayer: kittyrox9 ill help u
+[18:47:26] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Lol
+[18:47:27] [Client thread/INFO]: [CHAT] Zig407: how old are you guys
+[18:47:30] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <-- Free Items upstairs :)
+[18:47:31] [Client thread/INFO]: [CHAT] alexcool429: 10
+[18:47:39] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!
+[18:47:41] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: Le staff only place here
+[18:47:41] [Client thread/INFO]: [CHAT] Zig407: wow.
+[18:47:49] [Client thread/INFO]: [CHAT] Zig407: !
+[18:47:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:47:55] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <-- Free Items upstairs!!
+[18:47:58] [Client thread/INFO]: [CHAT] Zig407: i'm...
+[18:48:05] [Client thread/INFO]: [CHAT] Zig407: only 10
+[18:48:15] [Client thread/INFO]: [CHAT] NinjaJray: ---> server with free op<---
+[18:48:17] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)!\
+[18:48:32] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (capsarelikesoolastyear)
+[18:48:32] [Client thread/INFO]: [CHAT] Zig407: if you promise you wont steal my stuff
+[18:48:33] [Client thread/INFO]: [CHAT] HundredMenSlayer: kittyrox9 ill help u..
+[18:48:33] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!! BOYS!!!!!!!
+[18:48:37] [Client thread/INFO]: [CHAT] NinjaJray: ---> server with free op!! <---
+[18:48:52] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:48:59] [Client thread/INFO]: [CHAT] HundredMenSlayer: lol ok u haf a really bad shop
+[18:49:15] [Client thread/INFO]: [CHAT] [Premium] petlover12: lol XD
+[18:49:21] [Client thread/INFO]: [CHAT] alexcool429: xD
+[18:49:22] [Client thread/INFO]: [CHAT] coolfile: im getting herobrine rank on the 20th of august
+[18:49:25] [Client thread/INFO]: [CHAT] ivano2006: tpa to petlover12 for HS/PROM/POWER RP NEED BOYS AND GIRLS (capsareawesome)
+[18:49:26] [Client thread/INFO]: [CHAT] NinjaJray: ---> server with free op!!! join now! <---
+[18:49:39] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!! 2 BOYS!!!!!!!
+[18:49:43] [Client thread/INFO]: [CHAT] NinjaJray: ---> server with free op!!! join now last chance <---
+[18:49:44] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <-- Free Items upstairs :)
+[18:49:44] [Client thread/INFO]: [CHAT] Zig407: is he AFK?
+[18:49:54] [Client thread/INFO]: [CHAT] Zig407: meh nvm
+[18:49:55] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:49:57] [Client thread/INFO]: [CHAT] HundredMenSlayer: kittyrox9 cafe is really bad!@! DONT TPA I BET!!
+[18:50:01] [Client thread/INFO]: [CHAT] [Premium] petlover12: 1 2 3
+[18:50:05] [Client thread/INFO]: [CHAT] Zig407: do u promise
+[18:50:10] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: HundredMenSlayer stfu and get banned.
+[18:50:12] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Be nice.
+[18:50:13] [Client thread/INFO]: [CHAT] Zig407: that you WILL NOT
+[18:50:20] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!! BOYS!!!!!!!
+[18:50:25] [Client thread/INFO]: [CHAT] Zig407: steal any of my stuff
+[18:50:27] [Client thread/INFO]: [CHAT] kittyrox9: seriously HundrendMenSlayer that's just childish
+[18:50:31] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: ^
+[18:50:33] [Client thread/INFO]: [CHAT] MC_gamer321: hi\
+[18:50:34] [Client thread/INFO]: [CHAT] Zig407: and if you do
+[18:50:37] [Client thread/INFO]: [CHAT] kittyrox9: thanks L
+[18:50:41] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: np
+[18:50:47] [Client thread/INFO]: [CHAT] Zig407: you can give it back to me
+[18:50:55] [Client thread/INFO]: [CHAT] TheDiamondPicks: Any preniums looking for something to do
+[18:50:55] [Client thread/INFO]: [CHAT] Zig407: ok?
+[18:50:56] [Client thread/INFO]: [CHAT] HundredMenSlayer: kittyrox9 ur the onne whos in skype arent u
+[18:50:58] [Client thread/INFO]: [CHAT] [Premium] petlover12: ass punching!
+[18:50:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:51:03] [Client thread/INFO]: [CHAT] [VIP] cherrylo101: Tpa To Me Or Pancakelover001 For An Awesome HS/Powers/Prom Rp <-- Free Items upstairs
+[18:51:03] [Client thread/INFO]: [CHAT] [Premium] petlover12: XD
+[18:51:05] [Client thread/INFO]: [CHAT] kittyrox9: I am whats it to you
+[18:51:13] [Client thread/INFO]: [CHAT] kittyrox9: sure
+[18:51:15] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: ---> Tpa for awesome cafe! Tons to get, dont miss out! <---
+[18:51:17] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)
+[18:51:20] [Client thread/INFO]: [CHAT] kittyrox9: how many?
+[18:51:22] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!! BOYS!!!!!!!
+[18:51:22] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: --> Tpa for awesome cafe! Tons to get, dont miss out! <--
+[18:51:29] [Client thread/INFO]: [CHAT] Zig407: ok honestly
+[18:51:32] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: ---> Tpa for awesome cafe! Tons to get, dont miss out! <---
+[18:51:43] [Client thread/INFO]: [CHAT] Zig407: stand still!
+[18:51:44] [Client thread/INFO]: [CHAT] amathaine: What....the....fuuuuuuu?
+[18:51:47] [Client thread/INFO]: [CHAT] kittyrox9: there you go :)
+[18:51:57] [Client thread/INFO]: [CHAT] Zig407: Now I say,...
+[18:51:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:52:06] [Client thread/INFO]: [CHAT] [Premium] petlover12: get a role menno!
+[18:52:14] [Client thread/INFO]: [CHAT] Zig407: NO i wont add you sorry go away
+[18:52:16] [Client thread/INFO]: [CHAT] Doctor_N3RD: i liekz cheez
+[18:52:18] [Client thread/INFO]: [CHAT] kittyrox9: thanks and have a great day!
+[18:52:25] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!
+[18:52:25] [Client thread/INFO]: [CHAT] Zig407: thank you
+[18:52:38] [Client thread/INFO]: [CHAT] Zig407: wow
+[18:52:41] [Client thread/INFO]: [CHAT] [Donator] BudderJC: :/
+[18:52:41] [Client thread/INFO]: [CHAT] ivano2006: tpa to petlover12 for HS/PROM/POWER RP NEED BOYS AND GIRLS (capsareawesome)!!!!!!!!!
+[18:52:44] [Client thread/INFO]: [CHAT] [Donator] BudderJC: #Bob
+[18:52:59] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:53:01] [Client thread/INFO]: [CHAT] NyanCatt79: #bobisawesome
+[18:53:01] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!! 3 BOYS!!!!!!!
+[18:53:02] [Client thread/INFO]: [CHAT] Zig407: Trust me i have been ALOT more hurt than that
+[18:53:11] [Client thread/INFO]: [CHAT] Netti876: tpa to pancakelover001 or cherrylo101 4 an epic hs/prom/power/stufflikethat rp!
+[18:53:26] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!! 3 BOYS!!!!!!!!
+[18:53:28] [Client thread/INFO]: [CHAT] Zig407: Trust me i have been ALOT more hurt than that!
+[18:53:30] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!!
+[18:53:34] [Client thread/INFO]: [CHAT] ivano2006: tpa to petlover12 for HS/PROM/POWER RP NEED BOYS AND GIRLS (capsareawesome)!!!!!!!!!!!!!!!
+[18:53:35] [Client thread/INFO]: [CHAT] [me -> petlover12] do you want a job
+[18:53:45] [Client thread/INFO]: [CHAT] [petlover12 -> me] nah
+[18:53:46] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Bye
+[18:53:52] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Gonna leave noooooooooooow
+[18:53:54] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!! 3 BOYS!!!!!!!
+[18:53:57] [Client thread/INFO]: [CHAT] [me -> petlover12] :(
+[18:53:58] [Client thread/INFO]: [CHAT] lorion2001: Tpa to me to enjoy the MC Grill!!
+[18:53:58] [Client thread/INFO]: [CHAT] Netti876: TPA 2 PANCAKELOVER001 OR CHERRYLO101 4 AN EPIC hs/prom/power/stufflikethat RP! NEED PPL!
+[18:54:00] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:54:01] [Client thread/INFO]: [CHAT] pancakelover001: hey slayer
+[18:54:01] [Client thread/INFO]: [CHAT] kittyrox9: yes how may I help you
+[18:54:03] [Client thread/INFO]: [CHAT] [Premium] petlover12: tpa for awesome HS/PROM/POWER RP!!!!!!!!!!! 3 BOYS!!!!!!
+[18:54:18] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!
+[18:54:34] [Client thread/INFO]: [CHAT] Netti876: TPA 2 PANCAKELOVER001 OR CHERRYLO101 4 AN EPIC hs/prom/power/stufflikethat RP! NEED PPL!!
+[18:54:45] [Client thread/INFO]: [CHAT] wolfie349: bored
+[18:54:50] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!!
+[18:54:52] [Client thread/INFO]: [CHAT] [PlotMe] You have 1 comments.
+[18:54:52] [Client thread/INFO]: [CHAT] From : HundredMenSlayer
+[18:54:52] [Client thread/INFO]: [CHAT]  bad!! 1 star!
+[18:54:59] [Client thread/INFO]: [CHAT] Netti876: TPA 2 PANCAKELOVER001 OR CHERRYLO101 4 AN EPIC hs/prom/power/stufflikethat RP! NEED PPL!!!
+[18:55:00] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:55:02] [Client thread/INFO]: [CHAT] [Donator] BudderJC: BRB
+[18:55:06] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!! NEEP PPL
+[18:55:07] [Client thread/INFO]: [CHAT] wolfie349: budder
+[18:55:09] [Client thread/INFO]: [CHAT] Zig407: what the hell?!
+[18:55:16] [Client thread/INFO]: [CHAT] ivano2006: tpa to petlover12 for HS/PROM/POWER RP NEED BOYS AND GIRLS (capsareawesome)!!!!!!!!!!!!!!!!
+[18:55:18] [Client thread/INFO]: [CHAT] Netti876: TPA 2 PANCAKELOVER001 OR CHERRYLO101 4 AN EPIC hs/prom/power/stufflikethat RP! NEED PPL STAT!!!
+[18:55:26] [Client thread/INFO]: [CHAT] Akafil: ()_() Who?
+[18:55:27] [Client thread/INFO]: [CHAT] Zig407: stalker
+[18:55:27] [Client thread/INFO]: [CHAT] kittyrox9: thanks!
+[18:55:37] [Client thread/INFO]: [CHAT] kittyrox9: sure
+[18:55:38] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!! NEEP PPL!
+[18:55:46] [Client thread/INFO]: [CHAT] HundredMenSlayer: DOnt tpa to kittyrox9 REALLY BAD CAFE!!! Nothing to do!! Pay with emerald! That sucks!
+[18:56:00] [Client thread/INFO]: [CHAT] Netti876: TPA 2 PANCAKELOVER001 OR CHERRYLO101 4 AN EPIC hs/prom/power/stufflikethat RP! NEED PPL STAT!!!!
+[18:56:03] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:56:06] [Client thread/INFO]: [CHAT] HundredMenSlayer: DOnt tpa to kittyrox9 REALLY BAD CAFE!!! Nothing to do!! Pay with emerald! That sucks!!<
+[18:56:06] [Client thread/INFO]: [CHAT] kittyrox9: *eye roll* don't listen to him
+[18:56:07] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!! NEEP PPL!!
+[18:56:16] [Client thread/INFO]: [CHAT] HundredMenSlayer: DOnt tpa to kittyrox9 REALLY BAD CAFE!!! Nothing to do!! Pay with emerald! That sucks!!<.
+[18:56:16] [Client thread/INFO]: [CHAT] lorion2001: it will be in the pickup
+[18:56:23] [Client thread/INFO]: [CHAT] HundredMenSlayer: DOnt tpa to kittyrox9 REALLY BAD CAFE!!! Nothing to do!! Pay with emerald! That sucks!!<.?!
+[18:56:24] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: HundredMenSlayer!
+[18:56:27] [Client thread/INFO]: [CHAT] [Donator] BudderJC: Bak
+[18:56:29] [Client thread/INFO]: [CHAT] lorion2001: so will that be the yummy meal?
+[18:56:29] [Client thread/INFO]: [CHAT] [Donator] BudderJC: #Bob
+[18:56:31] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!! NEEP PPL!!!
+[18:56:31] [Client thread/INFO]: [CHAT] [Donator] BudderJC: Lol
+[18:56:33] [Client thread/INFO]: [CHAT] [Donator] BudderJC: BOOB
+[18:56:33] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Stfu now or get banned
+[18:56:35] [Client thread/INFO]: [CHAT] [Donator] BudderJC: BOB*
+[18:56:36] [Client thread/INFO]: [CHAT] Netti876: TPA 2 PANCAKELOVER001 OR CHERRYLO101 4 AN EPIC hs/prom/power/stufflikethat RP! NEED PPL STAT!!
+[18:56:38] [Client thread/INFO]: [CHAT] HundredMenSlayer: Get banned!
+[18:56:43] [Client thread/INFO]: [CHAT] feezi2468: TPA FOR EPIC SKIN COMP 0/4 (caps pro)
+[18:56:46] [Client thread/INFO]: [CHAT] pancakelover001: TPA FOR A AWESOME HS/PROM/POWER! AND TPA TO cherrylo101! l()()K (allrolesopenhurry!)!! NEEP PPL!
+[18:56:49] [Client thread/INFO]: [CHAT] HundredMenSlayer: ur not a mod lol<>>>>
+[18:56:50] [Client thread/INFO]: [CHAT] kittyrox9: thanks HundredMenSlayer I've had like 7 people tpa in the past 5 mins you've been signal boosting
+[18:56:55] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Ik..
+[18:56:56] [Client thread/INFO]: [CHAT] MC_gamer321: is now afk
+[18:57:02] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: I didnt say i would ban u idiot
+[18:57:05] [Client thread/INFO]: [CHAT] feezi2468: TPA FOR EPIC SKIN COMP 0/4 (caps proteat
+[18:57:06] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:57:07] [Client thread/INFO]: [CHAT] Zig407: its dark in here
+[18:57:09] [Client thread/INFO]: [CHAT] [Donator] BudderJC: HunderMen, your not a mod either,
+[18:57:12] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: ^
+[18:57:15] [Client thread/INFO]: [CHAT] HundredMenSlayer: lol im not
+[18:57:21] [Client thread/INFO]: [CHAT] Netti876: TPA 2 PANCAKELOVER001 OR CHERRYLO101 4 AN EPIC hs/prom/power/stufflikethat RP! NEED PPL STAT!!!!
+[18:57:21] [Client thread/INFO]: [CHAT] Zig407: there we go
+[18:57:22] [Client thread/INFO]: [CHAT] [Donator] BudderJC: Hundred*
+[18:57:24] [Client thread/INFO]: [CHAT] MC_gamer321: is no longer afk
+[18:57:25] [Client thread/INFO]: [CHAT] HundredMenSlayer: L_monsta_1 is telling that hes a mod
+[18:57:26] [Client thread/INFO]: [CHAT] kittyrox9: alright
+[18:57:35] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: No im not..
+[18:57:36] [Client thread/INFO]: [CHAT] Netti876: TPA 2 PANCAKELOVER001 OR CHERRYLO101 4 AN EPIC hs/prom/power/stufflikethat RP! NEED PPL STAT!!
+[18:57:40] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Im saying get banned
+[18:57:41] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: :P
+[18:57:43] [Client thread/INFO]: [CHAT] lorion2001: it should be in pickup
+[18:57:46] [Client thread/INFO]: [CHAT] [Herobrine] L_monsta_1: Not that im mod
+[18:57:49] [Client thread/INFO]: [CHAT] feezi2468: TPA FOR EPIC SKIN COMP 0/4 (caps protect)
+[18:57:49] [Client thread/INFO]: [CHAT] [Donator] BudderJC: Just...stop fighting.
+[18:57:51] [Client thread/INFO]: [CHAT] [Donator] BudderJC: Gawd.
+[18:57:53] [Client thread/INFO]: [CHAT] [Donator] BudderJC: xDD
+[18:58:29] [Client thread/INFO]: Connecting to 192.168.1.27, 25565
+[18:58:47] [Client thread/INFO]: [CHAT] CardiacSplash joined the game
+[18:58:49] [Client thread/INFO]: [CHAT] TheDiamondBoats tried to swim in lava
+[18:59:02] [Client thread/INFO]: [CHAT] CardiacSplash left the game
+[18:59:51] [Client thread/INFO]: [CHAT] You do not have permission to use this command
+[19:00:34] [Client thread/INFO]: [CHAT] TheDiamondPicks fell out of the world
+[19:01:50] [Client thread/INFO]: [CHAT] CardiacSplash joined the game
+[19:05:00] [Client thread/INFO]: [CHAT] TheDiamondPicks has just earned the achievement [Taking Inventory]
+[19:07:35] [Client thread/INFO]: [CHAT] TheDiamondBoats was shot by Skeleton
+[19:08:21] [Client thread/INFO]: [CHAT] CardiacSplash left the game
+[19:08:56] [Client thread/INFO]: [CHAT] CardiacSplash joined the game
+[19:11:36] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[19:12:42] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[19:16:11] [Client thread/INFO]: [CHAT] You can only sleep at night
+[19:20:02] [Client thread/INFO]: [CHAT] CardiacSplash fell out of the world
+[19:54:55] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:11:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:11:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:11:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:11:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:11:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[20:17:20] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:22:20] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:26:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:26:58] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[20:26:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:27:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:19] [Client thread/INFO]: [CHAT] TheDiamondBoats was blown up by Creeper
+[20:28:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:28:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:29:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:30:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:31:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:33] [Client thread/INFO]: [CHAT] You can only sleep at night
+[20:32:33] [Client thread/INFO]: [CHAT] You can only sleep at night
+[20:32:34] [Client thread/INFO]: [CHAT] You can only sleep at night
+[20:32:34] [Client thread/INFO]: [CHAT] You can only sleep at night
+[20:32:34] [Client thread/INFO]: [CHAT] You can only sleep at night
+[20:32:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:32:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:33:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:35:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:36:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:36:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:36:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:36:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:36:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:36:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:36:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:37:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:37:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:37:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:37:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:37:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:37:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:38:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:38:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:38:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:38:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:38:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:38:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:38:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:38:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[20:39:14] [Netty Client IO #1/ERROR]: Invalid server icon (unknown format)
+[20:39:16] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[20:39:20] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[20:39:20] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[20:39:20] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[20:39:20] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[20:39:22] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:39:22] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[20:39:22] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[20:39:22] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[20:39:28] [Client thread/INFO]: [CHAT] /plotme
+[20:39:45] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[20:39:47] [Client thread/INFO]: [CHAT] DerpDemension: This is quiet for all chat.
+[20:39:51] [Client thread/INFO]: [CHAT] XObsessedX: Ikr.
+[20:39:53] [Client thread/INFO]: [CHAT] flaminswrd: ikr xd
+[20:39:58] [Client thread/INFO]: [CHAT] TheDiamondPicks: yeh
+[20:40:05] [Client thread/INFO]: [CHAT] xOleee: NO
+[20:40:05] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: heyyyyy brother
+[20:40:18] [Client thread/INFO]: [CHAT] Roadster984: MESSAGE ME YOUR ROLES (awesome caps umadbro)
+[20:40:22] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:40:38] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: .all is quiet..
+[20:40:40] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR AWESOME HS/POWER/PROM RP (caps are for cool people with rps!!!! :3
+[20:40:44] [Client thread/INFO]: [CHAT] Zig407: whdkj
+[20:41:02] [Client thread/INFO]: [CHAT] squirrel223: leah:lol
+[20:41:05] [Client thread/INFO]: [CHAT] nalaek2004: ive got it a 2 player adventure map.
+[20:41:22] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:41:30] [Client thread/INFO]: [CHAT] nalaek2004: this is my combolock
+[20:41:40] [Client thread/INFO]: [CHAT] Roadster984: f
+[20:41:47] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR AWESOME HS/POWER/PROM RP (caps are for cool people with rps!!!! :3
+[20:41:55] [Client thread/INFO]: [CHAT] wishfullxsloth: WHY THE BOB ROLE?! (startscryingcaps)
+[20:42:00] [Client thread/INFO]: [CHAT] nalaek2004: how many floors?
+[20:42:02] [Client thread/INFO]: [CHAT] TheDiamondPicks: IM BORED [caps for bored people]
+[20:42:08] [Client thread/INFO]: [CHAT] DerpDemension: I'm reading this sign, and it says, "Great Gob for accomplishing this parkour map". "Great Gob".
+[20:42:15] [Client thread/INFO]: [CHAT] TheDiamondPicks: lol
+[20:42:21] [Client thread/INFO]: [CHAT] Geooooo0: lol
+[20:42:23] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:42:23] [Client thread/INFO]: [CHAT] Raining_death101: lol
+[20:42:27] [Client thread/INFO]: [CHAT] ElyzabethLassor: any rps?
+[20:42:27] [Client thread/INFO]: [CHAT] Zig407: lol
+[20:42:32] [Client thread/INFO]: [CHAT] Taska79: Really
+[20:42:34] [Client thread/INFO]: [CHAT] Roadster984: g
+[20:42:43] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR AWESOME HS/POWER/PROM RP (caps are for cool people with rps!!!! :3
+[20:43:03] [Client thread/INFO]: [CHAT] Zig407: #Redstonemakesmybuthurt
+[20:43:08] [Client thread/INFO]: [CHAT] Taska79: LOL
+[20:43:13] [Client thread/INFO]: [CHAT] brunovsmario: O_O
+[20:43:15] [Client thread/INFO]: [CHAT] Roadster984: MESSAGE ME YOUR ROLES (awesome caps umadbro)
+[20:43:15] [Client thread/INFO]: [CHAT] xOleee: WHATS AP
+[20:43:25] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:43:28] [Client thread/INFO]: [CHAT] Request sent to ~EnderMusic.
+[20:43:31] [Client thread/INFO]: [CHAT] R132123: #fuckyehilovefuckinmymom!
+[20:43:34] [Client thread/INFO]: [CHAT] astridb: i will give 20k on this server for 3 witherheads on peacful survival
+[20:43:36] [Client thread/INFO]: [CHAT] ~EnderMusic accepted your teleport request.
+[20:43:36] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[20:43:37] [Client thread/INFO]: [CHAT] Zig407: say I ifRedstone makes your but hurt
+[20:43:40] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[20:43:51] [Client thread/INFO]: [CHAT] astridb: can someone plz give me 3 wither heads on peacful survival i will do anything!
+[20:43:54] [Client thread/INFO]: [CHAT] Zig407: say I if Redstone makes your but hurt
+[20:43:58] [Client thread/INFO]: [CHAT] Queen_Bunny8: ur turn
+[20:43:59] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: t or d bunny
+[20:44:19] [Client thread/INFO]: [CHAT] Queen_Bunny8: HDD (hard dirty dare)
+[20:44:19] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: Erhm
+[20:44:22] [Client thread/INFO]: [CHAT] ElyzabethLassor: Sarah plzzz!
+[20:44:26] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: okayy
+[20:44:26] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:44:33] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: i dare you to get f*cked by jacobos
+[20:44:38] [Client thread/INFO]: [CHAT] Zig407: <<SERVER ANNOUNCEMENT>> Just to let you know you will all DIE soon. Thank you!
+[20:44:38] [Client thread/INFO]: [CHAT] Taska79: Hapi you idiot
+[20:44:45] [Client thread/INFO]: [CHAT] jacobos236: Oh wow....
+[20:44:53] [Client thread/INFO]: [CHAT] Queen_Bunny8: =O =P
+[20:44:54] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: mister dirty dare for you.
+[20:44:55] [Client thread/INFO]: [CHAT] Taska79: kk
+[20:44:55] [Client thread/INFO]: [CHAT] ElyzabethLassor: yay!
+[20:45:02] [Client thread/INFO]: [CHAT] jacobos236: There...
+[20:45:04] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: no its the other way around xD
+[20:45:10] [Client thread/INFO]: [CHAT] Queen_Bunny8: DONE
+[20:45:11] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: in the dirty dare room
+[20:45:16] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: hahaha
+[20:45:25] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: im just makin you do crap now
+[20:45:26] [Client thread/INFO]: [CHAT] Queen_Bunny8: GET OUT
+[20:45:26] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:45:28] [Client thread/INFO]: [CHAT] jacobos236: You Dirty Bastard
+[20:45:35] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR AWESOME HS/POWER/PROM RP (caps are for cool people with rps!!!! :3
+[20:45:36] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: she asked for it
+[20:45:39] [Client thread/INFO]: [CHAT] Taska79: No
+[20:45:49] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: TPA Roadster984 FOR POWERS/HIGHSCHOOL ROLE PLAY! (caps kittens :3)
+[20:45:51] [Client thread/INFO]: [CHAT] Taska79: not on your plot anyway
+[20:45:51] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: not my dang fault
+[20:45:54] [Client thread/INFO]: [CHAT] Queen_Bunny8: he's not a dirty bastard =O =P
+[20:45:59] [Client thread/INFO]: [CHAT] Request sent to Roadster984.
+[20:46:04] [Client thread/INFO]: [CHAT] Queen_Bunny8: jacobos236 t or d?
+[20:46:07] [Client thread/INFO]: [CHAT] Taska79: Weirdos?
+[20:46:09] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR HS/POWER/PROM RP WE NEED BOYS (#capsyoloswag
+[20:46:10] [Client thread/INFO]: [CHAT] Roadster984 accepted your teleport request.
+[20:46:10] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[20:46:13] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[20:46:17] [Client thread/INFO]: [CHAT] AuchtoMel: any rps
+[20:46:25] [Client thread/INFO]: [CHAT] Taska79: So...
+[20:46:28] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:46:37] [Client thread/INFO]: [CHAT] AuchtoMel: any skin comps
+[20:46:45] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: TPA Roadster984 FOR POWERS/HIGHSCHOOL ROLE PLAY! (caps kittens :3!)
+[20:47:18] [Client thread/INFO]: [CHAT] hapi7: tpa to me if you can help me with 2 dicks
+[20:47:27] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:47:28] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed)]=-
+[20:47:29] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: TPA Roadster984 FOR POWERS/HIGHSCHOOL ROLE PLAY! NEED MORE GUYS MOSTLY! (caps kittens :3!)
+[20:47:32] [Client thread/INFO]: [CHAT] Taska79: OMG really
+[20:47:37] [Client thread/INFO]: [CHAT] xOleee: stfu
+[20:47:37] [Client thread/INFO]: [CHAT] Roadster984: tpa for hs/power/prom rp we need boys (#capsyoloswag please more boy
+[20:47:39] [Client thread/INFO]: [CHAT] hapi7: tpa to me if you can help me with 2 dicks!
+[20:47:52] [Client thread/INFO]: [CHAT] brunovsmario: XD sounds wrong
+[20:48:01] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed1)]=-
+[20:48:02] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[20:48:09] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed!)]=-
+[20:48:12] [Client thread/INFO]: [CHAT] Taska79: no dont shes UGly
+[20:48:23] [Client thread/INFO]: [CHAT] Roadster984: tpa for an epic hs/power/prom rp we need more boys!!!! (capsumadbro)
+[20:48:27] [Client thread/INFO]: [CHAT] wolfie349: tpa if u wana hang
+[20:48:28] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:48:31] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed)]=-
+[20:48:34] [Client thread/INFO]: [CHAT] saphire147: can i be bri
+[20:48:35] [Client thread/INFO]: [CHAT] xOleee: helo
+[20:48:38] [Client thread/INFO]: [CHAT] hapi7: hi
+[20:48:44] [Client thread/INFO]: [CHAT] wolfie349: blu
+[20:48:45] [Client thread/INFO]: [CHAT] xOleee: please call me tux
+[20:48:54] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed!)]=-
+[20:48:54] [Client thread/INFO]: [CHAT] xOleee: nice plot
+[20:49:01] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: tpa to xobsessedx or me for an epic true or false game
+[20:49:03] [Client thread/INFO]: [CHAT] wolfie349: any 1 bored tpa
+[20:49:05] [Client thread/INFO]: [CHAT] xOleee: okay
+[20:49:11] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed)]=-
+[20:49:14] [Client thread/INFO]: [CHAT] xOleee: nope
+[20:49:16] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!
+[20:49:20] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!!
+[20:49:22] [Client thread/INFO]: [CHAT] Zig407: tpa for adoption center! <adopt>
+[20:49:29] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:49:30] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!
+[20:49:35] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed!)]=-
+[20:49:36] [Client thread/INFO]: [CHAT] xOleee: zz
+[20:49:39] [Client thread/INFO]: [CHAT] squirrel223: tp to me to help me finesh my rp
+[20:49:44] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!!
+[20:49:49] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed)]=-
+[20:49:52] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!
+[20:49:58] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: TPA Roadster984 FOR POWERS/HIGHSCHOOL ROLE PLAY! (caps kittens :3)
+[20:50:03] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[20:50:04] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!!
+[20:50:10] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed!)]=-
+[20:50:12] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf!!!
+[20:50:16] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!
+[20:50:17] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR AN EPIC HS/POWER/PROM RP WE NEED MORE BOYS!!!! (askhfgbfihdkageoisulcapsumadbro)
+[20:50:22] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[20:50:24] [Client thread/INFO]: [CHAT] xOleee: wtf
+[20:50:27] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!!
+[20:50:29] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:50:42] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!
+[20:50:45] [Client thread/INFO]: [CHAT] xOleee: <<Tpa to XObsessedX or Me For an T or F>>
+[20:50:45] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf!!!
+[20:50:52] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!!
+[20:50:54] [Client thread/INFO]: [CHAT] wolfie349: tpa for adoption centre adopt
+[20:50:56] [Client thread/INFO]: [CHAT] xOleee: <<Tpa to XObsessedX or Me For an T or F.>>
+[20:50:58] [Client thread/INFO]: [CHAT] Roadster984: tpa for cool hs/ prom/ power rp we need two girls and lots of boys (caps are so cool
+[20:50:59] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!
+[20:51:00] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf!!!!
+[20:51:04] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed)]=-
+[20:51:08] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[20:51:11] [Client thread/INFO]: [CHAT]
+[20:51:15] [Client thread/INFO]: [CHAT] TheDiamondPicks: EVERYONE DO /headgrabber MSG ME IF IT WORKS [please do it]
+[20:51:16] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!!
+[20:51:18] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf!!!!
+[20:51:25] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[20:51:32] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:51:36] [Client thread/INFO]: [CHAT] TheDiamondPicks: EVERYONE DO /headgrabber MSG ME IF IT WORKS [please do it]!!!!
+[20:51:36] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf!!!!
+[20:51:37] [Client thread/INFO]: [CHAT] XObsessedX: -=[Tpa XObsessedX for a game of True and False! (At least 4 players needed!)]=-
+[20:51:42] [Client thread/INFO]: [CHAT] wolfie349: u have a wierd upsetion with pandas
+[20:51:44] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[20:51:45] [Client thread/INFO]: [CHAT] xcreamypockii, XObsessedX, xOleee, xSakura201
+[20:51:46] [Client thread/INFO]: [CHAT] xcreamypockii, XObsessedX, xOleee, xSakura201
+[20:51:47] [Client thread/INFO]: [CHAT] xcreamypockii, XObsessedX, xOleee, xSakura201
+[20:51:48] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!
+[20:51:51] [Client thread/INFO]: [CHAT] wolfie349: tpa for adoption centre
+[20:51:54] [Client thread/INFO]: [CHAT] [IceJewel -> me] Of course it works for me, Im a legend
+[20:51:55] [Client thread/INFO]: [CHAT] XObsessedX, xOleee
+[20:51:56] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: TPA TO XObsessedX OR ME FOR AN Epic TRUE or FALSE GAME!!!
+[20:51:58] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf!!!!
+[20:51:58] [Client thread/INFO]: [CHAT] XObsessedX: Okay, I think we can start the game now
+[20:52:01] [Client thread/INFO]: [CHAT] [IceJewel -> me] Rank
+[20:52:07] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: YAY
+[20:52:07] [Client thread/INFO]: [CHAT] Zig407: tpa for adoption center! <adopt!>
+[20:52:08] [Client thread/INFO]: [CHAT] xOleee: okay
+[20:52:08] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[20:52:11] [Client thread/INFO]: [CHAT] Roadster984: ADVERTISE PLZ GUYS (caps are fun
+[20:52:12] [Client thread/INFO]: [CHAT] [me -> IceJewel] do you want to do a head shop
+[20:52:16] [Client thread/INFO]: [CHAT] Zig407: hi!
+[20:52:22] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf!!!
+[20:52:24] [Client thread/INFO]: [CHAT] [IceJewel -> me] No. Soz
+[20:52:32] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:52:37] [Client thread/INFO]: [CHAT] Roadster984: tpa for hs/power/prom rp we need boys (#capsyoloswag please more boy
+[20:52:40] [Client thread/INFO]: [CHAT] wolfie349: sav just get a panda skin (ormal panda)
+[20:52:43] [Client thread/INFO]: [CHAT] Queen_Bunny8: TPA FOR A T OR D!! (need 1 boy and 2 girls!)
+[20:52:47] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR HS/POWER/PROM RP WE NEED BOYS (#capsyoloswag
+[20:52:56] [Client thread/INFO]: [CHAT] [me -> IceJewel] can you do CardiacSplash
+[20:52:57] [Client thread/INFO]: [CHAT] Taska79: SAVANAMM
+[20:53:05] [Client thread/INFO]: [CHAT] Taska79: HI
+[20:53:06] [Client thread/INFO]: [CHAT] XObsessedX: The answer is...
+[20:53:07] [Client thread/INFO]: [CHAT] Zig407: tpa for adoption center! has gals boys and pets!
+[20:53:08] [Client thread/INFO]: [CHAT] Queen_Bunny8: duh
+[20:53:08] [Client thread/INFO]: [CHAT] wolfie349: E
+[20:53:16] [Client thread/INFO]: [CHAT] XObsessedX: TRUE
+[20:53:21] [Client thread/INFO]: [CHAT] xOleee: YEY
+[20:53:23] [Client thread/INFO]: [CHAT] squirrel223: wolfe
+[20:53:24] [Client thread/INFO]: [CHAT] Yan27Hero: TPA FOR AN AWESOME WEREWOLF HIGHSCHOOL RP! (cakecapsforlife)
+[20:53:26] [Client thread/INFO]: [CHAT] Queen_Bunny8: TPA FOR A T OR D!! (need 1 boy and 1 girls!)
+[20:53:27] [Client thread/INFO]: [CHAT] wolfie349: sav just gget a panda skin just panda
+[20:53:33] [Client thread/INFO]: [CHAT] XObsessedX: Round 1/5 complete!
+[20:53:33] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:53:35] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: no 2008
+[20:53:35] [Client thread/INFO]: [CHAT] squirrel223: can i change to a pet
+[20:53:42] [Client thread/INFO]: [CHAT] Request sent to IceJewel.
+[20:53:43] [Client thread/INFO]: [CHAT] Yan27Hero: TPA FOR AN AWESOME WEREWOLF HIGHSCHOOL RP! (cakecapsforlife)!
+[20:53:47] [Client thread/INFO]: [CHAT] wolfie349: its not ma plot
+[20:53:49] [Client thread/INFO]: [CHAT] IceJewel accepted your teleport request.
+[20:53:49] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[20:53:49] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR HS/POWER/PROM RP WE NEED BOYS (#capsyoloswagsfaf
+[20:53:50] [Client thread/INFO]: [CHAT] Queen_Bunny8: TPA FOR A T OR D!! (need 1 boy and 1 girls!!)
+[20:53:53] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[20:53:56] [Client thread/INFO]: [CHAT] Yan27Hero: TPA FOR AN AWESOME WEREWOLF HIGHSCHOOL RP! (cakecapsforlife)
+[20:53:56] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[20:53:59] [Client thread/INFO]: [CHAT] squirrel223: whos is it?
+[20:54:01] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: no 2008 its false
+[20:54:06] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: tpa roadster984 for a powers/hs/prom rp 2 girls lots of boys!
+[20:54:07] [Client thread/INFO]: [CHAT] xOleee: .
+[20:54:09] [Client thread/INFO]: [CHAT] wolfie349: Zig407
+[20:54:11] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf!
+[20:54:12] [Client thread/INFO]: [CHAT] Zig407: tpa for adoption center! has gals boys and pets to be adopted!
+[20:54:17] [Client thread/INFO]: [CHAT] Queen_Bunny8: TPA FOR A T OR D!! (need 1 boy and 1 girls!)
+[20:54:17] [Client thread/INFO]: [CHAT] squirrel223: zig
+[20:54:18] [Client thread/INFO]: [CHAT] Request sent to Zig407.
+[20:54:21] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: TPA Roadster984 FOR A POWERS/HS/PROM RP 2 GIRLS LOTS OF BOYS! (caps kittens :3)
+[20:54:22] [Client thread/INFO]: [CHAT] Zig407 accepted your teleport request.
+[20:54:22] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[20:54:24] [Client thread/INFO]: [CHAT] squirrel223: can i chage to a pet
+[20:54:27] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[20:54:33] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:54:34] [Client thread/INFO]: [CHAT] Yan27Hero: TPA FOR AN AWESOME WEREWOLF HIGHSCHOOL/PROM/POWERS RP! (cakecapsforlife)
+[20:54:35] [Client thread/INFO]: [CHAT] You cannot build here.
+[20:54:38] [Client thread/INFO]: [CHAT] squirrel223: zig
+[20:54:43] [Client thread/INFO]: [CHAT] Zig407: ya..
+[20:54:52] [Client thread/INFO]: [CHAT] squirrel223: can i chage to a pet
+[20:54:54] [Client thread/INFO]: [CHAT] AuchtoMel: tp to roadster984 for a ep;ic highschool rp/powers/prom rp 2 girls and 7 boys!!@!
+[20:54:55] [Client thread/INFO]: [CHAT] wolfie349: i dont eat porkchops
+[20:54:55] [Client thread/INFO]: [CHAT] Queen_Bunny8: thats the girl seats
+[20:54:58] [Client thread/INFO]: [CHAT] Yan27Hero: TPA FOR AN AWESOME WEREWOLF HIGHSCHOOL/PROM/POWERS RP! (cakecapsforlife)!
+[20:55:02] [Client thread/INFO]: [CHAT] savanamm: huh, me too :d
+[20:55:03] [Client thread/INFO]: [CHAT] Zig407: well ur sort of a girl
+[20:55:03] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: TPA FOR TRUTH OR DARE (we need 1 boy and 1 girl xD)
+[20:55:05] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: TPA FOR TRUTH OR DARE (we need 1 boy and 1 girl xD).
+[20:55:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[20:55:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[20:55:13] [Client thread/INFO]: [CHAT] squirrel223: i mean change my skin
+[20:55:13] [Client thread/INFO]: [CHAT] Zig407: savanamm ur a person
+[20:55:14] [Client thread/INFO]: [CHAT] wolfie349: i do actualy
+[20:55:16] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR A SICK HS/POWER/PROM RP WE NEED 7 BOYS AND 1 GIRL!! (i love having caps dont you
+[20:55:20] [Client thread/INFO]: [CHAT] [Legend] IceJewel: ?
+[20:55:24] [Client thread/INFO]: [CHAT] [Herobrine] ~EnderMusic: we have enough now
+[20:55:25] [Client thread/INFO]: [CHAT] savanamm: i am panda
+[20:55:26] [Client thread/INFO]: [CHAT] Queen_Bunny8: TPA FOR A T OR D!! (need 1 girl!)
+[20:55:34] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:55:35] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: YAY
+[20:55:36] [Client thread/INFO]: [CHAT] Zig407: does anyone want to adopt?
+[20:55:39] [Client thread/INFO]: [CHAT] pigel33: yo
+[20:55:39] [Client thread/INFO]: [CHAT] wolfie349: (hes not) hes assassin
+[20:55:43] [Client thread/INFO]: [CHAT] [Donator] viniiiiii: sup
+[20:55:47] [Client thread/INFO]: [CHAT] XObsessedX: The answer is...
+[20:55:48] [Client thread/INFO]: [CHAT] [Legend] IceJewel: marshmallow508 whats your rank?
+[20:55:51] [Client thread/INFO]: [CHAT] Queen_Bunny8: we do?
+[20:55:51] [Client thread/INFO]: [CHAT] savanamm: i am panda assassin
+[20:55:52] [Client thread/INFO]: [CHAT] xOleee: TRUE!
+[20:55:56] [Client thread/INFO]: [CHAT] XObsessedX: TRUE
+[20:55:57] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: o-o
+[20:55:58] [Client thread/INFO]: [CHAT] wolfie349: sure
+[20:55:59] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: VIP
+[20:56:00] [Client thread/INFO]: [CHAT] savanamm: SEE????
+[20:56:01] [Client thread/INFO]: [CHAT] xOleee: yey
+[20:56:05] [Client thread/INFO]: [CHAT] [me -> crystalcraft_xo] do you have experience with head shops
+[20:56:07] [Client thread/INFO]: [CHAT] Zig407: savanamm ur a person
+[20:56:10] [Client thread/INFO]: [CHAT] [Legend] IceJewel: You bought the horse thing?
+[20:56:10] [Client thread/INFO]: [CHAT] Automatic server restart in 5 minutes.
+[20:56:13] [Client thread/INFO]: [CHAT] [crystalcraft_xo -> me] Yes
+[20:56:14] [Client thread/INFO]: [CHAT] [Donator] ray_mae02: :/
+[20:56:15] [Client thread/INFO]: [CHAT] Queen_Bunny8: EVER1 DO /all! (if u are doin my t or d)
+[20:56:16] [Client thread/INFO]: [CHAT] savanamm: Ok, gtg to change skin
+[20:56:20] [Client thread/INFO]: [CHAT] [Donator] viniiiiii: ill be brrok if u can plz :P ill brb
+[20:56:21] [Client thread/INFO]: [CHAT] Zig407: what 5 minutes?
+[20:56:22] [Client thread/INFO]: [CHAT] wolfie349: ok
+[20:56:25] [Client thread/INFO]: [CHAT] Queen_Bunny8: u guys are naked
+[20:56:25] [Client thread/INFO]: [CHAT] sigurd88: server restart
+[20:56:29] [Client thread/INFO]: [CHAT] [me -> crystalcraft_xo] i adopt you
+[20:56:33] [Client thread/INFO]: [CHAT] xOleee: how bout me 2
+[20:56:34] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:56:35] [Client thread/INFO]: [CHAT] [crystalcraft_xo -> me] Okay
+[20:56:35] [Client thread/INFO]: [CHAT] Queen_Bunny8: look
+[20:56:38] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: If ur in a rp or something U might wanna sethome
+[20:56:38] [Client thread/INFO]: [CHAT] wolfie349: *falls asleep*
+[20:56:41] [Client thread/INFO]: [CHAT] Zig407: want to adopt a dog? TPA TO ME!
+[20:56:49] [Client thread/INFO]: [CHAT] xOleee: me 2 score
+[20:56:50] [Client thread/INFO]: [CHAT] Taska79: Crissie
+[20:56:50] [Client thread/INFO]: [CHAT] Roadster984: gdsioha;oga
+[20:56:54] [Client thread/INFO]: [CHAT] squirrel223: see
+[20:56:58] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR A SICK HS/POWER/PROM RP WE NEED 7 BOYS AND 1 GIRL!! (i love having caps dont you
+[20:56:59] [Client thread/INFO]: [CHAT] sigurd88: s
+[20:57:00] [Client thread/INFO]: [CHAT] TheDiamondPicks: Why does the server have to restart [Caps is good}
+[20:57:04] [Client thread/INFO]: [CHAT] XObsessedX: o.o
+[20:57:06] [Client thread/INFO]: [CHAT] Zig407: WELL OK
+[20:57:10] [Client thread/INFO]: [CHAT] Automatic server restart in 4 minutes.
+[20:57:12] [Client thread/INFO]: [CHAT] sigurd88: secretjohnny
+[20:57:14] [Client thread/INFO]: [CHAT] XObsessedX: Round 2/5 complete!
+[20:57:15] [Client thread/INFO]: [CHAT] Zig407: want to adopt a dog? TPA TO ME!
+[20:57:15] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: TPA Roadster984 FOR A POWERS/HS/PROM RP 1 GIRL 7 BOYS! (caps kittens :3)
+[20:57:17] [Client thread/INFO]: [CHAT] DerpDemension: Oh, already?
+[20:57:18] [Client thread/INFO]: [CHAT] secretjohnny: yeh sigurd
+[20:57:21] [Client thread/INFO]: [CHAT] Roadster984: guys rp is cancelled
+[20:57:21] [Client thread/INFO]: [CHAT] [me -> crystalcraft_xo] tpa to me in 3 sec
+[20:57:23] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: ()_()
+[20:57:23] [Client thread/INFO]: [CHAT] wolfie349: woof *chaces scuirel*
+[20:57:24] [Client thread/INFO]: [CHAT] sigurd88: s
+[20:57:28] [Client thread/INFO]: [CHAT] Queen_Bunny8: u dont have pants on girls
+[20:57:33] [Client thread/INFO]: [CHAT] Zig407: does anyone want a dog?
+[20:57:34] [Client thread/INFO]: [CHAT] squirrel223: woof
+[20:57:34] [Client thread/INFO]: [CHAT] Roadster984: hs/prom/power rpis canceled guys
+[20:57:34] [Client thread/INFO]: [CHAT] [me -> crystalcraft_xo] now
+[20:57:37] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:57:38] [Client thread/INFO]: [CHAT] DerpDemension: Get ready to break the server
+[20:57:41] [Client thread/INFO]: [CHAT] crystalcraft_xo has requested to teleport to you.
+[20:57:41] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[20:57:41] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[20:57:41] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[20:57:44] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: WHEN THE SERVER RESTARTS EVRYONE TPA BACK HERE (tpa me or Roadster984)
+[20:57:46] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[20:57:47] [Client thread/INFO]: [CHAT] [Donator] lilly326: XD
+[20:57:52] [Client thread/INFO]: [CHAT] [Legend] IceJewel: ?
+[20:57:54] [Client thread/INFO]: [CHAT] squirrel223: no im a dog
+[20:58:07] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: #doggy boots XD
+[20:58:10] [Client thread/INFO]: [CHAT] Automatic server restart in 3 minutes.
+[20:58:11] [Client thread/INFO]: [CHAT] Roadster984: everyone rp is currently cancelled
+[20:58:14] [Client thread/INFO]: [CHAT] [me -> crystalcraft_xo] when server restarts tp back to me
+[20:58:16] [Client thread/INFO]: [CHAT] DerpDemension: Here it comes
+[20:58:18] [Client thread/INFO]: [CHAT] crystalcraft_xo: I Gtg But I Set Home Bye!
+[20:58:19] [Client thread/INFO]: [CHAT] [Legend] IceJewel: reason?
+[20:58:20] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: #DoggyBoots- No sspace xD
+[20:58:23] [Client thread/INFO]: [CHAT] aidil2302: any headshops?
+[20:58:26] [Client thread/INFO]: [CHAT] Roadster984: as soon as server restarts rp wil; restart
+[20:58:27] [Client thread/INFO]: [CHAT] [Donator] viniiiiii: 3mins left till the end of the world
+[20:58:33] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: Pewds stop playing so YEA
+[20:58:38] [Client thread/INFO]: [CHAT] ElyzabethLassor: You can still have the signs on!
+[20:58:38] [Client thread/INFO]: [CHAT] DerpDemension: That would totally suck if someone just joined :p
+[20:58:38] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[20:58:44] [Client thread/INFO]: [CHAT] Player not found.
+[20:58:46] [Client thread/INFO]: [CHAT] Zig407: lol
+[20:58:49] [Client thread/INFO]: [CHAT] xOleee: how bout captain sparkcles
+[20:58:52] [Client thread/INFO]: [CHAT] squirrel223: woof woof
+[20:58:54] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: post it on twitter and facebook #DogeBoots!
+[20:59:06] [Client thread/INFO]: [CHAT] coolfile: omg we just built something huge
+[20:59:06] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: sky has 10M subs sparklez 7M or 8M
+[20:59:09] [Client thread/INFO]: [CHAT] Zig407: come out
+[20:59:10] [Client thread/INFO]: [CHAT] Automatic server restart in 2 minutes.
+[20:59:15] [Client thread/INFO]: [CHAT] nalaek2004: 2 MINS
+[20:59:16] [Client thread/INFO]: [CHAT] DerpDemension: 2 minutes.
+[20:59:16] [Client thread/INFO]: [CHAT] MisaiAki: ikr XD :D
+[20:59:17] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: i havent checked
+[20:59:19] [Client thread/INFO]: [CHAT] XObsessedX: the answer is true
+[20:59:20] [Client thread/INFO]: [CHAT] sigurd88: 2 MINS
+[20:59:26] [Client thread/INFO]: [CHAT] TheDiamondPicks: THE END IS NIGH IN 2 MINUTES [ahhhhhhhhhh!!!!!!!!]
+[20:59:26] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: 2 minutes we r gonna die
+[20:59:27] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: YY
+[20:59:29] [Client thread/INFO]: [CHAT] Zig407: do u guys like muffins?
+[20:59:30] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: tp to me for a shelter that let you survive the restart!
+[20:59:34] [Client thread/INFO]: [CHAT] sigurd88: jkkkkkkkkkkkkkkk
+[20:59:34] [Client thread/INFO]: [CHAT] [Donator] lilly326: YAY!
+[20:59:35] [Client thread/INFO]: [CHAT] squirrel223: lol 2 dogs 1 panda
+[20:59:38] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: TP TO ME FOR A SHELTER THAT LET YOU SURVIVE THE RESTART! (may the caps be with me)
+[20:59:38] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[20:59:39] [Client thread/INFO]: [CHAT] MisaiAki: if we say potato,its gona save us XD
+[20:59:40] [Client thread/INFO]: [CHAT] Imagirl8: <Misty> y
+[20:59:40] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: JUST KIDDEN
+[20:59:40] [Client thread/INFO]: [CHAT] Request sent to svenjongejan2.
+[20:59:42] [Client thread/INFO]: [CHAT] DerpDemension: I may die, but I'll just come back o-o
+[20:59:43] [Client thread/INFO]: [CHAT] svenjongejan2 accepted your teleport request.
+[20:59:43] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[20:59:45] [Client thread/INFO]: [CHAT] [Donator] lilly326: yay for server restart!
+[20:59:46] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[20:59:50] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: brb
+[20:59:51] [Client thread/INFO]: [CHAT] coolfile: yay
+[20:59:52] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: TP TO ME FOR A SHELTER THAT LET YOU SURVIVE THE RESTART! (may the caps be with me)!
+[20:59:56] [Client thread/INFO]: [CHAT] [Donator] lilly326: yay for server restart!!
+[20:59:57] [Client thread/INFO]: [CHAT] Imagirl8: <Misty> um... i drank a martini
+[20:59:57] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:00:03] [Client thread/INFO]: [CHAT] XObsessedX: Round 4/5 complete.
+[21:00:07] [Client thread/INFO]: [CHAT] nalaek2004: misai lets make a lab under my club after this
+[21:00:07] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: o-o
+[21:00:09] [Client thread/INFO]: [CHAT] aidil2302: how did u get animals?
+[21:00:10] [Client thread/INFO]: [CHAT] Automatic server restart in 1 minute.
+[21:00:10] [Client thread/INFO]: [CHAT] MisaiAki: GGuys! Tttp for survivng restarTY!
+[21:00:14] [Client thread/INFO]: [CHAT] [Donator] lilly326: yay for server restart!!!
+[21:00:16] [Client thread/INFO]: [CHAT] DerpDemension: 1 MINUTE.
+[21:00:16] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: IN 1 MIN
+[21:00:19] [Client thread/INFO]: [CHAT] Imagirl8: herobrine
+[21:00:28] [Client thread/INFO]: [CHAT] crista_jr: omg the world is gonna die XD
+[21:00:29] [Client thread/INFO]: [CHAT] DerpDemension: It will be the end of Minecraft times.
+[21:00:30] [Client thread/INFO]: [CHAT] TheDiamondPicks: goodbye in 1 minute!!!! caps
+[21:00:31] [Client thread/INFO]: [CHAT] Imagirl8: im not like him though
+[21:00:32] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:00:37] [Client thread/INFO]: [CHAT] MisaiAki: arghh we gona die all
+[21:00:42] [Client thread/INFO]: [CHAT] Zig407: let me in!
+[21:00:42] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[21:00:42] [Client thread/INFO]: [CHAT] Roadster984: PANIC
+[21:00:42] [Client thread/INFO]: [CHAT] Automatic server restart in 30 seconds.
+[21:00:42] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: hello
+[21:00:46] [Client thread/INFO]: [CHAT] aidil2302: guys.. im sorry for all i have done
+[21:00:48] [Client thread/INFO]: [CHAT] Lego691: 30 se
+[21:00:50] [Client thread/INFO]: [CHAT] Automatic server restart in 20 seconds.
+[21:00:52] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: 30 SECS BYE
+[21:00:52] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: at 10 seconds, say fart!
+[21:00:53] [Client thread/INFO]: [CHAT] sigurd88: s
+[21:00:56] [Client thread/INFO]: [CHAT] DerpDemension: Here it comes
+[21:00:56] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: 20 SECS BYE
+[21:00:57] [Client thread/INFO]: [CHAT] aidil2302: good bye!
+[21:00:58] [Client thread/INFO]: [CHAT] TheDiamondPicks: everyone do /warp spawn [plz]
+[21:00:58] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: at 10 seconds, say fart!!!!!
+[21:00:58] [Client thread/INFO]: [CHAT] XObsessedX: TRUE
+[21:01:00] [Client thread/INFO]: [CHAT] Automatic server restart in 10 seconds.
+[21:01:00] [Client thread/INFO]: [CHAT] MisaiAki: Im bitch guys! Remember dat XD
+[21:01:01] [Client thread/INFO]: [CHAT] Lego691: fart
+[21:01:01] [Client thread/INFO]: [CHAT] Automatic server restart in 9 seconds.
+[21:01:01] [Client thread/INFO]: [CHAT] SlayerGames: FART!
+[21:01:02] [Client thread/INFO]: [CHAT] Automatic server restart in 8 seconds.
+[21:01:03] [Client thread/INFO]: [CHAT] sigurd88: fart
+[21:01:03] [Client thread/INFO]: [CHAT] Imagirl8: <Misty> eek
+[21:01:03] [Client thread/INFO]: [CHAT] Automatic server restart in 7 seconds.
+[21:01:04] [Client thread/INFO]: [CHAT] [Legend] svenjongejan2: FART
+[21:01:04] [Client thread/INFO]: [CHAT] Error: That warp does not exist.
+[21:01:04] [Client thread/INFO]: [CHAT] Automatic server restart in 6 seconds.
+[21:01:04] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: 8
+[21:01:05] [Client thread/INFO]: [CHAT] Automatic server restart in 5 seconds.
+[21:01:06] [Client thread/INFO]: [CHAT] XObsessedX: FART
+[21:01:06] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: #DOgeBOTTS
+[21:01:06] [Client thread/INFO]: [CHAT] nalaek2004: YOLO POTATO
+[21:01:06] [Client thread/INFO]: [CHAT] Automatic server restart in 4 seconds.
+[21:01:06] [Client thread/INFO]: [CHAT] [Hero] BaileyWR: NOO
+[21:01:06] [Client thread/INFO]: [CHAT] Roadster984: guys i wish you all luck to live and i love you all!!!!!
+[21:01:07] [Client thread/INFO]: [CHAT] Automatic server restart in 3 seconds.
+[21:01:08] [Client thread/INFO]: [CHAT] Automatic server restart in 2 seconds.
+[21:01:09] [Client thread/INFO]: [CHAT] Lego691: bye
+[21:01:09] [Client thread/INFO]: [CHAT] Zig407: goodbye
+[21:01:09] [Client thread/INFO]: [CHAT] xOleee: were all gonna die!!!!
+[21:01:09] [Client thread/INFO]: [CHAT] Automatic server restart in 1 second.
+[21:01:09] [Client thread/INFO]: [CHAT] MisaiAki: potato
+[21:01:10] [Client thread/INFO]: [CHAT] [Legend] SpudHead2002: bye have a great time
+[21:01:10] [Client thread/INFO]: [CHAT] [Legend] Rosaroddnie9: bye
+[21:01:10] [Client thread/INFO]: [CHAT] SlayerGames: FART!!
+[21:01:10] [Client thread/INFO]: [CHAT] pigel33: potato!
+[21:01:10] [Client thread/INFO]: [CHAT] <mclkbg03> goodbye cruel world D: WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA pooop
+[21:01:10] [Client thread/INFO]: [CHAT] <xSakura201> BYE BYE POTATO !!
+[21:01:10] [Client thread/INFO]: [CHAT] <sigurd88> s
+[21:01:11] [Client thread/INFO]: [CHAT] <spots88> poop out of my but :p
+[21:01:11] [Client thread/INFO]: [CHAT] <Spiker3008> SO MUCH I WANTED TO DO!!!!!!!!!! (caps are cool)
+[21:01:11] [Client thread/INFO]: [CHAT] <Biancathea> POTATO!!!!!
+[21:01:11] [Client thread/INFO]: [CHAT] <xSakura201> BYE BYE POTATO !!
+[21:01:11] [Client thread/INFO]: [CHAT] <xOleee> asdiasdjas[
+[21:01:11] [Client thread/INFO]: [CHAT] <PixeySticks> Bao
+[21:01:11] [Client thread/INFO]: [CHAT] <sigurd88> d
+[21:01:12] [Client thread/INFO]: [CHAT] <SlayerGames> bye
+[21:01:12] [Client thread/INFO]: [CHAT] <nalaek2004> XD
+[21:01:12] [Client thread/INFO]: [CHAT] <xOleee> asdaisdjas
+[21:01:12] [Client thread/INFO]: [CHAT] <DerpDemension> bye
+[21:01:12] [Client thread/INFO]: [CHAT] <ray_mae02> bybdguaerngviuenWGIONJEDIOGVNIENDvok
+[21:01:13] [Client thread/INFO]: [CHAT] <Maisie_moozer> NOOOOOOOOOOOOOOOOOOO
+[21:01:13] [Client thread/INFO]: [CHAT] <SlayerGames> FART!!
+[21:01:13] [Client thread/INFO]: [CHAT] <sigurd88> sdf
+[21:01:13] [Client thread/INFO]: [CHAT] <son588> potato
+[21:01:13] [Client thread/INFO]: [CHAT] <xOleee> dkasdokjas
+[21:01:13] [Client thread/INFO]: [CHAT] Mechazoid5116 left the game.
+[21:01:20] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[21:01:28] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[21:01:31] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[21:01:31] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[21:01:31] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[21:01:31] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[21:01:31] [Client thread/INFO]: [CHAT] Could not connect to target server, you have been moved to the fallback server
+[21:01:55] [Client thread/INFO]: [CHAT] tyler4: lol
+[21:01:56] [Client thread/INFO]: [CHAT] blueberrymb: poo
+[21:01:56] [Client thread/INFO]: [CHAT] [Premium] nihangsingh: wow
+[21:01:56] [Client thread/INFO]: [CHAT] [Premium] jai676: back in the hub
+[21:02:00] [Client thread/INFO]: [CHAT] Andr_no: wut?
+[21:02:03] [Client thread/INFO]: [CHAT] masonfootyfan123: mornabng
+[21:02:05] [Client thread/INFO]: [CHAT] TheDiamondPicks: hi
+[21:02:05] [Client thread/INFO]: [CHAT] tyler4: breana
+[21:02:05] [Client thread/INFO]: [CHAT] gian2007: lol
+[21:02:05] [Client thread/INFO]: [CHAT] pEGGaSIS: Did wesurvivie the holocast
+[21:02:10] [Client thread/INFO]: [CHAT] nalaek2004: alg
+[21:02:10] [Client thread/INFO]: [CHAT] Diamonds4all: to creative 3
+[21:02:11] [Client thread/INFO]: [CHAT] [Legend] Ninjafaces100: lag
+[21:02:11] [Client thread/INFO]: [CHAT] Rydigdigdig: hello
+[21:02:15] [Client thread/INFO]: [CHAT] TheDiamondPicks: i survived
+[21:02:16] [Client thread/INFO]: [CHAT] pEGGaSIS: *survive
+[21:02:16] [Client thread/INFO]: [CHAT] enderstuff715: laggg
+[21:02:17] [Client thread/INFO]: [CHAT] Furleone: .
+[21:02:17] [Client thread/INFO]: [CHAT] [Hero] anratork59: Holy moly
+[21:02:18] [Client thread/INFO]: [CHAT] savanamm: HII
+[21:02:25] [Client thread/INFO]: [CHAT] justinjlee0: Lag
+[21:02:26] [Client thread/INFO]: [CHAT] TheDiamondPicks: everyones here
+[21:02:26] [Client thread/INFO]: [CHAT] [Hero] anratork59: The view...
+[21:02:28] [Client thread/INFO]: [CHAT] Furleone: i have a sword :3
+[21:02:29] [Client thread/INFO]: [CHAT] [Legend] kklm225: Wait for it
+[21:02:32] [Client thread/INFO]: [CHAT] [Premium] nihangsingh: go on creative 1 ninja
+[21:02:35] [Client thread/INFO]: [CHAT] Diamonds4all: Rydigdigdig go to creative 3
+[21:02:37] [Client thread/INFO]: [CHAT] aidil2302: whoa lag
+[21:02:38] [Client thread/INFO]: [CHAT] [Legend] kklm225: Give nes a minute...
+[21:02:41] [Client thread/INFO]: [CHAT] [Premium] jai676: Ninjafaces100 creative 1
+[21:02:43] [Client thread/INFO]: [CHAT] Rydigdigdig: kk
+[21:02:43] [Client thread/INFO]: [CHAT] mclkbg03: fuck theyre not available
+[21:02:44] [Client thread/INFO]: [CHAT] savanamm: go creative 2
+[21:02:46] [Client thread/INFO]: [CHAT] epitcaithly: 1
+[21:02:47] [Client thread/INFO]: [CHAT] aidil2302: im going to creative 2
+[21:02:48] [Client thread/INFO]: [CHAT] Yus_A: mumu
+[21:02:48] [Client thread/INFO]: [CHAT] Diamonds4all: o it doesnt work -,-
+[21:02:49] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[21:02:49] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[21:02:49] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[21:02:49] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[21:02:52] [Client thread/INFO]: [CHAT] [Premium] nihangsingh: what the shit
+[21:02:52] [Client thread/INFO]: [CHAT] [Legend] kklm225: there we are
+[21:02:53] [Client thread/INFO]: [CHAT] [+] Purchase pets that follow you around! Type /store
+[21:02:54] [Client thread/INFO]: [CHAT] savanamm: NO
+[21:02:54] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: c2 nu work i hate life
+[21:02:57] [Client thread/INFO]: [CHAT] xOleee: wtf?
+[21:02:58] [Client thread/INFO]: [CHAT] Rydigdigdig: D:
+[21:03:00] [Client thread/INFO]: [CHAT] justinjlee0: Anyone know me?
+[21:03:00] [Client thread/INFO]: [CHAT] [Donator] lilly326: hi sava
+[21:03:00] [Client thread/INFO]: [CHAT] aidil2302: dangit
+[21:03:03] [Client thread/INFO]: [CHAT] [Donator] HDestroyer787: Well hllo
+[21:03:03] [Client thread/INFO]: [CHAT] Yus_A: but what about home
+[21:03:03] [Client thread/INFO]: [CHAT] [Premium] nihangsingh: c1 never work shithole
+[21:03:04] [Client thread/INFO]: [CHAT] xOleee: lag
+[21:03:04] [Client thread/INFO]: [CHAT] savanamm: Hi lilly
+[21:03:07] [Client thread/INFO]: [CHAT] aidil2302: my plot is on c2
+[21:03:08] [Client thread/INFO]: [CHAT] [Donator] HDestroyer787: hello
+[21:03:08] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: BUT
+[21:03:09] [Client thread/INFO]: [CHAT] mliuhk: harmony?!
+[21:03:10] [Client thread/INFO]: [CHAT] pEGGaSIS: Did you know that mojang now has made that you can not buy money in game with real $
+[21:03:11] [Client thread/INFO]: [CHAT] justinjlee0: Hey lillt!
+[21:03:11] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: NO
+[21:03:11] [Client thread/INFO]: [CHAT] hapi7: lel
+[21:03:13] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: -dies-
+[21:03:13] [Client thread/INFO]: [CHAT] [Legend] Ninjafaces100: just wait it out
+[21:03:14] [Client thread/INFO]: [CHAT] Irishdance856: Creative 1 isnt working WHAT!!
+[21:03:15] [Client thread/INFO]: [CHAT] [Premium] goldensunlight47: creative...
+[21:03:16] [Client thread/INFO]: [CHAT] savanamm: NOOOO D:
+[21:03:21] [Client thread/INFO]: [CHAT] [Premium] CreeperGirl103: .....
+[21:03:22] [Client thread/INFO]: [CHAT] justinjlee0: Bored face -_-
+[21:03:22] [Client thread/INFO]: [CHAT] mliuhk: IS this Heaven?! MISTY?! HARMONY?!
+[21:03:24] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: C3?
+[21:03:25] [Client thread/INFO]: [CHAT] [Donator] PixeySticks: whyyyyyyyyyyyyyyyy
+[21:03:27] [Client thread/INFO]: [CHAT] [Premium] nihangsingh: holy F*ckin sh*t?
+[21:03:28] [Client thread/INFO]: [CHAT] chloewilding: ahhhhhhh
+[21:03:31] [Client thread/INFO]: [CHAT] aidil2302: 1 AT A TIM PEOPLE (srry caps)
+[21:03:32] [Client thread/INFO]: [CHAT] Irishdance856: Ikr
+[21:03:33] [Client thread/INFO]: [CHAT] savanamm: WHY NOTCH
+[21:03:34] [Client thread/INFO]: [CHAT] RocketStar040: CALM DOWNS
+[21:03:35] [Client thread/INFO]: [CHAT] [Donator] lilly326: harmony: what?!
+[21:03:39] [Client thread/INFO]: [CHAT] pEGGaSIS: SHITZ
+[21:03:41] [Client thread/INFO]: [CHAT] [Premium] ~Pikachu: What?
+[21:03:41] [Client thread/INFO]: [CHAT] mliuhk: <mike> its me mike!
+[21:03:41] [Client thread/INFO]: [CHAT] [Premium] jai676: THIS IS SHIT
+[21:03:42] [Client thread/INFO]: [CHAT] Ender9230: nooooooo
+[21:03:43] [Client thread/INFO]: [CHAT] [Premium] nihangsingh: no creative work?
+[21:03:47] [Client thread/INFO]: [CHAT] aidil2302: NOO
+[21:03:48] [Client thread/INFO]: [CHAT] savanamm: no
+[21:03:48] [Client thread/INFO]: [CHAT] hapi7: ikr
+[21:03:49] [Client thread/INFO]: [CHAT] Bomber0312: Why is creative not working ITS JERRY AND HARRY!!!!!
+[21:03:50] [Client thread/INFO]: [CHAT] [Premium] Pika111002: whos using my nicknam?
+[21:03:51] [Client thread/INFO]: [CHAT] [Herobrine] BrainyBryan4: C3
+[21:03:51] [Client thread/INFO]: [CHAT] [Premium] Pika111002: whos using my nickname?
+[21:03:52] [Client thread/INFO]: [CHAT] [Premium] ~Golden: nooo! creative
+[21:03:54] [Client thread/INFO]: [CHAT] [Legend] kklm225: Guys
+[21:03:54] [Client thread/INFO]: [CHAT] [+] Disguise as mobs or players :O! Type /store
+[21:03:54] [Client thread/INFO]: [CHAT] [Legend] Ninjafaces100: you have to wait for everyone to calm down
+[21:03:55] [Client thread/INFO]: [CHAT] aggedagge1: C3 works
+[21:03:57] [Client thread/INFO]: [CHAT] [Legend] kklm225: calm down
+[21:03:57] [Client thread/INFO]: [CHAT] [Premium] ~Pikachu: Me
+[21:03:58] [Client thread/INFO]: [CHAT] Zig407: this bit is funny
+[21:03:59] [Client thread/INFO]: [CHAT] nalaek2004: bs
+[21:04:02] [Client thread/INFO]: [CHAT] [Legend] Ninjafaces100: theres too many people joining at once
+[21:04:03] [Client thread/INFO]: [CHAT] Minermaster1643: why is dis not working!!!!!!
+[21:04:04] [Client thread/INFO]: [CHAT] [Premium] ~Pikachu: Sorry Pika D:
+[21:04:05] [Client thread/INFO]: [CHAT] [Premium] nihangsingh: No
+[21:04:05] [Client thread/INFO]: [CHAT] [Legend] kklm225: Creative will be up soon
+[21:04:06] [Client thread/INFO]: [CHAT] Ender9230: let me in purple bitch
+[21:04:08] [Client thread/INFO]: [CHAT] epitcaithly: calm ur falm people
+[21:04:08] [Client thread/INFO]: [CHAT] [Premium] ~TheRealPikachu: no ur not
+[21:04:12] [Client thread/INFO]: [CHAT] [Premium] ~TheRealPikachu: XD
+[21:04:16] [Client thread/INFO]: [CHAT] [Legend] kklm225: it normally goes down at a server restart
+[21:04:23] [Client thread/INFO]: [CHAT] [Legend] kklm225: Just give it 10 minutes
+[21:04:23] [Client thread/INFO]: [CHAT] [Donator] HDestroyer787: mmhmm
+[21:04:30] [Client thread/INFO]: [CHAT] [Legend] GummyBean: KK<3
+[21:04:36] [Client thread/INFO]: [CHAT] [Legend] kklm225: GUMMY<3
+[21:04:41] [Client thread/INFO]: [CHAT] [Legend] GummyBean: Hai Hai
+[21:04:42] [Client thread/INFO]: [CHAT] [Legend] GummyBean: :3
+[21:04:50] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[21:04:50] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[21:04:50] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[21:04:51] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[21:04:51] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[21:04:51] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[21:04:52] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: tpa
+[21:04:53] [Client thread/INFO]: [CHAT] mliuhk: <mike> misty you are okay!
+[21:04:54] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[21:04:56] [Client thread/INFO]: [CHAT] natwood: tp to help build a GIANT maze
+[21:04:56] [Client thread/INFO]: [CHAT] Zig407: Some of my plot exploded because of the end of the world
+[21:04:56] [Client thread/INFO]: [CHAT] buzzmonkey108: hey
+[21:04:59] [Client thread/INFO]: [CHAT] [Legend] xcreamypockii: iits the zombie apocolypse
+[21:05:00] [Client thread/INFO]: [CHAT] coolfile: tpa to see amazing build
+[21:05:01] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[21:05:04] [Client thread/INFO]: [CHAT] TheDiamondPicks: im back after the end
+[21:05:16] [Client thread/INFO]: [CHAT] Yus_A: can you make clothes please
+[21:05:16] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:05:16] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:05:16] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:05:19] [Client thread/INFO]: [CHAT] Zig407: tpa to see plot that exploded because of the end of the world
+[21:05:20] [Client thread/INFO]: [CHAT] aidil2302: or are we in th land of the dead?
+[21:05:30] [Client thread/INFO]: [CHAT] Request sent to Zig407.
+[21:05:30] [Client thread/INFO]: [CHAT] Zig407 accepted your teleport request.
+[21:05:30] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[21:05:33] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[21:05:37] [Client thread/INFO]: [CHAT] [Donator] ray_mae02: any rp?
+[21:05:53] [Client thread/INFO]: [CHAT] aidil2302: whoa
+[21:06:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[21:06:02] [Client thread/INFO]: [CHAT] [me -> Zig407] poor old adoption center
+[21:06:05] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:06:17] [Client thread/INFO]: [CHAT] aidil2302: nice plot zig
+[21:06:19] [Client thread/INFO]: [CHAT] [Donator] ray_mae02: hi crista_jr
+[21:06:21] [Client thread/INFO]: [CHAT] Zig407: well
+[21:06:26] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: idk
+[21:06:29] [Client thread/INFO]: [CHAT] Zig407: who likes muffins!
+[21:06:32] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: me
+[21:06:33] [Client thread/INFO]: [CHAT] aidil2302: ME!
+[21:06:36] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: triple choc ftw :3
+[21:06:40] [Client thread/INFO]: [CHAT] xOleee: adasjr[a;/r aihdsaidjkas
+[21:06:51] [Client thread/INFO]: [CHAT] Roadster984: h
+[21:06:57] [Client thread/INFO]: [CHAT] Zig407: adail over here
+[21:06:58] [Client thread/INFO]: [CHAT] [Donator] ray_mae02: lol
+[21:06:58] [Client thread/INFO]: [CHAT] coolfile: tpa to see amazing build!
+[21:06:58] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR AN EPIC HS/POWER/PROM RP!!!! (cool guy has cool caps
+[21:07:02] [Client thread/INFO]: [CHAT] aidil2302: ok
+[21:07:05] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[21:07:17] [Client thread/INFO]: [CHAT] aidil2302: :O thx zig
+[21:07:21] [Client thread/INFO]: [CHAT] justinjlee0: l_()()l< -> Light Angel vs Human vs Dark Angel RP <- l_()()l<
+[21:07:21] [Client thread/INFO]: [CHAT] TheDiamondPicks: *All was quiet in The Land of The Dead creative people* [msg to see more]
+[21:07:29] [Client thread/INFO]: [CHAT] coolfile: tpa to see amazing build!!! (caps are cool)
+[21:07:37] [Client thread/INFO]: [CHAT] [aidil2302 -> me] i wanna see more
+[21:07:39] [Client thread/INFO]: [CHAT] Request sent to coolfile.
+[21:07:40] [Client thread/INFO]: [CHAT] xOleee: tpa cool
+[21:07:55] [Client thread/INFO]: [CHAT] xOleee: acpet
+[21:07:55] [Client thread/INFO]: [CHAT] Queen_Bunny8: buzzmonkey108!
+[21:08:04] [Client thread/INFO]: [CHAT] justinjlee0: l_()()l< --> Light Angel vs Human vs Dark Angel RP <-- l_()()l<
+[21:08:05] [Client thread/INFO]: [CHAT] loveliv123: wont me to make it like forrbiden cornor?
+[21:08:06] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[21:08:16] [Client thread/INFO]: [CHAT] Cece0320: hey who wants to date?
+[21:08:20] [Client thread/INFO]: [CHAT] loveliv123: wont me to make it like forrbiden cornor??
+[21:08:21] [Client thread/INFO]: [CHAT] [Donator] lilly326: ?
+[21:08:21] [Client thread/INFO]: [CHAT] Zig407: i also have pancakes
+[21:08:24] [Client thread/INFO]: [CHAT] [me -> aidil2302] then the server was ALIVE!!!! and the creative people were in awe with amazment
+[21:08:31] [Client thread/INFO]: [CHAT] [aidil2302 -> me] wow
+[21:08:33] [Client thread/INFO]: [CHAT] hapi7: tpa to me to be my bf
+[21:08:36] [Client thread/INFO]: [CHAT] [Donator] lilly326: IM FREEE!
+[21:08:37] [Client thread/INFO]: [CHAT] justinjlee0: l_()()l< -> Light Angel vs Human vs Dark Angel RP <- l_()()l<
+[21:08:40] [Client thread/INFO]: [CHAT] [Donator] lilly326: IM FREE!
+[21:08:40] [Client thread/INFO]: [CHAT] loveliv123: oh a HUGE maze its SWEET
+[21:08:41] [Client thread/INFO]: [CHAT] pigel33: ?
+[21:08:49] [Client thread/INFO]: [CHAT] [Donator] lilly326: justinjlee0 thanks for letting me out
+[21:08:55] [Client thread/INFO]: [CHAT] coolfile: TPA TO SEE AMAZING BUILD!!! (CAPS ARE COOL) send tp again if i dont respond
+[21:08:55] [Client thread/INFO]: [CHAT] Queen_Bunny8: TPA TO MEH IF U WERE IN MY T OR D!! (new people can come)
+[21:08:59] [Client thread/INFO]: [CHAT] loveliv123: where tho?
+[21:09:03] [Client thread/INFO]: [CHAT] [me -> aidil2302] then everything exploeded and they were dead
+[21:09:05] [Client thread/INFO]: [CHAT] coolfile: TPA TO SEE AMAZING BUILD!!! (CAPS ARE COOL) send tp again if i dont respond!
+[21:09:06] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[21:09:07] [Client thread/INFO]: [CHAT] [aidil2302 -> me] wow
+[21:09:09] [Client thread/INFO]: [CHAT] loveliv123: here?
+[21:09:11] [Client thread/INFO]: [CHAT] aidil2302: hi
+[21:09:13] [Client thread/INFO]: [CHAT] coolfile: TPA TO SEE AMAZING BUILD!!! (CAPS ARE COOL) send tp again if i dont respond
+[21:09:13] [Client thread/INFO]: [CHAT] justinjlee0: YW but you can't get back in lill
+[21:09:16] [Client thread/INFO]: [CHAT] Request sent to coolfile.
+[21:09:20] [Client thread/INFO]: [CHAT] Queen_Bunny8: tpa for a t or d!
+[21:09:22] [Client thread/INFO]: [CHAT] coolfile accepted your teleport request.
+[21:09:22] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[21:09:23] [Client thread/INFO]: [CHAT] Request sent to coolfile.
+[21:09:24] [Client thread/INFO]: [CHAT] loveliv123: add me?
+[21:09:24] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[21:09:28] [Client thread/INFO]: [CHAT] Queen_Bunny8: HI MCBFF
+[21:09:30] [Client thread/INFO]: [CHAT] [Donator] lilly326: want to clear the plot and make a rp?
+[21:09:38] [Client thread/INFO]: [CHAT] Rydigdigdig: back
+[21:09:41] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:09:41] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:09:41] [Client thread/INFO]: [CHAT] loveliv123: cool
+[21:09:45] [Client thread/INFO]: [CHAT] Rydigdigdig has requested to teleport to you.
+[21:09:45] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[21:09:45] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[21:09:45] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[21:09:47] [Client thread/INFO]: [CHAT] Queen_Bunny8: do /all
+[21:09:54] [Client thread/INFO]: [CHAT] Queen_Bunny8: do /all we starting!
+[21:10:09] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[21:10:13] [Client thread/INFO]: [CHAT] loveliv123: its a tree
+[21:10:19] [Client thread/INFO]: [CHAT] justinjlee0: Sorry but I am bored and I need to do something or I will die...
+[21:10:20] [Client thread/INFO]: [CHAT] coolfile: TPA TO SEE AMAZING BUILD!!! (CAPS ARE COOL) send tp again if i dont respond!
+[21:10:31] [Client thread/INFO]: [CHAT] buzzmonkey108: Tpa For An Awesome Game OF Truth Or Dare
+[21:10:35] [Client thread/INFO]: [CHAT] justinjlee0: My rp does need some work so rp cancled...
+[21:10:48] [Client thread/INFO]: [CHAT] aidil2302: ok
+[21:10:54] [Client thread/INFO]: [CHAT] loveliv123: w8 u will see
+[21:11:10] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[21:11:20] [Client thread/INFO]: [CHAT] [me -> coolfile] what is it
+[21:11:37] [Client thread/INFO]: [CHAT] aidil2302: wow
+[21:11:41] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:11:42] [Client thread/INFO]: [CHAT] [Hero] BaileyWR: ANT RP?
+[21:11:46] [Client thread/INFO]: [CHAT] [coolfile -> me] a gigantic glass temple
+[21:11:54] [Client thread/INFO]: [CHAT] [Hero] BaileyWR: ANY RP
+[21:11:56] [Client thread/INFO]: [CHAT] aidil2302: :O
+[21:12:00] [Client thread/INFO]: [CHAT] [me -> aidil2302] is all u say wow
+[21:12:02] [Client thread/INFO]: [CHAT] Roadster984: h
+[21:12:02] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:12:07] [Client thread/INFO]: [CHAT] [aidil2302 -> me] maybe
+[21:12:10] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[21:12:11] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR AN EPIC HS/POWER/PROM RP!!!! (cool guy has cool caps
+[21:12:15] [Client thread/INFO]: [CHAT] [Premium] bella4141: hi slayer
+[21:12:24] [Client thread/INFO]: [CHAT] [me -> aidil2302] nice :D
+[21:12:25] [Client thread/INFO]: [CHAT] Roadster984: paccept
+[21:12:26] [Client thread/INFO]: [CHAT] [Premium] bella4141: remember me???
+[21:12:37] [Client thread/INFO]: [CHAT] [Premium] bella4141: cool!
+[21:12:40] [Client thread/INFO]: [CHAT] [me -> bella4141] what to make custom heads
+[21:12:42] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:12:42] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:12:43] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:12:44] [Client thread/INFO]: [CHAT] [Premium] bella4141: wow
+[21:12:50] [Client thread/INFO]: [CHAT] [Premium] bella4141: you did quite a fantastic job!
+[21:12:59] [Client thread/INFO]: [CHAT] Request sent to bella4141.
+[21:13:11] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[21:13:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:20] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:20] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:20] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:21] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:21] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:21] [Client thread/INFO]: [CHAT] You cannot build here.
+[21:13:22] [Client thread/INFO]: [CHAT] Roadster984: this is fun stuff but hard
+[21:13:31] [Client thread/INFO]: [CHAT] Roadster984: TPA FOR AN EPIC HS/POWER/PROM RP!!!! (cool guy has cool caps
+[21:13:32] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: TPA Roadster984 FOR HS/POWERS/PROM RP COME FAST TIME IS RUNNING OUT! (#dogebooties
+[21:13:35] [Client thread/INFO]: [CHAT] loveliv123: w8 u will see cos its hard to chat what it is XD
+[21:13:39] [Client thread/INFO]: [CHAT] [VIP] marshmallow508: TPA Roadster984 FOR HS/POWERS/PROM RP COME FAST TIME IS RUNNING OUT! #dogebooties
+[21:13:46] [Client thread/INFO]: [CHAT] thefrog56: pa Roadster984
+[21:13:49] [Client thread/INFO]: [CHAT] TheDiamondPicks: BYE!!!!!!!!! I survived the appocolypse

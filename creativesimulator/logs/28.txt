@@ -1,0 +1,531 @@
+[07:41:28] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[07:41:29] [Netty Client IO #1/ERROR]: Invalid server icon (unknown format)
+[07:41:32] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[07:41:32] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[07:41:32] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[07:41:32] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[07:41:32] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[07:41:32] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[07:41:32] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[07:41:43] [Client thread/INFO]: [CHAT] [VIP] Jaddice: MASOCHIST
+[07:41:43] [Client thread/INFO]: [CHAT] [Legend] ~Edge: What about menstrual
+[07:41:46] [Client thread/INFO]: [CHAT] [Herobrine] AACM: Stop now.
+[07:41:50] [Client thread/INFO]: [CHAT] [Legend] ~Katie: No.
+[07:41:52] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[07:41:52] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[07:41:52] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[07:41:58] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[07:42:01] [Client thread/INFO]: [CHAT] mattm06: plz
+[07:42:03] [Client thread/INFO]: [CHAT] TrueShine: There once was a crooked man who walked a crooked mile.He found a crooked sixpence against a...
+[07:42:07] [Client thread/INFO]: [CHAT] isaac35861: tpa for tnt wars
+[07:42:08] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: *Throws out a bag out of deadmau5 and Monstercat*
+[07:42:09] [Client thread/INFO]: [CHAT] Xx_TheWolf_xX: Tpa for Wolfie's Camping/Power/Herobrine RP! 3 Boys left!!!!
+[07:42:13] [Client thread/INFO]: [CHAT] TheDiamondPicks: yay creative 2 is back online
+[07:42:14] [Client thread/INFO]: [CHAT] mpclark3: 12
+[07:42:21] [Client thread/INFO]: [CHAT] mpclark3: 123
+[07:42:22] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: *Throws out a bag out of deadmau5 and Monstercat merch*
+[07:42:24] [Client thread/INFO]: [CHAT] Clara1205: TPA TO ME FOR CHATING/DATING CENTERS (so many caps caps caps caps)NEED GIRLS & GUYS(mostly both)
+[07:42:24] [Client thread/INFO]: [CHAT] baylorj1999: a parcor is sometgien you do way you wate in for the game to srat
+[07:42:29] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: This is all the merch I have.
+[07:42:29] [Client thread/INFO]: [CHAT] mattm06: yup
+[07:42:29] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:42:30] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: A big bag of merch.
+[07:42:34] [Client thread/INFO]: [CHAT] chipmunksodacan: TPA FOR AN EPIC LAVA CLUB WITH GIFTSHOP!!!!(caps be hatin)]
+[07:42:34] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: Caps, t-shirts, etc.. Cups..
+[07:42:38] [Client thread/INFO]: [CHAT] Xx_TheWolf_xX: Tpa for Wolfie's Camping/Power/Herobrine RP! 3 Boys left!!!!!
+[07:42:40] [Client thread/INFO]: [CHAT] isaac35861: come
+[07:42:42] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: And a Mau5head..
+[07:42:46] [Client thread/INFO]: [CHAT] [VIP] danterichman16: say 123 for a son (i can help u build the home if we dont have one yet)
+[07:42:47] [Client thread/INFO]: [CHAT] Clara1205: TPA TO ME FOR CHATING/DATING CENTERS (so many caps caps caps caps)NEED GIRLS & GUYS(mostly both!)
+[07:42:48] [Client thread/INFO]: [CHAT] [VIP] danterichman16: say 123 for a son (i can help u build the home if we dont have one yet)!
+[07:42:49] [Client thread/INFO]: [CHAT] TrueShine: crooked stile. He bought a crooked cat which caught a crooked mouse.Now they all live together in a
+[07:42:51] [Client thread/INFO]: [CHAT] Xx_TheWolf_xX: Tpa for Wolfie's Camping/Power/Herobrine RP! 3 Boys left!!!!!!
+[07:42:52] [Client thread/INFO]: [CHAT] mattm06: plz
+[07:42:54] [Client thread/INFO]: [CHAT] isaac35861: come!
+[07:42:59] [Client thread/INFO]: [CHAT] Cremeans: Go to creative 1 to help me build a Town
+[07:43:02] [Client thread/INFO]: [CHAT] TrueShine: Little. Crooked. House.
+[07:43:05] [Client thread/INFO]: [CHAT] chipmunksodacan: TPA FOR AN EPIC LAVA CLUB WITH GIFTSHOP!!!!(caps be hatin)/
+[07:43:07] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: I got Flow's HD, a super HD resoure pack.
+[07:43:11] [Client thread/INFO]: [CHAT] mattm06: yup
+[07:43:15] [Client thread/INFO]: [CHAT] kye301: i need to be added
+[07:43:33] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: Normal DJ studio sets:
+[07:43:34] [Client thread/INFO]: [CHAT] TrueShine: Rps?~~~~
+[07:43:37] [Client thread/INFO]: [CHAT] Louadorable126: tp to me again
+[07:43:38] [Client thread/INFO]: [CHAT] Xx_TheWolf_xX: Tpa for Wolfie's Camping/Power/Herobrine RP! 3 Boys left!!!!!!!!
+[07:43:56] [Client thread/INFO]: [CHAT] chipmunksodacan: TPA FOR AN EPIC LAVA CLUB WITH GIFTSHOP!!!!(caps be hatin)[
+[07:43:59] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: MIDI Keyboard, a laptop/desktop and filter, moog, controller.
+[07:44:10] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: Here is my set, as a producer.
+[07:44:11] [Client thread/INFO]: [CHAT] BenCeli: Doctor Who RPG opening later today
+[07:44:14] [Client thread/INFO]: [CHAT] [Premium] Lillylion65: i have all of that
+[07:44:16] [Client thread/INFO]: [CHAT] [Premium] Lillylion65: jk
+[07:44:18] [Client thread/INFO]: [CHAT] kye301: i am 14
+[07:44:26] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:44:27] [Client thread/INFO]: [CHAT] babygirlfriend: COOL PLACE
+[07:44:30] [Client thread/INFO]: [CHAT] chipmunksodacan: TPA FOR AN EPIC LAVA CLUB WITH GIFTSHOP!!!!(caps be hatin).
+[07:44:36] [Client thread/INFO]: [CHAT] kye301: now
+[07:44:38] [Client thread/INFO]: [CHAT] mpclark3: say 321 if you wanna a Babby Girl ^*^
+[07:44:41] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: I-I-I-I.. feel it in my bones..
+[07:44:48] [Client thread/INFO]: [CHAT] littlekidbighair: a worker
+[07:44:51] [Client thread/INFO]: [CHAT] JonKap123: tpa to Xx_TheWolf_xX or me for a herobrine camp rp thats opend again right now (3 more boys needed)
+[07:44:53] [Client thread/INFO]: [CHAT] [Premium] Lillylion65: go ahead dj
+[07:44:59] [Client thread/INFO]: [CHAT] mpclark3: say 321 if you wanna a Babby Girl.
+[07:45:00] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: It's.. Sunday!
+[07:45:03] [Client thread/INFO]: [CHAT] chipmunksodacan: TPA FOR AN EPIC LAVA CLUB WITH GIFTSHOP!!!!(caps be hatin);
+[07:45:04] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: Everybody get down on Sunday!
+[07:45:10] [Client thread/INFO]: [CHAT] [Premium] Lillylion65: nu~
+[07:45:14] [Client thread/INFO]: [CHAT] chipmunksodacan: TPA FOR AN EPIC LAVA CLUB WITH GIFTSHOP!!!!(caps be hatin)=
+[07:45:16] [Client thread/INFO]: [CHAT] TrueShine: Anyone want a friend? Imma girl with a bear hat!
+[07:45:19] [Client thread/INFO]: [CHAT] mpclark3: say 321 if you wanna a Babby Girl
+[07:45:23] [Client thread/INFO]: [CHAT] mattm06: im added
+[07:45:28] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: Time for me is 23:44.
+[07:45:28] [Client thread/INFO]: [CHAT] mpclark3: say 321 if you wanna a Babby Girl or msg me
+[07:45:29] [Client thread/INFO]: [CHAT] BluSharpie: 321
+[07:45:29] [Client thread/INFO]: [CHAT] horsegyrl02: tpa for 2 girl roles in my rp
+[07:45:31] [Client thread/INFO]: [CHAT] Xx_TheWolf_xX: Guys please choose roles if you haven't already!
+[07:45:32] [Client thread/INFO]: [CHAT] JonKap123: wolf?
+[07:45:34] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: Your time is 3 hours away from mine.
+[07:45:38] [Client thread/INFO]: [CHAT] horsegyrl02: TPA FOR 2 GIRL ROLES IN MY RP(caps protected)
+[07:45:40] [Client thread/INFO]: [CHAT] Xx_TheWolf_xX: Yes Jon?
+[07:45:44] [Client thread/INFO]: [CHAT] chipmunksodacan: TPA FOR AN EPIC LAVA CLUB WITH GIFTSHOP!!!!(caps be hatin)[
+[07:45:46] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:45:50] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: 23:44 = totally late..
+[07:45:52] [Client thread/INFO]: [CHAT] mpclark3: say 321 if you wanna a Babby Girl or msg me.
+[07:45:57] [Client thread/INFO]: [CHAT] JonKap123: can i be added am your friend and your best bud!?
+[07:46:05] [Client thread/INFO]: [CHAT] babygirlfriend: can i have a home
+[07:46:05] [Client thread/INFO]: [CHAT] [Premium] Lillylion65: tv dont do that celing plz
+[07:46:08] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: I can't sleep 'til the sunrise..
+[07:46:09] [Client thread/INFO]: [CHAT] Xx_TheWolf_xX: Not this instant
+[07:46:12] [Client thread/INFO]: [CHAT] MCPRO2005: say 123 to adopt a 10 year old boy named N or msg me
+[07:46:13] [Client thread/INFO]: [CHAT] mpclark3: say 321 if you wanna a Babby Girl or msg me
+[07:46:17] [Client thread/INFO]: [CHAT] Louadorable126: cool
+[07:46:18] [Client thread/INFO]: [CHAT] dayna2004: Tpa For Adoption Center
+[07:46:21] [Client thread/INFO]: [CHAT] MCPRO2005: say 123 to adopt a 10 year old boy named N or msg me.
+[07:46:21] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: Wub, wub.. Wub.. Wub.. Wub... Wub..
+[07:46:22] [Client thread/INFO]: [CHAT] Atomicnes: 123
+[07:46:27] [Client thread/INFO]: [CHAT] kye301: ok i am going to my now
+[07:46:28] [Client thread/INFO]: [CHAT] [Premium] ~DJGFusion: Wait, I hate Skrillex..
+[07:46:33] [Client thread/INFO]: [CHAT] You have disabled all-chat.
+[07:47:08] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:48:27] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:49:46] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:51:02] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:52:14] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:52:26] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:52:30] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:53:21] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:53:31] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:53:51] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:54:04] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:54:22] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:54:47] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:54:57] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:55:02] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:55:03] [Client thread/INFO]: [CHAT] You cannot build here.
+[07:56:12] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[07:57:33] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[07:58:53] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[08:00:09] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[08:01:26] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[08:02:51] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:09:35] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[16:09:36] [Netty Client IO #1/ERROR]: Invalid server icon (unknown format)
+[16:09:56] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[16:10:00] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:10:00] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[16:10:00] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[16:10:00] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:10:01] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[16:10:01] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[16:10:01] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[16:10:10] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[16:10:25] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:11:25] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:12:26] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:12:36] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:13:27] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:14:12] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:14:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:14:28] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:15:30] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:16:32] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:17:33] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:17:35] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:18:35] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:19:36] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:20:36] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:21:37] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:22:45] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:23:48] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:24:48] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:25:54] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:26:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:27:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:28:59] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:30:00] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:31:00] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:32:01] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:33:01] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:34:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:35:02] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:36:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:37:03] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:38:04] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:39:04] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:40:04] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:41:06] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:42:06] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:43:07] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:44:07] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:45:08] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:46:08] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:47:09] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:48:09] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:49:10] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:50:11] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:51:13] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:52:14] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:53:14] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:54:15] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:55:15] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:56:16] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:57:17] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:58:17] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:59:17] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:00:18] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:01:19] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:02:19] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:03:19] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:04:20] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:05:20] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:06:21] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:07:21] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:08:25] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:43:45] [Netty Client IO #1/ERROR]: Invalid server icon (unknown format)
+[17:43:57] [Client thread/INFO]: Connecting to play.itsjerryandharry.com, 25565
+[17:44:02] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[17:44:02] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[17:44:02] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[17:44:02] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[17:44:03] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[17:44:03] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[17:44:03] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[17:44:16] [Client thread/INFO]: [CHAT] cuddlebunny14: me
+[17:44:44] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:45:47] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:46:47] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:47:24] [Client thread/INFO]: [CHAT] bigmatt1000 has requested to teleport to you.
+[17:47:24] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:47:24] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:47:24] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:47:37] [Client thread/INFO]: [CHAT] [me -> bigmatt1000] why
+[17:47:43] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[17:47:48] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:47:55] [Client thread/INFO]: [CHAT] [Premium] ONEEONEE: o..o
+[17:47:59] [Client thread/INFO]: [CHAT] CharlieDog10115: tpa for epic superpower/hs rp!!! 4 boys/1 girl needed! theres prom, superpowers, school, and more!
+[17:48:02] [Client thread/INFO]: [CHAT] [bigmatt1000 -> me] Because i want to tpa u
+[17:48:03] [Client thread/INFO]: [CHAT] pigel33: ryan!!
+[17:48:12] [Client thread/INFO]: [CHAT] CharlieDog10115: we need a few more boys
+[17:48:12] [Client thread/INFO]: [CHAT] Teleportation disabled.
+[17:48:24] [Client thread/INFO]: [CHAT] Teleport request denied.
+[17:48:26] [Client thread/INFO]: [CHAT] CharlieDog10115: tpa for epic superpower/hs rp!!! 4 boys/1 girl needed! theres prom, superpowers, school, and more!!
+[17:48:32] [Client thread/INFO]: [CHAT] flaminswrd: tp 4 epic parkour!
+[17:48:48] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:48:51] [Client thread/INFO]: [CHAT] cuddlebunny14: tpa for HEAD SHOp
+[17:49:09] [Client thread/INFO]: [CHAT] preachniam: -=@Tpa For Awesome Hs/Prom/Powers Rp Need Gurls/Guys@=- :3 -=@Need Guys@=- -=TpaMehFriends=-
+[17:49:12] [Client thread/INFO]: [CHAT] pigel33: ryan
+[17:49:21] [Client thread/INFO]: [CHAT] PrincessAlthea26: Anybody Wanna get adopted by me? I need on Daughter thats 6!Live in a town in a penthouse!
+[17:49:22] [Client thread/INFO]: [CHAT] yuxuan800: ?
+[17:49:29] [Client thread/INFO]: [CHAT] CharlieDog10115: tpa for epic superpower/hs rp!!! 4 boys/1 girl needed! theres prom, superpowers, school, and more!
+[17:49:47] [Client thread/INFO]: [CHAT] KittyKatVi: also cheap healthcare in that town princess is talking about
+[17:49:49] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:50:09] [Client thread/INFO]: [CHAT] [Legend] Carlie_Rae: Anyone have a Head/God shop open??
+[17:50:12] [Client thread/INFO]: [CHAT] yuxuan800: AuchtoMel is grifting
+[17:50:18] [Client thread/INFO]: [CHAT] pigel33: hi
+[17:50:29] [Client thread/INFO]: [CHAT] CharlieDog10115: tpa for epic superpower/hs rp!!! 4 boys/1 girl needed! theres prom, superpowers, school, and more!!
+[17:50:32] [Client thread/INFO]: [CHAT] cuddlebunny14: i have HEAD SHOP tp!!!
+[17:50:50] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:50:52] [Client thread/INFO]: [CHAT] CharlieDog10115: STOP LEAVING
+[17:50:59] [Client thread/INFO]: [CHAT] cuddlebunny14: tpa for HEAD SHO
+[17:51:08] [Client thread/INFO]: [CHAT] [Legend] Carlie_Rae: IM TRYING
+[17:51:37] [Client thread/INFO]: [CHAT] ravenclaw9000: dat jump
+[17:51:42] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: NOOOOO
+[17:51:50] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:51:57] [Client thread/INFO]: [CHAT] preachniam: i am!
+[17:52:03] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: iron man???
+[17:52:09] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: bat man???/
+[17:52:10] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: WHO
+[17:52:32] [Client thread/INFO]: [CHAT] CharlieDog10115: XD
+[17:52:33] [Client thread/INFO]: [CHAT] Deathdrew1353: {Derek}
+[17:52:37] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic HB/PlaneCrash/Camp/Elemental Rp! Needs Girls & Boys!!!
+[17:52:47] [Client thread/INFO]: [CHAT] preachniam: Kat: ok guys over
+[17:52:47] [Client thread/INFO]: [CHAT] ZonicZ: TPA ME TO HELP BUILD CLUB! {caps protection} ;}
+[17:52:49] [Client thread/INFO]: [CHAT] CharlieDog10115: brooklyn i think
+[17:52:50] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:52:59] [Client thread/INFO]: [CHAT] [Legend] Carlie_Rae: Anyone have a Head/God shop open??
+[17:53:03] [Client thread/INFO]: [CHAT] ZonicZ: TPA ME TO HELP BUILD CLUB! {caps protection}
+[17:53:07] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: ZonicZ
+[17:53:10] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: ZonicZ!
+[17:53:11] [Client thread/INFO]: [CHAT] ZonicZ: what
+[17:53:12] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: ZonicZ
+[17:53:18] [Client thread/INFO]: [CHAT] yuxuan800: hahahahahahahha
+[17:53:19] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic HB/PlaneCrash/Camp/Elemental Rp! Needs Girls & Boys!!!!
+[17:53:20] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: i think this is to small
+[17:53:25] [Client thread/INFO]: [CHAT] ZonicZ: WHt
+[17:53:28] [Client thread/INFO]: [CHAT] preachniam: Kat: -sits in bed- so guys? how was ur summer?
+[17:53:31] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic HB/PlaneCrash/Camp/Elemental Rp! Needs Girls & Boys!!!!!
+[17:53:32] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: i think this is to small!
+[17:53:36] [Client thread/INFO]: [CHAT] ZonicZ: ;l
+[17:53:37] [Client thread/INFO]: [CHAT] preachniam: Kat: -sits in bed- so guys? how was ur summer?!?
+[17:53:40] [Client thread/INFO]: [CHAT] CharlieDog10115: Raven: -thinks about past-
+[17:53:46] [Client thread/INFO]: [CHAT] ZonicZ: its not evem fonished
+[17:53:46] [Client thread/INFO]: [CHAT] preachniam: Kat: RAVEN!
+[17:53:50] [Client thread/INFO]: [CHAT] CharlieDog10115: Raven: wat
+[17:53:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:53:51] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: l:
+[17:53:55] [Client thread/INFO]: [CHAT] yuxuan800: ggggggggewasd weas Z#R2z
+[17:53:59] [Client thread/INFO]: [CHAT] [Premium] ONEEONEE: dknbghdfbghfd
+[17:54:05] [Client thread/INFO]: [CHAT] CharlieDog10115: Raven: oh, in summer, i had to live in the wild and fight off wild wolves
+[17:54:05] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: sorry guys
+[17:54:05] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: -afk
+[17:54:05] [Client thread/INFO]: [CHAT] sonictrolledyou: wanna go to my plot?
+[17:54:14] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: i wanna work on mai other rp
+[17:54:17] [Client thread/INFO]: [CHAT] yuxuan800: nope they are one
+[17:54:20] [Client thread/INFO]: [CHAT] [Legend] Carlie_Rae: are there any head shops or gos shops open or not?
+[17:54:23] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: whats the floor???
+[17:54:26] [Client thread/INFO]: [CHAT] [Legend] Carlie_Rae: god*
+[17:54:31] [Client thread/INFO]: [CHAT] sonictrolledyou: creeper wanna go to my plot?
+[17:54:34] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: sure, i auctally am gunna re-create it
+[17:54:40] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: JKS
+[17:54:47] [Client thread/INFO]: [CHAT] drewash90: tp to help build a highschool rp (caps)
+[17:54:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:55:11] [Client thread/INFO]: [CHAT] yuxuan800: cmon
+[17:55:15] [Client thread/INFO]: [CHAT] rainbow2007: :P
+[17:55:17] [Client thread/INFO]: [CHAT] preachniam: Kat: -smiles- raven wtf r u?
+[17:55:23] [Client thread/INFO]: [CHAT] rainbow2007: what
+[17:55:41] [Client thread/INFO]: [CHAT] yuxuan800: lel
+[17:55:41] [Client thread/INFO]: [CHAT] ravenclaw9000: lol "Things"
+[17:55:44] [Client thread/INFO]: [CHAT] flaminswrd: XD
+[17:55:44] [Client thread/INFO]: [CHAT] preachniam: Kat: i didnt say that!
+[17:55:52] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:56:00] [Client thread/INFO]: [CHAT] preachniam: Kat: i said (WhereTheFuck) r u?
+[17:56:02] [Client thread/INFO]: [CHAT] yuxuan800: dat d
+[17:56:31] [Client thread/INFO]: [CHAT] yuxuan800: kor wews
+[17:56:44] [Client thread/INFO]: [CHAT] preachniam: Kat: -sits by herself-
+[17:56:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:56:53] [Client thread/INFO]: [CHAT] yuxuan800: shes don't want to do it i think lawl
+[17:56:54] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> tyler
+[17:57:06] [Client thread/INFO]: [CHAT] [Legend] kirsty71626: hi
+[17:57:08] [Client thread/INFO]: [CHAT] preachniam: Kat: -smiles- no
+[17:57:12] [Client thread/INFO]: [CHAT] scream_14: eny rps say I
+[17:57:21] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> hi?
+[17:57:48] [Client thread/INFO]: [CHAT] preachniam: Kat: im not sitting with those pops
+[17:57:54] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:57:56] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> yes
+[17:58:00] [Client thread/INFO]: [CHAT] ravenclaw9000: thats an evil jump
+[17:58:04] [Client thread/INFO]: [CHAT] [Premium] ~Kat: Im a Kat Because my dad was a cat
+[17:58:13] [Client thread/INFO]: [CHAT] preachniam: Kat: lol idk -sit byself-
+[17:58:14] [Client thread/INFO]: [CHAT] flaminswrd: yea XD
+[17:58:16] [Client thread/INFO]: [CHAT] Jellygirl1412: lol
+[17:58:26] [Client thread/INFO]: [CHAT] [Legend] ~ItzKirsty: im so fancy
+[17:58:31] [Client thread/INFO]: [CHAT] [Legend] ~ItzKirsty: you already know
+[17:58:33] [Client thread/INFO]: [CHAT] Sukh0i: me too
+[17:58:39] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> eh-eh
+[17:58:50] [Client thread/INFO]: [CHAT] preachniam: KAt: -eats lunch- -drinks pepsi-
+[17:58:55] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:58:55] [Client thread/INFO]: [CHAT] ankylopoo: tpa for headshop
+[17:58:55] [Client thread/INFO]: [CHAT] madystar: im so fancy you already know!
+[17:59:03] [Client thread/INFO]: [CHAT] Addos: AND SWAAAA
+[17:59:07] [Client thread/INFO]: [CHAT] ankylopoo: tpa for epic headshop
+[17:59:09] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> did u just do that.
+[17:59:14] [Client thread/INFO]: [CHAT] yuxuan800: everyone have 3 pass but flower_girl_13 has 2 pass ok
+[17:59:25] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> ...... u know what happend
+[17:59:28] [Client thread/INFO]: [CHAT] Addos: mady O.o
+[17:59:30] [Client thread/INFO]: [CHAT] preachniam: Kat: raven -walks up to alyssa- yea she did got a prob go tell it to someone who cares
+[17:59:36] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> ...... u know what happens!
+[17:59:46] [Client thread/INFO]: [CHAT] preachniam: Kat: so go tell it to ur BF and not us plz...thnx!
+[17:59:47] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> :P its ok :P
+[17:59:47] [Client thread/INFO]: [CHAT] Sukh0i: there all steve
+[17:59:55] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:00:01] [Client thread/INFO]: [CHAT] Sukh0i: there all steve!!
+[18:00:04] [Client thread/INFO]: [CHAT] preachniam: Kat: well...lol -embarressed-
+[18:00:08] [Client thread/INFO]: [CHAT] [Premium] SmallVivor: afk!!1
+[18:00:18] [Client thread/INFO]: [CHAT] Sukh0i: there all steve!!!!!!
+[18:00:26] [Client thread/INFO]: [CHAT] ankylopoo: no there not
+[18:00:29] [Client thread/INFO]: [CHAT] flaminswrd: ravenclaw9000 did u finish?
+[18:00:32] [Client thread/INFO]: [CHAT] yuxuan800: if you don't do anything i going to go
+[18:00:33] [Client thread/INFO]: [CHAT] Sukh0i: yes they are
+[18:00:35] [Client thread/INFO]: [CHAT] ravenclaw9000: yep
+[18:00:38] [Client thread/INFO]: [CHAT] flaminswrd: follow
+[18:00:41] [Client thread/INFO]: [CHAT] ankylopoo: the skins on the heads arent loading u bum
+[18:00:52] [Client thread/INFO]: [CHAT] preachniam: Kat: -sits infront of raven-
+[18:00:52] [Client thread/INFO]: [CHAT] ankylopoo: dumbass
+[18:00:56] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:00:57] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Qu
+[18:00:57] [Client thread/INFO]: [CHAT] Sukh0i: shut up
+[18:01:02] [Client thread/INFO]: [CHAT] ankylopoo: u shutup
+[18:01:05] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!
+[18:01:06] [Client thread/INFO]: [CHAT] preachniam: Kat: -looks back- hey
+[18:01:15] [Client thread/INFO]: [CHAT] yuxuan800: {------
+[18:01:16] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!
+[18:01:26] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!
+[18:01:32] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> sits next to raven :P *whateh f
+[18:01:34] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!
+[18:01:36] [Client thread/INFO]: [CHAT] preachniam: Kat: -looks at raveb- stop it XD
+[18:01:49] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!
+[18:01:49] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> haha
+[18:01:57] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> -smiles-
+[18:01:59] [Client thread/INFO]: [CHAT] preachniam: Kat: -makes snowball and throws it at tyler bc he is sleeping=
+[18:01:59] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:02:00] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!
+[18:02:08] [Client thread/INFO]: [CHAT] preachniam: Kat: -makes snowball and throws it at tyler bc he is sleeping- ....
+[18:02:08] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> ????
+[18:02:12] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!!
+[18:02:12] [Client thread/INFO]: [CHAT] Addos: :L my stomach hurts
+[18:02:21] [Client thread/INFO]: [CHAT] ravenclaw9000: Notch's Sword, Bow, HB picaxe aaand.
+[18:02:25] [Client thread/INFO]: [CHAT] ankylopoo: tpa for epic headshop
+[18:02:28] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!!!!
+[18:02:31] [Client thread/INFO]: [CHAT] flaminswrd: BETTY
+[18:02:38] [Client thread/INFO]: [CHAT] preachniam: Kat: lol XD thnx i try my best
+[18:02:38] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> bursts out laughing!!
+[18:02:53] [Client thread/INFO]: [CHAT] preachniam: Kat: ok!
+[18:02:58] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> idk
+[18:02:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:03:03] [Client thread/INFO]: [CHAT] ankylopoo: tpa for headshop
+[18:03:12] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a head shop!
+[18:03:17] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!!!
+[18:03:21] [Client thread/INFO]: [CHAT] preachniam: Kat: we never learned that!
+[18:03:25] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a head shop!!
+[18:03:32] [Client thread/INFO]: [CHAT] preachniam: Kat: are you CRAZY?!
+[18:03:41] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> ms sugar is cute
+[18:03:41] [Client thread/INFO]: [CHAT] Sukh0i: over here!
+[18:03:53] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!
+[18:03:59] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:04:13] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> punchez teacher
+[18:04:14] [Client thread/INFO]: [CHAT] preachniam: Kat: what are we doing?
+[18:04:23] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> punchez teacher!
+[18:04:26] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!!!!
+[18:04:40] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!
+[18:04:43] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a head shop!!!
+[18:04:46] [Client thread/INFO]: [CHAT] preachniam: Kat: -stops- -walks to dorm-
+[18:04:56] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> we have to go to the dumb buses
+[18:04:58] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!
+[18:05:00] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:05:10] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a god/head shop!
+[18:05:12] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!
+[18:05:24] [Client thread/INFO]: [CHAT] ankylopoo: ywcorp other entrance
+[18:05:26] [Client thread/INFO]: [CHAT] flaminswrd: any1 want 2 help me test out a new mini game? need 2 people\
+[18:05:27] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a god/head shop!!
+[18:05:40] [Client thread/INFO]: [CHAT] preachniam: Kat: -makes it snow in her room- -laughs- -flops onto bed-
+[18:05:41] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a god/head shop!!!
+[18:05:53] [Client thread/INFO]: [CHAT] preachniam: Kat: -opens door- yea?
+[18:05:54] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!
+[18:06:00] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:06:03] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!
+[18:06:05] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a god/head shop!!!!
+[18:06:06] [Client thread/INFO]: [CHAT] preachniam: Kat: -gets text- -text back: hi!
+[18:06:13] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a god/head shop!!
+[18:06:16] [Client thread/INFO]: [CHAT] blaz03: cool :3
+[18:06:27] [Client thread/INFO]: [CHAT] flaminswrd: any1 want 2 help me test out a new mini game? need 2 people
+[18:06:29] [Client thread/INFO]: [CHAT] blaz03: i cloneed 64 :3
+[18:06:32] [Client thread/INFO]: [CHAT] preachniam: Kat: hey raven...what y need? -pauses- WTF?
+[18:06:40] [Client thread/INFO]: [CHAT] Awreck: Who have SteamPowered Say 1223
+[18:06:49] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a god/head shop!
+[18:06:50] [Client thread/INFO]: [CHAT] Sukh0i: tpa for awesome rp with powers
+[18:06:52] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!
+[18:07:01] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:07:04] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a god/head shop!!
+[18:07:07] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!
+[18:07:15] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!
+[18:07:20] [Client thread/INFO]: [CHAT] preachniam: Kat: u cant do that! hey wanna watch a scary movie?
+[18:07:25] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!
+[18:07:27] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> texts tyler *u free?*
+[18:07:28] [Client thread/INFO]: [CHAT] yuxuan800: tpa for a god/head shop!!!
+[18:07:35] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!!!!
+[18:07:48] [Client thread/INFO]: [CHAT] preachniam: Kat: what?!
+[18:07:53] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> TEXTS tyler
+[18:07:57] [Client thread/INFO]: [CHAT] preachniam: Kat: -scared-
+[18:08:01] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:08:10] [Client thread/INFO]: [CHAT] Sukh0i: tpa()()rp()is awesome()come()()now()!!!!!
+[18:08:10] [Client thread/INFO]: [CHAT] Netti876: any rps?
+[18:08:11] [Client thread/INFO]: [CHAT] preachniam: Kat: -laughs-
+[18:08:36] [Client thread/INFO]: [CHAT] preachniam: Kat: -hears lukes tv- -knocks on his dorm room- hello?
+[18:08:36] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> -texts- are u free?
+[18:08:55] [Client thread/INFO]: [CHAT] Sukh0i: tpa()()rp()is awesome()come()()now()!!!!!!
+[18:09:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:09:03] [Client thread/INFO]: [CHAT] preachniam: Kat: -smiles- canu turn it down?
+[18:09:05] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!
+[18:09:12] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> because do u wanna go to prom wit me
+[18:09:17] [Client thread/INFO]: [CHAT] preachniam: Kat: thnx!
+[18:09:19] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!
+[18:09:36] [Client thread/INFO]: [CHAT] flaminswrd: Tp 2 test out a new Craftin mini game! need 2 people, both will get 5 god items! game in beta
+[18:09:36] [Client thread/INFO]: [CHAT] preachniam: Kat: scary movie brooklyn?
+[18:09:44] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> PS> ok
+[18:09:49] [Client thread/INFO]: [CHAT] preachniam: Kat: RYAN!
+[18:09:51] [Client thread/INFO]: [CHAT] flaminswrd: Tp 2 test out a new Craftin mini game! need 2 people, both will get 5 god items!
+[18:09:55] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!
+[18:10:02] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:10:08] [Client thread/INFO]: [CHAT] preachniam: Kat: -screams- -jump scare-
+[18:10:20] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!!!!
+[18:10:20] [Client thread/INFO]: [CHAT] flaminswrd: Tp 2 test out a new Craftin mini game! need 1 person, both will get 5 god items!
+[18:10:22] [Client thread/INFO]: [CHAT] preachniam: Kat: im scared!
+[18:10:27] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> OMG! sceramz
+[18:10:28] [Client thread/INFO]: [CHAT] yuxuan800: tpa for head/god shop!
+[18:10:38] [Client thread/INFO]: [CHAT] Sukh0i: tpa()()rp()is awesome()come()()now()!!!!!
+[18:10:46] [Client thread/INFO]: [CHAT] Sukh0i: tpa()()rp()is awesome()come()()now()!!!!!!
+[18:10:47] [Client thread/INFO]: [CHAT] yuxuan800: g2g
+[18:10:48] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! Best roles!!! tpa Quick!!!!!!!!!!!!!!
+[18:10:49] [Client thread/INFO]: [CHAT] preachniam: Kat: -hears luke- wtf?
+[18:10:51] [Client thread/INFO]: [CHAT] flaminswrd: DerpDemension ur p1
+[18:10:53] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> eats cake spits on kat *eww
+[18:10:59] [Client thread/INFO]: [CHAT] flaminswrd: so stay on ur side
+[18:11:00] [Client thread/INFO]: [CHAT] preachniam: Kat: luke!
+[18:11:05] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:11:06] [Client thread/INFO]: [CHAT] flaminswrd: Wj11jam ur p2
+[18:11:09] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! PLZZ TPA Despret tpa Quick!!!!!!!!!!!!!!
+[18:11:13] [Client thread/INFO]: [CHAT] preachniam: Kat: why r u screaming?
+[18:11:13] [Client thread/INFO]: [CHAT] flaminswrd: stay on p2s side
+[18:11:18] [Client thread/INFO]: [CHAT] zefin100: i like cheez
+[18:11:23] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! PLZZ TPA Despret tpa Quick!!!!!!!!!!!!
+[18:11:28] [Client thread/INFO]: [CHAT] flaminswrd: and ur both invis XD
+[18:11:30] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! PLZZ TPA Desprete tpa Quick!!!!!!!!!!!!
+[18:11:44] [Client thread/INFO]: [CHAT] flaminswrd: is Wj11jam is here, right?
+[18:11:47] [Client thread/INFO]: [CHAT] preachniam: Kat: luke..what raven?
+[18:11:49] [Client thread/INFO]: [CHAT] MusicKik11: who thinks they have the best girl skin?
+[18:11:50] [Client thread/INFO]: [CHAT] Wj11jam: yes
+[18:11:52] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! TPA About to start tpa Quick!!!!!!!!!!!!
+[18:11:52] [Client thread/INFO]: [CHAT] flaminswrd: kk
+[18:11:57] [Client thread/INFO]: [CHAT] preachniam: Kat: at the bus
+[18:12:02] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! TPA About to start tpa Quick!!!!!!!!!
+[18:12:06] [Client thread/INFO]: [CHAT] Sukh0i: tpa()()rp()is awesome()come()()now()!!!!! i am not owner
+[18:12:11] [Client thread/INFO]: [CHAT] preachniam: Kat: luke wtf is going on?
+[18:12:16] [Client thread/INFO]: [CHAT] flaminswrd: so u both r 2 craft the block i tell u with the marterial provided
+[18:12:19] [Client thread/INFO]: [CHAT] preachniam: Kat: why r u screaming?
+[18:12:27] [Client thread/INFO]: [CHAT] flaminswrd: start when i say go
+[18:12:27] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> texts kat
+[18:12:29] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:12:30] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! TPA About to start tpa Quick!!!!!!
+[18:12:35] [Client thread/INFO]: [CHAT] flaminswrd: and dont cheat the blocks
+[18:12:36] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> texts kat!
+[18:12:39] [Client thread/INFO]: [CHAT] preachniam: Kat: gtg WHAT RAVEN?
+[18:12:47] [Client thread/INFO]: [CHAT] scream_14: TPA FOR A EPIC HS Rp!! w/powers n Prom! Need Girls N boys!! TPA About to start tpa Quick!!!
+[18:12:52] [Client thread/INFO]: [CHAT] flaminswrd: um, GO
+[18:12:57] [Client thread/INFO]: [CHAT] preachniam: Kat: -text alyssa- hi
+[18:13:15] [Client thread/INFO]: [CHAT] flaminswrd: yike
+[18:13:21] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa *hears* be what?
+[18:13:22] [Client thread/INFO]: [CHAT] [VIP] xHarohi: leesh
+[18:13:27] [Client thread/INFO]: [CHAT] flaminswrd: glass in chest
+[18:13:31] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[18:13:34] [Client thread/INFO]: [CHAT] preachniam: Kat: -hears- be wat?
+[18:13:34] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa *hears* be what?....
+[18:13:36] [Client thread/INFO]: [CHAT] flaminswrd: thxs 4 tellin me
+[18:13:45] [Client thread/INFO]: [CHAT] flaminswrd: and u guys appeared! XD
+[18:13:55] [Client thread/INFO]: [CHAT] preachniam: Kat: what?
+[18:13:58] [Client thread/INFO]: [CHAT] flaminswrd: well
+[18:14:06] [Client thread/INFO]: [CHAT] flaminswrd: Wj11jam won by a few secs
+[18:14:12] [Client thread/INFO]: [CHAT] [Donator] elicashman9: Um, Hi
+[18:14:17] [Client thread/INFO]: [CHAT] preachniam: Kat: where -scared-
+[18:14:20] [Client thread/INFO]: [CHAT] flaminswrd: now 1 more
+[18:14:25] [Client thread/INFO]: [CHAT] rainbow2007: Alyssa> OK
+[18:14:30] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:14:35] [Client thread/INFO]: [CHAT] flaminswrd: can u guys use the brewing stand
+[18:14:38] [Client thread/INFO]: [CHAT] preachniam: Kat: wait i will trust ppl!

@@ -1,0 +1,959 @@
+[16:49:43] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:49:44] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[16:49:45] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[16:49:45] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:49:46] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[16:49:54] [Client thread/INFO]: [CHAT] Other players are now invisible!
+[16:49:54] [Client thread/INFO]: [CHAT] You may only use the clock once every 10 seconds!
+[16:49:55] [Client thread/INFO]: [CHAT] [+] Join games using reserved slots! Type /store
+[16:50:04] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:50:05] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:50:06] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:50:07] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[16:50:08] [Client thread/INFO]: [CHAT] exploderplaysMC: ill tell u which one :D
+[16:50:12] [Client thread/INFO]: [CHAT] exploderplaysMC: no spleef
+[16:50:26] [Client thread/INFO]: [CHAT] connorspradling: cook chip what is ur instagram
+[16:50:29] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[16:50:29] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[16:50:29] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[16:50:37] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[16:50:41] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!
+[16:50:57] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *whispers* lets go trick Kyle hehe
+[16:50:57] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:51:04] [Client thread/INFO]: [CHAT] Hashbrown_Here: TPA to Sockmonkey2002 for skin comp.
+[16:51:06] [Client thread/INFO]: [CHAT] imjohnnyb: jason) hi emily
+[16:51:12] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!
+[16:51:14] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> oh uh. hey kyle
+[16:51:20] [Client thread/INFO]: [CHAT] Hashbrown_Here: TPA to Sockmonkey2002 for skin comp!
+[16:51:25] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!
+[16:51:26] [Client thread/INFO]: [CHAT] Kristy2881111: ~~~()MG! L()()K! tpa to sockmonkey2002 to be in a SKIN COMPETITION! :o!!
+[16:51:41] [Client thread/INFO]: [CHAT] Request sent to Sockmonkey2002.
+[16:51:47] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> RUN
+[16:51:52] [Client thread/INFO]: [CHAT] imjohnnyb: jason) why
+[16:51:56] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:52:02] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: can someone help with my face
+[16:52:08] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *locks doors*
+[16:52:18] [Client thread/INFO]: [CHAT] gamingbananababy: HAI
+[16:52:19] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: its soo quiet lol
+[16:52:20] [Client thread/INFO]: [CHAT] Request sent to Sockmonkey2002.
+[16:52:26] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: ok
+[16:52:27] [Client thread/INFO]: [CHAT] TheDiamondPicks: haio
+[16:52:43] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: probably because everyones concentrating lol
+[16:52:43] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Kyle is Nicholette ok? What happened?
+[16:52:48] [Client thread/INFO]: [CHAT] gamingbananababy: Anythang 2 do?
+[16:52:56] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:53:03] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *helps carry Nicholette*
+[16:53:14] [Client thread/INFO]: [CHAT] TheDiamondPicks: any head shops or skin comps
+[16:53:21] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!
+[16:53:29] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> What happened to her?
+[16:53:41] [Client thread/INFO]: [CHAT] Request sent to Sockmonkey2002.
+[16:53:46] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Wait.. where is Emily?1
+[16:53:57] [Client thread/INFO]: [CHAT] Sockmonkey2002 accepted your teleport request.
+[16:53:57] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[16:53:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:54:00] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[16:54:03] [Client thread/INFO]: [CHAT] gamingbananababy: should i build a sky island & build like an adoption center on it?
+[16:54:09] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> WAKE UP
+[16:54:10] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!
+[16:54:20] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *slaps*.
+[16:54:25] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!
+[16:54:35] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!
+[16:54:45] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> You started screaming
+[16:54:57] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:55:01] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!
+[16:55:16] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA TO Sockmonkey2002 FOR A EPIC SKIN COMP
+[16:55:18] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> What was that about..
+[16:55:29] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!
+[16:55:30] [Client thread/INFO]: [CHAT] bchristen202: <jinx> follow her
+[16:55:42] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!
+[16:55:45] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:46] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:47] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:47] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:47] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:55:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:56:00] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!
+[16:56:04] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I'll come too Tammy!
+[16:56:05] [Client thread/INFO]: [CHAT] Player not found.
+[16:56:09] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!
+[16:56:25] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!
+[16:56:25] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> You don't care if i die..
+[16:56:27] [Client thread/INFO]: [CHAT] [me -> Sockmonkey2002] whats the prize
+[16:56:54] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> oh.
+[16:56:55] [Client thread/INFO]: [CHAT] imjohnnyb: jason evil) tic tok muhaheahe
+[16:56:56] [Client thread/INFO]: [CHAT] [Sockmonkey2002 -> me] idk what kind of stuff do u want
+[16:56:58] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:57:01] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!
+[16:57:09] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I.. I have to go,,
+[16:57:13] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!
+[16:57:18] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *sprints fast into the woods*
+[16:57:31] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!
+[16:57:33] [Client thread/INFO]: [CHAT] [me -> Sockmonkey2002] peoples heads i own a head shop
+[16:57:46] [Client thread/INFO]: [CHAT] [Sockmonkey2002 -> me] ok
+[16:57:55] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *goes to bed*
+[16:57:58] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!
+[16:57:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:58:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:09] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:10] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:15] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:16] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:17] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Nothing, *looks away quickly*
+[16:58:18] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:25] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!
+[16:58:28] [Client thread/INFO]: [CHAT] [Premium] fashiondeva: ok lets start building
+[16:58:39] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Who? My friends?
+[16:58:58] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:58:59] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:59:06] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Listen, Travis.. i know who has been doing all these things to everyone...
+[16:59:15] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!!
+[16:59:15] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Don't freak out..
+[16:59:27] [Client thread/INFO]: [CHAT] imjohnnyb: jason evil) muhahaha
+[16:59:31] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!
+[16:59:34] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> It's *whispers* herobrine..
+[16:59:48] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *hears a scream*
+[16:59:53] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!
+[16:59:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:00:04] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Come on!
+[17:00:13] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Emily?!!
+[17:00:22] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!!
+[17:00:33] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!!!
+[17:00:53] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *sees mysterious stairs*
+[17:01:00] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:01:02] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> These look familiar...
+[17:01:02] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!!
+[17:01:12] [Client thread/INFO]: [CHAT] LilyLunaPotter13: someone griefed me....... i am killling them now
+[17:01:32] [Client thread/INFO]: [CHAT] Sparkydog232: any rps
+[17:01:34] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Emily!!
+[17:01:36] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!!!
+[17:01:37] [Client thread/INFO]: [CHAT] piedude9: me
+[17:01:42] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *hugs*
+[17:01:53] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!!!!
+[17:02:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:02:13] [Client thread/INFO]: [CHAT] imjohnnyb: jason) how did i get up here?
+[17:02:16] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!
+[17:02:18] [Client thread/INFO]: [CHAT] DoG_BuNz: msg me for if you have and rp and say what the rp is
+[17:02:26] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!
+[17:02:28] [Client thread/INFO]: [CHAT] [Premium] matt9098: TPA to check out the new Water Park!
+[17:02:40] [Client thread/INFO]: [CHAT] imjohnnyb: jason) *falls*
+[17:02:42] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!
+[17:02:44] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: ikrrr
+[17:02:51] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!
+[17:02:58] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: hi bluechain
+[17:03:02] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:03:06] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!
+[17:03:21] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:03:28] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!
+[17:03:29] [Client thread/INFO]: [CHAT] imjohnnyb: jason) ow ow ow ow ow
+[17:03:38] [Client thread/INFO]: [CHAT] LilyLunaPotter13: ,-, Tpa to help build a Supernatural Highschool RP! No Griefers and Noobs!
+[17:03:59] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: im gonna have a seizure :P
+[17:03:59] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop!!!
+[17:04:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:04:37] [Client thread/INFO]: [CHAT] LilyLunaPotter13: :3
+[17:04:39] [Client thread/INFO]: [CHAT] liiliin: hi
+[17:04:52] [Client thread/INFO]: [CHAT] imjohnnyb: jason) h help m me
+[17:05:03] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:05:14] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!
+[17:05:22] [Client thread/INFO]: [CHAT] liiliin: i wanna help cause me too has been griefed
+[17:05:34] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *hugs Travis tightly*
+[17:05:58] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I-I fell down a hole and I woke up in the middle of no where*
+[17:06:03] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:06:05] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head and god shop 100+ heads <--------look
+[17:06:10] [Client thread/INFO]: [CHAT] liiliin: firstly do /all
+[17:06:15] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *starts to cry*
+[17:06:23] [Client thread/INFO]: [CHAT] gamingbananababy: ZBORED
+[17:06:25] [Client thread/INFO]: [CHAT] lxkspal has requested to teleport to you.
+[17:06:25] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:06:25] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:06:25] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:06:30] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Travis, *whispers* I'm so scared.
+[17:06:30] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!
+[17:06:39] [Client thread/INFO]: [CHAT] mbmb10: tpa SoxkMonkey
+[17:06:40] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:06:42] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *sobs onto his shoulder*
+[17:06:56] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!
+[17:06:57] [Client thread/INFO]: [CHAT] gamingbananababy: Tp 2 halp build an Adoption Center!
+[17:07:04] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:07:14] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: good
+[17:07:14] [Client thread/INFO]: [CHAT] gamingbananababy: amathaine tp agien
+[17:07:18] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *angrily whipes eyes and storms into house*
+[17:07:26] [Client thread/INFO]: [CHAT] gamingbananababy: amathaine agien
+[17:07:41] [Client thread/INFO]: [CHAT] mbmb10: tpaccept
+[17:07:47] [Client thread/INFO]: [CHAT] gamingbananababy: Tp 2 halp build an Adoption Center!!
+[17:07:51] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!!
+[17:07:57] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: How Does Mine look?
+[17:08:01] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *sighs and closes eyes*
+[17:08:04] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:08:15] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: Thanks Same With You
+[17:08:22] [Client thread/INFO]: [CHAT] Sockmonkey2002: TPA TO be in an EPIC SKIN comp!!!!!!!!!
+[17:08:23] [Client thread/INFO]: [CHAT] mbmb10: tpa SockMonkey2002
+[17:08:39] [Client thread/INFO]: [CHAT] Kristy2881111: L()()K! 25 HEADS! WE GIVE THEM IN 64! TPA TO ME ( hahaha unicorns )
+[17:08:44] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: DoneQ
+[17:08:46] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: Done!
+[17:08:56] [Client thread/INFO]: [CHAT] Kristy2881111: L()()K! 25 HEADS! WE GIVE THEM IN 64! TPA TO ME ( hahaha unicorns )!
+[17:09:04] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: thanks
+[17:09:05] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:09:07] [Client thread/INFO]: [CHAT] Kristy2881111: L()()K! 25 HEADS! WE GIVE THEM IN 64! TPA TO ME ( hahaha unicorns )!!
+[17:09:09] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: Well Done All!
+[17:09:13] [Client thread/INFO]: [CHAT] lxkspal: bad spellers of the world UNTIE!!!!!!
+[17:09:19] [Client thread/INFO]: [CHAT] Kristy2881111: L()()K! 25 HEADS! WE GIVE THEM IN 64! TPA TO ME ( hahaha unicorns )!!!!
+[17:09:39] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: what then
+[17:09:47] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP 100+ HEADS!!!!! Come now spam that tpa
+[17:09:53] [Client thread/INFO]: [CHAT] gamingbananababy: Tp 2 halp build an Adoption Center!!!
+[17:09:59] [Client thread/INFO]: [CHAT] Kristy2881111 has requested to teleport to you.
+[17:09:59] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:09:59] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:09:59] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:10:04] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[17:10:05] [Client thread/INFO]: [CHAT] XxXnicholeXxX: TheDiamondPicks
+[17:10:05] [Client thread/INFO]: [CHAT] gamingbananababy: I did!
+[17:10:06] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:10:08] [Client thread/INFO]: [CHAT] XxXnicholeXxX has requested to teleport to you.
+[17:10:08] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:10:08] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:10:08] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:10:11] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:10:19] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *hears Travis*
+[17:10:27] [Client thread/INFO]: [CHAT] DoG_BuNz: eys
+[17:10:27] [Client thread/INFO]: [CHAT] gamingbananababy: amathaine wait i got an idea :D
+[17:10:40] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *turns to stone*
+[17:10:45] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC HEAD SHOP 100+ HEADS!!!!! Come now spam that tpa if i don't accept try again
+[17:10:56] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: Aha
+[17:11:00] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *starts rumbling and comes back to normal*
+[17:11:06] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:11:12] [Client thread/INFO]: [CHAT] gamingbananababy: how about like we got a huge place with a guys,girls,nannys & a pets collams & then a huge play area
+[17:11:18] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Well the hell is Draculora
+[17:11:19] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: scream urs is tall
+[17:11:37] [Client thread/INFO]: [CHAT] [Donator] Gamer_Dude_007: Nice
+[17:11:41] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *screams* you better hide Drac because you're so dead!
+[17:11:49] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: 2 shirtless people?
+[17:11:54] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:11:55] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:11:55] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:11:56] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:11:56] [Client thread/INFO]: [CHAT] imjohnnyb: jason) NEW STORE
+[17:12:05] [Client thread/INFO]: [CHAT] XxXnicholeXxX has requested to teleport to you.
+[17:12:05] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:06] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:06] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:07] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:12:11] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Oh really? You left me alone.
+[17:12:14] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:15] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:15] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:16] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:18] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:18] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:19] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:19] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:20] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:21] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:21] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:22] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:22] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:23] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:23] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:24] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:24] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:25] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:25] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:26] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:27] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:27] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:28] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:28] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:29] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:29] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:30] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:30] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:31] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:31] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:32] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:32] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:34] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:12:34] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:35] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:35] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:42] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *rolls eyes* You don't even care about me! You never did!
+[17:12:46] [Client thread/INFO]: [CHAT] XxXnicholeXxX has requested to teleport to you.
+[17:12:46] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:12:46] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:12:46] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:12:55] [Client thread/INFO]: [CHAT] [Sockmonkey2002 -> me] Can I come???!
+[17:12:56] [Client thread/INFO]: [CHAT] imjohnnyb: ohhhhhh!!!!!!!
+[17:13:01] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: ok inside the club we go
+[17:13:01] [Client thread/INFO]: [CHAT] micahbdoesmc: any rps msg me plz
+[17:13:07] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:13:08] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I've loved you for three years! *runs and starts to cry*
+[17:13:09] [Client thread/INFO]: [CHAT] [me -> Sockmonkey2002] in a sec
+[17:13:31] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:13:32] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:13:33] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:13:33] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:13:34] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:13:36] [Client thread/INFO]: [CHAT] Kristy2881111 has requested to teleport to you.
+[17:13:37] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:13:37] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:13:38] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:13:40] [Client thread/INFO]: [CHAT] Kristy2881111 has requested to teleport to you.
+[17:13:41] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:13:41] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:13:42] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:13:42] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: winter
+[17:13:43] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:13:44] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Draculora. Your powers dont work on me!
+[17:13:47] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: ok
+[17:13:54] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:13:54] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:13:54] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:13:54] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:13:59] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[17:14:00] [Client thread/INFO]: [CHAT] micahbdoesmc: any rps msg me
+[17:14:04] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:14:04] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *pushes Drac to the ground and kicks her in the face*
+[17:14:07] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:14:08] [Client thread/INFO]: [CHAT] [Sockmonkey2002 -> me] Can I come???!
+[17:14:10] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:14:10] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:14:10] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:14:10] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:14:15] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[17:14:20] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:14:22] [Client thread/INFO]: [CHAT] [Sockmonkey2002 -> me] lol moved...
+[17:14:25] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: idk:P
+[17:14:27] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *chokes*
+[17:14:34] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *falls to ground*
+[17:14:38] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: they arent
+[17:14:44] [Client thread/INFO]: [CHAT] [me -> Sockmonkey2002] ikr
+[17:14:47] [Client thread/INFO]: [CHAT] imjohnnyb: repeat tap both feet
+[17:14:53] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> oh my god *gasps*
+[17:14:59] [Client thread/INFO]: [CHAT] xXweeho44Xx: ok but this time more people
+[17:15:05] [Client thread/INFO]: [CHAT] You do not have access to that command.
+[17:15:07] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:15:08] [Client thread/INFO]: [CHAT] imjohnnyb: spark that shit lean back in seat
+[17:15:21] [Client thread/INFO]: [CHAT] Request sent to Sockmonkey2002.
+[17:15:33] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *slowly starts to die*
+[17:15:34] [Client thread/INFO]: [CHAT] imjohnnyb: i never worked like a antenna set to 757
+[17:15:34] [Client thread/INFO]: [CHAT] xOleee: hi
+[17:15:38] [Client thread/INFO]: [CHAT] Sockmonkey2002 accepted your teleport request.
+[17:15:39] [Client thread/INFO]: [CHAT] Pending teleportation request cancelled.
+[17:15:41] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *gasps for air*
+[17:15:50] [Client thread/INFO]: [CHAT] xOleee: holy sh!t im griefed!!!~!!!!!
+[17:15:56] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I n-need to lay down..
+[17:16:02] [Client thread/INFO]: [CHAT] [me -> Sockmonkey2002] you not coming :-(
+[17:16:06] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Drac stabbed me..
+[17:16:08] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:16:14] [Client thread/INFO]: [CHAT] xOleee: holy gawd im griefed
+[17:16:20] [Client thread/INFO]: [CHAT] XxXnicholeXxX: TheDiamondPicks Come on!
+[17:16:23] [Client thread/INFO]: [CHAT] xXweeho44Xx: im a lava eater add me
+[17:16:28] [Client thread/INFO]: [CHAT] xOleee: ok
+[17:16:32] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Thank you Nichollette
+[17:16:33] [Client thread/INFO]: [CHAT] xXweeho44Xx: i can eat lava
+[17:16:35] [Client thread/INFO]: [CHAT] xOleee: done
+[17:16:42] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Thank you Nicolette*
+[17:16:53] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: BlueChainDragon i made your crush winter ok
+[17:17:04] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *gets up slowly*
+[17:17:08] [Client thread/INFO]: [CHAT] xOleee: mmmmyyyy ppplloottttt grrriiiefffedddd
+[17:17:09] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:17:09] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: HAHA OlivexD
+[17:17:13] [Client thread/INFO]: [CHAT] [me -> Kristy2881111] 4 only
+[17:17:14] [Client thread/INFO]: [CHAT] xXweeho44Xx: deliscious :D
+[17:17:22] [Client thread/INFO]: [CHAT] xOleee: mmmmyyyy ppplloottttt grrriiiefffedddd :(((
+[17:17:27] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *blushes*
+[17:17:37] [Client thread/INFO]: [CHAT] xOleee: tpa to see im griefed
+[17:17:49] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *stumbles and falls into Travis' arms* oops hah
+[17:17:49] [Client thread/INFO]: [CHAT] DoG_BuNz: can i work here
+[17:17:53] [Client thread/INFO]: [CHAT] xOleee: tpa to see im griefed!!
+[17:18:00] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *blushes deeply**
+[17:18:08] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:18:10] [Client thread/INFO]: [CHAT] Hashbrown_Here: oh
+[17:18:11] [Client thread/INFO]: [CHAT] xOleee: :(
+[17:18:17] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: gamer u have to make it
+[17:18:19] [Client thread/INFO]: [CHAT] DoG_BuNz: what
+[17:18:19] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *giggles a little*
+[17:18:20] [Client thread/INFO]: [CHAT] Hashbrown_Here: thats sad D:
+[17:18:25] [Client thread/INFO]: [CHAT] xOleee: see im griefed
+[17:18:35] [Client thread/INFO]: [CHAT] Hashbrown_Here: who did it?
+[17:18:37] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: Same with all of us
+[17:18:39] [Client thread/INFO]: [CHAT] xXweeho44Xx: im eating the lava or ya :D
+[17:18:39] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *puts my face closer to Travis'*
+[17:18:43] [Client thread/INFO]: [CHAT] DoG_BuNz: yes
+[17:18:52] [Client thread/INFO]: [CHAT] xOleee: i know a guy who griefed this
+[17:18:59] [Client thread/INFO]: [CHAT] xOleee: pluem240 i think
+[17:19:01] [Client thread/INFO]: [CHAT] DoG_BuNz: everyday
+[17:19:09] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:19:11] [Client thread/INFO]: [CHAT] xOleee: look at the signs
+[17:19:27] [Client thread/INFO]: [CHAT] XxXnicholeXxX: aye
+[17:19:33] [Client thread/INFO]: [CHAT] xOleee: can anyone screen shot this
+[17:19:34] [Client thread/INFO]: [CHAT] DoG_BuNz: yes i will never greif
+[17:19:38] [Client thread/INFO]: [CHAT] gamingbananababy: Im bored..
+[17:19:40] [Client thread/INFO]: [CHAT] Hippiestick: any rps?
+[17:19:41] [Client thread/INFO]: [CHAT] xOleee: and send to owner
+[17:19:42] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: guys snuffles will do the signs
+[17:19:52] [Client thread/INFO]: [CHAT] xOleee: ok!
+[17:19:52] [Client thread/INFO]: [CHAT] DoG_BuNz: yes
+[17:20:03] [Client thread/INFO]: [CHAT] xOleee: holy
+[17:20:04] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *whispers* I want to kiss you so badly right now...
+[17:20:10] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:20:14] [Client thread/INFO]: [CHAT] DoG_BuNz: yes i do
+[17:20:17] [Client thread/INFO]: [CHAT] xOleee: im griefed
+[17:20:19] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *leans in*
+[17:20:20] [Client thread/INFO]: [CHAT] [Kristy2881111 -> me] ??
+[17:20:25] [Client thread/INFO]: [CHAT] xOleee: and i worked hard on this
+[17:20:30] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *kisses*
+[17:20:50] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *puts hands on his neck*
+[17:20:52] [Client thread/INFO]: [CHAT] Hashbrown_Here: Do you think you can rebuild?
+[17:20:56] [Client thread/INFO]: [CHAT] xOleee: nope
+[17:20:59] [Client thread/INFO]: [CHAT] Hashbrown_Here: D:
+[17:21:06] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *scoots closer to him*
+[17:21:08] [Client thread/INFO]: [CHAT] DoG_BuNz: Co
+[17:21:10] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:21:15] [Client thread/INFO]: [CHAT] Hashbrown_Here: up here
+[17:21:22] [Client thread/INFO]: [CHAT] gamingbananababy: BORED... As hell...
+[17:21:31] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> So.. what are we right now..
+[17:21:43] [Client thread/INFO]: [CHAT] xOleee: well i dont care
+[17:21:51] [Client thread/INFO]: [CHAT] xOleee: i have found a server with free world edit
+[17:21:57] [Client thread/INFO]: [CHAT] DoG_BuNz: just looking
+[17:22:05] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> yes
+[17:22:09] [Client thread/INFO]: [CHAT] xOleee: tpa to see im griefed
+[17:22:10] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:22:15] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *kisses again**
+[17:22:32] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *sighs into kiss*
+[17:22:42] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: heyyy!
+[17:22:45] [Client thread/INFO]: [CHAT] xOleee: screen shot this and send to owner oMG
+[17:22:54] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Nah..
+[17:22:56] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:22:57] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:22:57] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:22:57] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:23:05] [Client thread/INFO]: [CHAT] xOleee: who did grief dis!
+[17:23:09] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> ok fine...
+[17:23:11] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:23:13] [Client thread/INFO]: [CHAT] xOleee: my freaking friend
+[17:23:21] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *grabs his hand and runs*
+[17:23:22] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:23:42] [Client thread/INFO]: [CHAT] DoG_BuNz: ye
+[17:23:47] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-
+[17:24:11] [Client thread/INFO]: [CHAT] tugce447: tpa 2 marry s cute princess
+[17:24:11] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:24:24] [Client thread/INFO]: [CHAT] xOleee: tpa tugce
+[17:24:29] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybyyuhuyh)
+[17:24:41] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybyyuhu00
+[17:24:48] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: OK
+[17:24:49] [Client thread/INFO]: [CHAT] SnufflesCyan: ANYONE WANT TO HELP BUILD A HIGH SCH RP TP TO ME!(caps protection)
+[17:24:57] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look (caps protection)
+[17:25:03] [Client thread/INFO]: [CHAT] xOleee: im done
+[17:25:07] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybytf
+[17:25:08] [Client thread/INFO]: [CHAT] tugce447: tpa 2 marry s cute princess!
+[17:25:11] [Client thread/INFO]: [CHAT] xOleee: im going to creative 1 and 3
+[17:25:12] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:25:13] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *thinks about the kiss*
+[17:25:27] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: t-afk
+[17:25:28] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look
+[17:25:34] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybytfukgb)
+[17:25:37] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look!
+[17:25:37] [Client thread/INFO]: [CHAT] ThunderFruit: wow i finally finished my statue
+[17:25:46] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look
+[17:25:55] [Client thread/INFO]: [CHAT] xOleee: p
+[17:25:59] [Client thread/INFO]: [CHAT] Ibrahim270: Mason
+[17:26:04] [Client thread/INFO]: [CHAT] xOleee: i cant take this anymore
+[17:26:07] [Client thread/INFO]: [CHAT] BlueChainDragon: SA MGA PILIPINO KAINAN NA NG SINANGAG!!! (di naman almusal noh ehehehehe)
+[17:26:12] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:26:16] [Client thread/INFO]: [CHAT] Ibrahim270: Luke
+[17:26:19] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Hey Travis guess what
+[17:26:20] [Client thread/INFO]: [CHAT] Hippiestick: =-=-= Tpa for epic Herobrine/Camping RP!!! =-=-=
+[17:26:31] [Client thread/INFO]: [CHAT] Ibrahim270: Luke plz
+[17:26:39] [Client thread/INFO]: [CHAT] Hippiestick: =-=-= Tpa for epic Herobrine/Camping RP!!! =-=-=.
+[17:26:44] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I wanna show you something. follow me
+[17:26:48] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: yea
+[17:27:01] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: haha
+[17:27:01] [Client thread/INFO]: [CHAT] Hippiestick: =-=-= Tpa for epic Herobrine/Camping RP!!! =-=-=
+[17:27:07] [Client thread/INFO]: [CHAT] xOleee: bye guys
+[17:27:15] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:27:26] [Client thread/INFO]: [CHAT] Hippiestick: =-=-= Tpa for epic Herobrine/Camping RP!!! =-=-=.
+[17:27:39] [Client thread/INFO]: [CHAT] DoG_BuNz: they cant open the chest they can open trap chests
+[17:27:41] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> This place is familiar to me..
+[17:27:43] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look!
+[17:27:53] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look
+[17:27:53] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I have a secret that you can't tell anyone.
+[17:28:12] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *whispers* Herobrine is.. my father.
+[17:28:17] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:28:24] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybyth6gt7tg)
+[17:28:28] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look!
+[17:28:28] [Client thread/INFO]: [CHAT] IAmThePrincess: gasp
+[17:28:30] [Client thread/INFO]: [CHAT] TabbyTwinkle: GASP
+[17:28:36] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look
+[17:28:38] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I don't agree with what he does..
+[17:28:55] [Client thread/INFO]: [CHAT] tugce447: tpa 4 youtuber rp
+[17:28:57] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: Let it gooo!
+[17:28:59] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: Let it gooo!!\
+[17:29:02] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> We are trapped!
+[17:29:12] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Oh my god!
+[17:29:12] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Wat 2 do.. what 2 do
+[17:29:18] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybyth6g)
+[17:29:21] [Client thread/INFO]: [CHAT] DoG_BuNz: sure
+[17:29:22] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:29:24] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *screams* HELP
+[17:29:25] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: sing let it goo with me!
+[17:29:33] [Client thread/INFO]: [CHAT] Seanalmighty: any skin comps?
+[17:29:38] [Client thread/INFO]: [CHAT] ElectroMiner125: ?
+[17:29:40] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybyth
+[17:29:50] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: Let it goooo!!!!!!!!
+[17:29:52] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: Let it goooo!!!!!!!
+[17:29:57] [Client thread/INFO]: [CHAT] ElectroMiner125: WTF
+[17:29:57] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: Let it goooo!!!!
+[17:29:58] [Client thread/INFO]: [CHAT] TheDiamondPicks: Can anyone here make custom heads
+[17:30:01] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: Let it goooo!!
+[17:30:02] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybythlpji)
+[17:30:03] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: omg the lever XD
+[17:30:04] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: jonny be little kid again
+[17:30:05] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: xD
+[17:30:14] [Client thread/INFO]: [CHAT] Seanalmighty: Let what go? lol i love messing things up.
+[17:30:28] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:30:30] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybyth)
+[17:30:37] [Client thread/INFO]: [CHAT] SnufflesCyan: hi
+[17:30:38] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: <Dat Little Kid Doe> hi
+[17:30:52] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: Let it goo!
+[17:30:56] [Client thread/INFO]: [CHAT] imjohnnyb: little kid) hye!!!!!!
+[17:31:03] [Client thread/INFO]: [CHAT] Request sent to xThatMinerGirlx.
+[17:31:14] [Client thread/INFO]: [CHAT] xThatMinerGirlx accepted your teleport request.
+[17:31:14] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[17:31:17] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[17:31:33] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:31:37] [Client thread/INFO]: [CHAT] Seanalmighty: any build comps?
+[17:31:43] [Client thread/INFO]: [CHAT] ElectroMiner125: The Owner of this plots is spectating
+[17:31:48] [Client thread/INFO]: [CHAT] DjDashTitan101: t
+[17:31:51] [Client thread/INFO]: [CHAT] [me -> xThatMinerGirlx] you should add DanTDM
+[17:31:52] [Client thread/INFO]: [CHAT] ElectroMiner125: The Owner of this plots is spectating the Herobrine RP
+[17:32:06] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look!
+[17:32:13] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: XD
+[17:32:15] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested to teleport to you.
+[17:32:16] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:32:16] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:32:17] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:32:17] [Client thread/INFO]: [CHAT] imjohnnyb: chicken!!!!
+[17:32:18] [Client thread/INFO]: [CHAT] ElectroMiner125: The Owner is spectating the RP
+[17:32:22] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: *turns /all chat on* DAT SPAM
+[17:32:28] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybythgtff)
+[17:32:30] [Client thread/INFO]: [CHAT] ElectroMiner125: I dont mean the server but the plot
+[17:32:37] [Client thread/INFO]: [CHAT] [VIP] snuffles69: haha'
+[17:32:38] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:32:42] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> hi..
+[17:32:43] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: xD
+[17:32:44] [Client thread/INFO]: [CHAT] inquire_kinect: hello
+[17:32:46] [Client thread/INFO]: [CHAT] [VIP] snuffles69: sorry guys i gtg
+[17:32:51] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I-i have to go..
+[17:32:52] [Client thread/INFO]: [CHAT] [me -> Sockmonkey2002] im not at head shop
+[17:32:56] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look
+[17:32:57] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: We Keep Working?
+[17:33:02] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> I have to leave this place.
+[17:33:03] [Client thread/INFO]: [CHAT] Sockmonkey2002: How do u get a block without going through the block menu?
+[17:33:08] [Client thread/INFO]: [CHAT] ElectroMiner125: BOO
+[17:33:10] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: Ok! See Ya
+[17:33:15] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: cya then
+[17:33:15] [Client thread/INFO]: [CHAT] Sunduvhar: Select block
+[17:33:24] [Client thread/INFO]: [CHAT] Sockmonkey2002: k...
+[17:33:32] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> no. Zack knows my secret. he will tell everyone
+[17:33:34] [Client thread/INFO]: [CHAT] ElectroMiner125: The Owner is spectating coz i am the owner of the plot
+[17:33:39] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:33:41] [Client thread/INFO]: [CHAT] imjohnnyb: oh gawd
+[17:33:51] [Client thread/INFO]: [CHAT] [me -> xThatMinerGirlx] do you know dantdm is
+[17:33:54] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: no
+[17:33:56] [Client thread/INFO]: [CHAT] [Legend] ~ItzJade: Do you wanna build a snowman?
+[17:33:57] [Client thread/INFO]: [CHAT] [VIP] ALEX9107801: any skin comps
+[17:33:58] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybythg)
+[17:34:01] [Client thread/INFO]: [CHAT] ElectroMiner125: O hell no
+[17:34:04] [Client thread/INFO]: [CHAT] [VIP] ALEX9107801: bo
+[17:34:08] [Client thread/INFO]: [CHAT] [VIP] ALEX9107801: no
+[17:34:09] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> No travis.
+[17:34:15] [Client thread/INFO]: [CHAT] imjohnnyb: do u want build a sniper?
+[17:34:16] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: done
+[17:34:18] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *starts to cry*
+[17:34:31] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: cya
+[17:34:33] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> If someone else finds out, they will.... kill me.
+[17:34:34] [Client thread/INFO]: [CHAT] imjohnnyb: we can shoot pll in duh heaad
+[17:34:36] [Client thread/INFO]: [CHAT] ElectroMiner125: Is there HB?
+[17:34:39] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:34:42] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: we should start building the things
+[17:34:44] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> They will kill you too.
+[17:34:46] [Client thread/INFO]: [CHAT] imjohnnyb: do u want build a sniper?
+[17:34:46] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybyt)
+[17:34:54] [Client thread/INFO]: [CHAT] imjohnnyb: we can shoot pll in duh heaad
+[17:34:58] [Client thread/INFO]: [CHAT] Sockmonkey2002: Does Any1 Want to compete in a skin comp, cuz i have the arena thing
+[17:35:00] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: like the rooms, pool ect.
+[17:35:01] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: duh herro
+[17:35:09] [Client thread/INFO]: [CHAT] Sunduvhar: Heck yeah
+[17:35:25] [Client thread/INFO]: [CHAT] DoG_BuNz: afk
+[17:35:27] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *looks away grimly* Travis. Stay here. I will be back in two days. I must do something.
+[17:35:28] [Client thread/INFO]: [CHAT] ElectroMiner125: CreeplessCreeper she is on the fuckin roof
+[17:35:30] [Client thread/INFO]: [CHAT] ThunderFruit: FINNALLY!! DONE!! (dat caps doe)
+[17:35:36] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: can someone give me coploured boots in chest 1.7.9 doesnt allow it
+[17:35:37] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybygt)
+[17:35:43] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *kisses quickly and runs*
+[17:35:44] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:35:45] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002
+[17:35:51] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: any
+[17:35:56] [Client thread/INFO]: [CHAT] Request sent to Sockmonkey2002.
+[17:35:57] [Client thread/INFO]: [CHAT] ElectroMiner125: Is there HB in my rp?
+[17:35:59] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: no jade
+[17:36:00] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: :P
+[17:36:07] [Client thread/INFO]: [CHAT] Sockmonkey2002 accepted your teleport request.
+[17:36:07] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[17:36:09] [Client thread/INFO]: [CHAT] ElectroMiner125: IK THAT
+[17:36:10] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: jade no,just no
+[17:36:10] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[17:36:12] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002!
+[17:36:16] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: do you wanna f*** a snowman instead
+[17:36:17] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybygtrftf)
+[17:36:23] [Client thread/INFO]: [CHAT] Emaan01_1500: haaahahhaha
+[17:36:24] [Client thread/INFO]: [CHAT] ElectroMiner125: im the owner ok im the owner of my plot
+[17:36:30] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002
+[17:36:32] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: k
+[17:36:34] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: HAHAHA
+[17:36:40] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: lets go fuck a statue then
+[17:36:41] [Client thread/INFO]: [CHAT] Emaan01_1500: do u wanna fuck a snowman hahahahhahahaha
+[17:36:42] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: haha
+[17:36:46] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:36:47] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: watafak do i do/
+[17:36:48] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002!
+[17:36:51] [Client thread/INFO]: [CHAT] imjohnnyb: do u want build a sniper?
+[17:36:52] [Client thread/INFO]: [CHAT] ElectroMiner125: So if no one is Herobrine, can i be him?
+[17:36:52] [Client thread/INFO]: [CHAT] xThatMinerGirlx: -=-tpa to me for a youtuber rp-=-(fgnybygtrgh)
+[17:36:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[17:36:57] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: nu
+[17:37:02] [Client thread/INFO]: [CHAT] Hippiestick: do u want to hide a body
+[17:37:03] [Client thread/INFO]: [CHAT] imjohnnyb: we can shoot pll in duh heaad
+[17:37:03] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: jade he ate 1
+[17:37:04] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: u <3 dicks
+[17:37:06] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002
+[17:37:13] [Client thread/INFO]: [CHAT] Hippiestick: it doesnt have to be in one piece
+[17:37:23] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002 4 SKIN COMP.
+[17:37:27] [Client thread/INFO]: [CHAT] imjohnnyb: do u want build a sniper?
+[17:37:34] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: HA
+[17:37:38] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> HELP
+[17:37:38] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: JUST KIDDIN
+[17:37:39] [Client thread/INFO]: [CHAT] imjohnnyb: we can shoot pll in duh heaad
+[17:37:40] [Client thread/INFO]: [CHAT] ElectroMiner125: Hi im the owner of this plot
+[17:37:41] [Client thread/INFO]: [CHAT] [me -> Nicholas_NZ] does you nz mean new zealand
+[17:37:41] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: thanks
+[17:37:47] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:37:49] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> HELP ME!
+[17:37:51] [Client thread/INFO]: [CHAT] [Nicholas_NZ -> me] ye
+[17:37:56] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> ANYONE
+[17:38:01] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002 4 SKIN COMP!
+[17:38:20] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: pugloverjade <3 dicks
+[17:38:30] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *thinks* I will be trapped in here forever
+[17:38:31] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: nicholas she has 1 jkss
+[17:38:47] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:38:49] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *slides down wall and falls to the ground*
+[17:38:59] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *sobss*
+[17:39:07] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002 4 SKIN COMP!!
+[17:39:09] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: what does creeper head mean
+[17:39:10] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: dont mind me imma spectator
+[17:39:14] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *sobs loudly*
+[17:39:17] [Client thread/INFO]: [CHAT] Sunduvhar: Join Sockmonkey2002's skin competition
+[17:39:20] [Client thread/INFO]: [CHAT] DoG_BuNz: gtg
+[17:39:24] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002 4 SKIN COMP!
+[17:39:32] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002 4 SKIN COMP!!
+[17:39:38] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: it doesnt
+[17:39:41] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002 4 SKIN COMP!
+[17:39:43] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *hears Nicolette*
+[17:39:47] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:39:48] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002 4 SKIN COMP!!
+[17:39:54] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *yells* DOWN HERE
+[17:39:54] [Client thread/INFO]: [CHAT] Sunduvhar: Join Sockmonkey2002's skin comp
+[17:39:57] [Client thread/INFO]: [CHAT] Request sent to Sockmonkey2002.
+[17:40:02] [Client thread/INFO]: [CHAT] ElectroMiner125: Hi im the ghost of Wedgie Magee
+[17:40:04] [Client thread/INFO]: [CHAT] Sockmonkey2002 accepted your teleport request.
+[17:40:05] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[17:40:07] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[17:40:11] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *yells* ITS DARK
+[17:40:14] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: GOD DAMN IT
+[17:40:14] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: JADE
+[17:40:15] [Client thread/INFO]: [CHAT] Sockmonkey2002: 6
+[17:40:16] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: NO
+[17:40:17] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *yells* and kinda smelly..
+[17:40:18] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: PLS NO
+[17:40:20] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: NONONO
+[17:40:26] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: NOOOOOO
+[17:40:26] [Client thread/INFO]: [CHAT] Sockmonkey2002: ./tpa Sockmonkey2002 4 SKIN COMP!!
+[17:40:30] [Client thread/INFO]: [CHAT] ElectroMiner125: Hi im the ghost of Wedgie Magee :P
+[17:40:31] [Client thread/INFO]: [CHAT] StaticShockMkII: no advertise it like that
+[17:40:48] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:40:51] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Tammy?
+[17:40:52] [Client thread/INFO]: [CHAT] StaticShockMkII: Sunduvhar i really like your skin
+[17:41:06] [Client thread/INFO]: [CHAT] Sunduvhar: Oh, thanks.
+[17:41:17] [Client thread/INFO]: [CHAT] Sunduvhar: I like yours too
+[17:41:27] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Hey I have a way to help you, wherever you are
+[17:41:27] [Client thread/INFO]: [CHAT] Sockmonkey2002: up here
+[17:41:34] [Client thread/INFO]: [CHAT] StaticShockMkII: RVB i can guess
+[17:41:40] [Client thread/INFO]: [CHAT] Sunduvhar: Yeah
+[17:41:45] [Client thread/INFO]: [CHAT] [Legend] ~Spectator: Uh luca
+[17:41:48] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:41:49] [Client thread/INFO]: [CHAT] StaticShockMkII: AWWW YEA!!
+[17:41:51] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: *pewds slow techno rage*
+[17:41:55] [Client thread/INFO]: [CHAT] [Legend] ~Spectator: nobody else can her shady's role cuz it says
+[17:41:56] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> One word. Potions.
+[17:42:12] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> My dad makes them
+[17:42:16] [Client thread/INFO]: [CHAT] [Legend] ~Spectator: Look..
+[17:42:21] [Client thread/INFO]: [CHAT] OnTheHuntMC: who has skype?
+[17:42:24] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> He works with ghosts!
+[17:42:27] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: let it go on your butt...
+[17:42:27] [Client thread/INFO]: [CHAT] Punchappy4: I do
+[17:42:35] [Client thread/INFO]: [CHAT] OnTheHuntMC: add me
+[17:42:35] [Client thread/INFO]: [CHAT] Sunduvhar: tpa to Sockmonkey2002 for skin comp
+[17:42:36] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested that you teleport to them.
+[17:42:36] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:42:37] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:42:37] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:42:38] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look
+[17:42:40] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: i did that:P
+[17:42:46] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Ok! Be right back
+[17:42:49] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:42:52] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need boys and girls <------ look!
+[17:42:55] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> hmm
+[17:42:55] [Client thread/INFO]: [CHAT] OnTheHuntMC: my skype name is ralphthehunter
+[17:43:04] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> they have got to be somewhere...
+[17:43:10] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: raddy cool
+[17:43:10] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers!(caps protection)
+[17:43:14] [Client thread/INFO]: [CHAT] EthanMooMoo: skype say Minecrafters
+[17:43:16] [Client thread/INFO]: [CHAT] ElectroMiner125: Can i be HB?
+[17:43:19] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> Aha!
+[17:43:19] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls <------ look!
+[17:43:23] [Client thread/INFO]: [CHAT] StaticShockMkII: I guess you get another shot
+[17:43:27] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *takes potions*
+[17:43:29] [Client thread/INFO]: [CHAT] ElectroMiner125: Yay
+[17:43:30] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom!
+[17:43:31] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: Lets Build Now!
+[17:43:38] [Client thread/INFO]: [CHAT] StaticShockMkII: .......what color is it?
+[17:43:39] [Client thread/INFO]: [CHAT] EthanMooMoo: who has skype>
+[17:43:42] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls <------ look
+[17:43:47] [Client thread/INFO]: [CHAT] bchristen202: <Jinx> *yells* Taaaaammmy??
+[17:43:47] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom!!
+[17:43:50] [Client thread/INFO]: [CHAT] imjohnnyb: dont think about it
+[17:43:51] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic Hb/PlaneCrash/Elemental/Slender Rp! Needs All Girls And Boys!
+[17:43:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:43:52] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls <------ look!
+[17:43:55] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: i know what pewds' skype is
+[17:43:55] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: xd
+[17:44:02] [Client thread/INFO]: [CHAT] StaticShockMkII: color blind...still cant tell
+[17:44:03] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic Hb/PlaneCrash/Elemental/Slender Rp! Needs All Girls & Boys!
+[17:44:03] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: shes not here
+[17:44:05] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!
+[17:44:10] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: the owner isnt here
+[17:44:12] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy)
+[17:44:20] [Client thread/INFO]: [CHAT] OnTheHuntMC: who has skype say 123
+[17:44:21] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic Hb/PlaneCrash/Elemental/Slender Rp! Needs All Girls & Boys!!
+[17:44:21] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: ok
+[17:44:25] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy).
+[17:44:27] [Client thread/INFO]: [CHAT] imjohnnyb: dont even play around
+[17:44:30] [Client thread/INFO]: [CHAT] EthanMooMoo: Tpa to help build herobrine camp rp
+[17:44:34] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!
+[17:44:35] [Client thread/INFO]: [CHAT] StaticShockMkII: I am guessing it was green
+[17:44:39] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic Hb/PlaneCrash/Elemental/Slender Rp! Needs All Girls & Boys!!!
+[17:44:47] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy)
+[17:44:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:44:53] [Client thread/INFO]: [CHAT] StaticShockMkII: or yellow...possibly orange
+[17:44:54] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic Hb/PlaneCrash/Elemental/Slender Rp! Needs All Girls & Boys!
+[17:44:54] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!
+[17:44:55] [Client thread/INFO]: [CHAT] EthanMooMoo: tpa to help build he5robrine camp!
+[17:44:58] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: let it goat
+[17:44:59] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy).
+[17:45:00] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: not let it go
+[17:45:15] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!
+[17:45:18] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy)
+[17:45:19] [Client thread/INFO]: [CHAT] Sockmonkey2002 has requested that you teleport to them.
+[17:45:19] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:45:19] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:45:19] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:45:21] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic Hb/PlaneCrash/Elemental/Slender Rp! Needs All Girls & Boys!!
+[17:45:22] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and 1 bot <------ look!
+[17:45:23] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: ehm
+[17:45:26] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:45:26] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[17:45:29] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[17:45:30] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and 1 boy <------ look!
+[17:45:33] [Client thread/INFO]: [CHAT] LucaPvpz: Not my plot
+[17:45:36] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: look at mine
+[17:45:36] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: lol
+[17:45:40] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and 1 boy <------ look
+[17:45:51] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Wha.
+[17:45:52] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy).
+[17:45:56] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:45:58] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic Hb/PlaneCrash/Elemental/Slender Rp! Needs All Girls & Boys!!!
+[17:46:00] [Client thread/INFO]: [CHAT] fluffyuf: come to the IP:24.121.234.144 for building comp winner becomes owner of the server
+[17:46:09] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: headphones
+[17:46:10] [Client thread/INFO]: [CHAT] StaticShockMkII: still have no idea what color this carpet is
+[17:46:11] [Client thread/INFO]: [CHAT] fluffyuf: come to the IP:24.121.234.144 for building comp winner becomes owner of the server!!
+[17:46:12] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: on headphones
+[17:46:12] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy)
+[17:46:21] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and 1 boy <------ look!
+[17:46:27] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Well, sorry but thats not a excuse
+[17:46:27] [Client thread/INFO]: [CHAT] Sunduvhar: Green, Staticshock
+[17:46:30] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy).
+[17:46:31] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and 1 boy <------ look
+[17:46:31] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!
+[17:46:34] [Client thread/INFO]: [CHAT] ElectroMiner125: Ok time to build a new RP!
+[17:46:36] [Client thread/INFO]: [CHAT] StaticShockMkII: is that good?
+[17:46:38] [Client thread/INFO]: [CHAT] Sunduvhar: Yeah
+[17:46:38] [Client thread/INFO]: [CHAT] LucaPvpz: Sorry
+[17:46:42] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: Tpa For a Epic Hb/PlaneCrash/Elemental/Slender Rp! Needs All Girls & Boys!!!!
+[17:46:48] [Client thread/INFO]: [CHAT] LucaPvpz: Yu
+[17:46:51] [Client thread/INFO]: [CHAT] StaticShockMkII: Anyway thanks guys!
+[17:46:52] [Client thread/INFO]: [CHAT] Sockmonkey2002: gtg, byeeee
+[17:46:53] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!
+[17:46:54] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: let it goat
+[17:46:55] [Client thread/INFO]: [CHAT] LucaPvpz: TPA TO ME FOR A EPIC PLANE CRASH RP WITH HB & SLENDY & POWERS!!!!! (caps why just whyyyy)
+[17:46:59] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:47:00] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look
+[17:47:01] [Client thread/INFO]: [CHAT] StaticShockMkII: see ya later
+[17:47:04] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: do the sparta pole dance
+[17:47:20] [Client thread/INFO]: [CHAT] [Legend] BudderDiamonds: GTG
+[17:47:28] [Client thread/INFO]: [CHAT] EthanMooMoo: wut rp
+[17:47:33] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: why, queen twerk
+[17:47:38] [Client thread/INFO]: [CHAT] [Legend] Katie1220: T^T
+[17:47:42] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!
+[17:47:54] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!!
+[17:47:58] [Client thread/INFO]: [CHAT] Queen_Bunny8: tpa to help build hs rp w/powers/winter formal!
+[17:48:02] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:48:04] [Client thread/INFO]: [CHAT] xXweeho44Xx: tpa to me for an hotel Rp be anybody you like do anything you want be any age you want!
+[17:48:08] [Client thread/INFO]: [CHAT] Queen_Bunny8: TPA TO HELP BUILD HS RP W/POWERS/WINTER FORMAL! (caps are helpin)
+[17:48:14] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: LOL
+[17:48:16] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look
+[17:48:19] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: xD
+[17:48:27] [Client thread/INFO]: [CHAT] EthanMooMoo: wut rp then
+[17:48:59] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: tpa for awesome hs rp
+[17:49:05] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:49:05] [Client thread/INFO]: [CHAT] TheDiamondBoats has requested to teleport to you.
+[17:49:06] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:49:06] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:49:07] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:49:09] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: done i skyped you
+[17:49:09] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: lol
+[17:49:13] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:49:19] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: tpa for awesome hs rp!
+[17:49:19] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: tpa for awesome hs rp
+[17:49:21] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: tpa for awesome hs rp!
+[17:49:22] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: tpa for awesome hs rp
+[17:49:24] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: tpa for awesome hs rp!
+[17:49:39] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!!!
+[17:50:01] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC SKIN COMP!!!!! If I don't accept try again
+[17:50:08] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:50:10] [Client thread/INFO]: [CHAT] OnTheHuntMC has requested to teleport to you.
+[17:50:10] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:50:11] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:50:12] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:50:16] [Client thread/INFO]: [CHAT] StaticShockMkII has requested to teleport to you.
+[17:50:17] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:50:17] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:50:18] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:50:20] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:50:24] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!
+[17:50:29] [Client thread/INFO]: [CHAT] Queen_Bunny8: use glass no shadow
+[17:50:30] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: dat troll
+[17:50:30] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!!!!!
+[17:50:41] [Client thread/INFO]: [CHAT] OnTheHuntMC has requested to teleport to you.
+[17:50:42] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[17:50:42] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[17:50:43] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[17:50:48] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[17:50:50] [Client thread/INFO]: [CHAT] StaticShockMkII: hey
+[17:50:51] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!!
+[17:50:58] [Client thread/INFO]: [CHAT] ThunderFruit: any boys open?
+[17:51:00] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!
+[17:51:01] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: how am i racist..
+[17:51:07] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: just 1
+[17:51:11] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:51:14] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: luke
+[17:51:15] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: na
+[17:51:33] [Client thread/INFO]: [CHAT] Breanna321: hi
+[17:51:41] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!!
+[17:51:44] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: duh herro
+[17:51:49] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC SKIN COMP If I don't accept try again
+[17:51:51] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: lal
+[17:51:53] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ok for 5 mins
+[17:51:54] [Client thread/INFO]: [CHAT] xXweeho44Xx: lets start
+[17:51:55] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: i no speka chinese
+[17:52:04] [Client thread/INFO]: [CHAT] StaticShockMkII: sooo how is everyone?
+[17:52:07] [Client thread/INFO]: [CHAT] Breanna321: whats that ( the thing your holding )
+[17:52:12] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:52:17] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: ok for 5mins ok
+[17:52:19] [Client thread/INFO]: [CHAT] [OnTheHuntMC -> me] have skype?
+[17:52:22] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC SKIN COMP If I don't accept try again 1 space left join now
+[17:52:24] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: whatcha say about meh bruh?
+[17:52:30] [Client thread/INFO]: [CHAT] [me -> OnTheHuntMC] no
+[17:52:47] [Client thread/INFO]: [CHAT] [Herobrine] Nicholas_NZ: orly
+[17:52:54] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: no
+[17:52:54] [Client thread/INFO]: [CHAT] TheDiamondPicks: TPA FOR EPIC SKIN COMP If I don't accept try again
+[17:53:12] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:53:13] [Client thread/INFO]: [CHAT] xXweeho44Xx: zionoiz see the sign
+[17:53:18] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!!!
+[17:53:31] [Client thread/INFO]: [CHAT] SnufflesCyan: lol
+[17:53:43] [Client thread/INFO]: [CHAT] SnufflesCyan: hes stuck in the obsidian
+[17:53:52] [Client thread/INFO]: [CHAT] [Legend] IceJewel: I know. Hes glitched
+[17:53:59] [Client thread/INFO]: [CHAT] SnufflesCyan: yeah
+[17:54:05] [Client thread/INFO]: [CHAT] ThunderFruit: ok can i be luis?
+[17:54:09] [Client thread/INFO]: [CHAT] SnufflesCyan: pool party
+[17:54:12] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:54:29] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!!!!
+[17:54:32] [Client thread/INFO]: [CHAT] SnufflesCyan: when can we start?
+[17:54:43] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!!!!
+[17:54:44] [Client thread/INFO]: [CHAT] spinypants182: spinypants furnishing company just msg and well furnish it for ya ......mmmm
+[17:54:47] [Client thread/INFO]: [CHAT] [Legend] PixelPrestigious: help advertise
+[17:54:48] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: help advertise if you wanna get this over with
+[17:54:55] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!!!!!!
+[17:54:58] [Client thread/INFO]: [CHAT] spinypants182: spinypants furnishing company just msg and well furnish it for ya ......mmmmmmmmmmmmmmmm
+[17:55:04] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!!!!!!!
+[17:55:10] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!!!!
+[17:55:13] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:55:20] [Client thread/INFO]: [CHAT] SnufflesCyan: daniel is back
+[17:55:21] [Client thread/INFO]: [CHAT] spinypants182: spinypants furnishing company just msg and well furnish it for ya .....mmmmmm
+[17:55:26] [Client thread/INFO]: [CHAT] ThunderFruit: tpa to dem_waffles_doe for epic high school with powers rp!! (caps rule)
+[17:55:32] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!!!!!!!!
+[17:55:49] [Client thread/INFO]: [CHAT] spinypants182: spinypants furnishing company just msg and well furnish it for ya .
+[17:55:56] [Client thread/INFO]: [CHAT] StaticShockMkII: may the best skin win
+[17:56:02] [Client thread/INFO]: [CHAT] Dem_Waffles_Doe: tpa for a high school rp with powers need girls and <------ look!!!!!
+[17:56:08] [Client thread/INFO]: [CHAT] SnufflesCyan: tpa to dem_waffles_doe for amazing high sch rp with powers and prom! need girls!!!!!!!!!!!!!!
+[17:56:13] [Client thread/INFO]: [CHAT] Hashbrown_Here: .all
+[17:56:14] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:56:19] [Client thread/INFO]: [CHAT] spinypants182: spinypants furnishing company just msg and well furnish it for ya ..
+[17:56:27] [Client thread/INFO]: [CHAT] ThunderFruit: BRB!!
+[17:57:14] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:57:16] [Client thread/INFO]: [CHAT] SnufflesCyan: aw
+[17:57:19] [Client thread/INFO]: [CHAT] OnTheHuntMC: its normal heads
+[17:57:30] [Client thread/INFO]: [CHAT] SnufflesCyan: can we just start>
+[17:57:44] [Client thread/INFO]: [CHAT] StaticShockMkII, sterre2002
+[17:57:45] [Client thread/INFO]: [CHAT] StaticShockMkII, sterre2002
+[17:57:46] [Client thread/INFO]: [CHAT] StaticShockMkII, sterre2002
+[17:57:48] [Client thread/INFO]: [CHAT] Request sent to StaticShockMkII.
+[17:58:01] [Client thread/INFO]: [CHAT] ElectroMiner125: awkward silence
+[17:58:01] [Client thread/INFO]: [CHAT] spinypants182: Spinypants Quote "Kids lack vocabulary yet i find interesting their extraordinary level of being a
+[17:58:02] [Client thread/INFO]: [CHAT] StaticShockMkII accepted your teleport request.
+[17:58:14] [Client thread/INFO]: [CHAT] spinypants182: dissapointment (Fat kids)
+[17:58:14] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:58:26] [Client thread/INFO]: [CHAT] imjohnnyb: hye!!
+[17:58:35] [Client thread/INFO]: [CHAT] SaberMask: what happen?
+[17:58:40] [Client thread/INFO]: [CHAT] imjohnnyb: hai!
+[17:59:09] [Client thread/INFO]: [CHAT] Sigma747: any rp's
+[17:59:14] [Client thread/INFO]: [CHAT] tiesto3000: yes
+[17:59:15] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:59:20] [Client thread/INFO]: [CHAT] Kristy2881111: yus
+[17:59:32] [Client thread/INFO]: [CHAT] SnufflesCyan: wow
+[17:59:44] [Client thread/INFO]: [CHAT] Sigma747: wow
+[17:59:56] [Client thread/INFO]: [CHAT] tiesto3000: sigma
+[17:59:57] [Client thread/INFO]: [CHAT] SnufflesCyan: im alr in man
+[18:00:06] [Client thread/INFO]: [CHAT] Sigma747: ye
+[18:00:10] [Client thread/INFO]: [CHAT] SnufflesCyan: wait u cant kick the owner is pixel
+[18:00:10] [Client thread/INFO]: [CHAT] tiesto3000: i got afk pool
+[18:00:13] [Client thread/INFO]: [CHAT] Sigma747: ik
+[18:00:15] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[18:00:23] [Client thread/INFO]: [CHAT] SnufflesCyan: oh
+[18:00:31] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: whi
+[18:00:33] [Client thread/INFO]: [CHAT] [Premium] ~ItzCapsa: who
+[18:00:37] [Client thread/INFO]: [CHAT] SnufflesCyan: can we just startttt
+[18:00:47] [Client thread/INFO]: [CHAT] SnufflesCyan: im bored
+[18:00:48] [Client thread/INFO]: [CHAT] tiesto3000: sigma?
+[18:00:52] [Client thread/INFO]: [CHAT] Sigma747: ive gone
+[18:00:56] [Client thread/INFO]: [CHAT] SnufflesCyan: then advertise
+[18:00:58] [Client thread/INFO]: [CHAT] tiesto3000: then cum to ma rp
+[18:00:59] [Client thread/INFO]: [CHAT] [Legend] IceJewel: AFK

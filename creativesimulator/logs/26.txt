@@ -1,0 +1,1055 @@
+[13:12:40] [Netty Client IO #1/ERROR]: Invalid server icon (unknown format)
+[13:12:56] [Client thread/INFO]: Connecting to buildit.itsjerryandharry.com, 25565
+[13:13:01] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[13:13:01] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[13:13:01] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[13:13:01] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[13:13:01] [Client thread/INFO]: [CHAT] [Legend] ~NateIsDelirious: hi
+[13:13:10] [Client thread/INFO]: [CHAT] firecracker0915: you cant kill Russia ^W^
+[13:13:12] [Client thread/INFO]: [CHAT] [VIP] ~DirkStrider: my katana says different
+[13:13:13] [Client thread/INFO]: [CHAT] SJ1D: hacker
+[13:13:16] [Client thread/INFO]: [CHAT] firecracker0915: Russia a country ^W^
+[13:13:18] [Client thread/INFO]: [CHAT] [Donator] Nathan_bob: Soooo the vid
+[13:13:23] [Client thread/INFO]: [CHAT] [VIP] ~DirkStrider: no one cares
+[13:13:24] [Client thread/INFO]: [CHAT] firecracker0915: Russia talk in 3rd person ^W^
+[13:13:38] [Client thread/INFO]: [CHAT] [Premium] ~Snarf: i leik potatos. ._.
+[13:13:40] [Client thread/INFO]: [CHAT] firecracker0915: Russia Says Russia AFK ^3^
+[13:13:42] [Client thread/INFO]: [CHAT] [Premium] ~Snarf: XD
+[13:13:44] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[13:13:44] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[13:13:44] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[13:13:46] [Client thread/INFO]: [CHAT] corrack: And voila, I got her account
+[13:13:49] [Client thread/INFO]: [CHAT] Nicki1337: corrack your a douche
+[13:13:51] [Client thread/INFO]: [CHAT] corrack: Too easy
+[13:13:52] [Client thread/INFO]: [CHAT] [Premium] _Starlight13_: uwot
+[13:13:56] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: :OO
+[13:13:56] [Client thread/INFO]: [CHAT] [+] Disguise as mobs or players :O! Type /store
+[13:13:58] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: STTTARRRRR
+[13:14:01] [Client thread/INFO]: [CHAT] [Legend] GoobyGooAgoo: IFNA
+[13:14:04] [Client thread/INFO]: [CHAT] [Premium] _Starlight13_: GOOOBYYYYYY
+[13:14:12] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[13:14:12] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[13:14:12] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[13:14:12] [Client thread/INFO]: [CHAT] ZanderCreeper: we could ban u
+[13:14:14] [Client thread/INFO]: [CHAT] mr_ghast_fire: hes not gay
+[13:14:16] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[13:14:17] [Client thread/INFO]: [CHAT] [Premium] youngmoney1030: drom
+[13:14:19] [Client thread/INFO]: [CHAT] [Premium] youngmoney1030: from
+[13:14:20] [Client thread/INFO]: [CHAT] RyanDxxx: hi
+[13:14:26] [Client thread/INFO]: [CHAT] katgirl2468: hey venom i once heard krouppi say somthing about u u her friend?
+[13:14:31] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: What is going on...
+[13:14:31] [Client thread/INFO]: [CHAT] seabreeze89: -=Tpa Epic For Skin Comp! 0/6 Winners Get A Special Prize!=-
+[13:14:33] [Client thread/INFO]: [CHAT] [Herobrine] ~Alex: oh i can leave if its imported
+[13:14:44] [Client thread/INFO]: [CHAT] ZanderCreeper: jojo
+[13:14:51] [Client thread/INFO]: [CHAT] seabreeze89: -=Tpa Epic For Skin Comp! 1/6 Winners Get A Special Prize!=-
+[13:14:52] [Client thread/INFO]: [CHAT] [Herobrine] ~Alex: bacca
+[13:14:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:15:01] [Client thread/INFO]: [CHAT] lion70449: TPA
+[13:15:04] [Client thread/INFO]: [CHAT] Request sent to seabreeze89.
+[13:15:04] [Client thread/INFO]: [CHAT] adri_3509: oww ;( my head hurts
+[13:15:06] [Client thread/INFO]: [CHAT] damanda04: tpa to me in 1 sec guys
+[13:15:06] [Client thread/INFO]: [CHAT] katgirl2468: VENOm
+[13:15:06] [Client thread/INFO]: [CHAT] [Herobrine] ~Alex: they want us to leave
+[13:15:09] [Client thread/INFO]: [CHAT] lion70449: to u
+[13:15:10] [Client thread/INFO]: [CHAT] [Donator] lilly326: this is soooo crappy
+[13:15:11] [Client thread/INFO]: [CHAT] seabreeze89: -=Tpa Epic For Skin Comp! 2/6 Winners Get A Special Prize!=-
+[13:15:15] [Client thread/INFO]: [CHAT] [Donator] lilly326: this is soooo crappy!
+[13:15:22] [Client thread/INFO]: [CHAT] katgirl2468: VENOM!!!
+[13:15:24] [Client thread/INFO]: [CHAT] [Herobrine] ~Alex: wanna go to my plot
+[13:15:26] [Client thread/INFO]: [CHAT] MuhEpicFace26: im magic
+[13:15:27] [Client thread/INFO]: [CHAT] seabreeze89: Yo mama's crappy
+[13:15:28] [Client thread/INFO]: [CHAT] [Premium] Venombrand: wHAT
+[13:15:32] [Client thread/INFO]: [CHAT] [Herobrine] ~Alex: ok lets go to yours
+[13:15:33] [Client thread/INFO]: [CHAT] MuhEpicFace26: lol
+[13:15:36] [Client thread/INFO]: [CHAT] katgirl2468: i once heard krouppi say somthing about u u her friend?
+[13:15:43] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Hai guys
+[13:15:46] [Client thread/INFO]: [CHAT] katgirl2468: hey max
+[13:15:46] [Client thread/INFO]: [CHAT] adri_3509: hi?
+[13:15:47] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: Hi
+[13:15:48] [Client thread/INFO]: [CHAT] [Premium] Venombrand: Yeah
+[13:15:50] [Client thread/INFO]: [CHAT] seabreeze89: -=Tpa Epic For Skin Comp! 2/6 Winners Get A Special Prize!=-
+[13:15:50] [Client thread/INFO]: [CHAT] [Herobrine] ~Alex: well bye sky u have fun
+[13:15:53] [Client thread/INFO]: [CHAT] corrack: What would everyone here do if they hacked their sister's account
+[13:15:54] [Client thread/INFO]: [CHAT] Dark_Venture: get in pods?
+[13:15:54] [Client thread/INFO]: [CHAT] EleventhDoctor_: tardis yes =)
+[13:15:54] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: hi
+[13:15:56] [Client thread/INFO]: [CHAT] katgirl2468: lol kewl
+[13:15:58] [Client thread/INFO]: [CHAT] [Herobrine] ~Alex: wow
+[13:15:59] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Hey venom
+[13:16:00] [Client thread/INFO]: [CHAT] MuhEpicFace26: yeah
+[13:16:03] [Client thread/INFO]: [CHAT] [Donator] lilly326: big go to ur plot
+[13:16:04] [Client thread/INFO]: [CHAT] seabreeze89: -=Tpa Epic For Skin Comp! 3/6 Winners Get A Special Prize!=-
+[13:16:14] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: tpa for and awesome house rp need mom dad and lil boy!!! (capsoholic)
+[13:16:14] [Client thread/INFO]: [CHAT] lion70449: add meh
+[13:16:16] [Client thread/INFO]: [CHAT] damanda04: do /all
+[13:16:18] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: yea?
+[13:16:18] [Client thread/INFO]: [CHAT] corrack: What would everyone here do if they hacked their sister's account?
+[13:16:20] [Client thread/INFO]: [CHAT] [Herobrine] kingdak: should I stream
+[13:16:23] [Client thread/INFO]: [CHAT] GravityFreaks: home
+[13:16:24] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: ?
+[13:16:27] [Client thread/INFO]: [CHAT] seabreeze89: -=Tpa Epic For Skin Comp! 3/6 Winners Get A Special Prize!!=-
+[13:16:31] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA FOR AND AWESOME HOUSE RP NEED MOM DAD AND LIL BOY!!! (capdafnafnijafiohaiofjaio)
+[13:16:32] [Client thread/INFO]: [CHAT] damanda04: lion do /all
+[13:16:36] [Client thread/INFO]: [CHAT] seabreeze89: -=Tpa Epic For Skin Comp! 4/6 Winners Get A Special Prize!!=-
+[13:16:37] [Client thread/INFO]: [CHAT] Request sent to seabreeze89.
+[13:16:39] [Client thread/INFO]: [CHAT] seabreeze89 accepted your teleport request.
+[13:16:39] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[13:16:44] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[13:16:44] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: like it?
+[13:16:52] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:16:52] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:16:53] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:16:53] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:16:54] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:16:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:16:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:16:55] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:16:55] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!
+[13:17:05] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: You wanna be da dadda?
+[13:17:06] [Client thread/INFO]: [CHAT] rubyisawsome8: tpa to rubys adoption center need people come come ____ (caps protection)!need people
+[13:17:08] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:09] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:10] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:11] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:11] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:17:14] [Client thread/INFO]: [CHAT] adri_3509: ok now what XD
+[13:17:19] [Client thread/INFO]: [CHAT] thift_: anyone know why people cant join my server
+[13:17:19] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:20] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:21] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:21] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:24] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!!
+[13:17:25] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Venombrand
+[13:17:32] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:33] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:34] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:35] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:40] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Venombrand!
+[13:17:41] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:41] [Client thread/INFO]: [CHAT] seabreeze89: Yea
+[13:17:42] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:43] [Client thread/INFO]: [CHAT] [Premium] Venombrand: what
+[13:17:45] [Client thread/INFO]: [CHAT] Dark_Venture: ok
+[13:17:46] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: katgirl2468 is
+[13:17:49] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:49] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:17:51] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: A Kat
+[13:17:53] [Client thread/INFO]: [CHAT] thift_: idk our router login
+[13:17:56] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: xD
+[13:17:58] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!
+[13:18:11] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:20] [Client thread/INFO]: [CHAT] GravityFreaks: any shops?
+[13:18:25] [Client thread/INFO]: [CHAT] Hudson813: Venombrand can we play again
+[13:18:25] [Client thread/INFO]: [CHAT] AmazingMickey: just wnted to say hi and im your friendly nebhoir hood Spiderman
+[13:18:26] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:26] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: hai guys
+[13:18:26] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:27] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:27] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:29] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:30] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!!!
+[13:18:31] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:38] [Client thread/INFO]: [CHAT] seabreeze89: AmazingMickey wait
+[13:18:40] [Client thread/INFO]: [CHAT] Dark_Venture: cards against humanity lol
+[13:18:45] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA FOR AND AWESOME HOUSE RP NEED MOM AND DAD!!! (capdafnafnijafiohaiofjaio)
+[13:18:47] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Meh best song on =2
+[13:18:47] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:49] [Client thread/INFO]: [CHAT] Rspen: tpa for head shop
+[13:18:49] [Client thread/INFO]: [CHAT] You cannot build here.
+[13:18:49] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: =3
+[13:18:56] [Client thread/INFO]: [CHAT] MuhEpicFace26:  tpa r3
+[13:18:57] [Client thread/INFO]: [CHAT] Rspen: TPA FOR HEAD SHOP (caps saver)
+[13:19:03] [Client thread/INFO]: [CHAT] coyocoya: ?
+[13:19:13] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:19:19] [Client thread/INFO]: [CHAT] Dark_Venture: was it cancelled?
+[13:19:25] [Client thread/INFO]: [CHAT] seabreeze89: NEXT ROUND
+[13:19:27] [Client thread/INFO]: [CHAT] wildvale: xD
+[13:19:28] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Nah
+[13:19:32] [Client thread/INFO]: [CHAT] Dark_Venture: ?
+[13:19:32] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA FOR AND AWESOME HOUSE RP NEED MOM AND DAD!!! (capdafnafnijafiohaiofjaio)@
+[13:19:36] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Ima melon im green =3
+[13:19:43] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Even doe it wrong =3
+[13:19:45] [Client thread/INFO]: [CHAT] julias16: Msg me if you know how to change the font and size of words on Minecraft!Please
+[13:19:46] [Client thread/INFO]: [CHAT] jackmanotter: tpa to R3dCoco 4 a alsome Rp NEED MOM AND DAD!
+[13:19:52] [Client thread/INFO]: [CHAT] AmazingMickey: any skin comps
+[13:20:11] [Client thread/INFO]: [CHAT] seabreeze89: ROUND @
+[13:20:18] [Client thread/INFO]: [CHAT] jackmanotter: tpa to R3dCoco 4 a alsome Rp NEED MOM AND DAD!!
+[13:20:20] [Client thread/INFO]: [CHAT] seabreeze89: ROUND 2
+[13:20:24] [Client thread/INFO]: [CHAT] Hudson813: i was seeing the question
+[13:20:30] [Client thread/INFO]: [CHAT] 66Jonathon: ok
+[13:20:31] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Venombrand
+[13:20:52] [Client thread/INFO]: [CHAT] [Premium] Venombrand: Exactly u did nothing u ahd to asnwer
+[13:20:52] [Client thread/INFO]: [CHAT] jackmanotter: ?
+[13:20:54] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Venombrand im sorry but i know you hack =3
+[13:20:56] [Client thread/INFO]: [CHAT] BellaTheUnicorn1: brb
+[13:21:01] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: =3
+[13:21:01] [Client thread/INFO]: [CHAT] AmazingMickey: im dad
+[13:21:01] [Client thread/INFO]: [CHAT] [Premium] Venombrand: How do i hack in creative...
+[13:21:06] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: easy
+[13:21:06] [Client thread/INFO]: [CHAT] MuhEpicFace26: eater come here
+[13:21:09] [Client thread/INFO]: [CHAT] jackmanotter: ????
+[13:21:11] [Client thread/INFO]: [CHAT] biancaC10: ...
+[13:21:15] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: yea
+[13:21:16] [Client thread/INFO]: [CHAT] mollymurr: ANY T OR DS
+[13:21:16] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:21:27] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: better deny meh before i tell ery1
+[13:21:42] [Client thread/INFO]: [CHAT] blockmaster956: catbug!!! :dddddd
+[13:21:43] [Client thread/INFO]: [CHAT] WildWilliam7: dude we all heard you xD
+[13:21:43] [Client thread/INFO]: [CHAT] fivgak: paccept
+[13:21:45] [Client thread/INFO]: [CHAT] [Premium] Venombrand: Theres nothing to hack in creative \
+[13:21:47] [Client thread/INFO]: [CHAT] IamSkytheKid: TPA TO ME FOR T OR D (may get a bit sexual, idk)
+[13:21:47] [Client thread/INFO]: [CHAT] Hudson813: you already did!?!
+[13:21:48] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!
+[13:21:54] [Client thread/INFO]: [CHAT] AmazingMickey: im the dad
+[13:21:54] [Client thread/INFO]: [CHAT] IamSkytheKid: TPA TO ME FOR T OR D (may get a bit sexual, idk) Need 4 ppl to start
+[13:21:55] [Client thread/INFO]: [CHAT] blockmaster956: CATBUG!!! :DDDDDD (catbug hates caps)
+[13:22:02] [Client thread/INFO]: [CHAT] Hudson813: i was seeing the question
+[13:22:06] [Client thread/INFO]: [CHAT] soupster101: CATBUG
+[13:22:08] [Client thread/INFO]: [CHAT] IamSkytheKid: TPA TO ME FOR T OR D (may get a bit sexual, idk) Need 4 ppl to start!
+[13:22:17] [Client thread/INFO]: [CHAT] IamSkytheKid: TPA TO ME FOR T OR D (may get a bit sexual, idk) Need 4 ppl to start!!!!!!!
+[13:22:17] [Client thread/INFO]: [CHAT] blockmaster956: CATBUG!!! :DDDDDD (catbug hates caps so much :3 )
+[13:22:18] [Client thread/INFO]: [CHAT] Dark_Venture: did i lose again?
+[13:22:31] [Client thread/INFO]: [CHAT] IamSkytheKid: Itll do
+[13:22:34] [Client thread/INFO]: [CHAT] biancaC10: xD
+[13:22:37] [Client thread/INFO]: [CHAT] mistminer100: ohh
+[13:22:44] [Client thread/INFO]: [CHAT] IamSkytheKid: yes
+[13:22:46] [Client thread/INFO]: [CHAT] DUMBBLONDE1922: this is soo cool
+[13:22:49] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: so bored
+[13:22:52] [Client thread/INFO]: [CHAT] [Donator] solarfx: same
+[13:22:54] [Client thread/INFO]: [CHAT] fivgak: thancks
+[13:22:55] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Its a little cramped in here
+[13:22:56] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: anyone wanna hang
+[13:22:59] [Client thread/INFO]: [CHAT] [Premium] Venombrand: I griefed kroupii plot
+[13:23:01] [Client thread/INFO]: [CHAT] IamSkytheKid: No, my friend wanted one asap
+[13:23:02] [Client thread/INFO]: [CHAT] fivgak: i mean thanks
+[13:23:09] [Client thread/INFO]: [CHAT] AmazingMickey: im the dad yyay
+[13:23:09] [Client thread/INFO]: [CHAT] blockmaster956: catbug is so kawaii!!!!
+[13:23:11] [Client thread/INFO]: [CHAT] GravityFreaks: any shops anyone?
+[13:23:11] [Client thread/INFO]: [CHAT] IamSkytheKid: So i was rushed, ill do it later
+[13:23:13] [Client thread/INFO]: [CHAT] BellaTheUnicorn1: hey take my order
+[13:23:17] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:23:18] [Client thread/INFO]: [CHAT] biancaC10: f*ck
+[13:23:18] [Client thread/INFO]: [CHAT] fivgak: i built it all
+[13:23:31] [Client thread/INFO]: [CHAT] IamSkytheKid: Can everyone here please disable all chat?
+[13:23:33] [Client thread/INFO]: [CHAT] kaysed: Anyone have a build comp?!
+[13:23:36] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!!!!
+[13:23:36] [Client thread/INFO]: [CHAT] AmazingMickey: can i be the dad
+[13:23:39] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can!
+[13:23:54] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can!(caps are cool)
+[13:23:55] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Tpa to IamSkytheKid For some T or D
+[13:24:17] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can!
+[13:24:17] [Client thread/INFO]: [CHAT] julias16: ?
+[13:24:19] [Client thread/INFO]: [CHAT] [Premium] Venombrand: Follow
+[13:24:19] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Tpa to IamSkytheKid For some T or D =P
+[13:24:22] [Client thread/INFO]: [CHAT] BellaTheUnicorn1: wheres my order
+[13:24:24] [Client thread/INFO]: [CHAT] julias16: brb
+[13:24:30] [Client thread/INFO]: [CHAT] wisconsinred1: :)
+[13:24:32] [Client thread/INFO]: [CHAT] biancaC10: Say 123 if you have a god shop
+[13:24:40] [Client thread/INFO]: [CHAT] IamSkytheKid: Ok want it bigger?
+[13:24:45] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Yes plz
+[13:24:46] [Client thread/INFO]: [CHAT] biancaC10: Say 123 if you have a god shop.
+[13:24:49] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!!
+[13:24:52] [Client thread/INFO]: [CHAT] 66Jonathon: tpa to see my plot! cool plz come
+[13:24:58] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can!~~
+[13:25:03] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA FOR AND AWESOME HOUSE RP NEED DAD!!! (capdafnafnijafiohaiofjaio)
+[13:25:05] [Client thread/INFO]: [CHAT] CaitiLexi: Rawr
+[13:25:09] [Client thread/INFO]: [CHAT] Jboy779: tpa to rubyisawsome8 to adopt a pet or child
+[13:25:14] [Client thread/INFO]: [CHAT] lion70449: TPS TO HALP MEH BUILD A HOSPITAL (caps 4 da noobs)
+[13:25:15] [Client thread/INFO]: [CHAT] Request sent to 66Jonathon.
+[13:25:15] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:25:18] [Client thread/INFO]: [CHAT] 66Jonathon: tpa to see my plot! cool plz come!
+[13:25:18] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: woof
+[13:25:19] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: paccept
+[13:25:31] [Client thread/INFO]: [CHAT] Jboy779: tpa to rubyisawsome8 to adopt a pet or child!
+[13:25:34] [Client thread/INFO]: [CHAT] Request sent to 66Jonathon.
+[13:25:34] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: who wants to be friends
+[13:25:35] [Client thread/INFO]: [CHAT] IamSkytheKid: yes
+[13:25:37] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!
+[13:25:38] [Client thread/INFO]: [CHAT] lion70449: TPS TO HALP MEH BUILD A HOSPITAL (caps 4 da noobs)!!!
+[13:25:45] [Client thread/INFO]: [CHAT] jackmanotter: sry i haft to go :(!!!
+[13:25:50] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: Shes Brb
+[13:26:01] [Client thread/INFO]: [CHAT] IamSkytheKid: What
+[13:26:02] [Client thread/INFO]: [CHAT] Request sent to 66Jonathon.
+[13:26:06] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: hum
+[13:26:07] [Client thread/INFO]: [CHAT] 66Jonathon accepted your teleport request.
+[13:26:07] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[13:26:08] [Client thread/INFO]: [CHAT] IamSkytheKid: UGh
+[13:26:10] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: Shes Premium to
+[13:26:11] [Client thread/INFO]: [CHAT] Jboy779: tpa to rubyisawsome8 to adopt a pet or child!!
+[13:26:11] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[13:26:12] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: :P
+[13:26:21] [Client thread/INFO]: [CHAT] IamSkytheKid: Ok
+[13:26:23] [Client thread/INFO]: [CHAT] lion70449: TPS TO HALP MEH BUILD A HOSPITAL (caps 4 da noobs)
+[13:26:27] [Client thread/INFO]: [CHAT] Hudson813: sure
+[13:26:33] [Client thread/INFO]: [CHAT] [Premium] Venombrand: Up here Hudson813
+[13:26:34] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can!~~~
+[13:26:37] [Client thread/INFO]: [CHAT] julias16: Ok
+[13:26:40] [Client thread/INFO]: [CHAT] lion70449: TPA TO HALP MEH BUILD A HOSPITAL (caps 4 da noobs)
+[13:26:40] [Client thread/INFO]: [CHAT] jackmanotter: tpa to help me make a Rp! PLZZZZZZ!
+[13:26:52] [Client thread/INFO]: [CHAT] CaitiLexi: Rawr.
+[13:26:54] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!!!
+[13:26:57] [Client thread/INFO]: [CHAT] julias16: Ok thanks!
+[13:26:58] [Client thread/INFO]: [CHAT] Ilovepandf: Fennekin..?
+[13:26:59] [Client thread/INFO]: [CHAT] WildWilliam7: O_O
+[13:27:01] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: woof? (u like pokeymon?0)
+[13:27:01] [Client thread/INFO]: [CHAT] gooch378: ok
+[13:27:02] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA TO BE IN A HOUSE RP ON;Y NEED A DAD!!(haiduandaidjaiodimoa)
+[13:27:15] [Client thread/INFO]: [CHAT] julias16: Any Roleplays?
+[13:27:18] [Client thread/INFO]: [CHAT] kaysed: Anyone have a build comp?
+[13:27:19] [Client thread/INFO]: [CHAT] gooch378: waaaaaaaaaaaaa!
+[13:27:23] [Client thread/INFO]: [CHAT] lion70449: TPA TO HALP MEH BUILD A HOSPITAL (caps 4 da noobs)!
+[13:27:26] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:27:31] [Client thread/INFO]: [CHAT] Hudson813: Venombrand add m4e
+[13:27:32] [Client thread/INFO]: [CHAT] Bubbles804: tpa to me, ChelseaDuong123 , niftystar09, ChristyCraft1658 for club ice!!!
+[13:27:35] [Client thread/INFO]: [CHAT] WildWilliam7: ummmm dude can u plz leave?
+[13:27:36] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA TO BE IN A HOUSE RP ON;Y NEED A DAD!!(haiduandaidjaiodimoa)!
+[13:27:42] [Client thread/INFO]: [CHAT] jackmanotter: u can build
+[13:27:43] [Client thread/INFO]: [CHAT] WildWilliam7: ahah....
+[13:28:01] [Client thread/INFO]: [CHAT] Bubbles804: of?
+[13:28:07] [Client thread/INFO]: [CHAT] Dark_Venture: why isnt there any info on these dangerous ones?
+[13:28:07] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!!!!!!!!
+[13:28:09] [Client thread/INFO]: [CHAT] CaitiLexi: Hear me roar! Rawr.
+[13:28:11] [Client thread/INFO]: [CHAT] WildWilliam7: kicked him
+[13:28:19] [Client thread/INFO]: [CHAT] EmmaCat15: you don't catch me.
+[13:28:22] [Client thread/INFO]: [CHAT] lavarain515: Any clubs msg me
+[13:28:25] [Client thread/INFO]: [CHAT] WildWilliam7: LAWL
+[13:28:27] [Client thread/INFO]: [CHAT] Ilovepandf: Fen! Fennekin!
+[13:28:37] [Client thread/INFO]: [CHAT] CaitiLexi: RAWR!
+[13:28:39] [Client thread/INFO]: [CHAT] WildWilliam7: so now what
+[13:28:40] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can!~~~!
+[13:28:48] [Client thread/INFO]: [CHAT] Ilovepandf: Fenne! Fennekin! Fen!
+[13:28:50] [Client thread/INFO]: [CHAT] 66Jonathon: tpa to see my plot! cool plz come!!
+[13:28:53] [Client thread/INFO]: [CHAT] WildWilliam7: make ur house/
+[13:28:55] [Client thread/INFO]: [CHAT] Hudson813: ok
+[13:28:56] [Client thread/INFO]: [CHAT] IamSkytheKid: AmazingMickey
+[13:29:04] [Client thread/INFO]: [CHAT] Dark_Venture: i am too but im just a slave of the Wither
+[13:29:05] [Client thread/INFO]: [CHAT] IamSkytheKid: Not anymore
+[13:29:05] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!!!!!
+[13:29:09] [Client thread/INFO]: [CHAT] julias16: Any Roleplays Please?
+[13:29:17] [Client thread/INFO]: [CHAT] BellaTheUnicorn1: if u can use world edit on plots plzzzzzzzzzz msg me plz (caps suck butts)
+[13:29:18] [Client thread/INFO]: [CHAT] IamSkytheKid: Ok Bearybear64
+[13:29:22] [Client thread/INFO]: [CHAT] CaitiLexi: Yeah! Theres a fennekin in here! #PokemanzFTW
+[13:29:23] [Client thread/INFO]: [CHAT] Jboy779: *howl
+[13:29:25] [Client thread/INFO]: [CHAT] fivgak: sure
+[13:29:28] [Client thread/INFO]: [CHAT] gooch378: sissy
+[13:29:31] [Client thread/INFO]: [CHAT] AmazingMickey: can i be Josh
+[13:29:31] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)!
+[13:29:34] [Client thread/INFO]: [CHAT] BellaTheUnicorn1: IF U CAN USE WORLD EDIT ON PLOTS PLZZZZZZZZZZ MSG ME PLZ (caps are for butt suckers)
+[13:29:37] [Client thread/INFO]: [CHAT] WildWilliam7: SISSY
+[13:29:39] [Client thread/INFO]: [CHAT] MuhEpicFace26: look
+[13:29:39] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:29:39] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: ok
+[13:29:42] [Client thread/INFO]: [CHAT] Dark_Venture: wow
+[13:29:42] [Client thread/INFO]: [CHAT] gloomkittytob: *scrathes ear*
+[13:29:44] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)! Need Adopters
+[13:29:45] [Client thread/INFO]: [CHAT] Jboy779: ima wolf
+[13:29:46] [Client thread/INFO]: [CHAT] MuhEpicFace26: i made it better
+[13:29:49] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can
+[13:29:54] [Client thread/INFO]: [CHAT] Ilovepandf: -see's mckris' tail- Fennekin!
+[13:29:56] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: do u want me to make a tree house for u
+[13:29:56] [Client thread/INFO]: [CHAT] CaitiLexi: Hear me roar! Rawr.
+[13:29:57] [Client thread/INFO]: [CHAT] julias16: ANY RPS?MSG ME! caps saver
+[13:29:57] [Client thread/INFO]: [CHAT] Bubbles804: bye
+[13:30:03] [Client thread/INFO]: [CHAT] WildWilliam7: he left so...
+[13:30:06] [Client thread/INFO]: [CHAT] Jboy779: *howls* shut up
+[13:30:06] [Client thread/INFO]: [CHAT] xElliebeth: tpa for a epic head shop over 150+ heads and 50+ god items!!
+[13:30:08] [Client thread/INFO]: [CHAT] MuhEpicFace26: eater over here
+[13:30:13] [Client thread/INFO]: [CHAT] gloomkittytob: *streches*
+[13:30:22] [Client thread/INFO]: [CHAT] AmazingMickey: can i be Joshua
+[13:30:24] [Client thread/INFO]: [CHAT] Ilovepandf: Fennekin! Fenne!
+[13:30:26] [Client thread/INFO]: [CHAT] IamSkytheKid: I dare you to lick mollymurr's vag
+[13:30:28] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: yours
+[13:30:30] [Client thread/INFO]: [CHAT] CaitiLexi: Yeah, rawr
+[13:30:40] [Client thread/INFO]: [CHAT] gloomkittytob: who watches Smosh?
+[13:30:41] [Client thread/INFO]: [CHAT] Jboy779: ima new pokemon
+[13:30:44] [Client thread/INFO]: [CHAT] lion70449: me
+[13:30:47] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP OVER 150+ HEADS AND 60+ GOD ITEMS!! (caps protection)
+[13:30:47] [Client thread/INFO]: [CHAT] MuhEpicFace26: whats this
+[13:30:47] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)! Need Adopters!!
+[13:30:47] [Client thread/INFO]: [CHAT] IamSkytheKid: i couldnt think of anything else, sorry i wont look
+[13:30:48] [Client thread/INFO]: [CHAT] Jboy779: me
+[13:30:49] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can!
+[13:30:50] [Client thread/INFO]: [CHAT] julias16: ANy Rps?Msg me
+[13:30:57] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA TO BE IN A HOUSE RP ON;Y NEED A DAD!!(haiduandaidjaiodimoa)!>
+[13:30:58] [Client thread/INFO]: [CHAT] xcreamypockii, xElliebeth, XUniverse_LoveX, Xx_TheWolf_xX, XxEndergirl7xX
+[13:30:59] [Client thread/INFO]: [CHAT] xcreamypockii, xElliebeth, XUniverse_LoveX, Xx_TheWolf_xX, XxEndergirl7xX
+[13:31:00] [Client thread/INFO]: [CHAT] Request sent to xElliebeth.
+[13:31:02] [Client thread/INFO]: [CHAT] Quantum162: any rps msg me!
+[13:31:03] [Client thread/INFO]: [CHAT] firepuppy2004: ./tpa firepuppy2004 for awesome hs power prom rp~~~ get the ppl while you can!!
+[13:31:04] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: ok
+[13:31:05] [Client thread/INFO]: [CHAT] ElectroMiner125: uhhhhhh
+[13:31:07] [Client thread/INFO]: [CHAT] CaitiLexi: Welcome to rawr universe!
+[13:31:08] [Client thread/INFO]: [CHAT] IamSkytheKid: Ok ut turn
+[13:31:09] [Client thread/INFO]: [CHAT] Jboy779: ima weird looking squirtle
+[13:31:10] [Client thread/INFO]: [CHAT] Ilovepandf: Fennekin! Fenne! Fenne!
+[13:31:12] [Client thread/INFO]: [CHAT] Request sent to xElliebeth.
+[13:31:14] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: Vini
+[13:31:14] [Client thread/INFO]: [CHAT] GirlGamer223: HI FIRE
+[13:31:18] [Client thread/INFO]: [CHAT] ElectroMiner125: wats your ages?
+[13:31:18] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP OVER 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[13:31:19] [Client thread/INFO]: [CHAT] xElliebeth accepted your teleport request.
+[13:31:19] [Client thread/INFO]: [CHAT] Teleportation will commence in 3 seconds. Don't move.
+[13:31:21] [Client thread/INFO]: [CHAT] GravityFreaks: tpa for my summertime head shop!
+[13:31:22] [Client thread/INFO]: [CHAT] GirlGamer223: Hi blonde
+[13:31:23] [Client thread/INFO]: [CHAT] Teleportation commencing...
+[13:31:27] [Client thread/INFO]: [CHAT] ElectroMiner125: wats your ages??
+[13:31:34] [Client thread/INFO]: [CHAT] WildWilliam7: haha fucker
+[13:31:34] [Client thread/INFO]: [CHAT] lion70449: lagg
+[13:31:35] [Client thread/INFO]: [CHAT] CaitiLexi: ahh! vampire!
+[13:31:35] [Client thread/INFO]: [CHAT] Jboy779: im 12
+[13:31:40] [Client thread/INFO]: [CHAT] IamSkytheKid: okkkkk
+[13:31:40] [Client thread/INFO]: [CHAT] GirlGamer223: I'm going to rp kk? I was on almost everyday
+[13:31:51] [Client thread/INFO]: [CHAT] gamingbananababy: Anythang 2 do?
+[13:31:55] [Client thread/INFO]: [CHAT] ElectroMiner125: i choose puppysweet8?
+[13:31:57] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: can u add me
+[13:31:58] [Client thread/INFO]: [CHAT] WildWilliam7: fuck you too
+[13:31:59] [Client thread/INFO]: [CHAT] Ilovepandf: Fennekin!
+[13:32:01] [Client thread/INFO]: [CHAT] IamSkytheKid: You can go.
+[13:32:02] [Client thread/INFO]: [CHAT] Jboy779: im 12 year old wolf
+[13:32:02] [Client thread/INFO]: [CHAT] gloomkittytob: orphan on the run
+[13:32:02] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP OVER 150+ HEADS AND 60+ GOD ITEMS!! (caps protection)
+[13:32:04] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:32:06] [Client thread/INFO]: [CHAT] gooch378: sissy!
+[13:32:12] [Client thread/INFO]: [CHAT] ElectroMiner125: i choose puppysweet8
+[13:32:13] [Client thread/INFO]: [CHAT] Jboy779: but i can talk
+[13:32:20] [Client thread/INFO]: [CHAT] CaitiLexi: Thats ok, 'cause im a rawring shapeshifer
+[13:32:21] [Client thread/INFO]: [CHAT] Hudson813: Venombrand brb
+[13:32:22] [Client thread/INFO]: [CHAT] ElectroMiner125: who?
+[13:32:24] [Client thread/INFO]: [CHAT] gooch378: I'm her sister!
+[13:32:25] [Client thread/INFO]: [CHAT] Jboy779: and understand pokemon
+[13:32:26] [Client thread/INFO]: [CHAT] Ilovepandf: Fennekin! Fenn! Fennekin!
+[13:32:36] [Client thread/INFO]: [CHAT] ElectroMiner125: ok
+[13:32:40] [Client thread/INFO]: [CHAT] gooch378: daddy
+[13:32:40] [Client thread/INFO]: [CHAT] Jboy779: calm down fennekin
+[13:32:44] [Client thread/INFO]: [CHAT] Ilovepandf: Fenne! Fennekin!
+[13:32:45] [Client thread/INFO]: [CHAT] ElectroMiner125: wat are your ages?
+[13:32:45] [Client thread/INFO]: [CHAT] gloomkittytob: orphan on the run =)
+[13:32:47] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: ok
+[13:32:48] [Client thread/INFO]: [CHAT] CaitiLexi: RAWR!
+[13:32:51] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP OVER 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[13:32:51] [Client thread/INFO]: [CHAT] gooch378: 0
+[13:32:53] [Client thread/INFO]: [CHAT] Ilovepandf: :D
+[13:32:56] [Client thread/INFO]: [CHAT] CaitiLexi: Ew
+[13:32:59] [Client thread/INFO]: [CHAT] Jboy779: nice charmander
+[13:33:04] [Client thread/INFO]: [CHAT] gooch378: age 0
+[13:33:07] [Client thread/INFO]: [CHAT] Ilovepandf: Fennek! Fennekin!
+[13:33:07] [Client thread/INFO]: [CHAT] CaitiLexi: Rawr.
+[13:33:15] [Client thread/INFO]: [CHAT] gooch378: My age is 0
+[13:33:16] [Client thread/INFO]: [CHAT] ElectroMiner125: Ok whos plot?
+[13:33:25] [Client thread/INFO]: [CHAT] Niw16: any skin comps
+[13:33:26] [Client thread/INFO]: [CHAT] julias16: Mom
+[13:33:27] [Client thread/INFO]: [CHAT] Jboy779: so can someone adopt me
+[13:33:28] [Client thread/INFO]: [CHAT] [Legend] ~Dusk: it is better with a huge tree
+[13:33:31] [Client thread/INFO]: [CHAT] gooch378: I'm 1 (in minecraft)
+[13:33:37] [Client thread/INFO]: [CHAT] MuhEpicFace26: oops
+[13:33:39] [Client thread/INFO]: [CHAT] julias16: TPA TO R3dCoco
+[13:33:42] [Client thread/INFO]: [CHAT] GirlGamer223: All the good ones are taken.. Hey puppy can u give me a good on? my brother IS kind of ur bf
+[13:33:43] [Client thread/INFO]: [CHAT] ElectroMiner125: Ok whos plot to go to?
+[13:33:44] [Client thread/INFO]: [CHAT] gooch378: u
+[13:33:44] [Client thread/INFO]: [CHAT] Ilovepandf: Fennekin!
+[13:33:45] [Client thread/INFO]: [CHAT] IamSkytheKid: Bye AmazingMickey
+[13:33:53] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection)
+[13:33:57] [Client thread/INFO]: [CHAT] gooch378: youres
+[13:34:01] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP OVER 150+ HEADS AND 60+ GOD ITEMS!! (caps protection)
+[13:34:02] [Client thread/INFO]: [CHAT] GirlGamer223: livie isnt on
+[13:34:04] [Client thread/INFO]: [CHAT] ElectroMiner125: i got a RP though
+[13:34:06] [Client thread/INFO]: [CHAT] Dark_Venture: ill kill you
+[13:34:11] [Client thread/INFO]: [CHAT] gooch378: oh
+[13:34:14] [Client thread/INFO]: [CHAT] xElliebeth: tpa for a epic head shop over 150+ heads and 60+ god items!!10 things max (caps protection)
+[13:34:15] [Client thread/INFO]: [CHAT] Jboy779: hi solarfx
+[13:34:16] [Client thread/INFO]: [CHAT] ElectroMiner125: is that ok?
+[13:34:16] [Client thread/INFO]: [CHAT] materman836: t
+[13:34:17] [Client thread/INFO]: [CHAT] LIVIE_L0V3: yesh i am :)
+[13:34:18] [Client thread/INFO]: [CHAT] julias16: TPA TO R3dCoco OR Blu3Vanila FOR FAMILY RP! NEED SON AND DAD!caps saverrrrrrr
+[13:34:22] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP OVER 150+ HEADS AND 60+ GOD ITEMS!! (caps protection)
+[13:34:30] [Client thread/INFO]: [CHAT] [Legend] Shadowed_Flame: jboy my internet shut off D:
+[13:34:35] [Client thread/INFO]: [CHAT] Jboy779: hey solar u should adopt me ima a cool wolf
+[13:34:36] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:34:42] [Client thread/INFO]: [CHAT] marl04: <><><>WHAT KINDA RP SHOULD I MAKE<><><> (caps protection)
+[13:34:47] [Client thread/INFO]: [CHAT] GirlGamer223: May i be kaitlyn?
+[13:34:48] [Client thread/INFO]: [CHAT] Dark_Venture: i know nobody wll adopt me
+[13:34:50] [Client thread/INFO]: [CHAT] firepuppy2004: soryy rp cancelled
+[13:34:52] [Client thread/INFO]: [CHAT] ElectroMiner125: uhhhh
+[13:34:55] [Client thread/INFO]: [CHAT] AmazingMickey: Tpa IamSkytheKid for an awsome skin comp
+[13:34:56] [Client thread/INFO]: [CHAT] GirlGamer223: But can i be nice please
+[13:34:57] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection).
+[13:34:59] [Client thread/INFO]: [CHAT] gooch378: Say 123 if you have a apartment
+[13:35:09] [Client thread/INFO]: [CHAT] ElectroMiner125: Fine i will make you a room for you 2
+[13:35:10] [Client thread/INFO]: [CHAT] Jboy779: i do well in cages
+[13:35:16] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP OVER 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[13:35:16] [Client thread/INFO]: [CHAT] marl04: <><><>WHAT KINDA RP SHOULD I MAKE<><><> (caps protection).
+[13:35:16] [Client thread/INFO]: [CHAT] CaitiLexi: Hear me roar! Rawr.
+[13:35:17] [Client thread/INFO]: [CHAT] GirlGamer223: can you add me please?
+[13:35:22] [Client thread/INFO]: [CHAT] karategirllegend: Tpa to help me build a Creepy Pasta RP w/ SUPER POWERS!! 0/3
+[13:35:24] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA TO BE IN A HOUSE RP ON;Y NEED A DAD and BROTHER!!(haiduandai)
+[13:35:24] [Client thread/INFO]: [CHAT] Ilovepandf: Fennekin! fenne!
+[13:35:27] [Client thread/INFO]: [CHAT] firepuppy2004: rp cancelled
+[13:35:29] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection)
+[13:35:31] [Client thread/INFO]: [CHAT] Jboy779: ElectroMiner125 i do well in cages so pleasr adopt me
+[13:35:34] [Client thread/INFO]: [CHAT] karategirllegend: Tpa to help me build a Creepy Pasta RP w/ SUPER POWERS!! 0/3!
+[13:35:35] [Client thread/INFO]: [CHAT] gooch378: u
+[13:35:38] [Client thread/INFO]: [CHAT] ElectroMiner125: Is that ok?
+[13:35:43] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection).
+[13:35:43] [Client thread/INFO]: [CHAT] gooch378: y
+[13:35:45] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here
+[13:35:45] [Client thread/INFO]: [CHAT] CaitiLexi: Rawr
+[13:35:48] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA TO BE IN A HOUSE RP ON;Y NEED A mOM DAD and BROTHER!!(haiduandai)
+[13:35:51] [Client thread/INFO]: [CHAT] gooch378: Say 123 if you have a apartment
+[13:35:53] [Client thread/INFO]: [CHAT] julias16: Sarah
+[13:35:56] [Client thread/INFO]: [CHAT] Jboy779: electro adopt me to please i dpnt like it here
+[13:35:56] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: Hi people...
+[13:36:03] [Client thread/INFO]: [CHAT] MuhEpicFace26: lemme try
+[13:36:06] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here!
+[13:36:09] [Client thread/INFO]: [CHAT] ElectroMiner125: A ha!
+[13:36:15] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: :(
+[13:36:19] [Client thread/INFO]: [CHAT] ElectroMiner125: My friends hotel!
+[13:36:20] [Client thread/INFO]: [CHAT] MuhEpicFace26: eater lemme try
+[13:36:22] [Client thread/INFO]: [CHAT] gooch378: ok!
+[13:36:22] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)! Need Adopters!!!!!
+[13:36:22] [Client thread/INFO]: [CHAT] [Legend] Shadowed_Flame: any Adoption centers?
+[13:36:27] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: no one wanna hang
+[13:36:30] [Client thread/INFO]: [CHAT] ElectroMiner125: tpa to me
+[13:36:30] [Client thread/INFO]: [CHAT] gooch378: uh
+[13:36:31] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection)
+[13:36:31] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here!!
+[13:36:40] [Client thread/INFO]: [CHAT] gooch378: .toa ElectroMiner
+[13:36:43] [Client thread/INFO]: [CHAT] [Donator] solarfx: Is anyone else boooored
+[13:36:45] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection) 2 boys and 2 girls needed
+[13:36:49] [Client thread/INFO]: [CHAT] Ilovepandf: I can make the Starting area if you want me to
+[13:36:51] [Client thread/INFO]: [CHAT] horses_12: tpa agian
+[13:36:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:36:53] [Client thread/INFO]: [CHAT] gooch378: u
+[13:36:56] [Client thread/INFO]: [CHAT] CaitiLexi: Rawr (Im gonna kill all of you)
+[13:37:00] [Client thread/INFO]: [CHAT] Ilovepandf: Okay
+[13:37:03] [Client thread/INFO]: [CHAT] Jboy779: a wolf that can talk
+[13:37:06] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here!!!
+[13:37:10] [Client thread/INFO]: [CHAT] Emaan01_1500: hey guys
+[13:37:13] [Client thread/INFO]: [CHAT] shakey17: <-- single
+[13:37:15] [Client thread/INFO]: [CHAT] julias16: ~TPA TO Caster122 FOR MURDER MYSTERY RP!~LOTS OF FUN!~caps saver caps saver~
+[13:37:17] [Client thread/INFO]: [CHAT] lavarain515: tpa for adoption center needs people badly adpoters and people that want to be adopted! (caps)
+[13:37:17] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection) 2 boys and 2 girls needed.
+[13:37:23] [Client thread/INFO]: [CHAT] mckriscool: i want jake
+[13:37:25] [Client thread/INFO]: [CHAT] Ilovepandf: So..We all like CreepyPasta..?
+[13:37:30] [Client thread/INFO]: [CHAT] ElectroMiner125: This is my friends hotel
+[13:37:31] [Client thread/INFO]: [CHAT] Jboy779: i can explain
+[13:37:33] [Client thread/INFO]: [CHAT] Ilovepandf: AWESOME
+[13:37:36] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection) 2 boys and 1 girl needed.
+[13:37:38] [Client thread/INFO]: [CHAT] ElectroMiner125: Ok
+[13:37:52] [Client thread/INFO]: [CHAT] ElectroMiner125: kk
+[13:38:00] [Client thread/INFO]: [CHAT] CaitiLexi: Here me roar! rawr.
+[13:38:02] [Client thread/INFO]: [CHAT] gooch378: daddy my bed
+[13:38:02] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: meh fav sawng own
+[13:38:03] [Client thread/INFO]: [CHAT] Ilovepandf: It's okey .3.
+[13:38:03] [Client thread/INFO]: [CHAT] [Premium] R3dCoco: TPA TO BE IN A HOUSE RP ON;Y NEED A mOM DAD and BROTHER!!(haiduandai)?
+[13:38:12] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection) 1 boy and 1 girl needed.
+[13:38:15] [Client thread/INFO]: [CHAT] CaitiLexi: yeah!
+[13:38:17] [Client thread/INFO]: [CHAT] gooch378: uh
+[13:38:19] [Client thread/INFO]: [CHAT] Ilovepandf: Can I make the Starter area .3.?!
+[13:38:24] [Client thread/INFO]: [CHAT] ElectroMiner125: ?
+[13:38:26] [Client thread/INFO]: [CHAT] gooch378: daddy my bed
+[13:38:32] [Client thread/INFO]: [CHAT] Ilovepandf: :D
+[13:38:32] [Client thread/INFO]: [CHAT] ElectroMiner125: Ok
+[13:38:34] [Client thread/INFO]: [CHAT] Jboy779: already taken by ElectroMiner125
+[13:38:36] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: BOORED
+[13:38:38] [Client thread/INFO]: [CHAT] shakey17: <-- single and a guy
+[13:38:38] [Client thread/INFO]: [CHAT] xXIan1821Xx: Anyone have a head shop?
+[13:38:41] [Client thread/INFO]: [CHAT] rubyisawsome8: TPA TO RUBYS ADOPTION CENTER NEED PEOPLE COME COME ____ (caps protection)! Need Adopters!!!!!!!
+[13:38:43] [Client thread/INFO]: [CHAT] ElectroMiner125: *Carries gooch378*
+[13:38:43] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: hey shakey
+[13:38:44] [Client thread/INFO]: [CHAT] AmazingMickey: ill be Json
+[13:38:47] [Client thread/INFO]: [CHAT] fivgak: i dont kno she disconected or something
+[13:38:49] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection) 1 boy and 1 girl needed
+[13:38:54] [Client thread/INFO]: [CHAT] ElectroMiner125: *Carries gooch378* comeon
+[13:38:58] [Client thread/INFO]: [CHAT] AmazingMickey: any skin comps
+[13:39:02] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:39:03] [Client thread/INFO]: [CHAT] ElectroMiner125: Perfect
+[13:39:03] [Client thread/INFO]: [CHAT] Jboy779: oh
+[13:39:07] [Client thread/INFO]: [CHAT] GirlGamer223: tpa for an epic singles date with me!
+[13:39:08] [Client thread/INFO]: [CHAT] [Premium] MINECRAFTORZ123: WTF
+[13:39:11] [Client thread/INFO]: [CHAT] julias16: ~TPA TO Caster122 FOR MURDER MYSTERY RP!~LOTS OF FUN!~caps saver caps saver~NEED 1 BOY AND 1 GIRL!
+[13:39:12] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: XD xElliebeth looks like your over run by people
+[13:39:12] [Client thread/INFO]: [CHAT] Jboy779: then lets go
+[13:39:13] [Client thread/INFO]: [CHAT] [Premium] MINECRAFTORZ123: why cant i go in my own plot
+[13:39:17] [Client thread/INFO]: [CHAT] xElliebeth: Yeah XD
+[13:39:20] [Client thread/INFO]: [CHAT] [Premium] MINECRAFTORZ123: better
+[13:39:22] [Client thread/INFO]: [CHAT] ElectroMiner125: Go to sleep
+[13:39:23] [Client thread/INFO]: [CHAT] Ilovepandf: Should we make it bigger?
+[13:39:24] [Client thread/INFO]: [CHAT] gooch378: This my room?
+[13:39:27] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: TPA to me for a SKIN COMP!!! <---L()()K PLEASE
+[13:39:40] [Client thread/INFO]: [CHAT] Caster122: TPA TO ME FOR A MURDER MYSTERY CAMP RP (caps protection) 1 girl needed
+[13:39:42] [Client thread/INFO]: [CHAT] x_StarKiss_x: Should I be Mom?
+[13:39:48] [Client thread/INFO]: [CHAT] GirlGamer223: dumbblonde?
+[13:39:52] [Client thread/INFO]: [CHAT] gooch378: not my room I cant live here
+[13:40:06] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: This is a really cool headshop first I've seen thats not just a marble box
+[13:40:08] [Client thread/INFO]: [CHAT] ElectroMiner125: Fine
+[13:40:11] [Client thread/INFO]: [CHAT] Caster122: <Kevin>
+[13:40:15] [Client thread/INFO]: [CHAT] GirlGamer223: can you arrange a singles date for me with Logan?
+[13:40:16] [Client thread/INFO]: [CHAT] ElectroMiner125: Lets get you a new home
+[13:40:16] [Client thread/INFO]: [CHAT] GravityFreaks: i agree
+[13:40:20] [Client thread/INFO]: [CHAT] Hudson813: ikr
+[13:40:21] [Client thread/INFO]: [CHAT] Jboy779: electro can i have a cage somewhere
+[13:40:24] [Client thread/INFO]: [CHAT] J0EYS: Hey
+[13:40:34] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: TPA to me for a SKIN COMP!!! <---L()()K PLEASE!
+[13:40:36] [Client thread/INFO]: [CHAT] Niw16: hi
+[13:40:37] [Client thread/INFO]: [CHAT] ElectroMiner125: Lets get you a new home -.-
+[13:40:38] [Client thread/INFO]: [CHAT] Ilovepandf: It's only 9:00 where I am..
+[13:40:42] [Client thread/INFO]: [CHAT] Hudson813: xElliebeth take my order!
+[13:40:49] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: TPA to me for a SKIN COMP!!! <---L()()K PLEASE
+[13:40:51] [Client thread/INFO]: [CHAT] xElliebeth: wait
+[13:40:52] [Client thread/INFO]: [CHAT] J0EYS: Hey!
+[13:40:59] [Client thread/INFO]: [CHAT] ElectroMiner125: Perfect InsecetGirl's Home!
+[13:41:00] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Hey clam down theres a ton of people patience
+[13:41:02] [Client thread/INFO]: [CHAT] GirlGamer223: Nvm
+[13:41:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:41:03] [Client thread/INFO]: [CHAT] xElliebeth: I'll break my back in a few minutes these days e_e
+[13:41:04] [Client thread/INFO]: [CHAT] GravityFreaks: be pateint she has like 10 ppl waiting
+[13:41:14] [Client thread/INFO]: [CHAT] gooch378: Hey this isnt are house
+[13:41:15] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here!!!!
+[13:41:19] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: TPA to me for a SKIN COMP!!! <---L()()K PLEASE!
+[13:41:21] [Client thread/INFO]: [CHAT] ElectroMiner125: There
+[13:41:25] [Client thread/INFO]: [CHAT] gooch378: uhhhhhhhh
+[13:41:26] [Client thread/INFO]: [CHAT] GirlGamer223: i g2g brb
+[13:41:36] [Client thread/INFO]: [CHAT] gooch378: me to
+[13:41:49] [Client thread/INFO]: [CHAT] [Donator] Gamer_Dude_007: Hey Everybody
+[13:41:51] [Client thread/INFO]: [CHAT] ElectroMiner125: Oooooooooooooooooooook
+[13:41:52] [Client thread/INFO]: [CHAT] roxs8520: yo
+[13:41:53] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: HAI
+[13:41:53] [Client thread/INFO]: [CHAT] MuhEpicFace26: ello
+[13:41:54] [Client thread/INFO]: [CHAT] Snivyguy1: Hi Gamer_Dude_007
+[13:41:57] [Client thread/INFO]: [CHAT] rachet7667: haeoj0ae
+[13:42:02] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Cake is awesome
+[13:42:05] [Client thread/INFO]: [CHAT] gooch378: Lets go
+[13:42:08] [Client thread/INFO]: [CHAT] Snivyguy1: True dat
+[13:42:10] [Client thread/INFO]: [CHAT] Emaan01_1500: hey gamer
+[13:42:13] [Client thread/INFO]: [CHAT] MuhEpicFace26: duh
+[13:42:13] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: tpa if u wanna be friends :D
+[13:42:15] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: tpa if u wanna be friends :D!
+[13:42:17] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Cakeeeeee
+[13:42:18] [Client thread/INFO]: [CHAT] ElectroMiner125: Thats it you live in my house
+[13:42:21] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: TPA to me for a SKIN COMP!!! <---L()()K PLEASE
+[13:42:23] [Client thread/INFO]: [CHAT] Snivyguy1: Cakeeeeeeee:D
+[13:42:26] [Client thread/INFO]: [CHAT] ElectroMiner125: Follow me
+[13:42:32] [Client thread/INFO]: [CHAT] gooch378: uhhhhh we cant!
+[13:42:44] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: friend ship
+[13:42:44] [Client thread/INFO]: [CHAT] gooch378: oh no!
+[13:42:51] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: TPA to me for a SKIN COMP!!! <---L()()K PLEASE Need 2 PEOPLE
+[13:42:53] [Client thread/INFO]: [CHAT] Garin10: TPA 4 EPIC T OR D!!(caps protection)
+[13:42:53] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Everyone just stop what the fluff your doing and just stuff your face with cake
+[13:42:58] [Client thread/INFO]: [CHAT] chirs3305: any rps
+[13:42:58] [Client thread/INFO]: [CHAT] gloomkittytob: who watches Smosh????
+[13:43:01] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: I do
+[13:43:01] [Client thread/INFO]: [CHAT] gooch378: daddy!
+[13:43:02] [Client thread/INFO]: [CHAT] GravityFreaks: i do
+[13:43:03] [Client thread/INFO]: [CHAT] materman836: me
+[13:43:04] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:43:06] [Client thread/INFO]: [CHAT] Emaan01_1500: i do
+[13:43:08] [Client thread/INFO]: [CHAT] WildWilliam7: meh
+[13:43:09] [Client thread/INFO]: [CHAT] horses_12: ~~~>tpa for a awesome rp with powers and a camp<~~~<---look now rp here need @ boys
+[13:43:10] [Client thread/INFO]: [CHAT] [Donator] solarfx: me sometimes
+[13:43:18] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here NEED 2 boys
+[13:43:20] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: TPA to me for a SKIN COMP!!! <---L()()K PLEASE Need 1 PERSON
+[13:43:24] [Client thread/INFO]: [CHAT] Garin10: TPA 4 EPIC T OR D!!(caps protection)<---
+[13:43:34] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: TPA to me for a SKIN COMP!!! <---L()()K PLEASE Need 1 PERSON!
+[13:43:37] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: pa garin
+[13:43:41] [Client thread/INFO]: [CHAT] gamingbananababy: Im so bored _-_
+[13:43:47] [Client thread/INFO]: [CHAT] blockmaster956: im catbug
+[13:43:48] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: gamingbananababy
+[13:43:53] [Client thread/INFO]: [CHAT] PuppyLoverGirl56: K guys! Do /all and we'll start
+[13:43:53] [Client thread/INFO]: [CHAT] gloomkittytob: catbug
+[13:43:56] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: if your bored go do somethin
+[13:43:59] [Client thread/INFO]: [CHAT] [Donator] solarfx: s
+[13:44:05] [Client thread/INFO]: [CHAT] materman836: --->_xXTPA FOR HORSES EPIC POWERS RP NEED BOYS TPA(caps protection)Xx_<---
+[13:44:05] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here NEED 2 boys!
+[13:44:14] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: who wants to start a gang
+[13:44:17] [Client thread/INFO]: [CHAT] Hudson813: me
+[13:44:19] [Client thread/INFO]: [CHAT] materman836: T
+[13:44:20] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: xD
+[13:44:28] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: you could of just asked xD
+[13:44:32] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: wanna start a gang
+[13:44:42] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here NEED 2 boys!!
+[13:44:42] [Client thread/INFO]: [CHAT] [Donator] solarfx: sure
+[13:44:45] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: what about u
+[13:44:51] [Client thread/INFO]: [CHAT] Emaan01_1500: Guys, I heard ItsHarry banned strip clubs. :(
+[13:44:54] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:44:57] [Client thread/INFO]: [CHAT] Garin10: TPA 4 EPIC T OE D!! (caps protection) LOOK <---
+[13:44:59] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <<-->>Tpa To Meh For T OR D Need Peeeeeeeeeps<<-->>
+[13:45:02] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: lets build are base
+[13:45:11] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <<-->>Tpa To Meh For T OR D Need Peeps<<-->>
+[13:45:13] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: stand still
+[13:45:15] [Client thread/INFO]: [CHAT] horses_12: ~~~>TPA FOR A AWESOME RP WITH POWERS AND A CAMP<~~~<---look now rp here NEED 1 boy
+[13:45:22] [Client thread/INFO]: [CHAT] Hudson813: Xx_TheWolf_x
+[13:45:27] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <-->Tpa To Meh For T OR D Need Peeps<-->
+[13:45:34] [Client thread/INFO]: [CHAT] Hudson813: xElliebeth ur heads are steves
+[13:45:36] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<->
+[13:45:36] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: Thank You Elliebeth
+[13:45:39] [Client thread/INFO]: [CHAT] Garin10: TPA 4 EPIC T OE D!! (caps protection) LOOK <--
+[13:45:41] [Client thread/INFO]: [CHAT] xElliebeth: Ur lagging .-.
+[13:45:44] [Client thread/INFO]: [CHAT] GravityFreaks: no they arnt
+[13:45:44] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: ur both added
+[13:45:45] [Client thread/INFO]: [CHAT] damanda04: tpa to be my kid
+[13:45:51] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-> <<----ReadMehhhhh
+[13:45:57] [Client thread/INFO]: [CHAT] gooch378: toed
+[13:45:57] [Client thread/INFO]: [CHAT] Garin10: TPA 4 EPIC T OE D!! (caps protection) LOOK <----
+[13:46:00] [Client thread/INFO]: [CHAT] damanda04: zzzzzzzzzzzzzzzzzzzz
+[13:46:01] [Client thread/INFO]: [CHAT] Ilovepandf: Can I make teh Creepy Pasta signs?! PWEESE?!
+[13:46:04] [Client thread/INFO]: [CHAT] GravityFreaks: poor EllieDX
+[13:46:04] [Client thread/INFO]: [CHAT] fivgak: gtg
+[13:46:05] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<<<----ReadMehhhhh
+[13:46:12] [Client thread/INFO]: [CHAT] materman836: TPA FOR HORSES RP NEED 1 BOY TPA (caps prot)
+[13:46:20] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: could u 2 build it
+[13:46:20] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMehhhhh
+[13:46:20] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: i have no ideas
+[13:46:25] [Client thread/INFO]: [CHAT] horses_12: okay lets start!!!!
+[13:46:34] [Client thread/INFO]: [CHAT] materman836: y6ay!
+[13:46:35] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: who wants to join the gang
+[13:46:40] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-> <---ReadMehhhhh
+[13:46:42] [Client thread/INFO]: [CHAT] chirs3305: [cody]
+[13:46:45] [Client thread/INFO]: [CHAT] lion70449: TPA TO HALP MEH BUILD A HOSPITAL (caps 4 da noobs)
+[13:46:47] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:46:48] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: tpa if u wanna join are gang
+[13:46:53] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: what ever u want
+[13:46:54] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: zOrk135
+[13:46:56] [Client thread/INFO]: [CHAT] damanda04: night time Walter is new born brother
+[13:46:58] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: yes
+[13:47:01] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: dont steal meh ideas =P
+[13:47:10] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: im not
+[13:47:10] [Client thread/INFO]: [CHAT] gloomkittytob: i have
+[13:47:11] [Client thread/INFO]: [CHAT] blockmaster956: Im Gonna Need A Bath!! YEAH! Some Yogurt!! YEAH!!! AND A PLACE TO Go.. DUTY!!!! (catbug hates caps)
+[13:47:15] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: I have meh own gang =P
+[13:47:16] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: im starting my own gang
+[13:47:17] [Client thread/INFO]: [CHAT] damanda04: do /all
+[13:47:19] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: =P
+[13:47:26] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: ho have god items
+[13:47:28] [Client thread/INFO]: [CHAT] Hudson813: hhhh
+[13:47:29] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: who*
+[13:47:31] [Client thread/INFO]: [CHAT] [Donator] Gamer_Dude_007: Im in the gand XD
+[13:47:31] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: F u two nigrey tigrey
+[13:47:37] [Client thread/INFO]: [CHAT] [Donator] Gamer_Dude_007: Im in the gang XD
+[13:47:38] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMehh
+[13:47:39] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: big where a peacful gang who helps others
+[13:47:44] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: XD
+[13:47:47] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: well
+[13:47:59] [Client thread/INFO]: [CHAT] Hudson813: i did
+[13:47:59] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: like from other gangs
+[13:47:59] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: im in a cool gang that are gangstas
+[13:48:02] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: and snowman
+[13:48:04] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: and nachos
+[13:48:11] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: and toxicdiamonds
+[13:48:17] [Client thread/INFO]: [CHAT] Hudson813: wait so chats disabled
+[13:48:18] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: and epicfaces and many more xD
+[13:48:20] [Client thread/INFO]: [CHAT] Snivyguy1: and godzillas?
+[13:48:29] [Client thread/INFO]: [CHAT] Hudson813: zzzzz
+[13:48:30] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: who have god items
+[13:48:31] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMeh
+[13:48:36] [Client thread/INFO]: [CHAT] shakey17: u lier
+[13:48:37] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:48:45] [Client thread/INFO]: [CHAT] Hudson813: me scared
+[13:48:49] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: SHAKEY DO YOU THINK I GIVE a fucking shat that i didnt change meh skin
+[13:48:50] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: who have god items msg me
+[13:48:52] [Client thread/INFO]: [CHAT] gloomkittytob: cool
+[13:48:54] [Client thread/INFO]: [CHAT] mistminer100: tpa to me for a awesome hang out
+[13:48:54] [Client thread/INFO]: [CHAT] Garin10: TPA 4 EPIC T OR D!!(caps protection) LOOL <----
+[13:49:03] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe
+[13:49:05] [Client thread/INFO]: [CHAT] shakey17: but my problem is u fucking lied to me asshole
+[13:49:11] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: tpa for gang we need more people
+[13:49:13] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Well
+[13:49:15] [Client thread/INFO]: [CHAT] Hudson813: 8
+[13:49:16] [Client thread/INFO]: [CHAT] [Donator] Gamer_Dude_007: aye
+[13:49:19] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: i wanted you to get off meh back'
+[13:49:23] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: HEY FAKE!
+[13:49:25] [Client thread/INFO]: [CHAT] EmmaCat15: hey language people
+[13:49:26] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: FFAKE
+[13:49:35] [Client thread/INFO]: [CHAT] Hudson813: me scared
+[13:49:35] [Client thread/INFO]: [CHAT] [Premium] ~DigBuildLive: YO!
+[13:49:36] [Client thread/INFO]: [CHAT] gloomkittytob: ok bye
+[13:49:37] [Client thread/INFO]: [CHAT] [Premium] ~DigBuildLive: My man
+[13:49:38] [Client thread/INFO]: [CHAT] [Premium] ~DigBuildLive: Matt
+[13:49:40] [Client thread/INFO]: [CHAT] [Premium] ~DigBuildLive: sup bro
+[13:49:42] [Client thread/INFO]: [CHAT] slime385: whoah
+[13:49:43] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Im not matt
+[13:49:46] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP 0/6(capsa)
+[13:49:50] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: thats matt(numbershere)
+[13:49:50] [Client thread/INFO]: [CHAT] Hudson813: cause monsters
+[13:49:53] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: D
+[13:50:07] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Im matthew maffew or Melon or watamelonehehehhehe
+[13:50:10] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP 1/6(capsa)
+[13:50:10] [Client thread/INFO]: [CHAT] Hudson813: fine!
+[13:50:18] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls)
+[13:50:18] [Client thread/INFO]: [CHAT] Hudson813: zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[13:50:23] [Client thread/INFO]: [CHAT] Robot972: *cuts a piece out of the back of the melon's head
+[13:50:25] [Client thread/INFO]: [CHAT] Kittyz1234: any T or Ds
+[13:50:28] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: we are the dekers
+[13:50:29] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:50:33] [Client thread/INFO]: [CHAT] Hudson813: me go sleep with brother
+[13:50:34] [Client thread/INFO]: [CHAT] [Donator] solarfx: k cool
+[13:50:34] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls) (have like 1.2 billion boiz)
+[13:50:49] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls) (have like 1.2 billion boy)
+[13:50:51] [Client thread/INFO]: [CHAT] [Donator] Gamer_Dude_007: brb
+[13:50:51] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: u 2 have skype
+[13:50:57] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: :(
+[13:50:59] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP 2/6(capsa)
+[13:51:04] [Client thread/INFO]: [CHAT] blaz03: who has a rp i can join
+[13:51:07] [Client thread/INFO]: [CHAT] [Donator] solarfx: No but I can download right now XD
+[13:51:15] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: guys we need more people
+[13:51:19] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls) (have like 1.2 billion boy) (and 3 g
+[13:51:19] [Client thread/INFO]: [CHAT] roxs8520: tpa god shop/head shop
+[13:51:19] [Client thread/INFO]: [CHAT] [Donator] solarfx: k
+[13:51:20] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: people that can fight
+[13:51:22] [Client thread/INFO]: [CHAT] Soulford: brb
+[13:51:27] [Client thread/INFO]: [CHAT] Ilovepandf: Marl? Do you know what Masky looks like?
+[13:51:27] [Client thread/INFO]: [CHAT] slime385: I'm sooo board, I have finished my Airportr in 1 day
+[13:51:30] [Client thread/INFO]: [CHAT] [Premium] macario77: zork?
+[13:51:30] [Client thread/INFO]: [CHAT] Soulford: mk?
+[13:51:31] [Client thread/INFO]: [CHAT] roxs8520: tpa god shop/head shop!
+[13:51:34] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: yes?
+[13:51:37] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP 2/6(capsa)!
+[13:51:40] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls)
+[13:51:41] [Client thread/INFO]: [CHAT] Rosella10123: msg mist hey
+[13:51:42] [Client thread/INFO]: [CHAT] [Premium] macario77: You've changed
+[13:51:46] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: yep :D
+[13:51:49] [Client thread/INFO]: [CHAT] Hudson813: lets party!
+[13:51:52] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP 1/6(capsa)!
+[13:51:54] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: XD shakeys right i need meh gangsta skin back XD
+[13:51:55] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: its called iv learned my lesson
+[13:51:58] [Client thread/INFO]: [CHAT] blaz03: who has a rp i can join?
+[13:52:12] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls) (Like 2 OR 3)
+[13:52:13] [Client thread/INFO]: [CHAT] blaz03: brb
+[13:52:16] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:52:24] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: mac tpa
+[13:52:28] [Client thread/INFO]: [CHAT] [Premium] macario77: Why
+[13:52:30] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: wanna be in are gang
+[13:52:36] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: we are the dekers
+[13:52:38] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls)
+[13:52:43] [Client thread/INFO]: [CHAT] gloomkittytob: can i be in your gang?
+[13:52:43] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: GUYS
+[13:52:47] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: shure tpa
+[13:52:54] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: I have a 6 pack!!!!! of SODA`1
+[13:52:55] [Client thread/INFO]: [CHAT] Hudson813: lets jump off the roof!
+[13:52:59] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: xD
+[13:53:01] [Client thread/INFO]: [CHAT] Rosella10123: lets start
+[13:53:03] [Client thread/INFO]: [CHAT] [Premium] ~ItzLitte: Hello!
+[13:53:05] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls)!
+[13:53:15] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: where building are base
+[13:53:16] [Client thread/INFO]: [CHAT] Hudson813: ready set go!
+[13:53:19] [Client thread/INFO]: [CHAT] [Donator] solarfx: Im listening do very loud dubstep music, my ears are bleeding right now XD
+[13:53:22] [Client thread/INFO]: [CHAT] gloomkittytob: ok
+[13:53:29] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: Guys
+[13:53:33] [Client thread/INFO]: [CHAT] amathaine: any rps
+[13:53:34] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: gamer
+[13:53:35] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: keep advertsin
+[13:53:35] [Client thread/INFO]: [CHAT] Hudson813: i broke my leg HELP!
+[13:53:36] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: where are u
+[13:53:38] [Client thread/INFO]: [CHAT] buttonslover10: XD, i guess?
+[13:53:40] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls)
+[13:53:43] [Client thread/INFO]: [CHAT] [Legend] Sebas2617: hey ppl
+[13:53:43] [Client thread/INFO]: [CHAT] Soulford: back
+[13:53:43] [Client thread/INFO]: [CHAT] xOleee: hi
+[13:53:48] [Client thread/INFO]: [CHAT] Snivyguy1: Hi Sebas2617
+[13:53:52] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls)!
+[13:54:00] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: <->Tpa To Meh For T OR D Need Peeps<-><<----ReadMe (Need Girls)!!
+[13:54:01] [Client thread/INFO]: [CHAT] Rosella10123: lets just start people are gonna leave
+[13:54:07] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:54:07] [Client thread/INFO]: [CHAT] DaArcher101: Miss me?
+[13:54:14] [Client thread/INFO]: [CHAT] slime385: have u built this dragon?
+[13:54:17] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP 0/6(capsa)
+[13:54:24] [Client thread/INFO]: [CHAT] amathaine: any rps??
+[13:54:26] [Client thread/INFO]: [CHAT] [VIP] BigCoolMatthew: kk enough
+[13:54:53] [Client thread/INFO]: [CHAT] amathaine: Any rps????
+[13:54:53] [Client thread/INFO]: [CHAT] ElectroMiner125: Well i need to build A WHOLE RP
+[13:54:58] [Client thread/INFO]: [CHAT] kirbykitty1: ANY ADOPTION CENTERS? (Caps protection)
+[13:55:05] [Client thread/INFO]: [CHAT] ElectroMiner125: By myself hardcore style
+[13:55:09] [Client thread/INFO]: [CHAT] amathaine: any adoption centers
+[13:55:23] [Client thread/INFO]: [CHAT] roxs8520: tpa god shop/head shop!!!
+[13:55:26] [Client thread/INFO]: [CHAT] amathaine: ANY ADOPTION CENTERS? (caps protection)
+[13:55:28] [Client thread/INFO]: [CHAT] ElectroMiner125: Now its back to being a hardcore builder
+[13:55:40] [Client thread/INFO]: [CHAT] kirbykitty1: ANY ADOPTION CENTERS!? (Caps protection)
+[13:55:45] [Client thread/INFO]: [CHAT] Hudson813: ok
+[13:55:58] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: What
+[13:56:03] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:56:04] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: jqfuscia
+[13:56:06] [Client thread/INFO]: [CHAT] Hudson813: i broke my leg mom
+[13:56:10] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: jqfuscia, Can u tell pj to get on .-.
+[13:56:13] [Client thread/INFO]: [CHAT] [Legend] Sebas2617: hi ale hi megan
+[13:56:13] [Client thread/INFO]: [CHAT] blaz03: who haz a rp i can join
+[13:56:22] [Client thread/INFO]: [CHAT] Ilovepandf: I know Smile's Story.
+[13:56:27] [Client thread/INFO]: [CHAT] Hudson813: neither am i
+[13:56:31] [Client thread/INFO]: [CHAT] Lego_Phsyco: ?
+[13:56:31] [Client thread/INFO]: [CHAT] rapter324: ANY RP!!
+[13:56:39] [Client thread/INFO]: [CHAT] Lego_Phsyco: anyone else have the dalek mod?
+[13:56:40] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: Oh xD
+[13:56:44] [Client thread/INFO]: [CHAT] blaz03: who haz a rp i can join?
+[13:56:46] [Client thread/INFO]: [CHAT] Snivyguy1: I do
+[13:56:47] [Client thread/INFO]: [CHAT] ashes1022: lol
+[13:56:48] [Client thread/INFO]: [CHAT] [Legend] Sebas2617: no thnx
+[13:56:52] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: john
+[13:56:54] [Client thread/INFO]: [CHAT] Hudson813: mom im dieing
+[13:56:54] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: :D
+[13:56:56] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP(capsa) 0/6
+[13:56:57] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: tpa
+[13:56:59] [Client thread/INFO]: [CHAT] amathaine: HellO???
+[13:57:00] [Client thread/INFO]: [CHAT] Ilovepandf: Hoodie is actually a Robot, but we'll act like he's this
+[13:57:03] [Client thread/INFO]: [CHAT] Hudson813: *dies
+[13:57:04] [Client thread/INFO]: [CHAT] blaz03: msg me if u haz a rp
+[13:57:10] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: solar
+[13:57:13] [Client thread/INFO]: [CHAT] rachet7667: I FINGER MY BUTTHOLE EVERY NIGHT WOOOOOO!!!! (caps caps caps caps)
+[13:57:14] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: finish the base
+[13:57:15] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: Oh heyo
+[13:57:15] [Client thread/INFO]: [CHAT] Ilovepandf: I know Smile's Story!
+[13:57:25] [Client thread/INFO]: [CHAT] Hudson813: me dead
+[13:57:28] [Client thread/INFO]: [CHAT] Ilovepandf: Yeah!
+[13:57:28] [Client thread/INFO]: [CHAT] rapter324: ANY RP!
+[13:57:37] [Client thread/INFO]: [CHAT] lion70449: TPA TO HALP MEH BUILD A HOSPITAL (caps 4 da noobs)
+[13:57:41] [Client thread/INFO]: [CHAT] kirbykitty1: k
+[13:57:41] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: where making a gang wanna be in it john
+[13:57:43] [Client thread/INFO]: [CHAT] Zambiekilla99: tpa to me for pixel art u build what u want!
+[13:57:45] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: Yeah
+[13:57:48] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: kk
+[13:57:51] [Client thread/INFO]: [CHAT] Zambiekilla99: tpa to me for pixel art u build what u want!!
+[13:57:55] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[13:57:57] [Client thread/INFO]: [CHAT] blaz03: msg me if u haz a rp!
+[13:57:58] [Client thread/INFO]: [CHAT] Zambiekilla99: tpa to me for pixel art u build what u want!
+[13:57:59] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP(capsa) 1/6
+[13:58:00] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: :D
+[13:58:07] [Client thread/INFO]: [CHAT] Zambiekilla99: tpa to me for pixel art u build what u want!!
+[13:58:07] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: john finish the base
+[13:58:14] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: Why me
+[13:58:16] [Client thread/INFO]: [CHAT] rapter324: MSG ME If There RP!!
+[13:58:16] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: xD
+[13:58:16] [Client thread/INFO]: [CHAT] MuhEpicFace26: im helping
+[13:58:16] [Client thread/INFO]: [CHAT] [Premium] Kookiemontser: Tpa for Parkour~
+[13:58:17] [Client thread/INFO]: [CHAT] [Premium] macario77: Zork
+[13:58:18] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: I suck at buildin lol
+[13:58:20] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: i have no ideas
+[13:58:23] [Client thread/INFO]: [CHAT] xElliebeth: tpa for a epic head shop 150+ heads and 60+ god items leave comments!! (caps pro)
+[13:58:24] [Client thread/INFO]: [CHAT] gloomkittytob: Can i help with the base?
+[13:58:26] [Client thread/INFO]: [CHAT] [Premium] macario77: Remember when you were like "JOIN DIS SERVER!"
+[13:58:28] [Client thread/INFO]: [CHAT] katgirl2468: any clubs ppl
+[13:58:29] [Client thread/INFO]: [CHAT] lion70449: TPA TO HALP MEH BUILD A HOSPITAL (caps 4 da noobs)!!1
+[13:58:31] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: I got bored
+[13:58:33] [Client thread/INFO]: [CHAT] [Premium] Kookiemontser: Tpa for Parkour
+[13:58:34] [Client thread/INFO]: [CHAT] xElliebeth: tpa for a epic head shop 150+ heads and 60+ god items leave comments!! (caps protection)
+[13:58:35] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: D:
+[13:58:35] [Client thread/INFO]: [CHAT] xOleee: ecoian that was my old ksin!
+[13:58:39] [Client thread/INFO]: [CHAT] gloomkittytob: Can i help with the base???/
+[13:58:41] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: mac there is no need to talk about the past
+[13:58:43] [Client thread/INFO]: [CHAT] Hudson813: im dieing on my bed
+[13:58:43] [Client thread/INFO]: [CHAT] xOleee: ecoian that was my old skin
+[13:58:45] [Client thread/INFO]: [CHAT] katgirl2468: any clubs people ANY CLUBS PEOPLE
+[13:58:46] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: zOrk what happend to ur server?
+[13:58:46] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS (caps protection)
+[13:58:48] [Client thread/INFO]: [CHAT] blaz03: msg me if u haz a rp! :3
+[13:58:53] [Client thread/INFO]: [CHAT] [Premium] MINECRAFTORZ123: u said this was a pixel art think
+[13:58:54] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: we cant change it but we can work for a better future
+[13:58:54] [Client thread/INFO]: [CHAT] [Premium] macario77: The past is in the past *throws crown"
+[13:58:55] [Client thread/INFO]: [CHAT] rapter324: MSG ME If There RP!
+[13:58:55] [Client thread/INFO]: [CHAT] Hudson813: *dies*
+[13:58:58] [Client thread/INFO]: [CHAT] [Premium] MINECRAFTORZ123: what is this
+[13:59:10] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[13:59:14] [Client thread/INFO]: [CHAT] gloomkittytob: Can i help with the base???
+[13:59:15] [Client thread/INFO]: [CHAT] [Herobrine] ~ItsEchoMC: gaming
+[13:59:18] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: perfect
+[13:59:21] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: Yuh?
+[13:59:23] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: Heyo eco
+[13:59:23] [Client thread/INFO]: [CHAT] [Herobrine] ~ItsEchoMC: Tpa
+[13:59:25] [Client thread/INFO]: [CHAT] Zambiekilla99: u have to write a book and quill and see what u wanna build
+[13:59:26] [Client thread/INFO]: [CHAT] MuhEpicFace26: idk my keyboard spazzed
+[13:59:28] [Client thread/INFO]: [CHAT] Ilovepandf: Oh, LOL! Srry! XD
+[13:59:34] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: anyone wanna hire a gang member
+[13:59:42] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: to protect u
+[13:59:42] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS (caps protection)
+[13:59:43] [Client thread/INFO]: [CHAT] Hudson813: thx
+[13:59:43] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: Yey
+[13:59:44] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: Okie
+[13:59:45] [Client thread/INFO]: [CHAT] pancakelover001: Hai
+[13:59:50] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: its free
+[13:59:50] [Client thread/INFO]: [CHAT] Emaan01_1500: anyone wanna help make a club
+[13:59:54] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: :D Imma record with a better thing
+[13:59:58] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[13:59:58] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[14:00:02] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: Emaan01_1500
+[14:00:06] [Client thread/INFO]: [CHAT] Hudson813: brother lets DIE!
+[14:00:11] [Client thread/INFO]: [CHAT] Zambiekilla99: what kind of pixel art?
+[14:00:11] [Client thread/INFO]: [CHAT] pancakelover001: Hi guys :)
+[14:00:15] [Client thread/INFO]: [CHAT] Emaan01_1500: what is it
+[14:00:17] [Client thread/INFO]: [CHAT] Ilovepandf: Hey, Karategirl?
+[14:00:19] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: u need one of my gang members to protect wile u build
+[14:00:30] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS (caps protection)
+[14:00:30] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: where are u solar
+[14:00:32] [Client thread/INFO]: [CHAT] Ilovepandf: Can i write the Story for the RP?
+[14:00:33] [Client thread/INFO]: [CHAT] [Donator] solarfx: here
+[14:00:38] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: kk john
+[14:00:40] [Client thread/INFO]: [CHAT] Ilovepandf: :D
+[14:00:41] [Client thread/INFO]: [CHAT] pancakelover001: .;,,;.
+[14:00:43] [Client thread/INFO]: [CHAT] Lego_Phsyco: i have the dalek mod
+[14:00:51] [Client thread/INFO]: [CHAT] Emaan01_1500: I'm okay.
+[14:00:58] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: xD
+[14:00:58] [Client thread/INFO]: [CHAT] Hudson813: bye every1
+[14:00:59] [Client thread/INFO]: [CHAT] [Premium] macario77: Zork should make a forums account
+[14:01:06] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[14:01:10] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: xD
+[14:01:12] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: why so i can report myself
+[14:01:20] [Client thread/INFO]: [CHAT] [VIP] CrazyGecko01: lag
+[14:01:27] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: wecome
+[14:01:29] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS (caps protection)
+[14:01:30] [Client thread/INFO]: [CHAT] Hudson813: im dieing with my brother XD (no really)
+[14:01:32] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: wanna join the gang
+[14:01:37] [Client thread/INFO]: [CHAT] wisconsinred1: yeah
+[14:01:44] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: welcome
+[14:01:44] [Client thread/INFO]: [CHAT] DoG_BuNz: Dark let me in
+[14:01:46] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: ??????????
+[14:01:48] [Client thread/INFO]: [CHAT] TheDiamondBoats has requested to teleport to you.
+[14:01:48] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[14:01:48] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[14:01:48] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[14:01:50] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: gloom
+[14:01:50] [Client thread/INFO]: [CHAT] Zambiekilla99: ok build mario up there wherever u want
+[14:01:51] [Client thread/INFO]: [CHAT] _Darksyde_: ...
+[14:01:53] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[14:01:53] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: WTF?
+[14:01:54] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: come here
+[14:01:55] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[14:01:58] [Client thread/INFO]: [CHAT] gloomkittytob: yeah
+[14:02:00] [Client thread/INFO]: [CHAT] katiebug333: TPA FOR SKIN COMP(capsa) 1/6!
+[14:02:02] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS (caps protection)
+[14:02:03] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[14:02:08] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: can u armore up and gaurd down there please
+[14:02:11] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[14:02:12] [Client thread/INFO]: [CHAT] Snivyguy1: Tpa for some pretty messed up stuff o-o
+[14:02:12] [Client thread/INFO]: [CHAT] _Darksyde_: (sighs)
+[14:02:16] [Client thread/INFO]: [CHAT] MuhEpicFace26: i have to go eater
+[14:02:17] [Client thread/INFO]: [CHAT] Hudson813: me too
+[14:02:17] [Client thread/INFO]: [CHAT] Buster312003: grhbrhhgfuirehsueirtugtrdhui srhdcuhkivcffrdhrenjuglhfgtghruigfherufdewfhuyrefjhuwfhe
+[14:02:18] [Client thread/INFO]: [CHAT] wisconsinred1: brb zork
+[14:02:19] [Client thread/INFO]: [CHAT] Lego_Phsyco: what?
+[14:02:24] [Client thread/INFO]: [CHAT] MuhEpicFace26: bye
+[14:02:32] [Client thread/INFO]: [CHAT] Snivyguy1: Tpa to me for some pretty messed up stuff o-o
+[14:02:39] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS (caps protection)
+[14:02:41] [Client thread/INFO]: [CHAT] Quantum162: idiwjdiwj
+[14:02:42] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: welcome creeper
+[14:02:44] [Client thread/INFO]: [CHAT] Airbutts: Any rps?
+[14:02:56] [Client thread/INFO]: [CHAT] Zambiekilla99: tpa to me for pixel art u build what u want!
+[14:02:57] [Client thread/INFO]: [CHAT] [Herobrine] zOrk135: u wanna be apart of this gang
+[14:02:57] [Client thread/INFO]: [CHAT] ashes1022: no it looks tall enough
+[14:02:59] [Client thread/INFO]: [CHAT] Lego_Phsyco: lol
+[14:03:05] [Client thread/INFO]: [CHAT] xElliebeth: TPA FOR A EPIC HEAD SHOP 150+ HEADS AND 60+ GOD ITEMS! (caps protection)
+[14:03:05] [Client thread/INFO]: [CHAT] pancakelover001: XD lol
+[14:03:08] [Client thread/INFO]: [CHAT] [Herobrine] StrongJohn1000: afk
+[14:03:10] [Client thread/INFO]: [CHAT] katgirl2468: what the heck XD
+[14:03:10] [Client thread/INFO]: [CHAT] [Premium] macario77: I'm building this mansion
+[14:03:10] [Client thread/INFO]: [CHAT] WalterGriff: charge
+[14:03:13] [Client thread/INFO]: [CHAT] ashes1022: okay
+[14:03:19] [Client thread/INFO]: [CHAT] gloomkittytob: zork can you add me
+[14:03:32] [Client thread/INFO]: [CHAT] Lego_Phsyco: its installed and im running it on this server and im wearing a bowtie and a fez
+[14:03:41] [Client thread/INFO]: [CHAT] gloomkittytob: thx
+[14:03:50] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: -facepalm_
+[14:03:52] [Client thread/INFO]: [CHAT] [Premium] ~ItzGaming12302: -facepalm-
+[14:04:00] [Client thread/INFO]: [CHAT] _Darksyde_: hi hefty
+[14:04:02] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[14:04:03] [Client thread/INFO]: [CHAT] Hudson813: do not kiss me
+[14:04:13] [Client thread/INFO]: [CHAT] You have disabled all-chat.
+[14:06:00] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[14:08:16] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[14:10:33] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[14:12:46] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[14:14:54] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[14:17:01] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store

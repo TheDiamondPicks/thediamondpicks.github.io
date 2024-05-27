@@ -1,0 +1,247 @@
+[16:54:45] [Client thread/INFO]: Connecting to buildit.itsjerryandharry.com, 25565
+[16:54:56] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:54:56] [Client thread/INFO]: [CHAT] Welcome to ItsJerryAndHarry's server, TheDiamondPicks
+[16:54:56] [Client thread/INFO]: [CHAT] Check out our website! http://www.itsjerryandharry.com
+[16:54:56] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:55:16] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:55:16] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:55:16] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:55:20] [Client thread/INFO]: [CHAT] [Legend] GummyBean: nuuu
+[16:55:22] [Client thread/INFO]: [CHAT] [Legend] GummyBean: ;-;
+[16:55:24] [Client thread/INFO]: [CHAT] [Hero] anratork59: GUMMEH
+[16:55:28] [Client thread/INFO]: [CHAT] Warning: Proximity chat is enabled on this server.
+[16:55:28] [Client thread/INFO]: [CHAT] Warning: Players within 100 blocks will see your messages.
+[16:55:28] [Client thread/INFO]: [CHAT] Warning: Type /all to enable all-chat.
+[16:55:37] [Client thread/INFO]: [CHAT] You have enabled all-chat.
+[16:55:44] [Client thread/INFO]: [CHAT] PeaceLover888: omfg pokemonzz
+[16:55:44] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa meh for epic sex club - d&t - sex rooms - fun!!!!!!!!
+[16:55:44] [Client thread/INFO]: [CHAT] squirrel223: brb
+[16:55:49] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:55:51] [Client thread/INFO]: [CHAT] GirlGamer223: butter we are meant to be fangirls
+[16:55:54] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa meh for epic sex club - d&t - sex rooms - fun!
+[16:55:59] [Client thread/INFO]: [CHAT] ZonicZ: what?
+[16:56:01] [Client thread/INFO]: [CHAT] GirlGamer223: RUE'D
+[16:56:05] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa me for epic sex club - d&t - sex rooms - fun!
+[16:56:06] [Client thread/INFO]: [CHAT] nabster02: Tpa For Epic CLUB!!!!!! Chat rooms dance floor! get married,S3x,POOL!!!! have lots of fun!!
+[16:56:12] [Client thread/INFO]: [CHAT] ZonicZ: ;D
+[16:56:17] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa me for epic sex club - d&t - sex rooms - fun!!
+[16:56:21] [Client thread/INFO]: [CHAT] GirlGamer223: guise the more u promote, the sooner we can start!
+[16:56:24] [Client thread/INFO]: [CHAT] ZonicZ: i think hes going
+[16:56:34] [Client thread/INFO]: [CHAT] ZonicZ: ;P
+[16:56:40] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa me for epic sex club - d&t - sex rooms - fun!!!!
+[16:56:41] [Client thread/INFO]: [CHAT] ZonicZ: no
+[16:56:48] [Client thread/INFO]: [CHAT] GirlGamer223: who u wanna be mau5
+[16:56:49] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:56:52] [Client thread/INFO]: [CHAT] ZonicZ: hes there
+[16:56:56] [Client thread/INFO]: [CHAT] PeaceLover888: TPA FOR Pokeom RP!!!
+[16:57:11] [Client thread/INFO]: [CHAT] ZonicZ: ummm i never said i hated u
+[16:57:11] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa me for epic sex club - d&t - sex rooms - fun!!!!!
+[16:57:11] [Client thread/INFO]: [CHAT] L3Dev: =)
+[16:57:15] [Client thread/INFO]: [CHAT] PeaceLover888: TPA FOR Pokeom RP!!
+[16:57:20] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa me for epic sex club - d&t - sex rooms - fun!
+[16:57:23] [Client thread/INFO]: [CHAT] PeaceLover888: TPA FOR Pokeom RP!!!
+[16:57:26] [Client thread/INFO]: [CHAT] ZonicZ: i dont
+[16:57:27] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop 100+ heads, invisable maze and diy fireworks!!!!! [come now]
+[16:57:29] [Client thread/INFO]: [CHAT] GirlGamer223: mua5 who u wanna BE?!
+[16:57:33] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:33] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:34] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:34] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:35] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:36] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:36] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:36] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:37] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:37] [Client thread/INFO]: [CHAT] ZonicZ: ;l
+[16:57:37] [Client thread/INFO]: [CHAT] PeaceLover888: TPA FOR Pokemon Rp!!!
+[16:57:40] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:41] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:41] [Client thread/INFO]: [CHAT] jcteasley has requested to teleport to you.
+[16:57:41] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:57:41] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:57:41] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:57:41] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:42] [Client thread/INFO]: [CHAT] You cannot build here.
+[16:57:42] [Client thread/INFO]: [CHAT] cookiixoxo has requested to teleport to you.
+[16:57:42] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:57:42] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:57:42] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:57:46] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:57:47] [Client thread/INFO]: [CHAT] GirlGamer223: RUE'D
+[16:57:50] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:57:51] [Client thread/INFO]: [CHAT] PeaceLover888: TPA FOR Pokemon Rp!!!!
+[16:57:51] [Client thread/INFO]: [CHAT] jcteasley has requested to teleport to you.
+[16:57:51] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:57:51] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:57:51] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:57:56] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:58:21] [Client thread/INFO]: [CHAT] fireredwarrior has requested to teleport to you.
+[16:58:21] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:58:21] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:58:21] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:58:22] [Client thread/INFO]: [CHAT] TabbyTwinkle has requested to teleport to you.
+[16:58:22] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:58:22] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:58:22] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:58:26] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:58:35] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa me for epic sex club - d&t - sex rooms - fun!!!
+[16:58:37] [Client thread/INFO]: [CHAT] [fireredwarrior -> me] you on?
+[16:58:42] [Client thread/INFO]: [CHAT] fireredwarrior has requested to teleport to you.
+[16:58:42] [Client thread/INFO]: [CHAT] To teleport, type /tpaccept.
+[16:58:42] [Client thread/INFO]: [CHAT] To deny this request, type /tpdeny.
+[16:58:42] [Client thread/INFO]: [CHAT] This request will timeout after 120 seconds.
+[16:58:42] [Client thread/INFO]: [CHAT] nabster02: Tpa For Epic CLUB!!!!!! Chat rooms dance floor! get married,S3x,POOL!!!! have lots of fun!!!
+[16:58:49] [Client thread/INFO]: [CHAT] Teleport request accepted.
+[16:58:50] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa me for epic sex club - d&t - sex rooms - fun!!!!
+[16:58:51] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[16:58:55] [Client thread/INFO]: [CHAT] PeaceLover888: TPA FOR Pokemon Rp!!!
+[16:58:57] [Client thread/INFO]: [CHAT] Aclover44, Alanbitlz, alexrodrguez1, AshleyyCarterr, aust101, Avreyy
+[16:59:02] [Client thread/INFO]: [CHAT] eblego30: Any truth or dare?
+[16:59:03] [Client thread/INFO]: [CHAT] xXMciliyaXx: l()()k -> tpa me for epic sex club - d&t - sex rooms - fun!!
+[16:59:13] [Client thread/INFO]: [CHAT] xXMciliyaXx: me
+[16:59:27] [Client thread/INFO]: [CHAT] Skylercoolcat: if someone's not here do they still get to keep their role?
+[16:59:27] [Client thread/INFO]: [CHAT] [fireredwarrior -> me] how did you get your head
+[16:59:33] [Client thread/INFO]: [CHAT] mdb7: no
+[16:59:38] [Client thread/INFO]: [CHAT] Skylercoolcat: k
+[16:59:41] [Client thread/INFO]: [CHAT] GirlGamer223: we g2g.. Pixel handle em
+[16:59:42] [Client thread/INFO]: [CHAT] PeaceLover888: TPA 4 SuperCaliFragilisticExpialiDOCIOUS Pokemon RP!!!
+[16:59:51] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[16:59:57] [Client thread/INFO]: [CHAT] ZonicZ: ???
+[16:59:58] [Client thread/INFO]: [CHAT] PeaceLover888: TPA 4 SuperCaliFragilisticExpialiDOCIOUS Pokemon RP!!!!!
+[16:59:58] [Client thread/INFO]: [CHAT] TheDiamondPicks: tpa for epic head shop 100+ heads, invisable maze and diy fireworks!!! come now
+[17:00:00] [Client thread/INFO]: [CHAT] ponylover5645: Yeah
+[17:00:02] [Client thread/INFO]: [CHAT] GirlGamer223: that awesome. put it in a chest ok? BYE!
+[17:00:04] [Client thread/INFO]: [CHAT] ZonicZ: ok?
+[17:00:07] [Client thread/INFO]: [CHAT] firecracker0915, fireredwarrior
+[17:00:08] [Client thread/INFO]: [CHAT] firecracker0915, fireredwarrior
+[17:00:15] [Client thread/INFO]: [CHAT] ZonicZ: ;{
+[17:00:17] [Client thread/INFO]: [CHAT] GirlGamer223: handle the people. Later we'll be back
+[17:00:17] [Client thread/INFO]: [CHAT] [me -> fireredwarrior] got a prenium to do it
+[17:00:20] [Client thread/INFO]: [CHAT] HundredMenSlayer: chocaholic01?
+[17:00:21] [Client thread/INFO]: [CHAT] ponylover5645: I enjoyed it
+[17:00:23] [Client thread/INFO]: [CHAT] eblego30: D: No umbreon
+[17:00:41] [Client thread/INFO]: [CHAT] nabster02: afk
+[17:00:52] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:00:56] [Client thread/INFO]: [CHAT] ZonicZ: *crys* whene i was litil i was bullied and i try to be as nice as i can im really sensitive
+[17:01:01] [Client thread/INFO]: [CHAT] L3Dev: lolz
+[17:01:15] [Client thread/INFO]: [CHAT] PeaceLover888: TPA 4 SuperCaliFragilisticExpialiDOCIOUS Pokemon RP!!!
+[17:01:25] [Client thread/INFO]: [CHAT] ponylover5645: My Story Is Here.
+[17:01:37] [Client thread/INFO]: [CHAT] ZonicZ: ;{ really whho
+[17:01:41] [Client thread/INFO]: [CHAT] citcatpat123: TPA 4 AWESOME Pokemon RPG!.
+[17:01:41] [Client thread/INFO]: [CHAT] eblego30: so...quiet....
+[17:01:45] [Client thread/INFO]: [CHAT] ponylover5645: I Got It *Takes Out IPad*
+[17:01:49] [Client thread/INFO]: [CHAT] Shaun19004: my life in 1 word: Supercalifragilisticexpalidocious!
+[17:01:52] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:01:55] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: whats RPG
+[17:01:56] [Client thread/INFO]: [CHAT] ZonicZ: me two crafter3201
+[17:01:57] [Client thread/INFO]: [CHAT] Skylercoolcat: tpa for an awesome tribute/demigod rp need more boys!!(swaggy caps :p)
+[17:02:04] [Client thread/INFO]: [CHAT] ponylover5645: thanks
+[17:02:07] [Client thread/INFO]: [CHAT] mau5fan03: my life in one word = apple
+[17:02:11] [Client thread/INFO]: [CHAT] ZonicZ: ive almost did it
+[17:02:14] [Client thread/INFO]: [CHAT] Spencerjb5: oop
+[17:02:15] [Client thread/INFO]: [CHAT] Doctor_N3RD: tanks
+[17:02:15] [Client thread/INFO]: [CHAT] citcatpat123: TPA 4 AWESOME Pokemon RPG!.!
+[17:02:16] [Client thread/INFO]: [CHAT] eblego30: RPG stands for Rocket Propelled Grenade
+[17:02:23] [Client thread/INFO]: [CHAT] Spencerjb5: oops
+[17:02:23] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: ohh
+[17:02:34] [Client thread/INFO]: [CHAT] isaac35861: hello
+[17:02:36] [Client thread/INFO]: [CHAT] eblego30: RPG alseo stands for Role-Playing Game
+[17:02:43] [Client thread/INFO]: [CHAT] citcatpat123: tpa 4 awesome pokemon rpg!.! (looook)
+[17:02:44] [Client thread/INFO]: [CHAT] PeaceLover888: TPA 4 SuperCaliFragilisticExpialiDOCIOUS Pokemon RPG!!!
+[17:02:49] [Client thread/INFO]: [CHAT] ZonicZ: ok lets think happy i like happy better
+[17:02:53] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:02:58] [Client thread/INFO]: [CHAT] mau5fan03: RPG stands for Running the Penis Factory of Green
+[17:03:00] [Client thread/INFO]: [CHAT] ZonicZ: me two
+[17:03:04] [Client thread/INFO]: [CHAT] eblego30: thanks
+[17:03:06] [Client thread/INFO]: [CHAT] PeaceLover888: AHAHAHHAHA
+[17:03:09] [Client thread/INFO]: [CHAT] WildWilliam7: WOW MAU5
+[17:03:09] [Client thread/INFO]: [CHAT] ZonicZ: i do
+[17:03:15] [Client thread/INFO]: [CHAT] citcatpat123: tpa 4 awesome pokemon rpg!.! (looook) (look)
+[17:03:15] [Client thread/INFO]: [CHAT] [Legend] Rosaroddnie9: tpa for headshop
+[17:03:19] [Client thread/INFO]: [CHAT] Shaun19004: RPG stands for Rolling Poop Generator
+[17:03:25] [Client thread/INFO]: [CHAT] mau5fan03: crap i didnt mean to press enter xD
+[17:03:27] [Client thread/INFO]: [CHAT] PeaceLover888: RPG stands for RapingPedobear'sGirlfriend!! HAHAAHAHA
+[17:03:28] [Client thread/INFO]: [CHAT] [Legend] Rosaroddnie9: tpa for headshop!
+[17:03:37] [Client thread/INFO]: [CHAT] Skylercoolcat: i wanted to be annabeth
+[17:03:37] [Client thread/INFO]: [CHAT] [Premium] KailiMilkshake: help@
+[17:03:40] [Client thread/INFO]: [CHAT] ZonicZ: come along if u feel like i room without a roof
+[17:03:42] [Client thread/INFO]: [CHAT] PeaceLover888: hahah xd sorry
+[17:03:46] [Client thread/INFO]: [CHAT] mau5fan03: Pedobear doesn't have a girlfriend.
+[17:03:46] [Client thread/INFO]: [CHAT] iHasMusic: No
+[17:03:50] [Client thread/INFO]: [CHAT] PeaceLover888: idk
+[17:03:53] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:03:55] [Client thread/INFO]: [CHAT] iHasMusic: ok
+[17:03:56] [Client thread/INFO]: [CHAT] Shaun19004: lol
+[17:03:56] [Client thread/INFO]: [CHAT] mau5fan03: He has a lot of them
+[17:03:56] [Client thread/INFO]: [CHAT] eblego30: RPG stands for Rocket Propeled Grenade or Role-Playing Game
+[17:04:05] [Client thread/INFO]: [CHAT] ZonicZ: u do now
+[17:04:12] [Client thread/INFO]: [CHAT] [Premium] ~Jake: Any Rp's?
+[17:04:17] [Client thread/INFO]: [CHAT] [Legend] juliennellamado: no
+[17:04:18] [Client thread/INFO]: [CHAT] PeaceLover888: RPG = RunPenisGiant!
+[17:04:21] [Client thread/INFO]: [CHAT] Skylercoolcat: tpa for an awesome tribute/demigod rp need more boys!!(swaggy caps :p)\
+[17:04:21] [Client thread/INFO]: [CHAT] [Donator] buttergirl04: "Happy Hunger Games! And may the odds be ever in your favor."
+[17:04:23] [Client thread/INFO]: [CHAT] WildWilliam7: rpg stands for raping plinko game
+[17:04:26] [Client thread/INFO]: [CHAT] eblego30: TPA to mdb7 for POKEMON rp
+[17:04:31] [Client thread/INFO]: [CHAT] PeaceLover888: k
+[17:04:32] [Client thread/INFO]: [CHAT] loganmon: msg me if you have a head shop!!!
+[17:04:36] [Client thread/INFO]: [CHAT] Crystal76011: ANY RPS NEED HALP????(i swear i dont greif I SWEAR)
+[17:04:38] [Client thread/INFO]: [CHAT] PeaceLover888: TPA 4 SuperCaliFragilisticExpialiDOCIOUS Pokemon RPG!!!
+[17:04:44] [Client thread/INFO]: [CHAT] ponylover5645: *Changes Into Pony Form*
+[17:04:47] [Client thread/INFO]: [CHAT] Shaun19004: edit world is a program that shoot poop in your face forever in the shape of a dick!
+[17:04:51] [Client thread/INFO]: [CHAT] Nugaot: RPG stands for Raving Parent Group.
+[17:04:54] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:05:01] [Client thread/INFO]: [CHAT] nabster02: xD
+[17:05:03] [Client thread/INFO]: [CHAT] PeaceLover888: TPA 4 SuperCaliFragilisticExpialiDOCIOUS Pokemon RPG!!!!
+[17:05:03] [Client thread/INFO]: [CHAT] Doctor_N3RD: TPA for EPIC T or D <-- hehe d aksjhfabsdfhjsadfb
+[17:05:08] [Client thread/INFO]: [CHAT] mau5fan03: RPG stands for Raving Pieces of Girls
+[17:05:14] [Client thread/INFO]: [CHAT] ZonicZ: crafter3201 think HAPPY
+[17:05:16] [Client thread/INFO]: [CHAT] PeaceLover888: OK SHUT UP
+[17:05:24] [Client thread/INFO]: [CHAT] Shaun19004: edit world is a program that shoot poop in your face forever in the shape of a dick! yay!
+[17:05:24] [Client thread/INFO]: [CHAT] [Herobrine] MCismehthang: minechat wooo
+[17:05:24] [Client thread/INFO]: [CHAT] PeaceLover888: brb mdb7
+[17:05:25] [Client thread/INFO]: [CHAT] mau5fan03: D:
+[17:05:27] [Client thread/INFO]: [CHAT] Doctor_N3RD: TPA for EPIC T or D <-- hehe d MinecraftMac02: Doctor_N3RD is awesome rite? ^
+[17:05:29] [Client thread/INFO]: [CHAT] [Donator] buttergirl04: RPG stands for Retarted Peeta Gale
+[17:05:34] [Client thread/INFO]: [CHAT] Skylercoolcat: well that's diturbing
+[17:05:35] [Client thread/INFO]: [CHAT] [Legend] Rosaroddnie9: heads here
+[17:05:36] [Client thread/INFO]: [CHAT] Doctor_N3RD: TPA for EPIC T or D <-- hehe d MinecraftMac02: Hi
+[17:05:39] [Client thread/INFO]: [CHAT] mau5fan03: TOTALLY!
+[17:05:42] [Client thread/INFO]: [CHAT] iElementalPower: hi
+[17:05:43] [Client thread/INFO]: [CHAT] Doctor_N3RD: TPA for EPIC T or D <-- hehe d lelellelelelelelel
+[17:05:44] [Client thread/INFO]: [CHAT] Skylercoolcat: disturbing*
+[17:05:52] [Client thread/INFO]: [CHAT] Nugaot: Royal Parsnip Gash
+[17:05:52] [Client thread/INFO]: [CHAT] Shaun19004: edit world is a program that shoot poop in your face forever in the shape of a dick! yay! =3
+[17:05:55] [Client thread/INFO]: [CHAT] [+] Get more creative plots! Type /store
+[17:05:55] [Client thread/INFO]: [CHAT] mau5fan03: *disturbing facts
+[17:05:58] [Client thread/INFO]: [CHAT] ZonicZ: crafter think HAPPY
+[17:05:59] [Client thread/INFO]: [CHAT] [Donator] buttergirl04: XD
+[17:06:13] [Client thread/INFO]: [CHAT] WildWilliam7: rpg stands for raping poop genarator
+[17:06:15] [Client thread/INFO]: [CHAT] fireredwarrior: what features do donator get
+[17:06:18] [Client thread/INFO]: [CHAT] orellana66: I like minechat all you do is chat :I
+[17:06:21] [Client thread/INFO]: [CHAT] Tinymunk: Omg wild
+[17:06:23] [Client thread/INFO]: [CHAT] PeaceLover888: back
+[17:06:30] [Client thread/INFO]: [CHAT] Doctor_N3RD: role play game = rpg
+[17:06:30] [Client thread/INFO]: [CHAT] mau5fan03: If Jeff the KIller comes to my house,
+[17:06:30] [Client thread/INFO]: [CHAT] nabster02: Tpa For Epic CLUB!!!!!! Chat rooms dance floor! get married,S3x,POOL!!!! have lots of fun!
+[17:06:39] [Client thread/INFO]: [CHAT] mau5fan03: I'd release the fangirls.
+[17:06:40] [Client thread/INFO]: [CHAT] ZonicZ: see i rember whene we first meet at spawn by herobrines chamber it think
+[17:06:40] [Client thread/INFO]: [CHAT] [VIP] okashii_neko: Any Head shops?
+[17:06:42] [Client thread/INFO]: [CHAT] iHasMusic: it means NO
+[17:06:44] [Client thread/INFO]: [CHAT] nabster02: Tpa For Epic CLUB!!!!!! Chat rooms dance floor! get married,S3x,POOL!!!! have lots of fun!!
+[17:06:51] [Client thread/INFO]: [CHAT] Nugaot: RPG stands for Rabid Pig Geese
+[17:06:52] [Client thread/INFO]: [CHAT] [Donator] buttergirl04: THERE OUT
+[17:06:55] [Client thread/INFO]: [CHAT] [+] Join full creative worlds! Type /store
+[17:06:56] [Client thread/INFO]: [CHAT] [Donator] buttergirl04: Happy Hunger Games! And may the odds be ever in your favor
+[17:06:57] [Client thread/INFO]: [CHAT] ZonicZ: dude
+[17:07:00] [Client thread/INFO]: [CHAT] [Donator] buttergirl04: Happy Hunger Games! And may the odds be ever in your favor!
+[17:07:03] [Client thread/INFO]: [CHAT] fireredwarrior: ??
+[17:07:05] [Client thread/INFO]: [CHAT] Tinymunk: Once a theif broke into my house *jk*
+[17:07:07] [Client thread/INFO]: [CHAT] Shaun19004: 538
+[17:07:10] [Client thread/INFO]: [CHAT] orellana66: someone MSG me
+[17:07:16] [Client thread/INFO]: [CHAT] PeaceLover888: meh
+[17:07:16] [Client thread/INFO]: [CHAT] ZonicZ: are u the one who greifed my plot once
+[17:07:18] [Client thread/INFO]: [CHAT] [Legend] Rosaroddnie9: tpa 4 headshop
+[17:07:27] [Client thread/INFO]: [CHAT] Crystal76011: ANY RPS NEED HALP????(i swear i dont greif I SWEAR)!!!
+[17:07:28] [Client thread/INFO]: [CHAT] TheDiamondPicks: GTG everyone
+[17:07:30] [Client thread/INFO]: [CHAT] Tinymunk: I smacked his face so hard he still needs a blender and a spoon to eat a steak
+[17:07:31] [Client thread/INFO]: [CHAT] WildWilliam7: rpg stands for raping penis genarator
